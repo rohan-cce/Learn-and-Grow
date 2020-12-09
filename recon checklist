@@ -1,0 +1,14 @@
+❌❌ :RECON CHECKLIST:❌❌
+
+1.  Subdomain Enumeration: subfinder-amass-altdns-sublister-assetfinder-findomain
+2.Resolving Subdomains: HTTPX/HTTPROBE
+3. Screenshotting: HTTPX/AQUATONE/EYEWITNESS/GOWITNESS
+4. Port Scan: Nmap/Zenmap/Aquatone/Amass
+5. Directory Bruteforce: FFUF/Dirsearch/Dirbuster
+6. Crawling: waybackurls/gau
+7. Finding endpoints from JS: relative-url-extracter
+8. Manual Recon: Burp Suite
+9. Subdomain Takeovers: subzy/SubOver/subjack
+10.Finding endpoints: Waybackmachine
+11. Finding Exposed files: Google Dorking
+12. To find exposed api keys/secrets/tokens: Github Recon
