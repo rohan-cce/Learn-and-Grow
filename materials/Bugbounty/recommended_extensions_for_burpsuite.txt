@@ -1,0 +1,18 @@
+Recommended extentions for BurpSuite  
+JSON Beautifier 
+Param Miner 
+HTTP Request Smuggler 
+Backslash Powered Scanner 
+Reflected Parameters 
+Software Vulnerability Scanner 
+Java Deserialization Scanner 
+. Net Beautifier 
+Copy As Python-Request 
+Collaborator Everywhere 
+Custom Parameter Handler 
+AuthMatrtx 
+GraphQL Raider 
+Piper 
+JSON Web Token Attacker 
+lnQ1 
+- Introspection GraphQL Scanner 
