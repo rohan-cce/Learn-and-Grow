@@ -14,5 +14,4 @@ AuthMatrtx
 GraphQL Raider 
 Piper 
 JSON Web Token Attacker 
-lnQ1 
-- Introspection GraphQL Scanner 
+lnQ1 - Introspection GraphQL Scanner 
