@@ -5,11 +5,6 @@ Learning Progress Till Now
 <details>
   <summary>-> Dec 9, 2020 - Dec 18, 2020</summary>
 <p>
-
-*** 
->“No one is perfect - that’s why pencils have erasers.”😇
--> Dec 9, 2020 - Dec 18, 2020
-
 ## Day 1 ## 
 - ✔️ Solved 2 questions in Tryhackme Basic Pentesting room
 - ✔️ Solved Daily Challenge Question in Skillrack
