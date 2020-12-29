@@ -155,8 +155,11 @@ Learning Progress Till Now
 >“Winning doesn’t always mean being first. Winning means you’re doing better than you’ve
 done before.”😇
 
+<details>
+  <summary>-> Dec 19, 2020 - Dec 28 , 2020</summary>
+<p>
 
--> Dec 19, 2020 - Dec 28 , 2020
+
 ## Day 11 ## 
 - ✔️ Played cricket for 3 hours(Physical activity)
 - ✔️ Solved 1 question in Tryhackme Basic Pentesting room
@@ -385,3 +388,4 @@ done before.”😇
 - ✔️ [Completed Q 1-13 Exercise Questions in w3 schools](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/d10w3.png)
 [Completed 14% in basic css in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/d10fcc.png)
 ***
+</p></details>
