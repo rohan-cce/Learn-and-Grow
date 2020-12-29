@@ -2,6 +2,10 @@
 
 Learning Progress Till Now
 
+<details>
+  <summary>-> Dec 9, 2020 - Dec 18, 2020</summary>
+<p>
+
 *** 
 >“No one is perfect - that’s why pencils have erasers.”😇
 -> Dec 9, 2020 - Dec 18, 2020
@@ -150,7 +154,7 @@ Learning Progress Till Now
           1 | [Web hosting](https://www.namecheap.com/hosting/what-is-web-hosting-definition/)
           2 | [Web hosting service](https://en.wikipedia.org/wiki/Web_hosting_service)
 ***
-
+</p></details>
 >“Winning doesn’t always mean being first. Winning means you’re doing better than you’ve
 done before.”😇
 
