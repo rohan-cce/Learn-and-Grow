@@ -1,6 +1,8 @@
 # Learn-and-Grow
 
 Learning Progress Till Now
+***
+>“No one is perfect - that’s why pencils have erasers.”😇
 
 <details>
   <summary>-> Dec 9, 2020 - Dec 18, 2020</summary>
