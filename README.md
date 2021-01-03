@@ -478,3 +478,181 @@ done before.”😇
 ***
 </p></details>
 </p></details>
+
+>“When you are enthusiastic about what you do, you feel this positive energy. It’s very simple.”😇
+Paulo Coelho
+Brazilian lyricist
+
+<details>
+  <summary>-> Dec 29, 2020 - Jan 7, 2021</summary>
+<p>
+
+<details>
+<summary>Day 21</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/925a07740a8fb4471f26025a892a49502bd1d401/materials/images/elevate/d11e1.jpeg)
+- ✔️ [Solved a Problem in brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d11b1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/597d22389c7ac35ab57f111ff48f0483a37e7664/materials/images/lumosity/d11ls1.png)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ [Solved Some Chess Puzzles in chess.com](https://github.com/rohan-cce/Learn-and-Grow/blob/cab6015a37a7a2ac001b5e63c42b06e8083d42e9/materials/images/chess.com/d11chs1.png)
+- 🏆 [Completed all tasks given by bestenlist as part of 30 days internship](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/extras/bestenlist.jpg)
+- ✔️ Solved one question in tryhackme
+- ✔️ Understood These Concepts
+    - S.no | Title |
+      ---- | ----- |
+      1 | [CSS Borders](https://www.w3schools.com/css/css_border.asp)
+      2 | [CSS Border Width](https://www.w3schools.com/css/css_border_width.asp)
+      3 | [CSS Border Color](https://www.w3schools.com/css/css_border_color.asp)
+      4 | [CSS Border Sides](https://www.w3schools.com/css/css_border_sides.asp)
+      5 | [CSS Shorthand Border Property](https://www.w3schools.com/css/css_border_shorthand.asp)
+      6 | [CSS Rounded Borders](https://www.w3schools.com/css/css_border_rounded.asp)
+      7 | [CSS Margins](https://www.w3schools.com/css/css_margin.asp)
+      8 | [CSS Margin Collapse](https://www.w3schools.com/css/css_margin_collapse.asp)
+      9 | [CSS Padding](https://www.w3schools.com/css/css_padding.asp)
+      10 | [CSS Height and Width](https://www.w3schools.com/css/css_dimension.asp)
+      11 | [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
+      12 | [CSS Outline](https://www.w3schools.com/css/css_outline.asp)
+      13 | [CSS Outline Width](https://www.w3schools.com/css/css_outline_width.asp)
+      14 | [CSS Outline Color](https://www.w3schools.com/css/css_outline_color.asp)
+      15 | [CSS Outline Shorthand](https://www.w3schools.com/css/css_outline_shorthand.asp)
+      16 | [CSS Outline Offset](https://www.w3schools.com/css/css_outline_offset.asp)
+      17 | [CSS Text](https://www.w3schools.com/css/css_text.asp)
+      18 | [CSS Text Alignment](https://www.w3schools.com/css/css_text_align.asp)
+      19 | [CSS Text Decoration](https://www.w3schools.com/css/css_text_decoration.asp)
+      20 | [CSS Text Transformation](https://www.w3schools.com/css/css_text_transformation.asp)
+      21 | [CSS Text Spacing](https://www.w3schools.com/css/css_text_spacing.asp)
+      22 | [CSS Text Shadow](https://www.w3schools.com/css/css_text_shadow.asp)
+- ✔️ [Completed Q 14-38 CSS Exercise Questions in w3 schools](https://github.com/rohan-cce/Learn-and-Grow/blob/cdf9bd3e6427601d950a648b53eafb49f912f0c3/materials/images/w3/d11w3.png)
+- ✔️ [Completed 17 Questions in basic css in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/b769af49b9b89e30002beeb260602d825c119062/materials/images/freecodecamp/d11fcc.png)
+***
+</p></details>
+
+<details>
+<summary>Day 22</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](materials\images\elevate\d12e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/d12ls1.png)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ [Created an account in hackerrank](https://www.hackerrank.com/rohanjcce1)
+    - ✔️ [Solved First Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/d12h1.png)
+    - ✔️ [Started 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/d12h2.png)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ [Solved Some Chess Puzzles in chess.com](https://github.com/rohan-cce/Learn-and-Grow/blob/92d7308179b1a76d6781c926829a463bfd23fe90/materials/images/chess.com/d12chs1.png)
+- ✔️ [Solved Daily Workout Problem in brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d12b1.png)
+- ✔️ Solved one question in tryhackme
+- ✔️ Understood These Concepts
+    - S.no | Title |
+      ---- | ----- |
+      1 | [CSS Fonts](https://www.w3schools.com/css/css_font.asp)
+      2 | [CSS Web Safe Fonts](https://www.w3schools.com/css/css_font_websafe.asp)
+      3 | [CSS Font Fallbacks](https://www.w3schools.com/css/css_font_fallbacks.asp)
+      4 | [CSS Font Style](https://www.w3schools.com/css/css_font_style.asp)
+      5 | [CSS Font Size](https://www.w3schools.com/css/css_font_size.asp)
+      6 | [CSS Google Fonts](https://www.w3schools.com/css/css_font_google.asp)
+      7 | [CSS Great Font Pairings](https://www.w3schools.com/css/css_font_pairings.asp)
+      8 | [CSS Font Property](https://www.w3schools.com/css/css_font_shorthand.asp)
+      9 | [CSS Icons](https://www.w3schools.com/css/css_icons.asp)
+      10 | [CSS Links](https://www.w3schools.com/css/css_link.asp)
+      11 | [CSS Lists](https://www.w3schools.com/css/css_list.asp)
+      12 | [CSS Tables](https://www.w3schools.com/css/css_table.asp)
+      13 | [CSS Table Size](https://www.w3schools.com/css/css_table_size.asp)
+      14 | [CSS Table Alignment](https://www.w3schools.com/css/css_table_align.asp)
+      15 | [CSS Table Style](https://www.w3schools.com/css/css_table_style.asp)
+      16 | [CSS Responsive Table](https://www.w3schools.com/css/css_table_responsive.asp)
+      17 | [CSS Layout - The display Property](https://www.w3schools.com/css/css_display_visibility.asp)
+      18 | [CSS Layout - width and max-width](https://www.w3schools.com/css/css_max-width.asp)
+- ✔️ [Completed Q 39-61 CSS Exercise Questions in w3 schools](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/d12w3.png)
+***
+</p></details>
+
+<details>
+<summary>Day 23</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/f7b6c6e55c7c13a9e78c9315beba4cd2f786a16e/materials/images/elevate/d13e1.jpeg)
+- 🏆 [Earned An Achievement in Elevate (Accurate Player)](https://github.com/rohan-cce/Learn-and-Grow/blob/f7b6c6e55c7c13a9e78c9315beba4cd2f786a16e/materials/images/elevate/d13e2.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/830b637ac784e9643f914fe016700fbd6cf88e48/materials/images/lumosity/d13ls1.png)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ [Solved Some Chess Puzzles in chess.com](https://github.com/rohan-cce/Learn-and-Grow/blob/1a9359a3b350c7d1f9c217ec901cb4fab4308dce/materials/images/chess.com/d13chs1.png)
+- ✔️ [Completed Day 1 in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/d13h1.png)
+- ✔️ [Tried Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/69b4febdfaaed8cf8163e6011c55033e8dc2967f/materials/images/brilliant.org/d13b1.png)
+- 🌐 [Created Website - For Wishing Happy New Year 2021 Using Html ,CSS ,Js](https://rohan-cce.github.io/2021-new-year-wishes/)
+- ✔️ Solved one question in tryhackme
+***
+</p></details>
+
+<details>
+<summary>Day 24</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/d14e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/d14ls1.png)
+- ✔️ Played Cricket for 2 hours (Physical activity)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d14chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d14chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d14chs3.png)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Brilliant.org
+  - ✔️ [Solved Reverse Engineering Arithmetic Quiz](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d14b1.jpg) 
+  - ✔️ [Solved a Question from Community section](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d14b2.jpg)
+  - ✔️ [Solved Thinking With Graphs Quiz](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d14b3.jpg)
+- ✔️ [Completed Day 2 in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/d14h1.jpg)
+- 📖 [Attempted Random Aptitude Test In indiabix.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/aptitude/d14a1.jpg) 
+- 📝 Blogs Read
+  - 📝 [Account Takeover via login with OTP 🏆](https://surajbhosale10.medium.com/account-takeover-via-login-with-otp-ba4a33fb1b6f)
+- 🐱‍💻 [Completed Tmux Room in Try Hack Me](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/thm/d14t1.jpg)
+***
+</p></details>
+
+<details>
+<summary>Day 25</summary>
+<p>
+
+- ✔️ Elevate
+  - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/d15e2.jpeg)
+  - 🏆 [Earned an Achievement in Elevate (Streak Prodigy)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/d15e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/d15ls1.jpg)
+- ✔️ [Solved a Question from Community section in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d15b1.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d15chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d15chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d15chs3.jpg)
+- ✔️ [Completed Day 3 in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/d15h1.jpg)
+- 📖 [Attempted Random Aptitude Test In indiabix.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/aptitude/d15a1.jpg)
+- 🐱‍💻 Solved 2 Questions in TryHackMe 
+- ✔️ Understood These Concepts
+    - S.no | Title |
+      ---- | ----- |
+      1 | [CSS Layout - The position Property](https://www.w3schools.com/css/css_positioning.asp)
+      2 | [CSS Layout - Overflow](https://www.w3schools.com/css/css_overflow.asp)
+      3 | [CSS Layout - float and clear](https://www.w3schools.com/css/css_float.asp)
+      4 | [CSS Layout - clear and clearfix](https://www.w3schools.com/css/css_float_clear.asp)
+      5 | [CSS Layout - display: inline-block](https://www.w3schools.com/css/css_inline-block.asp)
+      6 | [CSS Layout - Horizontal & Vertical Align](https://www.w3schools.com/css/css_align.asp)
+      7 | [CSS Combinators](https://www.w3schools.com/css/css_combinators.asp)
+- ✔️ [Completed Q 39-61 CSS Exercise Questions in w3 schools](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/d15w1.jpg)
+***
+</p></details>
+
+<details>
+<summary>Day 26</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/d16e1.jpeg)
+- ✔️ [Solved a Question from Community section in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d16b1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/d16ls1.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d16chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d16chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d16chs3.jpg)
+- ✔️ [Completed Day 3 in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/d16h1.jpg)
+- ✔️ [Completed 22 Questions in basic css in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/d16fcc.jpg)
+- 🐱‍💻 Solved 1 Question in TryHackMe 
+***
+</p></details>
+</p></details>
