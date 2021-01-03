@@ -10,7 +10,8 @@ Learning Progress Till Now
 
 <details>
 <summary>Day 1</summary>
-<p> 
+<p>
+ 
 - ✔️ Solved 2 questions in Tryhackme Basic Pentesting room
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Installed And Learned About Burpsuite
