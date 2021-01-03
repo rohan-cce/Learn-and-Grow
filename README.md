@@ -11,7 +11,7 @@ Learning Progress Till Now
 <details>
 <summary>Day 1</summary>
 <p>
- 
+
 - ✔️ Solved 2 questions in Tryhackme Basic Pentesting room
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Installed And Learned About Burpsuite
@@ -26,7 +26,9 @@ Learning Progress Till Now
 - ✔️ Read And Understood (Page Number 16-27) in Data Structures and Algorithm made easy by Narsimha karumanchi
 </p></details>
 
-## Day 2 ##
+<details>
+<summary>Day 2</summary>
+<p>
 - ✔️ Solved 2 questions in Tryhackme Basic Pentesting room
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Played with repeater, intruder in burpsuite
@@ -36,7 +38,8 @@ Learning Progress Till Now
     - [Potential security threats to your computer](https://telegra.ph/Potential-Security-Threats-To-Your-Computer-Systems-11-16)
 - 🚧 Working on Menu Item With Hover Effect
 - ✔️ Read And Understood (Page Number 28-39) in Data Structures and Algorithm made easy by Narsimha karumanchi    
-***
+</p></details>
+
 ## Day 3 ##
 - ✔️ Mades some changes and Updated [To Do List Using Linked Lists](https://github.com/rohan-cce/Data-Structures-in-c/blob/main/todo_list_using_linkedlist.c)
 - ✔️ Solved Daily Challenge Question in Skillrack
