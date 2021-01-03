@@ -58,16 +58,22 @@ Learning Progress Till Now
 - ✔️ Solved Day 11 Advent of Cybersecurity 2 in Tryhackme
 </p></details>
 
-## Day 4 ##
+<details>
+<summary>Day 4</summary>
+<p>
+
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Solved 2 questions in Tryhackme Basic Pentesting room
 - ✔️ Completed Blogs
     - [What is server side request forgery](https://hdivsecurity.com/bornsecure/ssrf-what-is-server-side-request-forgery/)
 - ✔️ Added Redirect dorks in [github](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/Bugbounty/redirect_dorks.txt) and in [github gist](https://gist.github.com/rohan-cce/1b50b9816d5388ce25db7fac4e65936d)
 - ✔️ [Solved Day 12 Advent of Cybersecurity 2 in Tryhackme](https://www.linkedin.com/posts/rohan-j-ba489b19b_tryhackme-adventofcyber2-activity-6743572665405177856-_GeN)
-***
+</p></details>
 
-## Day 5 ##
+<details>
+<summary>Day 5</summary>
+<p>
+
 - ✔️ Played cricket for 3 hours (Physical activity)
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Solved 2 questions in Tryhackme Basic Pentesting room
@@ -75,9 +81,12 @@ Learning Progress Till Now
 - ✔️ Added [SSRF search and Destroy picture in github](https://raw.githubusercontent.com/rohan-cce/Learn-and-Grow/main/materials/Bugbounty/SSRF_attack%26destroy.png?token=AOIZFI3WUQIAQKKVYB6DG22735LIU)
 - ✔️ Added List of Recommended extensions for burpsuite in [github](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/Bugbounty/recommended_extensions_for_burpsuite.txt) and in [github gist](https://gist.github.com/rohan-cce/2afddc7ca4b7e556016d324711b5ab59)
 - ✔️ Solved Day 13 Advent of Cybersecurity 2 in Tryhackme
-***
+</p></details>
 
-## Day 6 ##
+<details>
+<summary>Day 6</summary>
+<p>
+
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Completed 2 Questions in Linux Fundamentals Part 1 room in TryHackMe
 - ✔️ Completed blogs
@@ -86,16 +95,22 @@ Learning Progress Till Now
 - ✔️ [Added Xss firewall bypass techniques](https://raw.githubusercontent.com/rohan-cce/Learn-and-Grow/main/materials/Bugbounty/xss%20firewall%20bypass%20techniques.png?token=AOIZFI5HE7HBMPZMKTZMSDK74CXCY)
 - ✔️ Tried [Recommendation page](https://rohan-cce.github.io/Recommendations-page-ui-using-css/) using html and css
 - ✔️ Solved Day 14 Advent of Cybersecurity 2 in Tryhackme
-***
+</p></details>
 
-## Day 7 ##
+<details>
+<summary>Day 7</summary>
+<p>
+
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Solved Day 15 Advent of Cybersecurity 2 in Tryhackme
 - ✔️ Helped [Nirmal Raja](https://github.com/nirmal2010/) To create [portfolio for him using html and css](https://nirmal2010.github.io)
 - ✔️ Helped [Bhuvanesh](https://github.com/N-BHUVANESH/) To get started with Github Desktop & Vscode
-***
+</p></details>
 
-## Day 8 ##
+<details>
+<summary>Day 8</summary>
+<p>
+
 - ✔️ Helped [Guru Vikram](https://github.com/GuruVikram02) To get started with Github Desktop & Vscode
 - ✔️ Helped [Sri Sanjana](https://github.com/Srisanjana0711) To get started with Github Desktop & Vscode
 - ✔️ Helped [Sajina](https://github.com/Sajina19) To get started with Github Desktop & Vscode
@@ -106,9 +121,12 @@ Learning Progress Till Now
 - ✔️ Added link to pentest reporting tool written in python in [github](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/Bugbounty/pentest%20report) and in [github gist](https://gist.github.com/rohan-cce/70f0e5711f672cfa2ba85435a99688dc)
 - ✔️ Read And Understood (Page Number 61-71) in Data Structures and Algorithm made easy by Narsimha karumanchi
 - ✔️ Solved Day 16  Advent of Cybersecurity 2 in Tryhackme
-***
+</p></details>
 
-## Day 9 ##
+<details>
+<summary>Day 9</summary>
+<p>
+
 - ✔️ Played cricket for 2 hours (Physical activity)
 - ✔️ Thought of making progress as a team ,Where all members learn and help each other to grow ,  Hence invited 
     - [Nirmal Raja](https://github.com/nirmal2010) | [Jeyasri](https://github.com/jeyasri-001) | [Guru Vikram](https://github.com/GuruVikram02) |  
@@ -141,9 +159,12 @@ Learning Progress Till Now
           1 | [Internet-search-engine-browser](https://blog.mozilla.org/firefox/internet-search-engine-browser/)
           2 | [What is a browser](https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/)
 - ✔️ Studied Basic types of nmap scanning
-***
+</p></details>
 
-## Day 10 ##
+<details>
+<summary>Day 10</summary>
+<p>
+
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Solved Day 17,18 Advent of cybersecurity in tryhackme
 - ✔️ [Created Basic Template for Team section page using html and css](https://mind-captivators.github.io/)
@@ -163,7 +184,8 @@ Learning Progress Till Now
           ---- | --------------- |
           1 | [Web hosting](https://www.namecheap.com/hosting/what-is-web-hosting-definition/)
           2 | [Web hosting service](https://en.wikipedia.org/wiki/Web_hosting_service)
-***
+</p></details>
+
 </p></details>
 
 
