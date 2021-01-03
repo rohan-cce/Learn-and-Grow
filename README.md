@@ -23,7 +23,9 @@ Learning Progress Till Now
 - ✔️ Solved Day 9 Advent of Cybersecurity 2 in Tryhackme
 - ✔️ Watched and Understood Intro part of Practical Ethical Hacking by The Cyber Mentor
 - ✔️ Read And Understood (Page Number 16-27) in Data Structures and Algorithm made easy by Narsimha karumanchi
-***</p></details>
+***
+</p></details>
+
 ## Day 2 ##
 - ✔️ Solved 2 questions in Tryhackme Basic Pentesting room
 - ✔️ Solved Daily Challenge Question in Skillrack
