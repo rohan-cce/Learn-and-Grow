@@ -24,6 +24,7 @@ Learning Progress Till Now
 - ✔️ Solved Day 9 Advent of Cybersecurity 2 in Tryhackme
 - ✔️ Watched and Understood Intro part of Practical Ethical Hacking by The Cyber Mentor
 - ✔️ Read And Understood (Page Number 16-27) in Data Structures and Algorithm made easy by Narsimha karumanchi
+***
 </p></details>
 
 <details>
@@ -38,7 +39,8 @@ Learning Progress Till Now
     - [How a website can steal all your cookies](https://medium.com/@kanytu/firefox-and-how-a-website-could-steal-all-of-your-cookies-581fe4648e8d)
     - [Potential security threats to your computer](https://telegra.ph/Potential-Security-Threats-To-Your-Computer-Systems-11-16)
 - 🚧 Working on Menu Item With Hover Effect
-- ✔️ Read And Understood (Page Number 28-39) in Data Structures and Algorithm made easy by Narsimha karumanchi    
+- ✔️ Read And Understood (Page Number 28-39) in Data Structures and Algorithm made easy by Narsimha karumanchi   
+*** 
 </p></details>
 
 <details>
@@ -56,6 +58,7 @@ Learning Progress Till Now
 - ✔️ Tried and Completed [Menu Item With Hover Effect](https://rohan-cce.github.io/Menu-Item-With-Hover-Effects/)
 - ✔️ Read And Understood (Page Number 40-61) in Data Structures and Algorithm made easy by Narsimha karumanchi
 - ✔️ Solved Day 11 Advent of Cybersecurity 2 in Tryhackme
+***
 </p></details>
 
 <details>
@@ -68,6 +71,7 @@ Learning Progress Till Now
     - [What is server side request forgery](https://hdivsecurity.com/bornsecure/ssrf-what-is-server-side-request-forgery/)
 - ✔️ Added Redirect dorks in [github](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/Bugbounty/redirect_dorks.txt) and in [github gist](https://gist.github.com/rohan-cce/1b50b9816d5388ce25db7fac4e65936d)
 - ✔️ [Solved Day 12 Advent of Cybersecurity 2 in Tryhackme](https://www.linkedin.com/posts/rohan-j-ba489b19b_tryhackme-adventofcyber2-activity-6743572665405177856-_GeN)
+***
 </p></details>
 
 <details>
@@ -81,6 +85,7 @@ Learning Progress Till Now
 - ✔️ Added [SSRF search and Destroy picture in github](https://raw.githubusercontent.com/rohan-cce/Learn-and-Grow/main/materials/Bugbounty/SSRF_attack%26destroy.png?token=AOIZFI3WUQIAQKKVYB6DG22735LIU)
 - ✔️ Added List of Recommended extensions for burpsuite in [github](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/Bugbounty/recommended_extensions_for_burpsuite.txt) and in [github gist](https://gist.github.com/rohan-cce/2afddc7ca4b7e556016d324711b5ab59)
 - ✔️ Solved Day 13 Advent of Cybersecurity 2 in Tryhackme
+***
 </p></details>
 
 <details>
@@ -95,6 +100,7 @@ Learning Progress Till Now
 - ✔️ [Added Xss firewall bypass techniques](https://raw.githubusercontent.com/rohan-cce/Learn-and-Grow/main/materials/Bugbounty/xss%20firewall%20bypass%20techniques.png?token=AOIZFI5HE7HBMPZMKTZMSDK74CXCY)
 - ✔️ Tried [Recommendation page](https://rohan-cce.github.io/Recommendations-page-ui-using-css/) using html and css
 - ✔️ Solved Day 14 Advent of Cybersecurity 2 in Tryhackme
+***
 </p></details>
 
 <details>
@@ -105,6 +111,7 @@ Learning Progress Till Now
 - ✔️ Solved Day 15 Advent of Cybersecurity 2 in Tryhackme
 - ✔️ Helped [Nirmal Raja](https://github.com/nirmal2010/) To create [portfolio for him using html and css](https://nirmal2010.github.io)
 - ✔️ Helped [Bhuvanesh](https://github.com/N-BHUVANESH/) To get started with Github Desktop & Vscode
+***
 </p></details>
 
 <details>
@@ -121,6 +128,7 @@ Learning Progress Till Now
 - ✔️ Added link to pentest reporting tool written in python in [github](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/Bugbounty/pentest%20report) and in [github gist](https://gist.github.com/rohan-cce/70f0e5711f672cfa2ba85435a99688dc)
 - ✔️ Read And Understood (Page Number 61-71) in Data Structures and Algorithm made easy by Narsimha karumanchi
 - ✔️ Solved Day 16  Advent of Cybersecurity 2 in Tryhackme
+***
 </p></details>
 
 <details>
@@ -159,6 +167,7 @@ Learning Progress Till Now
           1 | [Internet-search-engine-browser](https://blog.mozilla.org/firefox/internet-search-engine-browser/)
           2 | [What is a browser](https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/)
 - ✔️ Studied Basic types of nmap scanning
+***
 </p></details>
 
 <details>
@@ -184,6 +193,7 @@ Learning Progress Till Now
           ---- | --------------- |
           1 | [Web hosting](https://www.namecheap.com/hosting/what-is-web-hosting-definition/)
           2 | [Web hosting service](https://en.wikipedia.org/wiki/Web_hosting_service)
+***
 </p></details>
 
 </p></details>
