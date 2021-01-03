@@ -29,6 +29,7 @@ Learning Progress Till Now
 <details>
 <summary>Day 2</summary>
 <p>
+
 - ✔️ Solved 2 questions in Tryhackme Basic Pentesting room
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Played with repeater, intruder in burpsuite
@@ -40,7 +41,10 @@ Learning Progress Till Now
 - ✔️ Read And Understood (Page Number 28-39) in Data Structures and Algorithm made easy by Narsimha karumanchi    
 </p></details>
 
-## Day 3 ##
+<details>
+<summary>Day 3</summary>
+<p>
+
 - ✔️ Mades some changes and Updated [To Do List Using Linked Lists](https://github.com/rohan-cce/Data-Structures-in-c/blob/main/todo_list_using_linkedlist.c)
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Completed Blogs
@@ -52,7 +56,8 @@ Learning Progress Till Now
 - ✔️ Tried and Completed [Menu Item With Hover Effect](https://rohan-cce.github.io/Menu-Item-With-Hover-Effects/)
 - ✔️ Read And Understood (Page Number 40-61) in Data Structures and Algorithm made easy by Narsimha karumanchi
 - ✔️ Solved Day 11 Advent of Cybersecurity 2 in Tryhackme
-***
+</p></details>
+
 ## Day 4 ##
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Solved 2 questions in Tryhackme Basic Pentesting room
