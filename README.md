@@ -689,5 +689,30 @@ Brazilian lyricist
   - ✔️ [Live Demo](https://codepen.io/rohan-cce/pen/XWjqrvg)
 ***
 </p></details>
+<details>
+<summary>Day 28</summary>
+<p>
 
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/d18e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/d18ls1.jpg)
+- ✔️ [Solved Daily Question in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d18b1.jpg)
+- ✔️ Played Cricket for 2 hours (Physical activity)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d18chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d18chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d18chs3.jpg) 
+- ✔️ [Completed Day 6 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/d18h1.jpg)
+- 🐱‍💻 [Solved 4 Questions in TryHackMe](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/thm/d18t1.jpg)
+- 📖 [Read and understood Divisibility Tricks for 7 | Quick and Easy Approach | Concepts and Examples in faceprep.in](https://www.faceprep.in/quantitative-aptitude/divisibility-tricks-for-7/)
+- 📖 [Read and understood How to Find the Number of Factors for Large Integers | Concepts and Examples in faceprep.in](https://www.faceprep.in/quantitative-aptitude/how-to-find-the-number-of-factors-for-large-integers/)
+- ✔️ Understood These Concepts
+    - S.no | Title |
+      ---- | ----- |
+      1 | [CSS Image Sprites](https://www.w3schools.com/css/css_image_sprites.asp)
+      2 | [CSS Attribute Selectors](https://www.w3schools.com/css/css_attribute_selectors.asp)
+      3 | [CSS Forms](https://www.w3schools.com/css/css_form.asp)
+- ✔️ [Completed Q 85-90 CSS Exercise Questions in w3 schools](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/d18w3.jpg)
+***
+</p></details>  
 </p></details>
