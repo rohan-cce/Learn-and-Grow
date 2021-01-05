@@ -655,4 +655,39 @@ Brazilian lyricist
 - 🐱‍💻 Solved 1 Question in TryHackMe 
 ***
 </p></details>
+<details>
+<summary>Day 27</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/d17e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/d17ls1.jpg)
+- ✔️ [Solved Daily Question in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d17b1.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack 
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d17chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d17chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d17chs3.jpg)
+- ✔️ [Completed Day 5 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/d17h1.jpg)
+- 📖 [Read and understood Pipes and Cisterns | Concepts and Examples in faceprep.in](https://www.faceprep.in/quantitative-aptitude/pipes-and-cisterns-concepts-and-examples/)
+- ✔️ Understood These Concepts
+    - S.no | Title |
+      ---- | ----- |
+      1 | [CSS Pseudo-classes](https://www.w3schools.com/css/css_pseudo_classes.asp)
+      2 | [CSS Pseudo-elements](https://www.w3schools.com/css/css_pseudo_elements.asp)
+      3 | [CSS Opacity / Transparency](https://www.w3schools.com/css/css_image_transparency.asp)
+      4 | [CSS Navigation Bar](https://www.w3schools.com/css/css_navbar.asp)
+      5 | [CSS Vertical Navigation Bar](https://www.w3schools.com/css/css_navbar_vertical.asp)
+      6 | [CSS Horizontal Navigation Bar](https://www.w3schools.com/css/css_navbar_horizontal.asp)
+      7 | [CSS Dropdowns](https://www.w3schools.com/css/css_dropdowns.asp)
+      8 | [CSS Image Gallery](https://www.w3schools.com/css/css_image_gallery.asp)
+- ✔️ [Completed Q 62-84 CSS Exercise Questions in w3 schools](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/d17w3.jpg)
+- 🐱‍💻 [Solved 4 Questions in TryHackMe](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/thm/d17t1.jpg)
+- ✔️ [Completed 22 Questions in applied visual design in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/3eed9f41db57dc70cbc0c9928420761021055b92/materials/images/freecodecamp/d16fcc.jpg)
+- ✔️ Played Cricket for 2 hours (Physical activity)
+- ✔️ [Created New Repository in github (html-css components) and added source code for shiny buttons using html and css](https://github.com/rohan-cce/html-css-components)
+  - ✔️ [Source code](https://github.com/rohan-cce/html-css-components/tree/main/Shiny%20Buttons)
+  - ✔️ [Live Demo](https://codepen.io/rohan-cce/pen/XWjqrvg)
+***
+</p></details>
+
 </p></details>
