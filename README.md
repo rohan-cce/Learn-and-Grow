@@ -719,8 +719,11 @@ Brazilian lyricist
 <summary>Day 29</summary>
 <p>
 
+</p></details>
+
 <details>
 <summary>Day 30</summary>
 <p>
 
+</p></details>
 </p></details>
