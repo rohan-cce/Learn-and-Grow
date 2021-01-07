@@ -752,5 +752,23 @@ Brazilian lyricist
 <summary>Day 30</summary>
 <p>
 
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/d20e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/d20ls1.jpg)
+- ✔️ [Solved Daily Question in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d20b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d20chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d20chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d20chs3.jpg) 
+- ✔️ Played Cricket for 2 hours (Physical activity)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ [Completed Day 8 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/d20h1.jpg)
+- 🐱‍💻 Completed 2 Questions in Linux Fundamentals 2 room in try hack me
+- 🐱‍💻 [Completed Getting started lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/d20lx1.jpg)
+- ✔️ Understood These Concepts
+    - S.no | Title |
+      ---- | ----- |
+      1 | [CSS Units](https://www.w3schools.com/css/css_units.asp)
+      2 | [CSS Specificity](https://www.w3schools.com/css/css_specificity.asp)
+***
 </p></details>
 </p></details>
