@@ -719,6 +719,33 @@ Brazilian lyricist
 <summary>Day 29</summary>
 <p>
 
+
+- ✔️ Elevate
+  - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/d19e1.jpeg)
+  - 🏆 [Earned an Achievement in Elevate (Precise Player)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/d19e2.jpeg)
+- ✔️ Brilliant.org
+  - ✔️ [Solved Daily Question](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d19b2.jpg) 
+  - ✔️ [Solved a Question from Community section](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d19b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d19chs1.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d19chs2.jpg) 
+  - 🏆 [Earned an achievement in chess.com (puzzle battle)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d19chs3.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/d19ls1.jpg)
+- ✔️ Played Cricket for 1 hour (Physical activity)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ [Completed Day 7 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/d19h1.jpg)
+- 🐱‍💻 [Completed Linux Fundamentals 1 room in try hackme](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/thm/d19t1.jpg)
+- ✔️ Understood These Concepts
+    - S.no | Title |
+      ---- | ----- |
+      1 | [CSS Counters](https://www.w3schools.com/css/css_counters.asp)
+      2 | [CSS Website Layout](https://www.w3schools.com/css/css_website_layout.asp)
+- ✔️ [Completed 6 Questions in applied visual design in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/d19fcc.jpg)
+- 📖 [Read and understood Numbers Problems - Quantitative Aptitude Question 5](https://www.youtube.com/watch?v=E25k4f3J-Z0&feature=emb_title)
+- 🌐 [Created Clip path buttons using html and css and added source code](https://codepen.io/rohan-cce/pen/KKgeMeN)
+  - 🌐 [Source code](https://github.com/rohan-cce/html-css-components/tree/main/clip%20path%20button)
+  - 🌐 [Live Demo](https://codepen.io/rohan-cce/pen/KKgeMeN)
+***
 </p></details>
 
 <details>
