@@ -772,3 +772,33 @@ Brazilian lyricist
 ***
 </p></details>
 </p></details>
+
+>“In every day, there are 1,440 minutes. That means we have 1,440 daily opportunities to make a
+positive impact.”
+Les Brown - Author
+<details>
+  <summary>-> Jan 8, 2021 - Jan 17, 2021</summary>
+<p>
+
+<details>
+<summary>Day 31</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/d21e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/d21ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d21b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d21chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d21chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d21chs3.jpg) 
+- ✔️ [Completed Day 9 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/d21h1.jpg)
+- 🐱‍💻 Completed 1 Question in Linux Fundamentals 2 room in try hack me
+- ✔️ [Completed 10 Questions in applied visual design in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/0b40bf7f2d635a7f5380c04c9280bc14f30dbe47/materials/images/lumosity/d21ls1.jpg)
+- 🐱‍💻 [Completed 2 Questions in Command line Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/d21lx1.jpg)
+- 📝 Blogs Read
+   - [A $1000 Bounty](https://gauravnarwani.com/a-1000-bounty/)
+
+***
+</p></details>
+
+</p></details>
