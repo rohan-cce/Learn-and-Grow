@@ -477,8 +477,9 @@ done before.”😇
 >“When you are enthusiastic about what you do, you feel this positive energy. It’s very simple.”😇
 Paulo Coelho
 Brazilian lyricist
-
--> Dec 29, 2020 - Jan 7, 2021
+<details>
+<summary>-> Dec 29, 2020 - Jan 7, 2021</summary>
+<p>
 
 <details>
 <summary>Day 21</summary>
