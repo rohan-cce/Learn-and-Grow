@@ -198,15 +198,11 @@ Learning Progress Till Now
 
 </p></details>
 
-
 >“Winning doesn’t always mean being first. Winning means you’re doing better than you’ve
 done before.”😇
 
-<details>
-  <summary>-> Dec 19, 2020 - Dec 28 , 2020</summary>
-<p>
 
-
+-> Dec 19, 2020 - Dec 28 , 2020
 <details>
 <summary>Day 11</summary>
 <p>
@@ -233,7 +229,7 @@ done before.”😇
 - ✔️ Added in github
     - [List of HTML formating elements](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/website%20development/html%20formating%20elements)
     - [List of HTML quotation and citiation](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/website%20development/html%20quotation%20and%20citiation)
-- ✔️ [Completed 1-29 questions in w3school html exercise](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/d1w3.jpg)
+- ✔️ [Completed 1-29 questions in w3school html exercise](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/Day%201%20-%2020/d1w3.jpg)
 ***
 </p></details>
 
@@ -257,8 +253,8 @@ done before.”😇
 
 - ✔️Added in Github
     - [target attributes](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/website%20development/target%20attribute)
-- ✔️ [Completed 29-44 questions in w3school html exercise](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/d2w3.png)
-- ✔️ [Completed 50% of basic html and html5 challenge in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/d2fcc.png)
+- ✔️ [Completed 29-44 questions in w3school html exercise](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/Day%201%20-%2020/d2w3.png)
+- ✔️ [Completed 50% of basic html and html5 challenge in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%201%20-%2020/d2fcc.png)
 ***
 </p></details>
 
@@ -272,9 +268,9 @@ done before.”😇
 - ✔️ Signed up for 
     - [lumosity](https://www.lumosity.com)
     - [brilliant.org](https://brilliant.org/)
-- [Tried Fit Test in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials%2Fimages%2Flumosity%2Fd3ls.png)
-- [Played Train of thought web in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/5d08c14b9ae45f60bfaf1e1f46a0870c2a7adf0d/materials%2Fimages%2Flumosity%2Fd3ls1.png)
-- [Played warmup puzzle in brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d3b1.png)
+- [Tried Fit Test in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d3ls.png)
+- [Played Train of thought web in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d3ls1.png)
+- [Played warmup puzzle in brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%201%20-%2020/d3b1.png)
 - [Added Github Trophies, Statistics, badges and streak in github special readme profile ](https://github.com/rohan-cce/rohan-cce/blob/master/README.md)
 - [Added terminal style metrics in github special readme profile](https://github.com/rohan-cce/rohan-cce/blob/master/README.md)
 - ✔️ Understood These Concepts
@@ -292,8 +288,8 @@ done before.”😇
       10 | [HTML id Attribute](https://www.w3schools.com/html/html_id.asp)
 - ✔️Added in Github
     - [List of Block and inline elements in HTML](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/website%20development/inline%20and%20block%20elements)
-- ✔️ [Completed 45-61 questions in w3school html exercise](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/d3w3.png)
-- ✔️ [Completed 10% of basic html and html5 challenge in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/d3fcc.png)
+- ✔️ [Completed 45-61 questions in w3school html exercise](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/Day%201%20-%2020/d3w3.png)
+- ✔️ [Completed 10% of basic html and html5 challenge in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%201%20-%2020/d3fcc.png)
 - ✔️ [Started Creating Responsive Portfolio from scratch using HTML CSS and Js](https://github.com/rohan-cce/responsive-portfolio)
 - ✔️ [Solved 5 Questions in brilliant.org](https://brilliant.org/profile/rohan-fxvqgm/about/)
 ***
@@ -315,12 +311,12 @@ done before.”😇
       3 | [HTML File Paths](https://www.w3schools.com/html/html_filepaths.asp)
       4 | [HTML - The Head Element](https://www.w3schools.com/html/html_head.asp)
       5 | [HTML Layout Elements and Techniques](https://www.w3schools.com/html/html_layout.asp)
-- ✔️ [Played Word bubbles game in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials%2Fimages%2Flumosity%2Fd4ls.png)
-- ✔️ [Completed 61-69 questions in w3school html exercise](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/d4w3.png)
-- ✔️ [Completed 2 questions in basic html and html5 challenge in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/d4fcc.png)
+- ✔️ [Played Word bubbles game in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d4ls.png)
+- ✔️ [Completed 61-69 questions in w3school html exercise](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/Day%201%20-%2020/d4w3.png)
+- ✔️ [Completed 2 questions in basic html and html5 challenge in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%201%20-%2020/d4fcc.png)
 - ✔️ [Signed up for an account in chess.com](https://www.chess.com)
-- ✔️ [Played and won a chess game with bot in chess.com](https://github.com/rohan-cce/Learn-and-Grow/blob/62a86780158f82d15d8b7493cfc93049b0bc3131/materials%2Fimages%2Fchess.com%2Fd4chs.png)
-- ✔️ [Solved Number digits in brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/96221f0fc7ef1774651e76a046d6970276fa93f6/materials%2Fimages%2Fbrilliant.org%2Fd4b1.png)
+- ✔️ [Played and won a chess game with bot in chess.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d4chs.png)
+- ✔️ [Solved Number digits in brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%201%20-%2020/d4b1.png)
 ***
 </p></details>
 
@@ -334,13 +330,13 @@ done before.”😇
     - 50 free tools and resources part 1 in [github](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/website%20development/50%20free%20tools%20and%20resources%20part%201) and in [github gist](https://gist.github.com/rohan-cce/176303b0762f766acaeaa1e567475871)
     - 50 free tools and resources part 2 in [github](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/website%20development/50%20free%20tools%20and%20resources%20part%202) and in [github gist](https://gist.github.com/rohan-cce/9be9d7b156b2d2eb8d0f98bd9acbdc20)
 - ✔️ [Signed up for an account in elevate](go.elevateapp.com/ROHA134135)
-    - ✔️ [Solved basic test in elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials%2Fimages%2Felevate%2Fd5e1.jpeg)
+    - ✔️ [Solved basic test in elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d5e1.jpeg)
 - ✔️ [Played chess with a random person in chess.com](https://www.chess.com/analysis/game/live/6037217797?tab=report)
-- ✔️ [Solved Daily Workout problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials%2Fimages%2Flumosity%2Fd5l4.png)
-    - ✔️ [Ebb and Flow task](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials%2Fimages%2Flumosity%2Fd5l1.png)
-    - ✔️ [Memory serves](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials%2Fimages%2Flumosity%2Fd5l2.png)
-    - ✔️ [Raindrops](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials%2Fimages%2Flumosity%2Fd5l3.png)
-- ✔️ [Completed Daily Problem in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials%2Fimages%2Fbrilliant.org%2Fd5b1.png)
+- ✔️ [Solved Daily Workout problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d5l1.png)
+    - ✔️ [Ebb and Flow task](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d5l2.png)
+    - ✔️ [Memory serves](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d5l3.png)
+    - ✔️ [Raindrops](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d5l4.png)
+- ✔️ [Completed Daily Problem in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%201%20-%2020/d5b1.png)
 - ✔️ Understood These Concepts
     - S.no | Title |
       ---- | ----- |
@@ -350,7 +346,7 @@ done before.”😇
       4 | [HTML Style Guide and Coding Conventions](https://www.w3schools.com/html/html5_syntax.asp)
       5 | [HTML Entities](https://www.w3schools.com/html/html_entities.asp)
 - ✔️ Solved Day 23 Advent of Cybersecurity in Tryhackme
-- ✔️ [Completed 69-72 questions in w3school html exercise](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials%2Fimages%2Fw3%2Fd5w3.png)
+- ✔️ [Completed 69-72 questions in w3school html exercise](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/Day%201%20-%2020/d5w3.png)
 ***
 </p></details>
 
@@ -358,11 +354,11 @@ done before.”😇
 <summary>Day 16</summary>
 <p>
 
-- ✔️ [Solved Daily workout in elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials%2Fimages%2Felevate%2Fd6e1.jpeg)
-- ✔️ [Completed Daily workout in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials%2Fimages%2Flumosity%2Fd6l1.png)
-- ✔️ [Completed secret messages quiz in brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials%2Fimages%2Fbrilliant.org%2Fd6b1.png)
+- ✔️ [Solved Daily workout in elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d6e1.jpeg)
+- ✔️ [Completed Daily workout in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d6l1.png)
+- ✔️ [Completed secret messages quiz in brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%201%20-%2020/d6b1.png)
 - ✔️ Solved Daily Challenge Question in Skillrack
-- ✔️ [Solved some chess puzzles in chess.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials%2Fimages%2Fchess.com%2Fd6chs.png)
+- ✔️ [Solved some chess puzzles in chess.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d6chs.png)
 - ✔️ Played cricket for 2 hours and badminton for 1 hour (Physical activity)
 - ✔️ Understood These Concepts
     - S.no | Title |
@@ -372,8 +368,8 @@ done before.”😇
       3 | [HTML Encoding (Character Sets) ](https://www.w3schools.com/html/html_charset.asp)
       4 | [HTML Uniform Resource Locators](https://www.w3schools.com/html/html_urlencode.asp)
       5 | [HTML Versus XHTML](https://www.w3schools.com/html/html_xhtml.asp)
-- ✔️ [Played and won chess match with a random person in chess.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d6chs1.png)
-- ✔️ [Attempted Daily challenge in brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d6b2.png)
+- ✔️ [Played and won chess match with a random person in chess.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d6chs1.png)
+- ✔️ [Attempted Daily challenge in brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%201%20-%2020/d6b2.png)
 - ✔️ Solved Day 24 Advent of Cybersecurity in Tryhackme
 ***
 </p></details>
@@ -382,14 +378,14 @@ done before.”😇
 <summary>Day 17</summary>
 <p>
 
-- ✔️ [Solved Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/d7e1.jpeg)
-- ✔️ [Solved Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/d7l1.png)
-- ✔️ [Completed making decisions quiz in  brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d7b1.png)
+- ✔️ [Solved Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d7e1.jpeg)
+- ✔️ [Solved Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d7l1.png)
+- ✔️ [Completed making decisions quiz in  brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%201%20-%2020/d7b1.png)
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Solved 1 question in tryhackme tmux room
-- ✔️ [Solved Daily Challenge Question in brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d7b2.png)
-- ✔️ [Solved Day 25 Advent of Cybersecurity in Tryhackme](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/Cybersecurity/advent_of_cyber.png)
-- ✔️ [Completed some puzzles and played with bot in chess.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d7chs2.png)
+- ✔️ [Solved Daily Challenge Question in brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%201%20-%2020/d7b2.png)
+- ✔️ [Solved Day 25 Advent of Cybersecurity in Tryhackme](https://github.com/rohan-cce/Learn-and-Grow/blob/f7ff444b00dce603a9a247be20b3ae10a0dfb83a/materials/Cybersecurity/advent_of_cyber.png)
+- ✔️ [Completed some puzzles and played with bot in chess.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d7chs2.png)
 - ✔️ Played cricket for 3 hours (Physical activity)
 - ✔️ Understood These Concepts
     - S.no | Title |
@@ -405,18 +401,18 @@ done before.”😇
 <p>
 
 - ✔️ Played Cricket for 2 hours (Physical activity)
-- ✔️ [Solved Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/d8e1.jpeg)
+- ✔️ [Solved Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d8e1.jpeg)
 - ✔️ Solved Daily Challenge Question in Skillrack
-- ✔️ [Solved Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/d8ls1.png)
-- ✔️ [Solved Daily Challenge Question in brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d8b1.png)
-- ✔️ [Solved Some Puzzles in chess.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d8chs1.png)
+- ✔️ [Solved Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d8ls1.png)
+- ✔️ [Solved Daily Challenge Question in brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%201%20-%2020/d8b1.png)
+- ✔️ [Solved Some Puzzles in chess.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d8chs1.png)
 - ✔️ Understood These Concepts
     - S.no | Title |
       ---- | ----- |
       1 | [HTML Input Types](https://www.w3schools.com/html/html_form_input_types.asp)
       2 | [HTML Input Attributes](https://www.w3schools.com/html/html_form_attributes.asp)
       3 | [HTML Input form* Attributes](https://www.w3schools.com/html/html_form_attributes_form.asp)
-- ✔️ [Completed 73-88 questions in w3school html exercise](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/d8w3.png)
+- ✔️ [Completed 73-88 questions in w3school html exercise](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/Day%201%20-%2020/d8w3.png)
 - ✔️ Solved one question in tryhackme
 ***
 </p></details>
@@ -425,13 +421,13 @@ done before.”😇
 <summary>Day 19</summary>
 <p>
 
-- ✔️  [Completed 10 questions in basic html and html5 challenge in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/d9fcc.png)
-- ✔️ [Solved Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/d9e1.jpeg)
-- ✔️ [Solved Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/d9ls1.png)
-- ✔️ [Solved (Writing programs quiz) in brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d9b1.png)
+- ✔️  [Completed 10 questions in basic html and html5 challenge in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%201%20-%2020/d9fcc.png)
+- ✔️ [Solved Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d9e1.jpeg)
+- ✔️ [Solved Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d9ls1.png)
+- ✔️ [Solved (Writing programs quiz) in brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%201%20-%2020/d9b1.png)
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Played Cricket for 2 hours (Physical activity)
-- ✔️ [Solved Daily Workout Problem in brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d9b2.png)
+- ✔️ [Solved Daily Workout Problem in brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%201%20-%2020/d9b2.png)
 - ✔️ Understood These Concepts
     - S.no | Title |
       ---- | ----- |
@@ -449,9 +445,9 @@ done before.”😇
 <summary>Day 20</summary>
 <p>
 
-- ✔️ [Solved Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/d10e1.jpeg)
-- ✔️ [Solved Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/db8f0e9955c33e08cbdca60bb8b30defedaffd6b/materials/images/lumosity/d10ls1.png)
-- ✔️ [Solved Searching For Solution Quiz in brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d10b1.png)
+- ✔️ [Solved Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d10e1.jpeg)
+- ✔️ [Solved Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d10ls1.png)
+- ✔️ [Solved Searching For Solution Quiz in brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%201%20-%2020/d10b1.png)
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Played Cricket for 2 hours (Physical activity)
 - ✔️ Solved one question in tryhackme
@@ -473,11 +469,11 @@ done before.”😇
       12 | [CSS Background Repeat](https://www.w3schools.com/css/css_background_repeat.asp)
       13 | [CSS Background Attachment](https://www.w3schools.com/css/css_background_attachment.asp)
       14 | [CSS Background Shorthand](https://www.w3schools.com/css/css_background_shorthand.asp)
-- ✔️ [Completed Q 1-13 Exercise Questions in w3 schools](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/d10w3.png)
-[Completed 14% in basic css in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/d10fcc.png)
+- ✔️ [Completed Q 1-13 Exercise Questions in w3 schools](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/Day%201%20-%2020/d10w3.png)
+[Completed 14% in basic css in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%201%20-%2020/d10fcc.png)
 ***
 </p></details>
-</p></details>
+
 
 >“When you are enthusiastic about what you do, you feel this positive energy. It’s very simple.”😇
 Paulo Coelho
