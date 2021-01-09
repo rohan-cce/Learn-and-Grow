@@ -786,38 +786,40 @@ Les Brown - Author
 <summary>Day 31</summary>
 <p>
 
-- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/d21e1.jpeg)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/d21ls1.jpg)
-- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d21b1.jpg)
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d21e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d21ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/fbba0f1f2a902d1b3046e11ab9dbb260d3164ab9/materials/images/brilliant.org/Day%2021%20-%2040/d21b1.jpg)
 - ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d21chs1.jpg)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d21chs2.jpg)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d21chs3.jpg) 
-- ✔️ [Completed Day 9 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/d21h1.jpg)
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d21chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d21chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d21chs3.jpg) 
+- ✔️ [Completed Day 9 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2021%20-%2040/d21h1.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
 - 🐱‍💻 Completed 1 Question in Linux Fundamentals 2 room in try hack me
-- ✔️ [Completed 10 Questions in applied visual design in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/0b40bf7f2d635a7f5380c04c9280bc14f30dbe47/materials/images/lumosity/d21ls1.jpg)
-- 🐱‍💻 [Completed 2 Questions in Command line Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/d21lx1.jpg)
+- ✔️ [Completed 10 Questions in applied visual design in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2021%20-%2040/d21fcc.jpg)
+- 🐱‍💻 [Completed 2 Questions in Command line Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2021%20-%2040/d21lx1.jpg)
 - 📝 Blogs Read
    - [A $1000 Bounty](https://gauravnarwani.com/a-1000-bounty/)
 
 ***
 </p></details>
+
 <details>
 <summary>Day 32</summary>
 <p>
 
-- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/d22e1.jpeg)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/d22ls1.jpg)
-- ✔️ [Solved a question from community section in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d22b1.jpg)
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d22e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d22ls1.jpg)
+- ✔️ [Solved a question from community section in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/fbba0f1f2a902d1b3046e11ab9dbb260d3164ab9/materials/images/brilliant.org/Day%2021%20-%2040/d22b1.jpg)
 - ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d22chs1.jpg)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d22chs2.jpg)
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d22chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d22chs2.jpg)
   - ✔️ Solved Daily Puzzle
-- ✔️ [Completed Day 10 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/d22h1.jpg)
+- ✔️ [Completed Day 10 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2021%20-%2040/d22h1.jpg)
 - 🐱‍💻 Completed 1 Question in Linux Fundamentals 2 room in try hack me
 - ✔️ Solved Daily Challenge Question in Skillrack
-- ✔️ [Completed 10 Questions in applied visual design in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/d22fcc.jpg)
-- 🐱‍💻 [Completed 2 Questions in Command line Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/d22lx1.jpg)
+- ✔️ [Completed 10 Questions in applied visual design in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2021%20-%2040/d22fcc.jpg)
+- 🐱‍💻 [Completed 2 Questions in Command line Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2021%20-%2040/d22lx1.jpg)
 
 ***
 </p></details>
