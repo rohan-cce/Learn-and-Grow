@@ -201,8 +201,10 @@ Learning Progress Till Now
 >“Winning doesn’t always mean being first. Winning means you’re doing better than you’ve
 done before.”😇
 
+<details>
+<summary>-> Dec 19, 2020 - Dec 28 , 2020</summary>
+<p>
 
--> Dec 19, 2020 - Dec 28 , 2020
 <details>
 <summary>Day 11</summary>
 <p>
@@ -472,6 +474,7 @@ done before.”😇
 - ✔️ [Completed Q 1-13 Exercise Questions in w3 schools](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/Day%201%20-%2020/d10w3.png)
 [Completed 14% in basic css in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%201%20-%2020/d10fcc.png)
 ***
+</p></details>
 </p></details>
 
 >“When you are enthusiastic about what you do, you feel this positive energy. It’s very simple.”😇
