@@ -800,5 +800,24 @@ Les Brown - Author
 
 ***
 </p></details>
+<details>
+<summary>Day 32</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/d22e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/d22ls1.jpg)
+- ✔️ [Solved a question from community section in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d22b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d22chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d22chs2.jpg)
+  - ✔️ Solved Daily Puzzle
+- ✔️ [Completed Day 10 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/d22h1.jpg)
+- 🐱‍💻 Completed 1 Question in Linux Fundamentals 2 room in try hack me
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ [Completed 10 Questions in applied visual design in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/d22fcc.jpg)
+- 🐱‍💻 [Completed 2 Questions in Command line Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/d22lx1.jpg)
+
+***
+</p></details>
 
 </p></details>
