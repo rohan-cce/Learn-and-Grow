@@ -474,24 +474,21 @@ done before.”😇
 ***
 </p></details>
 
-
 >“When you are enthusiastic about what you do, you feel this positive energy. It’s very simple.”😇
 Paulo Coelho
 Brazilian lyricist
 
-<details>
-  <summary>-> Dec 29, 2020 - Jan 7, 2021</summary>
-<p>
+-> Dec 29, 2020 - Jan 7, 2021
 
 <details>
 <summary>Day 21</summary>
 <p>
 
-- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/925a07740a8fb4471f26025a892a49502bd1d401/materials/images/elevate/d11e1.jpeg)
-- ✔️ [Solved a Problem in brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d11b1.png)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/597d22389c7ac35ab57f111ff48f0483a37e7664/materials/images/lumosity/d11ls1.png)
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d11e1.jpeg)
+- ✔️ [Solved a Problem in brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%201%20-%2020/d11b1.png)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d11ls1.png)
 - ✔️ Solved Daily Challenge Question in Skillrack
-- ✔️ [Solved Some Chess Puzzles in chess.com](https://github.com/rohan-cce/Learn-and-Grow/blob/cab6015a37a7a2ac001b5e63c42b06e8083d42e9/materials/images/chess.com/d11chs1.png)
+- ✔️ [Solved Some Chess Puzzles in chess.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d11chs1.png)
 - 🏆 [Completed all tasks given by bestenlist as part of 30 days internship](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/extras/bestenlist.jpg)
 - ✔️ Solved one question in tryhackme
 - ✔️ Understood These Concepts
@@ -519,8 +516,8 @@ Brazilian lyricist
       20 | [CSS Text Transformation](https://www.w3schools.com/css/css_text_transformation.asp)
       21 | [CSS Text Spacing](https://www.w3schools.com/css/css_text_spacing.asp)
       22 | [CSS Text Shadow](https://www.w3schools.com/css/css_text_shadow.asp)
-- ✔️ [Completed Q 14-38 CSS Exercise Questions in w3 schools](https://github.com/rohan-cce/Learn-and-Grow/blob/cdf9bd3e6427601d950a648b53eafb49f912f0c3/materials/images/w3/d11w3.png)
-- ✔️ [Completed 17 Questions in basic css in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/b769af49b9b89e30002beeb260602d825c119062/materials/images/freecodecamp/d11fcc.png)
+- ✔️ [Completed Q 14-38 CSS Exercise Questions in w3 schools](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/Day%201%20-%2020/d11w3.png)
+- ✔️ [Completed 17 Questions in basic css in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%201%20-%2020/d11fcc.png)
 ***
 </p></details>
 
@@ -528,15 +525,15 @@ Brazilian lyricist
 <summary>Day 22</summary>
 <p>
 
-- ✔️ [Completed Daily Workout Problem in Elevate](materials\images\elevate\d12e1.jpeg)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/d12ls1.png)
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d12e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d12ls1.png)
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ [Created an account in hackerrank](https://www.hackerrank.com/rohanjcce1)
-    - ✔️ [Solved First Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/d12h1.png)
-    - ✔️ [Started 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/d12h2.png)
+    - ✔️ [Solved First Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%201%20-%2020/d12h1.png)
+    - ✔️ [Started 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%201%20-%2020/d12h2.png)
 - ✔️ Solved Daily Challenge Question in Skillrack
-- ✔️ [Solved Some Chess Puzzles in chess.com](https://github.com/rohan-cce/Learn-and-Grow/blob/92d7308179b1a76d6781c926829a463bfd23fe90/materials/images/chess.com/d12chs1.png)
-- ✔️ [Solved Daily Workout Problem in brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d12b1.png)
+- ✔️ [Solved Some Chess Puzzles in chess.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d12chs1.png)
+- ✔️ [Solved Daily Workout Problem in brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%201%20-%2020/d12b1.png)
 - ✔️ Solved one question in tryhackme
 - ✔️ Understood These Concepts
     - S.no | Title |
@@ -559,7 +556,7 @@ Brazilian lyricist
       16 | [CSS Responsive Table](https://www.w3schools.com/css/css_table_responsive.asp)
       17 | [CSS Layout - The display Property](https://www.w3schools.com/css/css_display_visibility.asp)
       18 | [CSS Layout - width and max-width](https://www.w3schools.com/css/css_max-width.asp)
-- ✔️ [Completed Q 39-61 CSS Exercise Questions in w3 schools](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/d12w3.png)
+- ✔️ [Completed Q 39-61 CSS Exercise Questions in w3 schools](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/Day%201%20-%2020/d12w3.png)
 ***
 </p></details>
 
@@ -567,13 +564,13 @@ Brazilian lyricist
 <summary>Day 23</summary>
 <p>
 
-- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/f7b6c6e55c7c13a9e78c9315beba4cd2f786a16e/materials/images/elevate/d13e1.jpeg)
-- 🏆 [Earned An Achievement in Elevate (Accurate Player)](https://github.com/rohan-cce/Learn-and-Grow/blob/f7b6c6e55c7c13a9e78c9315beba4cd2f786a16e/materials/images/elevate/d13e2.jpeg)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/830b637ac784e9643f914fe016700fbd6cf88e48/materials/images/lumosity/d13ls1.png)
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d13e1.jpeg)
+- 🏆 [Earned An Achievement in Elevate (Accurate Player)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d13e2.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d13ls1.png)
 - ✔️ Solved Daily Challenge Question in Skillrack
-- ✔️ [Solved Some Chess Puzzles in chess.com](https://github.com/rohan-cce/Learn-and-Grow/blob/1a9359a3b350c7d1f9c217ec901cb4fab4308dce/materials/images/chess.com/d13chs1.png)
-- ✔️ [Completed Day 1 in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/d13h1.png)
-- ✔️ [Tried Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/69b4febdfaaed8cf8163e6011c55033e8dc2967f/materials/images/brilliant.org/d13b1.png)
+- ✔️ [Solved Some Chess Puzzles in chess.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d13chs1.png)
+- ✔️ [Completed Day 1 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%201%20-%2020/d13h1.png)
+- ✔️ [Tried Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%201%20-%2020/d13b1.png)
 - 🌐 [Created Website - For Wishing Happy New Year 2021 Using Html ,CSS ,Js](https://rohan-cce.github.io/2021-new-year-wishes/)
 - ✔️ Solved one question in tryhackme
 ***
@@ -583,23 +580,23 @@ Brazilian lyricist
 <summary>Day 24</summary>
 <p>
 
-- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/d14e1.jpeg)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/d14ls1.png)
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d14e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d14ls1.png)
 - ✔️ Played Cricket for 2 hours (Physical activity)
 - ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d14chs1.png)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d14chs2.png)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d14chs3.png)
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d14chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d14chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d14chs3.png)
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Brilliant.org
-  - ✔️ [Solved Reverse Engineering Arithmetic Quiz](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d14b1.jpg) 
-  - ✔️ [Solved a Question from Community section](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d14b2.jpg)
-  - ✔️ [Solved Thinking With Graphs Quiz](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d14b3.jpg)
-- ✔️ [Completed Day 2 in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/d14h1.jpg)
-- 📖 [Attempted Random Aptitude Test In indiabix.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/aptitude/d14a1.jpg) 
+  - ✔️ [Solved Reverse Engineering Arithmetic Quiz](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%201%20-%2020/d14b1.jpg) 
+  - ✔️ [Solved a Question from Community section](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%201%20-%2020/d14b2.jpg)
+  - ✔️ [Solved Thinking With Graphs Quiz](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%201%20-%2020/d14b3.jpg)
+- ✔️ [Completed Day 2 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%201%20-%2020/d14h1.jpg)
+- 📖 [Attempted Random Aptitude Test In indiabix.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/aptitude/Day%201%20-%2020/d14a1.jpg) 
 - 📝 Blogs Read
   - 📝 [Account Takeover via login with OTP 🏆](https://surajbhosale10.medium.com/account-takeover-via-login-with-otp-ba4a33fb1b6f)
-- 🐱‍💻 [Completed Tmux Room in Try Hack Me](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/thm/d14t1.jpg)
+- 🐱‍💻 [Completed Tmux Room in Try Hack Me](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/thm/Day%201%20-%2020/d14t1.jpg)
 ***
 </p></details>
 
@@ -608,17 +605,17 @@ Brazilian lyricist
 <p>
 
 - ✔️ Elevate
-  - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/d15e2.jpeg)
-  - 🏆 [Earned an Achievement in Elevate (Streak Prodigy)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/d15e1.jpeg)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/d15ls1.jpg)
-- ✔️ [Solved a Question from Community section in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d15b1.jpg)
+  - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d15e1.jpeg)
+  - 🏆 [Earned an Achievement in Elevate (Streak Prodigy)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d15e2.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d15ls1.jpg)
+- ✔️ [Solved a Question from Community section in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%201%20-%2020/d15b1.jpg)
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d15chs1.jpg)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d15chs2.jpg)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d15chs3.jpg)
-- ✔️ [Completed Day 3 in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/d15h1.jpg)
-- 📖 [Attempted Random Aptitude Test In indiabix.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/aptitude/d15a1.jpg)
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d15chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d15chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d15chs3.jpg)
+- ✔️ [Completed Day 3 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%201%20-%2020/d15h1.jpg)
+- 📖 [Attempted Random Aptitude Test In indiabix.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/aptitude/Day%201%20-%2020/d15a1.jpg)
 - 🐱‍💻 Solved 2 Questions in TryHackMe 
 - ✔️ Understood These Concepts
     - S.no | Title |
@@ -630,7 +627,7 @@ Brazilian lyricist
       5 | [CSS Layout - display: inline-block](https://www.w3schools.com/css/css_inline-block.asp)
       6 | [CSS Layout - Horizontal & Vertical Align](https://www.w3schools.com/css/css_align.asp)
       7 | [CSS Combinators](https://www.w3schools.com/css/css_combinators.asp)
-- ✔️ [Completed Q 39-61 CSS Exercise Questions in w3 schools](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/d15w1.jpg)
+- ✔️ [Completed Q 39-61 CSS Exercise Questions in w3 schools](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/Day%201%20-%2020/d15w1.jpg)
 ***
 </p></details>
 
@@ -638,32 +635,34 @@ Brazilian lyricist
 <summary>Day 26</summary>
 <p>
 
-- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/d16e1.jpeg)
-- ✔️ [Solved a Question from Community section in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d16b1.jpg)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/d16ls1.jpg)
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d16e1.jpeg)
+- ✔️ [Solved a Question from Community section in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%201%20-%2020/d16b1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d16ls1.jpg)
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d16chs1.jpg)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d16chs2.jpg)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d16chs3.jpg)
-- ✔️ [Completed Day 3 in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/d16h1.jpg)
-- ✔️ [Completed 22 Questions in basic css in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/d16fcc.jpg)
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d16chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d16chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d16chs3.jpg)
+- ✔️ [Completed Day 4 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%201%20-%2020/d16h1.jpg)
+- ✔️ [Completed 22 Questions in basic css in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%201%20-%2020/d16fcc.jpg)
 - 🐱‍💻 Solved 1 Question in TryHackMe 
 ***
 </p></details>
+
+
 <details>
 <summary>Day 27</summary>
 <p>
 
-- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/d17e1.jpeg)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/d17ls1.jpg)
-- ✔️ [Solved Daily Question in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d17b1.jpg)
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d17e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d17ls1.jpg)
+- ✔️ [Solved Daily Question in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%201%20-%2020/d17b1.jpg)
 - ✔️ Solved Daily Challenge Question in Skillrack 
 - ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d17chs1.jpg)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d17chs2.jpg)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d17chs3.jpg)
-- ✔️ [Completed Day 5 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/d17h1.jpg)
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d17chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d17chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d17chs3.jpg)
+- ✔️ [Completed Day 5 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%201%20-%2020/d17h1.jpg)
 - 📖 [Read and understood Pipes and Cisterns | Concepts and Examples in faceprep.in](https://www.faceprep.in/quantitative-aptitude/pipes-and-cisterns-concepts-and-examples/)
 - ✔️ Understood These Concepts
     - S.no | Title |
@@ -676,30 +675,32 @@ Brazilian lyricist
       6 | [CSS Horizontal Navigation Bar](https://www.w3schools.com/css/css_navbar_horizontal.asp)
       7 | [CSS Dropdowns](https://www.w3schools.com/css/css_dropdowns.asp)
       8 | [CSS Image Gallery](https://www.w3schools.com/css/css_image_gallery.asp)
-- ✔️ [Completed Q 62-84 CSS Exercise Questions in w3 schools](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/d17w3.jpg)
-- 🐱‍💻 [Solved 4 Questions in TryHackMe](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/thm/d17t1.jpg)
-- ✔️ [Completed 22 Questions in applied visual design in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/3eed9f41db57dc70cbc0c9928420761021055b92/materials/images/freecodecamp/d16fcc.jpg)
+- ✔️ [Completed Q 62-84 CSS Exercise Questions in w3 schools](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/Day%201%20-%2020/d17w3.jpg)
+- 🐱‍💻 [Solved 4 Questions in TryHackMe](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/thm/Day%201%20-%2020/d17t1.jpg)
+- ✔️ [Completed 22 Questions in basic css in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%201%20-%2020/d17fcc.jpg)
 - ✔️ Played Cricket for 2 hours (Physical activity)
 - ✔️ [Created New Repository in github (html-css components) and added source code for shiny buttons using html and css](https://github.com/rohan-cce/html-css-components)
   - ✔️ [Source code](https://github.com/rohan-cce/html-css-components/tree/main/Shiny%20Buttons)
   - ✔️ [Live Demo](https://codepen.io/rohan-cce/pen/XWjqrvg)
 ***
 </p></details>
+
+
 <details>
 <summary>Day 28</summary>
 <p>
 
-- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/d18e1.jpeg)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/d18ls1.jpg)
-- ✔️ [Solved Daily Question in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d18b1.jpg)
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d18e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d18ls1.jpg)
+- ✔️ [Solved Daily Question in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%201%20-%2020/d18b1.jpg)
 - ✔️ Played Cricket for 2 hours (Physical activity)
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d18chs1.jpg)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d18chs2.jpg)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d18chs3.jpg) 
-- ✔️ [Completed Day 6 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/d18h1.jpg)
-- 🐱‍💻 [Solved 4 Questions in TryHackMe](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/thm/d18t1.jpg)
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d18chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d18chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d18chs3.jpg) 
+- ✔️ [Completed Day 6 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%201%20-%2020/d18h1.jpg)
+- 🐱‍💻 [Solved 4 Questions in TryHackMe](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/thm/Day%201%20-%2020/d18t1.jpg)
 - 📖 [Read and understood Divisibility Tricks for 7 | Quick and Easy Approach | Concepts and Examples in faceprep.in](https://www.faceprep.in/quantitative-aptitude/divisibility-tricks-for-7/)
 - 📖 [Read and understood How to Find the Number of Factors for Large Integers | Concepts and Examples in faceprep.in](https://www.faceprep.in/quantitative-aptitude/how-to-find-the-number-of-factors-for-large-integers/)
 - ✔️ Understood These Concepts
@@ -708,35 +709,36 @@ Brazilian lyricist
       1 | [CSS Image Sprites](https://www.w3schools.com/css/css_image_sprites.asp)
       2 | [CSS Attribute Selectors](https://www.w3schools.com/css/css_attribute_selectors.asp)
       3 | [CSS Forms](https://www.w3schools.com/css/css_form.asp)
-- ✔️ [Completed Q 85-90 CSS Exercise Questions in w3 schools](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/d18w3.jpg)
+- ✔️ [Completed Q 85-90 CSS Exercise Questions in w3 schools](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/Day%201%20-%2020/d18w3.jpg)
+- ✔️ [Completed 5 Questions in applied visual design in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%201%20-%2020/d18fcc.jpg)
 ***
-</p></details>  
+</p></details>
+
 <details>
 <summary>Day 29</summary>
 <p>
 
-
 - ✔️ Elevate
-  - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/d19e1.jpeg)
-  - 🏆 [Earned an Achievement in Elevate (Precise Player)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/d19e2.jpeg)
+  - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d19e1.jpeg)
+  - 🏆 [Earned an Achievement in Elevate (Precise Player)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d19e2.jpeg)
 - ✔️ Brilliant.org
-  - ✔️ [Solved Daily Question](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d19b2.jpg) 
-  - ✔️ [Solved a Question from Community section](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d19b1.jpg)
+  - ✔️ [Solved Daily Question](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%201%20-%2020/d19b1.jpg) 
+  - ✔️ [Solved a Question from Community section](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%201%20-%2020/d19b2.jpg)
 - ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d19chs1.jpg)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d19chs2.jpg) 
-  - 🏆 [Earned an achievement in chess.com (puzzle battle)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d19chs3.jpg)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/d19ls1.jpg)
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d19chs1.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d19chs2.jpg) 
+  - 🏆 [Earned an achievement in chess.com (puzzle battle)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d19chs3.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d19ls1.jpg)
 - ✔️ Played Cricket for 1 hour (Physical activity)
 - ✔️ Solved Daily Challenge Question in Skillrack
-- ✔️ [Completed Day 7 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/d19h1.jpg)
-- 🐱‍💻 [Completed Linux Fundamentals 1 room in try hackme](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/thm/d19t1.jpg)
+- ✔️ [Completed Day 7 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%201%20-%2020/d19h1.jpg)
+- 🐱‍💻 [Completed Linux Fundamentals 1 room in try hackme](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/thm/Day%201%20-%2020/d19t1.jpg)
 - ✔️ Understood These Concepts
     - S.no | Title |
       ---- | ----- |
       1 | [CSS Counters](https://www.w3schools.com/css/css_counters.asp)
       2 | [CSS Website Layout](https://www.w3schools.com/css/css_website_layout.asp)
-- ✔️ [Completed 6 Questions in applied visual design in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/d19fcc.jpg)
+- ✔️ [Completed 6 Questions in applied visual design in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%201%20-%2020/d19fcc.jpg)
 - 📖 [Read and understood Numbers Problems - Quantitative Aptitude Question 5](https://www.youtube.com/watch?v=E25k4f3J-Z0&feature=emb_title)
 - 🌐 [Created Clip path buttons using html and css and added source code](https://codepen.io/rohan-cce/pen/KKgeMeN)
   - 🌐 [Source code](https://github.com/rohan-cce/html-css-components/tree/main/clip%20path%20button)
@@ -748,18 +750,18 @@ Brazilian lyricist
 <summary>Day 30</summary>
 <p>
 
-- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/d20e1.jpeg)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/d20ls1.jpg)
-- ✔️ [Solved Daily Question in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/d20b1.jpg)
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d20e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d20ls1.jpg)
+- ✔️ [Solved Daily Question in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%201%20-%2020/d20b1.jpg)
 - ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d20chs1.jpg)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d20chs2.jpg)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/d20chs3.jpg) 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d20chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d20chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%201%20-%2020/d20chs3.jpg) 
 - ✔️ Played Cricket for 2 hours (Physical activity)
 - ✔️ Solved Daily Challenge Question in Skillrack
-- ✔️ [Completed Day 8 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/d20h1.jpg)
+- ✔️ [Completed Day 8 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%201%20-%2020/d20h1.jpg)
 - 🐱‍💻 Completed 2 Questions in Linux Fundamentals 2 room in try hack me
-- 🐱‍💻 [Completed Getting started lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/d20lx1.jpg)
+- 🐱‍💻 [Completed Getting started lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%201%20-%2020/d20lx1.jpg)
 - ✔️ Understood These Concepts
     - S.no | Title |
       ---- | ----- |
