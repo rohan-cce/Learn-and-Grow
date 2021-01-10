@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now
+Learning Progress Till Now 34 Days
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
