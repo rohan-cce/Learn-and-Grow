@@ -823,6 +823,7 @@ Les Brown - Author
 
 ***
 </p></details>
+
 <details>
 <summary>Day 33</summary>
 <p>
