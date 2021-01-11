@@ -862,6 +862,7 @@ Les Brown - Author
 - ✔️ [Completed 3 Questions in applied visual design in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2021%20-%2040/d24fcc.jpg)
 - 🐱‍💻 [Completed 1 Question in Command line Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2021%20-%2040/d24lx1.jpg)
 - ✔️ Played Cricket for 2 hours (Physical activity)
+- 📖 [Attempted Random Aptitude Test In indiabix.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/aptitude/Day%2021%20-%2040/d24a1.jpg)
 ***
 </p></details>
 
