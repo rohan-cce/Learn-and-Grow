@@ -891,6 +891,7 @@ Les Brown - Author
       4 | [CSS Colors](https://www.w3schools.com/css/css3_colors.asp)
 - ✔️ [Completed Q 90-103 CSS Exercise Questions in w3 schools](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/Day%2021%20-%2040/d25w3.jpg)
 - 🏆 [Got Recommendation Letter from Best enlist for 30 days python internship](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/extras/d25.pdf)
+- 🏃 [Walking -> 8523 Steps ~ 6.53km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/extras/d25walking.jpeg)
 ***
 </p></details>
 
