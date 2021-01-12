@@ -866,4 +866,32 @@ Les Brown - Author
 ***
 </p></details>
 
+<details>
+<summary>Day 35</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d25e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d25ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%2021%20-%2040/d25b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d25chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d25chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d25chs3.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- 🐱‍💻 Completed 1 Question in Linux Fundamentals 2 room in try hack me
+- ✔️ [Completed Day 12 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2021%20-%2040/d25h1.jpg)
+- ✔️ [Completed 3 Questions in applied visual design in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2021%20-%2040/d25fcc.jpg)
+- 🐱‍💻 [Completed 1 Question in Command line Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2021%20-%2040/d25lx1.jpg)
+- ✔️ Understood These Concepts
+    - S.no | Title |
+      ---- | ----- |
+      1 | [CSS Rounded Corners](https://www.w3schools.com/css/css3_borders.asp)
+      2 | [CSS Border Images](https://www.w3schools.com/css/css3_border_images.asp)
+      3 | [CSS Multiple Backgrounds](https://www.w3schools.com/css/css3_backgrounds.asp)
+      4 | [CSS Colors](https://www.w3schools.com/css/css3_colors.asp)
+- ✔️ [Completed Q 90-103 CSS Exercise Questions in w3 schools](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/Day%2021%20-%2040/d25w3.jpg)
+- 🏆 [Got Recommendation Letter from Best enlist for 30 days python internship](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/extras/d25.pdf)
+***
+</p></details>
+
 </p></details>
