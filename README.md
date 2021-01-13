@@ -895,4 +895,41 @@ Les Brown - Author
 ***
 </p></details>
 
+<details>
+<summary>Day 36</summary>
+<p>
+
+- ✔️ Elevate
+  - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d26e1.jpeg)
+  - ✔️ [Reached New Proficieny level in maths (Expert)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d26e2.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d26ls1.jpg)
+- ✔️ [Solved a question from community section in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%2021%20-%2040/d26b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d26chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d26chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d26chs3.jpg)
+- ✔️ Skillrack 
+  - ✔️ Solved Daily Challenge Question in Skillrack
+  - ✔️ [Solved 4 Questions from programming track](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/skillrack/d26sr.jpg) 
+- 🐱‍💻 Completed 1 Question in Linux Fundamentals 2 room in try hack me
+- ✔️ HackerRank
+  - ✔️ [Completed Day 13 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2021%20-%2040/d26h2.jpg)
+  - ✔️ [Earned 3 star in 30 days of code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2021%20-%2040/d26h1.jpg)
+- ✔️ [Completed 3 Questions in applied visual design in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2021%20-%2040/d26fcc.jpg)
+- ✔️ Played Cricket for 2 hours (Physical activity)
+- 🏃 [Walking -> 13735 Steps ~ 10.59 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2021-40/d26walking.jpeg)
+- 🐱‍💻 [Completed 1 Question in Command line Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2021%20-%2040/d26lx1.jpg)
+- ✔️ Understood These Concepts
+    - S.no | Title |
+      ---- | ----- |
+      1 | [CSS Gradients](https://www.w3schools.com/css/css3_gradients.asp)
+      2 | [CSS Radial Gradients](https://www.w3schools.com/css/css3_gradients_radial.asp)
+      3 | [CSS Shadow Effects](https://www.w3schools.com/css/css3_shadows.asp)
+      4 | [CSS Box Shadow](https://www.w3schools.com/css/css3_shadows_box.asp)
+      5 | [CSS Text Effects](https://www.w3schools.com/css/css3_text_effects.asp)
+      6 | [CSS Web Fonts](https://www.w3schools.com/css/css3_fonts.asp)
+- ✔️ [Completed Q 103-120 CSS Exercise Questions in w3 schools](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/Day%2021%20-%2040/d26w3.jpg)
+***
+</p></details>
+
 </p></details>
