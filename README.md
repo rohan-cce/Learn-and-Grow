@@ -952,4 +952,30 @@ Les Brown - Author
 ***
 </p></details>
 
+<details>
+<summary>Day 38</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d28e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d28ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%2021%20-%2040/d28b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d28chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d28chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d28chs3.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ [Completed Day 15 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2021%20-%2040/d28h1.jpg)
+- ✔️ [Completed 4 Questions in applied accessibility in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2021%20-%2040/d28fcc.jpg)
+- 🐱‍💻 [Completed 1 Question in Command line Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2021%20-%2040/d28lx1.jpg)
+- 🐱‍💻 Completed 1 Question in Linux Fundamentals 2 room in try hack me
+- ✔️ Understood These Concepts
+    - S.no | Title |
+      ---- | ----- |
+      1 | [CSS 2D Transforms](https://www.w3schools.com/css/css3_2dtransforms.asp)
+      2 | [CSS 3D Transforms](https://www.w3schools.com/css/css3_3dtransforms.asp)
+      3 | [CSS Transitions](https://www.w3schools.com/css/css3_transitions.asp)
+      4 | [CSS Animations](https://www.w3schools.com/css/css3_animations.asp)
+- ✔️ [Completed Q 121-138 CSS Exercise Questions in w3 schools](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/Day%2021%20-%2040/d28w3.jpg)
+***
+</p></details>
 </p></details>
