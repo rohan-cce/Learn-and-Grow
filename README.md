@@ -948,6 +948,7 @@ Les Brown - Author
 - ✔️ [Completed 4 Questions in applied visual design in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2021%20-%2040/d27fcc.jpg)
 - 🐱‍💻 Completed 1 Question in Linux Fundamentals 2 room in try hack me
 - 🐱‍💻 [Completed 1 Question in Command line Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2021%20-%2040/d27lx1.jpg)
+- 🏃 [Walking -> 10838 Steps ~ 8.3 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2021-40/d27walking.jpeg)
 ***
 </p></details>
 
