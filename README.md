@@ -1001,6 +1001,8 @@ Les Brown - Author
       2 | [CSS Grid Container](https://www.w3schools.com/css/css_grid_container.asp)
       3 | [CSS Grid Item](https://www.w3schools.com/css/css_grid_item.asp)
 - 📖 [Attempted Random Aptitude Test In indiabix.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/aptitude/Day%2021%20-%2040/d29a1.jpg)
+- 🏃 [Walking -> 6751 Steps ~ 5.15 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2021-40/d29walking.jpeg)
+- 🌐 [Created Menu Item With Hover And Shiny Effects Using Html & Css](https://rohan-cce.github.io/Menu-Item-With-Hover-And-Shiny-Effects/)
 ***
 </p></details>
 </p></details>
