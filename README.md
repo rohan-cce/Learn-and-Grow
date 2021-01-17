@@ -1005,4 +1005,27 @@ Les Brown - Author
 - 🌐 [Created Menu Item With Hover And Shiny Effects Using Html & Css](https://rohan-cce.github.io/Menu-Item-With-Hover-And-Shiny-Effects/)
 ***
 </p></details>
+<details>
+<summary>Day 40</summary>
+<p>
+
+- ✔️ Elevate
+  - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d30e1.jpeg)
+  - ✔️ [Earned New Achievement(Training Mogul ~ For Completion of 25 Workouts)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d30e2.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d30ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%2021%20-%2040/d30b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d30chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d30chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d30chs3.jpg)
+- ✔️ Skillrack
+  - ✔️ Solved Daily Challenge Question
+  - ✔️ [Solved 2 Questions in C Add-on section](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/skillrack/d30sr1.jpg)
+  - ✔️ [Solved 6 Questions in Java easy section](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/skillrack/d30sr1.jpg)
+- ✔️ [Completed Day 18 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2021%20-%2040/d30h1.jpg)
+- 🐱‍💻 Completed 1 Question in Linux Fundamentals 2 room in try hack me
+- 🐱‍💻 [Completed 3 Questions in applied accessibility in responsive web design certification by freecodecam](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2021%20-%2040/d30fcc.jpg)
+- 🐱‍💻 [Completed 1 Question in Command line Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2021%20-%2040/d30lx1.jpg)
+***
+</p></details>
 </p></details>
