@@ -1026,7 +1026,7 @@ Les Brown - Author
 - 🐱‍💻 Completed 1 Question in Linux Fundamentals 2 room in try hack me
 - 🐱‍💻 [Completed 3 Questions in applied accessibility in responsive web design certification by freecodecam](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2021%20-%2040/d30fcc.jpg)
 - 🐱‍💻 [Completed 1 Question in Command line Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2021%20-%2040/d30lx1.jpg)
-- 🎨 ![3D Steps art](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/art/d30art.jpeg)
+- 🎨 [3D Steps art](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/art/d30art.jpeg)
 ***
 </p></details>
 </p></details>
