@@ -1057,6 +1057,7 @@ John Wooden - Author
     - 🐱‍💻 [Watched and Understood 5 videos(Intro,Ip Address,Mac Address,TCP-UDP-Three way handshake,Common Ports and Protocol) in Module Network refresher of Practical Ethical Hacking by The Cyber Mentor]()
 - 🐱‍💻 [Completed 3 Questions in applied accessibility in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2021%20-%2040/d31fcc.jpg)
 - 🏃 [Walking -> 10083 Steps ~ 7.77km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2021-40/d31walking.jpeg)
+- 📖 [Attempted Random Aptitude Test In indiabix.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/aptitude/Day%2021%20-%2040/d31a.jpg)
 ***
 </p></details>
 </p></details>
