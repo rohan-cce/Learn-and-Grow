@@ -1030,3 +1030,10 @@ Les Brown - Author
 ***
 </p></details>
 </p></details>
+
+>"If you're not making mistakes, then you're not doing anything. I'm positive that a doer makes mistakes."
+John Wooden - Author
+
+<details>
+  <summary>-> Jan 18, 2021 - Jan 27, 2021</summary>
+<p>
