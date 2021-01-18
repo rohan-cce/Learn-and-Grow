@@ -1058,6 +1058,7 @@ John Wooden - Author
 - 🐱‍💻 [Completed 3 Questions in applied accessibility in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2021%20-%2040/d31fcc.jpg)
 - 🏃 [Walking -> 10083 Steps ~ 7.77km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2021-40/d31walking.jpeg)
 - 📖 [Attempted Random Aptitude Test In indiabix.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/aptitude/Day%2021%20-%2040/d31a.jpg)
+- 🌐 [Created Text Typing Effect using Html & CSS](https://rohan-cce.github.io/Typing-text-effect-using-css/)
 ***
 </p></details>
 </p></details>
