@@ -23,7 +23,7 @@ Learning Progress Till Now -> 41 Days (18/01/2021)
     - [10 HTML Elements You Didn't Know You Needed ](https://dev.to/emmabostian/10-html-element-you-didnt-know-you-needed-3jo4)
 - ✔️ Solved Day 9 Advent of Cybersecurity 2 in Tryhackme
 - ✔️ Watched and Understood Intro part of Practical Ethical Hacking by The Cyber Mentor
-- ✔️ Read And Understood (Page Number 16-27) in Data Structures and Algorithm made easy by Narsimha karumanchi
+- ✔️ Read And Understood (Page Number 16-27) in Data Structures and Algorithm made easy by Narasimha karumanchi
 ***
 </p></details>
 
@@ -39,7 +39,7 @@ Learning Progress Till Now -> 41 Days (18/01/2021)
     - [How a website can steal all your cookies](https://medium.com/@kanytu/firefox-and-how-a-website-could-steal-all-of-your-cookies-581fe4648e8d)
     - [Potential security threats to your computer](https://telegra.ph/Potential-Security-Threats-To-Your-Computer-Systems-11-16)
 - 🚧 Working on Menu Item With Hover Effect
-- ✔️ Read And Understood (Page Number 28-39) in Data Structures and Algorithm made easy by Narsimha karumanchi   
+- ✔️ Read And Understood (Page Number 28-39) in Data Structures and Algorithm made easy by Narasimha karumanchi   
 *** 
 </p></details>
 
@@ -56,7 +56,7 @@ Learning Progress Till Now -> 41 Days (18/01/2021)
 - ✔️ Solved 20 aptitude questions in [indiabix](https://www.indiabix.com/online-test/aptitude-test/random)
 - ✔️ Watched and Understood Note Keeping part of Practical Ethical Hacking by The Cyber Mentor
 - ✔️ Tried and Completed [Menu Item With Hover Effect](https://rohan-cce.github.io/Menu-Item-With-Hover-Effects/)
-- ✔️ Read And Understood (Page Number 40-61) in Data Structures and Algorithm made easy by Narsimha karumanchi
+- ✔️ Read And Understood (Page Number 40-61) in Data Structures and Algorithm made easy by Narasimha karumanchi
 - ✔️ Solved Day 11 Advent of Cybersecurity 2 in Tryhackme
 ***
 </p></details>
@@ -126,7 +126,7 @@ Learning Progress Till Now -> 41 Days (18/01/2021)
 - ✔️ Completed Blogs 
     - [6 phrases of website development](https://eternitymarketing.com/blog/6-phases-of-the-web-design-and-development-process)
 - ✔️ Added link to pentest reporting tool written in python in [github](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/Bugbounty/pentest%20report) and in [github gist](https://gist.github.com/rohan-cce/70f0e5711f672cfa2ba85435a99688dc)
-- ✔️ Read And Understood (Page Number 61-71) in Data Structures and Algorithm made easy by Narsimha karumanchi
+- ✔️ Read And Understood (Page Number 61-71) in Data Structures and Algorithm made easy by Narasimha karumanchi
 - ✔️ Solved Day 16  Advent of Cybersecurity 2 in Tryhackme
 ***
 </p></details>
