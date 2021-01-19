@@ -1083,6 +1083,9 @@ John Wooden - Author
 - 📖 [Attempted Random Aptitude Test In indiabix.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/aptitude/Day%2021%20-%2040/d32a1.jpg)
 - 🐱‍💻 [Completed 3 Questions in applied accessibility in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2021%20-%2040/d32fcc.jpg)
 - 📖 Read And Understood (Page Number 80-87) in Data Structures and Algorithm made easy by Narasimha
+- 🏃 Physical activity
+  - 🏃 [Walking -> 5042 Steps ~ 3.88 km](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2021-40/d32walking.jpeg)
+  - 🏃 Played Badminton for 1 hour
 ***
 </p></details>
 </p></details>
