@@ -1061,4 +1061,28 @@ John Wooden - Author
 - 🌐 [Created Text Typing Effect using Html & CSS](https://rohan-cce.github.io/Typing-text-effect-using-css/)
 ***
 </p></details>
+<details>
+<summary>Day 42</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d32e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d32ls1.jpg)
+- ✔️ [Solved a question from community section in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%2021%20-%2040/d32b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d32chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d32chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d32chs3.jpg)
+- ✔️ Skillrack
+  - ✔️ Solved Daily Challenge Question
+  - ✔️ [Solved 2 Questions in Java Easy Section](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/skillrack/d32sr1.jpg)
+- ✔️ [Completed Day 20 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2021%20-%2040/d32h1.jpg)
+- 🐱‍💻 Cyber Security
+    - 🐱‍💻 Completed 1 Question in Linux Fundamentals 2 room in try hack me
+    - 🐱‍💻  [Completed 1 Question in Command line Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2021%20-%2040/d32lx1.jpg)
+    - 🐱‍💻 [Watched and Understood 1 videos(The Osi Model) in Module Network refresher of Practical Ethical Hacking by The Cyber Mentor]()
+- 📖 [Attempted Random Aptitude Test In indiabix.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/aptitude/Day%2021%20-%2040/d32a1.jpg)
+- 🐱‍💻 [Completed 3 Questions in applied accessibility in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2021%20-%2040/d32fcc.jpg)
+- 📖 Read And Understood (Page Number 80-87) in Data Structures and Algorithm made easy by Narasimha
+***
+</p></details>
 </p></details>
