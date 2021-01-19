@@ -1086,6 +1086,9 @@ John Wooden - Author
 - 🏃 Physical activity
   - 🏃 [Walking -> 5042 Steps ~ 3.88 km](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2021-40/d32walking.jpeg)
   - 🏃 Played Badminton for 1 hour
+- 📝 Blogs Read
+  - 📝 [Finding Square and Cube Roots](https://www.faceprep.in/quantitative-aptitude/finding-square-roots-and-cube-roots/)
+  - 📝 [10 JavaScript One-liners ](https://medium.com/dailyjs/10-javascript-oneliners-you-have-got-to-add-your-arsenal-as-a-developer-b733cbb973b2)
 ***
 </p></details>
 </p></details>
