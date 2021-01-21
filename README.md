@@ -1120,4 +1120,36 @@ John Wooden - Author
 - 📖 Read And Understood (Page Number 87-91) in Data Structures and Algorithm made easy by Narasimha karumanchi
 ***
 </p></details>
+<details>
+<summary>Day 45</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d34e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d34ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%2021%20-%2040/d34b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d34chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d34chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d34chs3.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ [Completed Day 22 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2021%20-%2040/d34h1.jpg)
+- 📖 [Attempted Random Aptitude Test In indiabix.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/aptitude/Day%2021%20-%2040/d34a1.jpg)
+- 🐱‍💻 [Completed 3 Questions in applied accessibility in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2021%20-%2040/d34fcc.jpg)
+- 📝 Blogs Read
+  - 📝 [6 CSS Properties Nobody Is Talking About](https://medium.com/javascript-in-plain-english/6-css-properties-nobody-is-talking-about-e6cab5138d02)
+  - 📝 [8 Amazing Places To Find Design Inspirations For Free](https://medium.com/javascript-in-plain-english/8-amazing-places-to-find-design-inspirations-for-free-dd2e64abc1b0)
+- 🐱‍💻 Cyber Security
+    - 🐱‍💻 Completed 1 Question in Linux Fundamentals 2 room in try hack me
+    - 🐱‍💻 [Completed 1 Question in Command line Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2021%20-%2040/d34lx1.jpg)
+    - 🐱‍💻 [Watched and Understood 1 videos(Subnetting Part 2 - Hands-On Challenge) in Module Network refresher of Practical Ethical Hacking by The Cyber Mentor]()
+  - ✔️ Understood These Concepts
+    - S.no | Title |
+      ---- | ----- |
+      1 | [An Introduction to JavaScript](https://javascript.info/intro)
+      2 | [Code editors](https://javascript.info/code-editors)
+      3 | [Manuals and specifications](https://javascript.info/manuals-specifications)
+      4 | [Developer console](https://javascript.info/devtools)
+- 🏃 [Walking -> 2756 Steps ~ 1.71 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2021-40/d34walking.jpeg)
+- 📖 Read And Understood (Page Number 91 - 96) in Data Structures and Algorithm made easy by Narasimha karumanchi
+</p></details>
 </p></details>
