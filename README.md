@@ -1082,7 +1082,7 @@ John Wooden - Author
     - 🐱‍💻 [Watched and Understood 1 videos(The Osi Model) in Module Network refresher of Practical Ethical Hacking by The Cyber Mentor]()
 - 📖 [Attempted Random Aptitude Test In indiabix.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/aptitude/Day%2021%20-%2040/d32a1.jpg)
 - 🐱‍💻 [Completed 3 Questions in applied accessibility in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2021%20-%2040/d32fcc.jpg)
-- 📖 Read And Understood (Page Number 80-87) in Data Structures and Algorithm made easy by Narasimha
+- 📖 Read And Understood (Page Number 80-87) in Data Structures and Algorithm made easy by Narasimha karumanchi
 - 🏃 Physical activity
   - 🏃 [Walking -> 5042 Steps ~ 3.88 km](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2021-40/d32walking.jpeg)
   - 🏃 Played Badminton for 1 hour
@@ -1117,7 +1117,7 @@ John Wooden - Author
 - 📝 Blogs Read
   - 📝 [Subdomain Take Over Worth 100£](https://medium.com/bugbountywriteup/subdomain-take-over-worth-100-ce822ed85ba0)
   - 📝 [SolarWinds Hackers Also Breached Malwarebytes Cybersecurity Firm](https://thehackernews.com/2021/01/solarwinds-hackers-also-breached.html)
-- 📖 Read And Understood (Page Number 87-91) in Data Structures and Algorithm made easy by Narasimha
+- 📖 Read And Understood (Page Number 87-91) in Data Structures and Algorithm made easy by Narasimha karumanchi
 ***
 </p></details>
 </p></details>
