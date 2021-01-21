@@ -1121,7 +1121,7 @@ John Wooden - Author
 ***
 </p></details>
 <details>
-<summary>Day 45</summary>
+<summary>Day 44</summary>
 <p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d34e1.jpeg)
