@@ -1171,6 +1171,13 @@ John Wooden - Author
 - 🐱‍💻 Cyber Security
     - 🐱‍💻 Completed 1 Question in Linux Fundamentals 3 room in try hack me
     - 🐱‍💻 [Completed 1 Question in Command line Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2021%20-%2040/d35lx1.jpg)
+- ✔️ Understood These Concepts
+   - S.no | Title |
+     ---- | ----- |
+     1 | [Hello, world!](https://javascript.info/hello-world)
+     2 | [Code structure](https://javascript.info/structure)
+     3 | [The modern mode, "use strict"](https://javascript.info/strict-mode)
+     4 | [Variables](https://javascript.info/variables)
 ***
 </p></details>
 
