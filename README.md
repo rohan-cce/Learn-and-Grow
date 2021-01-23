@@ -1182,5 +1182,35 @@ John Wooden - Author
      4 | [Variables](https://javascript.info/variables)
 ***
 </p></details>
+<details>
+<summary>Day 46</summary>
+<p>
 
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d36e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d36ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%2021%20-%2040/d36b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d36chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d36chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d36chs3.jpg)
+  - 🏆 [Played puzzle 100 Times](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d36chs4.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ [Completed Day 24 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2021%20-%2040/d36h1.jpg)
+- 🐱‍💻 [Completed 8 Questions in CSS Flexbox in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2021%20-%2040/d36fcc.jpg)
+- 🐱‍💻 Cyber Security
+    - 🐱‍💻 Completed 1 Question in Linux Fundamentals 2 room in try hack me
+    - 🐱‍💻 [Completed 1 Question in Command line Lesson in linuxjourney]()
+    - 🐱‍💻 [Watched and Understood 2 videos(1.Introduction,2.Strings) in Introduction to Python Module of Practical Ethical Hacking by The Cyber Mentor](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2021%20-%2040/d36lx1.jpg)
+- ✔️ Understood These Concepts
+   - S.no | Title |
+     ---- | ----- |
+     1 | [Data types](https://javascript.info/types)
+     2 | [Interaction: alert, prompt, confirm](https://javascript.info/alert-prompt-confirm)
+- 🏃 Physical activity 
+  - 🏃 [Walking -> 8766 Steps ~ 6.69 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2021-40/d36walking.jpeg)  
+  - Played Badminton for 1 hour
+- 📖 [Attempted Random Aptitude Test In indiabix.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/aptitude/Day%2021%20-%2040/d36a1.jpg)
+- 📖 Read And Understood (Page Number 96 - 101) in Data Structures and Algorithm made easy by Narasimha karumanchi
+***
+</p></details>
 </p></details>
