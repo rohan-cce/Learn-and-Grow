@@ -1213,6 +1213,7 @@ John Wooden - Author
   - Played Badminton for 1 hour
 - 📖 [Attempted Random Aptitude Test In indiabix.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/aptitude/Day%2021%20-%2040/d36a1.jpg)
 - 📖 Read And Understood (Page Number 96 - 101) in Data Structures and Algorithm made easy by Narasimha karumanchi
+- 🌐 [Created colourful scroll progress bar using HTML CSS & Javascript](https://rohan-cce.github.io/colourful-page-scroll-progress-bar/)
 ***
 </p></details>
 </p></details>
