@@ -1091,9 +1091,11 @@ John Wooden - Author
   - 📝 [10 JavaScript One-liners ](https://medium.com/dailyjs/10-javascript-oneliners-you-have-got-to-add-your-arsenal-as-a-developer-b733cbb973b2)
 ***
 </p></details>
+
 <details>
 <summary>Day 43</summary>
 <p>
+
 - ✔️ Elevate
   - ✔️ [Completed Daily Workout Problem](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d33e2.jpeg)
   - ✔️ [Reached Advanced Proficiency Level(Writting)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d33e1.jpeg)
