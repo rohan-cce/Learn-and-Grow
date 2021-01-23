@@ -1153,6 +1153,8 @@ John Wooden - Author
       4 | [Developer console](https://javascript.info/devtools)
 - 🏃 [Walking -> 2756 Steps ~ 1.71 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2021-40/d34walking.jpeg)
 - 📖 Read And Understood (Page Number 91 - 96) in Data Structures and Algorithm made easy by Narasimha karumanchi
+- 🌐 [Created Comming Soon Webdesign using HTML CSS & Javascript](https://rohan-cce.github.io/coming-soon-website-design/#)
+***
 </p></details>
 <details>
 <summary>Day 45</summary>
