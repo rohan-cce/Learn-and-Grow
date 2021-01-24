@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 46 Days (23/01/2021)
+Learning Progress Till Now -> 47 Days (24/01/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
