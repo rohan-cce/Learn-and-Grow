@@ -1216,4 +1216,26 @@ John Wooden - Author
 - 🌐 [Created colourful scroll progress bar using HTML CSS & Javascript](https://rohan-cce.github.io/colourful-page-scroll-progress-bar/)
 ***
 </p></details>
+<details>
+<summary>Day 47</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d37e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d37ls1.jpg)
+- ✔️ [Solved a question from community section in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%2021%20-%2040/d37b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d37chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d37chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d37chs3.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ [Completed Day 25 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2021%20-%2040/d37h1.jpg)
+- 🐱‍💻 [Completed 9 Questions in CSS Flexbox in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2021%20-%2040/d37fcc.jpg)
+- 🐱‍💻 Cyber Security
+    - 🐱‍💻 Completed 1 Question in Linux Fundamentals 2 room in try hack me
+    - 🐱‍💻 [Completed 1 Question in Command line Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2021%20-%2040/d37lx1.jpg)
+- 🏃 [Walking -> 3710 Steps ~ 2.83 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2021-40/d37walking.jpeg)
+
+***
+</p></details>
+
 </p></details>
