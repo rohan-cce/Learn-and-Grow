@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 47 Days (24/01/2021)
+Learning Progress Till Now -> 48 Days (25/01/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -1237,5 +1237,33 @@ John Wooden - Author
 
 ***
 </p></details>
+<details>
+<summary>Day 48</summary>
+<p>
 
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d38e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d38ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%2021%20-%2040/d38b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d38chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d38chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d38chs3.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ [Completed Day 26 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2021%20-%2040/d38h1.jpg)
+- 🐱‍💻 [Completed 12 Questions in CSS Grids in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2021%20-%2040/d38fcc.jpg)
+- 🐱‍💻 Cyber Security
+    - 🐱‍💻 Completed 1 Question in Linux Fundamentals 2 room in try hack me
+    - 🐱‍💻 [Completed 1 Question in Text-fu Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2021%20-%2040/d38lx1.jpg)
+    - 🐱‍💻 [Watched and Understood 2 videos(1.Introduction,2.Strings) in Introduction to Python Module of Practical Ethical Hacking by The Cyber Mentor]()
+- ✔️ Understood These Concepts
+   - S.no | Title |
+     ---- | ----- |
+     1 | [Type Conversions](https://javascript.info/type-conversions)
+     2 | [Basic operators, maths](https://javascript.info/operators)
+     3 | [Comparisons](https://javascript.info/comparison)
+- 📖 [Attempted Random Aptitude Test In indiabix.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/aptitude/Day%2021%20-%2040/d38a1.jpg)
+- 🏃 [Walking -> 3921 Steps ~ 2.97 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/6f178b35b7272bdfba389082345846b324a355b3/materials/images/walking/Day%2021-40/d38walking.jpeg)
+- 📖 Read And Understood (Page Number 101-107) in Data Structures and Algorithm made easy by Narasimha karumanchi
+***
+</p></details>
 </p></details>
