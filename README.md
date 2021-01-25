@@ -1202,7 +1202,7 @@ John Wooden - Author
 - 🐱‍💻 Cyber Security
     - 🐱‍💻 Completed 1 Question in Linux Fundamentals 2 room in try hack me
     - 🐱‍💻 [Completed 1 Question in Command line Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2021%20-%2040/d36lx1.jpg)
-    - 🐱‍💻 [Watched and Understood 2 videos(1.Introduction,2.Strings) in Introduction to Python Module of Practical Ethical Hacking by The Cyber Mentor](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2021%20-%2040/d36lx1.jpg)
+    - 🐱‍💻 [Watched and Understood 2 videos(1.Introduction,2.Strings) in Introduction to Python Module of Practical Ethical Hacking by The Cyber Mentor]()
 - ✔️ Understood These Concepts
    - S.no | Title |
      ---- | ----- |
