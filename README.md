@@ -1290,6 +1290,7 @@ John Wooden - Author
   - 📝 [Vulnerability with VLC Player 3.0.11 Let Attackers Execute Code Remotely](https://cybersecuritynews.com/vlc-player-vulnerability/)
   - 📝 [Beware — A New Wormable Android Malware Spreading Through WhatsApp](https://thehackernews.com/2021/01/beware-new-wormable-android-malware.html)
 - 📖 Read And Understood (Page Number 107-122) in Data Structures and Algorithm made easy by Narasimha karumanchi
+- 🌐 [Created 3D Image Hover Effect using HTML & CSS](https://rohan-cce.github.io/3D-Image-Hover-Effect/)
 ***
 </p></details>
 </p></details>
