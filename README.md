@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 48 Days (25/01/2021)
+Learning Progress Till Now -> 49 Days (26/01/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -1264,6 +1264,32 @@ John Wooden - Author
 - 📖 [Attempted Random Aptitude Test In indiabix.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/aptitude/Day%2021%20-%2040/d38a1.jpg)
 - 🏃 [Walking -> 3921 Steps ~ 2.97 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/6f178b35b7272bdfba389082345846b324a355b3/materials/images/walking/Day%2021-40/d38walking.jpeg)
 - 📖 Read And Understood (Page Number 101-107) in Data Structures and Algorithm made easy by Narasimha karumanchi
+***
+</p></details>
+<details>
+<summary>Day 49</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d39e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d39ls1.jpg)
+- ✔️ [Solved a question from community section in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%2021%20-%2040/d39b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d39chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d39chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2021%20-%2040/d39chs3.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ [Completed Day 27 Task in 30 Days of Code Challenge in Hackerrank](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2021%20-%2040/d39h1.jpg)
+- 🐱‍💻 [Completed 10 Questions in CSS Grids in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2021%20-%2040/d39fcc.jpg)
+- 🐱‍💻 Cyber Security
+    - 🐱‍💻 Completed 1 Question in Linux Fundamentals 3 room in try hack me
+    - 🐱‍💻 [Completed 1 Question in Text-fu Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2021%20-%2040/d39lx1.jpg)
+    - 🐱‍💻 [Watched and Understood 2 videos(6. Boolean Expressions,7. Releational and Boolean Operators) in Introduction to Python Module of Practical Ethical Hacking by The Cyber Mentor]()
+- 📖 [Attempted Random Aptitude Test In indiabix.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/aptitude/Day%2021%20-%2040/d39a1.jpg)
+- 📝 Blogs Read
+  - 📝 [Finding My First Bug: HTTP Request Smuggling](https://dun930nmaster.medium.com/finding-my-first-bug-http-request-smuggling-5fdc89581fe2)
+  - 📝 [Vulnerability with VLC Player 3.0.11 Let Attackers Execute Code Remotely](https://cybersecuritynews.com/vlc-player-vulnerability/)
+  - 📝 [Beware — A New Wormable Android Malware Spreading Through WhatsApp](https://thehackernews.com/2021/01/beware-new-wormable-android-malware.html)
+- 📖 Read And Understood (Page Number 107-122) in Data Structures and Algorithm made easy by Narasimha karumanchi
 ***
 </p></details>
 </p></details>
