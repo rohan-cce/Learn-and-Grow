@@ -1312,6 +1312,11 @@ John Wooden - Author
 - 🐱‍💻 Cyber Security
     - 🐱‍💻 Completed 1 Question in Linux Fundamentals 3 room in try hack me
     - 🐱‍💻 [Completed 1 Question in Text-fu Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2021%20-%2040/d40lx1.jpg)
+- ✔️ Understood These Concepts
+   - S.no | Title |
+     ---- | ----- |
+     1 | [Nullish coalescing operator '??'](https://javascript.info/nullish-coalescing-operator)
+     2 | [Loops: while and for](https://javascript.info/while-for)  
 ***
 </p></details>
 </p></details>
