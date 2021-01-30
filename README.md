@@ -1396,7 +1396,8 @@ John Wooden - Author
     - 🐱‍💻 Completed 1 Question in Linux Fundamentals 3 room in try hack me
     - 🐱‍💻 [Completed 1 Question in Text-fu Lesson in linuxjourney]
     - 🐱‍💻 [Watched and Understood 3 videos(conditional statements,lists,tuples)in Introduction to Python Module of Practical Ethical Hacking by The Cyber Mentor]
-    
+- 🏃 [Walking -> 8592 Steps ~ 5.3 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2041-60/d43walking.jpeg)
+- 🎨[Tried 3d art](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/art/d43art.jpeg)
 ***
 </p></details>
 </p></details>
