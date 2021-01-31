@@ -1385,8 +1385,8 @@ John Wooden - Author
   - ✔️ [Completed sum & differences program in hackerrank c language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2041%20-%2060/d43h1.jpg)
   - ✔️ [Completed functions program in hackerrank c language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2041%20-%2060/d43h3.jpg)
 - 🐱‍💻 Freecodecamp
-  - 🐱‍💻 [Completed 10 Questions in Javascript basics in Javascript algorithms and datastructures  certification](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2021%20-%2040/d43fcc.jpg)
-  - 🐱‍💻 [Built a tribute page in responsive web design project](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2021%20-%2040/d43fcc.jpg)
+  - 🐱‍💻 [Completed 10 Questions in Javascript basics in Javascript algorithms and datastructures  certification](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2041-60/d43fcc1.jpg)
+  - 🐱‍💻 [Built a tribute page in responsive web design project](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2041-60/d43fcc.jpg)
 - ✔️ Understood These Concepts
    - S.no | Title |
      ---- | ----- |
@@ -1394,8 +1394,8 @@ John Wooden - Author
      2 | [JavaScript specials](https://javascript.info/javascript-specials)
 - 🐱‍💻 Cyber Security
     - 🐱‍💻 Completed 1 Question in Linux Fundamentals 3 room in try hack me
-    - 🐱‍💻 [Completed 1 Question in Text-fu Lesson in linuxjourney]
-    - 🐱‍💻 [Watched and Understood 3 videos(conditional statements,lists,tuples)in Introduction to Python Module of Practical Ethical Hacking by The Cyber Mentor]
+    - 🐱‍💻 [Completed 1 Question in Text-fu Lesson in linuxjourney]()
+    - 🐱‍💻 [Watched and Understood 3 videos(conditional statements,lists,tuples)in Introduction to Python Module of Practical Ethical Hacking by The Cyber Mentor]()
 - 🏃 [Walking -> 8592 Steps ~ 5.3 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2041-60/d43walking.jpeg)
 - 🎨[Tried 3d art](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/art/d43art.jpeg)
 ***
