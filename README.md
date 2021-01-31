@@ -1400,5 +1400,37 @@ John Wooden - Author
 - 🎨[Tried 3d art](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/art/d43art.jpeg)
 ***
 </p></details>
+<details>
+<summary>Day 54</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2041%20-%2060/d44e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2041%20-%2060/d44ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%2041%20-%2060/d44b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2041%20-%2060/d44chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2041%20-%2060/d44chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2041%20-%2060/d43chs3.jpg)
+  - ✔️ [Completed 1 lesson (knight moves)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2041%20-%2060/d44chs4.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - 🏆 [Completed Introduction challenge in c](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2041%20-%2060/d44h1.jpg)
+  - ✔️ [Completed simple array sum program in hackerrank problem solving challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2041%20-%2060/d44h2.jpg)
+  - ✔️ [Completed pointers program in hackerrank c language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2041%20-%2060/d44h3.jpg)
+- 🐱‍💻 Freecodecamp
+  - 🐱‍💻 [Completed 10 Questions in Javascript basics in Javascript algorithms and datastructures  certification](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2041-60/d44fcc1.jpg)
+  - 🐱‍💻 [Completed Responsive Web Design Certification](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2041-60/responsive%20web%20design.png)
+  - ✔️ Understood These Concepts
+   - S.no | Title |
+     ---- | ----- |
+     1 | [Debugging in Chrome](https://javascript.info/debugging-chrome)
+     2 | [Coding Style](https://javascript.info/coding-style)
+- 🐱‍💻 Cyber Security
+    - 🐱‍💻 Completed 1 Question in Linux Fundamentals 3 room in try hack me
+    - 🐱‍💻 [Completed 1 Question in Text-fu Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2041%20-%2060/d44lx1.jpg)
+    - 🐱‍💻 [Watched and Understood 2 videos(Looping, Importing Modules)in Introduction to Python Module of Practical Ethical Hacking by The Cyber Mentor]()
+- 🏃 [Walking -> 8852 Steps ~ 5.49 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2041-60/d44walking.jpeg)
+***
+</p></details>
 </p></details>
 
