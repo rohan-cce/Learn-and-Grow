@@ -1432,5 +1432,32 @@ John Wooden - Author
 - 🏃 [Walking -> 8852 Steps ~ 5.49 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2041-60/d44walking.jpeg)
 ***
 </p></details>
+<details>
+<summary>Day 55</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2041%20-%2060/d45e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2041%20-%2060/d45ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%2041%20-%2060/d45b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2041%20-%2060/d45chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2041%20-%2060/d45chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2041%20-%2060/d45chs3.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed Compare the Triplets program in hackerrank problem solving challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2041%20-%2060/d45h2.jpg)
+  - ✔️ [Completed Conditional Statements program in hackerrank c language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2041%20-%2060/d45h1.jpg)
+- 🐱‍💻 [Completed 10 Questions in Javascript basics in Javascript algorithms and datastructures  certification in freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2041-60/d45fcc.jpg)
+- ✔️ Understood These Concepts
+   - S.no | Title |
+     ---- | ----- |
+     1 | [Comments](https://javascript.info/comments)
+     2 | [Ninja code](https://javascript.info/ninja-code)
+- 🐱‍💻 Cyber Security
+    - 🐱‍💻 Completed 9 Questions in Linux Fundamentals 3 room in try hack me
+    - 🐱‍💻 [Completed 1 Question in Text-fu Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2041%20-%2060/d45lx1.jpg)
+    - 🐱‍💻 [Watched and Understood 2 videos(Advanced Strings, Dictionaries)in Introduction to Python Module of Practical Ethical Hacking by The Cyber Mentor]()
+***
+</p></details>
 </p></details>
 
