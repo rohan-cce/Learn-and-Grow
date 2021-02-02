@@ -1488,6 +1488,7 @@ John Wooden - Author
     - 🐱‍💻 [Completed Linux Fundamentals 3 room in try hack me](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/thm/Day%2041%20-%2060/d46thm.jpg)
     - 🐱‍💻 [Completed 1 Question in Text-fu Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2041%20-%2060/d46lx1.jpg)
     - 🐱‍💻 [Watched and Understood 1 videos(Sockets)in Introduction to Python Module of Practical Ethical Hacking by The Cyber Mentor]()
+- 📖 Read And Understood (Page Number 163-173) in Data Structures and Algorithm made easy by Narasimha karumanchi
 ***
 </p></details>
 </p></details>
