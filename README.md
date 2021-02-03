@@ -1512,7 +1512,7 @@ John Wooden - Author
      ---- | ----- |
      1 | [Objects](https://javascript.info/object)
      2 | [Object references and copying](https://javascript.info/object-copy)
-     3 | [Garbage collection}(https://javascript.info/garbage-collection)
+     3 | [Garbage collection](https://javascript.info/garbage-collection)
 - 🐱‍💻 Cyber Security
     - 🐱‍💻 [Completed 1 Question in nmap room in try hack me]
     - 🐱‍💻 [Completed 1 Question in Text-fu Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2041%20-%2060/d47lx1.jpg)
