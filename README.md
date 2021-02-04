@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 58 Days (03/02/2021)
+Learning Progress Till Now -> 58 Days (04/02/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -1539,6 +1539,12 @@ John Wooden - Author
 - 🐱‍💻 Cyber Security
     - 🐱‍💻 [Completed 1 Question in nmap room in try hack me]
     - 🐱‍💻 [Completed 1 Question in Text-fu Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2041%20-%2060/d48lx1.jpg)
+- ✔️ Understood These Concepts
+   - S.no | Title |
+     ---- | ----- |
+     1 | [Object methods, "this"](https://javascript.info/object-methods)
+     2 | [Constructor, operator "new"](https://javascript.info/constructor-new)
+     3 | [Optional chaining '?.'](https://javascript.info/optional-chaining)
 ***
 </p></details>
 </p></details>
