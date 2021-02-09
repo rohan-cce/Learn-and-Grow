@@ -1653,4 +1653,30 @@ John Wooden - Author
     - 🐱‍💻 [Completed 1 Question in Text-fu Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2041%20-%2060/d52lx1.jpg)
 ***
 </p></details>
+<details>
+<summary>Day 63</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2041%20-%2060/d53e1.jfif)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2041%20-%2060/d53ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%2041%20-%2060/d53b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2041%20-%2060/d53chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2041%20-%2060/d53chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2041%20-%2060/d53chs3.jpg)
+- ✔️ Hackerrank
+  - ✔️ [Completed grading student program in hackerrank problem solving challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2041%20-%2060/d53h2.jpg)
+  - ✔️ [Completed printing tokens program in hackerrank c language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2041%20-%2060/d53h1.jpg)
+  - 🏆 [Earned 2nd star in problem solving challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2041%20-%2060/d53h3.jpg)
+- 🐱‍💻 [Completed 6 Questions in ES6 in Javascript algorithms and datastructures  certification in freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2041-60/d53fcc.jpg)
+- 🐱‍💻 Cyber Security
+    - 🐱‍💻 [Completed 1 Question in nmap room in try hack me]
+- ✔️ Understood These Concepts
+   - S.no | Title |
+     ---- | ----- |
+     1 | [Methods of primitives](https://javascript.info/primitives-methods)
+     2 | [Numbers](https://javascript.info/number)
+     3 | [Strings](https://javascript.info/string)
+***
+</p></details>
 </p></details>
