@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 63 Days (09/02/2021)
+Learning Progress Till Now -> 64 Days (10/02/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -1677,6 +1677,30 @@ John Wooden - Author
      1 | [Methods of primitives](https://javascript.info/primitives-methods)
      2 | [Numbers](https://javascript.info/number)
      3 | [Strings](https://javascript.info/string)
+***
+</p></details>
+<details>
+<summary>Day 64</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2041%20-%2060/d54e1.jfif)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2041%20-%2060/d54ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%2041%20-%2060/d54b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2041%20-%2060/d54chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2041%20-%2060/d54chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2041%20-%2060/d53chs3.jpg)
+  - 🏆 [Earned puzzle ace badge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2041%20-%2060/d54chs4.jpg)
+- ✔️ Hackerrank
+  - ✔️ [Completed breaking the records program in hackerrank problem solving challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2041%20-%2060/d53h2.jpg)
+  - ✔️ [Completed Digit frequency program in hackerrank c language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2041%20-%2060/d53h1.jpg)
+- 🐱‍💻 [Completed 6 Questions in ES6 in Javascript algorithms and datastructures  certification in freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2041-60/d54fcc.jpg)
+- 🐱‍💻 Cyber Security
+    - 🐱‍💻 [Completed 1 Question in nmap room in try hack me]
+- ✔️ Understood These Concepts
+   - S.no | Title |
+     ---- | ----- |
+     1 | [Arrays](https://javascript.info/array)
 ***
 </p></details>
 </p></details>
