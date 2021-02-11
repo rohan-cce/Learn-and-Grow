@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 64 Days (10/02/2021)
+Learning Progress Till Now -> 65 Days (11/02/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -1701,6 +1701,33 @@ John Wooden - Author
    - S.no | Title |
      ---- | ----- |
      1 | [Arrays](https://javascript.info/array)
+***
+</p></details>
+<details>
+<summary>Day 65</summary>
+<p>
+
+- ✔️ Elevate
+  - ✔️ [Completed Daily Workout Problem](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2041%20-%2060/d55e1.jfif)
+  - 🏆 [New Achievement Training Tycoon ~(Complete 50 workouts)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2041%20-%2060/d55e2.jfif)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2041%20-%2060/d55ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%2041%20-%2060/d55b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2041%20-%2060/d55chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2041%20-%2060/d55chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2041%20-%2060/d55chs3.jpg)
+- ✔️ Hackerrank
+  - ✔️ [Completed Cats and a Mouse program in hackerrank problem solving challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2041%20-%2060/d55h2.jpg)
+  - ✔️ [Completed Variadic functions in hackerrank c language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2041%20-%2060/d55h1.jpg)
+  - ✔️ [Completed Revising the Select Query I in hackerrank sql language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2041%20-%2060/d55h4.jpg)
+  - 🏆 [Earned 4th star in c language](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2041%20-%2060/d55h3.jpg)
+- 🐱‍💻 [Completed 3 Questions in ES6 in Javascript algorithms and datastructures certification in freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%2041-60/d55fcc.jpg)
+- 🐱‍💻 Cyber Security
+    - 🐱‍💻 [Completed 1 Question in nmap room in try hack me]
+- ✔️ Understood These Concepts
+   - S.no | Title |
+     ---- | ----- |
+     1 | [Array methods](https://javascript.info/array-methods)
 ***
 </p></details>
 </p></details>
