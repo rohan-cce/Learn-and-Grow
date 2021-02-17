@@ -1819,3 +1819,29 @@ John Wooden - Author
     - 🐱‍💻 [Completed 1 Question in nmap room in try hack me]
 </p></details>
 </p></details>
+
+>“You cannot dream yourself into a character; you must hammer and forge yourself one.” ―Henry David Thoreau
+
+<details>
+<summary>-> Feb 17, 2021 - Feb 26, 2021</summary>
+<p>
+
+<details>
+<summary>Day 71</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2061%20-%2080/d61e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2061%20-%2080/d61ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%2061%20-%2080/d61b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2061%20-%2080/d61chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2061%20-%2080/d61chs2.jpg)
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 program in hackerrank problem solving challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2061%20-%2080/d61h2.jpg)
+  - ✔️ [Completed 1 program in hackerrank c language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2061%20-%2080/d61h1.jpg)
+  - ✔️ [Completed 1 Question in hackerrank sql language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2061%20-%2080/d61h3.jpg)
+- 🐱‍💻 Cyber Security
+    - 🐱‍💻 [Completed 1 Question in nmap room in try hack me]
+***
+</p></details>
+</p></details>
