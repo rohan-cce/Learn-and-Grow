@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 71 Days (17/02/2021)
+Learning Progress Till Now -> 72 Days (18/02/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -1840,6 +1840,23 @@ John Wooden - Author
   - ✔️ [Completed 1 program in hackerrank problem solving challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2061%20-%2080/d61h2.jpg)
   - ✔️ [Completed 1 program in hackerrank c language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2061%20-%2080/d61h1.jpg)
   - ✔️ [Completed 1 Question in hackerrank sql language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2061%20-%2080/d61h3.jpg)
+- 🐱‍💻 Cyber Security
+    - 🐱‍💻 [Completed 1 Question in nmap room in try hack me]
+***
+</p></details>
+<details>
+<summary>Day 72</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2061%20-%2080/d62e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2061%20-%2080/d62ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%2061%20-%2080/d62b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2061%20-%2080/d62chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2061%20-%2080/d62chs2.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank sql language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2061%20-%2080/d62h3.jpg)
 - 🐱‍💻 Cyber Security
     - 🐱‍💻 [Completed 1 Question in nmap room in try hack me]
 ***
