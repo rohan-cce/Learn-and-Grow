@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 75 Days (21/02/2021)
+Learning Progress Till Now -> 76 Days (22/02/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -1912,6 +1912,22 @@ John Wooden - Author
   - ✔️ [Completed 1 Question in hackerrank c language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2061%20-%2080/d65h1.jpg)
   - 🏆 [Earned 2nd star in sql language](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2061%20-%2080/d65h4.jpg)
   - ✔️ [Completed 1 Question in hackerrank sql language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2061%20-%2080/d65h3.jpg)
+- 🐱‍💻 Cyber Security
+    - 🐱‍💻 [Completed 1 Question in nmap room in try hack me]
+***
+</p></details>
+<details>
+<summary>Day 76</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2061%20-%2080/d66e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2061%20-%2080/d66ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%2061%20-%2080/d66b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2061%20-%2080/d66chs1.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank sql language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2061%20-%2080/d66h3.jpg)
 - 🐱‍💻 Cyber Security
     - 🐱‍💻 [Completed 1 Question in nmap room in try hack me]
 ***
