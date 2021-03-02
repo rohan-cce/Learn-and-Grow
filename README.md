@@ -2103,6 +2103,9 @@ John Wooden - Author
   - 🏆 [Earned 3rd star in problem solving challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2061%20-%2080/d74h4.jpg)
 - 🐱‍💻 Cyber Security
     - 🐱‍💻 [Completed 1 Question in cryptography for beginners in TryHackme]
+- 👂🏻 [Watched a Tedx video on the topic "Ink made of air pollution by Anirudh Sharma"](https://youtu.be/Dig_QFPPPtE)
+- 📖 [Read 1st chapter in the book "The Monk Who Sold His Ferrari by Robin Sharma"]
+- 📰 [Daily English News](https://qz.com/india/)
 ***
 </p></details>
 
