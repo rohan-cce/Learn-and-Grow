@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 87 Days (05/03/2021)
+Learning Progress Till Now -> 88 Days (06/03/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -2168,6 +2168,26 @@ John Wooden - Author
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2061%20-%2080/d77chs3.jpg)
 - ✔️ Hackerrank
   - ✔️ [Completed 1 Question in hackerrank sql language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2061%20-%2080/d77h3.jpg)
+- 🐱‍💻 Cyber Security
+    - 🐱‍💻 [Completed 1 Question in cryptography for beginners in TryHackme]
+***
+</p></details>
+<details>
+<summary>Day 88</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2061%20-%2080/d78e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2061%20-%2080/d78ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%2061%20-%2080/d78b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2061%20-%2080/d78chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2061%20-%2080/d87hs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2061%20-%2080/d78chs3.jpg)
+  - 🏆 [Got a rating of 1000 in Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2061%20-%2080/d76chs4.jpg)
+  - ✔️ [Played and won puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2061%20-%2080/d76chs5.jpg)  
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank sql language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2061%20-%2080/d78h3.jpg)
+  - ✔️ [Completed 1 Question in hackerrank python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2061%20-%2080/d78h5.jpg)
 - 🐱‍💻 Cyber Security
     - 🐱‍💻 [Completed 1 Question in cryptography for beginners in TryHackme]
 ***
