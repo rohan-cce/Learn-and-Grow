@@ -2364,6 +2364,7 @@ John Wooden - Author
     - 🐱‍💻 [Completed 1 Question in advent of cyber room in Try Hack me]
 - 👂🏻 [Watched a Youtube video "Norway's Wireless Charging Roads"](https://www.youtube.com/watch?v=oVEuOtRLNzc)
 - 📰 [Daily English News](https://qz.com/india/)
+- 🏃 [Walking -> 16363 ~ 10.2 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2081%20-%20100/d86walking.jpg)
 ***
 </p></details>
 </p></details>
