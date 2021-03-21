@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 102 Days (20/03/2021)
+Learning Progress Till Now -> 103 Days (21/03/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -2486,7 +2486,7 @@ John Wooden - Author
 - ✔️ LeetCode
   - ✔️ [Created an account in leet code](leetcode.com)
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%2081%20-%20100/d92leetcode.png)
-  - ✔️ [Solved 11 questions in skillrack programming track module]() 
+- ✔️ [Solved 11 questions in skillrack programming track module]() 
 - ✔️ Hackerrank
   - ✔️ [Completed 1 Question in hackerrank python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2081%20-%20100/d92h5.jpg)
 - 🐱‍💻 Cyber Security
@@ -2497,5 +2497,25 @@ John Wooden - Author
 - 📖 [Read 5th chapter in the book "The Monk Who Sold His Ferrari by Robin Sharma"]
 ***
 </p></details>
+<details>
+<summary>Day 103</summary>
+<p>
 
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2081%20-%20100/d93e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2081%20-%20100/d93ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%2081-100/d93b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2081%20-%20100/d93chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2081%20-%20100/d93chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2081%20-%20100/d93chs3.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%2081%20-%20100/d93leetcode.png)
+- ✔️ [Solved 3 questions in skillrack programming track module]() 
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2081%20-%20100/d93h5.jpg)
+- 🐱‍💻 Cyber Security
+    - 🐱‍💻 [Completed 1 Question in advent of cyber room in Try Hack me]
+- 📰 [Daily English News](https://qz.com/india/)
+***
+</p></details>
 </p></details>
