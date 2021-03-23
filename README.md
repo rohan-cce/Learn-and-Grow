@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 104 Days (22/03/2021)
+Learning Progress Till Now -> 105 Days (23/03/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -2537,7 +2537,28 @@ John Wooden - Author
 - 🐱‍💻 Cyber Security
     - 🐱‍💻 [Completed 1 Question in advent of cyber room in Try Hack me]
 - 📰 [Daily English News](https://qz.com/india/)
-- 🏃 [Walking -> 11147 ~ 6.8 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2081%20-%20100/d92walking.jpg)
+- 🏃 [Walking -> 11147 ~ 6.8 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2081%20-%20100/d94walking.jpg)
+***
+</p></details>
+<details>
+<summary>Day 105</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2081%20-%20100/d95e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2081%20-%20100/d95ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%2081-100/d95b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2081%20-%20100/d95chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2081%20-%20100/d95chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2081%20-%20100/d95chs3.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%2081%20-%20100/d95leetcode.png)
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2081%20-%20100/d95h5.jpg)
+- 🐱‍💻 Cyber Security
+    - 🐱‍💻 [Completed 1 Question in advent of cyber room in Try Hack me]
+- 📰 [Daily English News](https://qz.com/india/)
+- 🏃 [Walking -> 16507 ~ 10.1 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2081%20-%20100/d95walking.jpg)
 ***
 </p></details>
 </p></details>
