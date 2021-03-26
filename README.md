@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 107 Days (25/03/2021)
+Learning Progress Till Now -> 108 Days (26/03/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -2601,6 +2601,25 @@ John Wooden - Author
   - ✔️ [Completed 1 Question in hackerrank sql language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2081%20-%20100/d97h3.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
 - 👂🏻 [Watched a Youtube video "Working backward to solve problems - Maurice Ashley"](https://www.youtube.com/watch?v=v34NqCbAA1c)
+***
+</p></details>
+<details>
+<summary>Day 108</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2081%20-%20100/d98e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2081%20-%20100/d98ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%2081-100/d98b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2081%20-%20100/d98chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2081%20-%20100/d98chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2081%20-%20100/d98chs3.jpg) 
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%2081%20-%20100/d98leetcode.png)
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2081%20-%20100/d98h5.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "How the world's longest underwater tunnel was built - Alex Gendler"](https://www.youtube.com/watch?v=qNS2jj2w-GI)
 ***
 </p></details>
 </p></details>
