@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 108 Days (26/03/2021)
+Learning Progress Till Now -> 109 Days (27/03/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -2465,7 +2465,7 @@ John Wooden - Author
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2081%20-%20100/d91chs3.jpg)
 - ✔️ Hackerrank
   - ✔️ [Completed 1 Question in hackerrank sql language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2081%20-%20100/d91h3.jpg)
-  - 🏆 [Earned 4th star in sql language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2081%20-%20100/d81h4.jpg)
+  - 🏆 [Earned 4th star in sql language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2081%20-%20100/d91h4.jpg)
 - 🐱‍💻 Cyber Security
     - 🐱‍💻 [Completed 1 Question in advent of cyber room in Try Hack me]
 - 📰 [Daily English News](https://qz.com/india/)
@@ -2620,6 +2620,29 @@ John Wooden - Author
   - ✔️ [Completed 1 Question in hackerrank python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2081%20-%20100/d98h5.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
 - 👂🏻 [Watched a Youtube video "How the world's longest underwater tunnel was built - Alex Gendler"](https://www.youtube.com/watch?v=qNS2jj2w-GI)
+***
+</p></details>
+<details>
+<summary>Day 109</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2081%20-%20100/d99e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2081%20-%20100/d99ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%2081-100/d99b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2081%20-%20100/d99chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2081%20-%20100/d99chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2081%20-%20100/d99chs3.jpg) 
+  - ✔️ [Played and won puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%2081%20-%20100/d96chs5.jpg)  
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%2081%20-%20100/d99leetcode.png)
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2081%20-%20100/d99h5.jpg)
+  - ✔️ [Completed 4 Questions in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2081%20-%20100/d99h9.jpg)
+  - 🏆 [Earned 4th star in python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2081%20-%20100/d99h4.jpg)
+  - 🏆 [Earned 1st star in java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%2081%20-%20100/d99h41.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Suez Canal blocked after huge container ship wedged across it - BBC News"](https://www.youtube.com/watch?v=C06Q4Mft0yQ)
 ***
 </p></details>
 </p></details>
