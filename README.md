@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 109 Days (28/03/2021)
+Learning Progress Till Now -> 111 Days (29/03/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -2665,6 +2665,35 @@ John Wooden - Author
 - 👂🏻 [Watched a Youtube video "Why Big Dairy Companies Struggle In India - CNBC"](https://www.youtube.com/watch?v=4mBiFEspcIM)
 - 🏃 [Walking -> 7698 ~ 5 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2081%20-%20100/d100walking.jpg)
 - 🏃 Played cricket for 4 hours (Physical activity)
+***
+</p></details>
+</p></details>
+
+>>“ Little by little becomes a lot.” Anonymous.
+<details>
+<summary>-> Mar 29, 2021 - Apr 07, 2021</summary>
+<p>
+
+
+<details>
+<summary>Day 111</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate]()
+- ✔️ [Completed Daily Workout Problem in lumosity]()
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20101%20-%20120/d101b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d101chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d101chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d101chs3.jpg)
+  - ✔️ [Played and won puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d101chs5.jpg)  
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge]()
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20101%20-%20120/d101h6.jpg)
+    - 📰 [Daily English News](https://qz.com/india/)
+    - 👂🏻 [Watched a Youtube video "What I Wish I Knew at 20"](https://www.youtube.com/watch?v=SyXIdJMbMBs)
+- 🏃 [Walking -> 3025 ~ 1.7 km (Physical activity)]()
 ***
 </p></details>
 </p></details>
