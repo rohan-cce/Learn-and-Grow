@@ -2669,7 +2669,7 @@ John Wooden - Author
 </p></details>
 </p></details>
 
->>“ Little by little becomes a lot.” Anonymous.
+>“ Little by little becomes a lot.” Anonymous.
 <details>
 <summary>-> Mar 29, 2021 - Apr 07, 2021</summary>
 <p>
@@ -2691,8 +2691,8 @@ John Wooden - Author
   - ✔️ [Completed 1 Question in hackerrank Java language challenge]()
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20101%20-%20120/d101h6.jpg)
-    - 📰 [Daily English News](https://qz.com/india/)
-    - 👂🏻 [Watched a Youtube video "What I Wish I Knew at 20"](https://www.youtube.com/watch?v=SyXIdJMbMBs)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "What I Wish I Knew at 20"](https://www.youtube.com/watch?v=SyXIdJMbMBs)
 - 🏃 [Walking -> 3025 ~ 1.7 km (Physical activity)]()
 ***
 </p></details>
