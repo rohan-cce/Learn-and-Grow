@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 112 Days (30/03/2021)
+Learning Progress Till Now -> 113 Days (31/03/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -2716,4 +2716,29 @@ John Wooden - Author
 - 🏃 [Walking -> 13010 ~ 8.0 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/cd8b7f37cfd010d0aa53adca6b082d660f0daf6e/materials/images/walking/Day%20101%20-%20120/d102walking.jpg)
 ***
 </p></details>
+
+<details>
+<summary>Day 113</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/cd8b7f37cfd010d0aa53adca6b082d660f0daf6e/materials/images/elevate/Day%20101%20-%20120/d103e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/cd8b7f37cfd010d0aa53adca6b082d660f0daf6e/materials/images/lumosity/Day%20101%20-%20120/d103ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20101%20-%20120/d103b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d103chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d103chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d103chs3.jpg)
+  - ✔️ [Played and won puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d103chs5.jpg)  
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/cd8b7f37cfd010d0aa53adca6b082d660f0daf6e/materials/images/hackerrank/Day%20101%20-%20120/d103h6.jpg)
+  - 🏆 [Earned 2nd star in Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/cd8b7f37cfd010d0aa53adca6b082d660f0daf6e/materials/images/hackerrank/Day%20101%20-%20120/d103h4.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20101%20-%20120/d103h6.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "How A Small Company In India Produces Over 2000 Tons Of Holi Powder Each Year | Big Business"](https://www.youtube.com/watch?v=Uj90lnAjbw0)
+- 👂🏻 [Watched a Youtube video "How Waste Is Dealt With On The World's Largest Cruise Ship"](https://www.youtube.com/watch?v=WyT8i6NYLZM)
+- 👂🏻 [Watched a Youtube video "Sneaky Ways Fast Food Restaurants Get You To Spend Money"](https://www.youtube.com/watch?v=VooHiweb1sw)
+***
+</p></details>
+
 </p></details>
