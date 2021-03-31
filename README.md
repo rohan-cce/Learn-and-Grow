@@ -2700,8 +2700,8 @@ John Wooden - Author
 <summary>Day 112</summary>
 <p>
 
-- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/cd8b7f37cfd010d0aa53adca6b082d660f0daf6e/materials/images/elevate/Day%20101%20-%20120/d102e1.jpg)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/cd8b7f37cfd010d0aa53adca6b082d660f0daf6e/materials/images/lumosity/Day%20101%20-%20120/d102ls1.jpg)
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/035e685517cb993097419b634ea14a8d4ea99f16/materials/images/elevate/Day%20101%20-%20120/d102e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/035e685517cb993097419b634ea14a8d4ea99f16/materials/images/lumosity/Day%20101%20-%20120/d102ls1.jpg)
 - ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20101%20-%20120/d102b1.jpg)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d102chs1.jpg)
@@ -2721,8 +2721,8 @@ John Wooden - Author
 <summary>Day 113</summary>
 <p>
 
-- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/cd8b7f37cfd010d0aa53adca6b082d660f0daf6e/materials/images/elevate/Day%20101%20-%20120/d103e1.jpg)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/cd8b7f37cfd010d0aa53adca6b082d660f0daf6e/materials/images/lumosity/Day%20101%20-%20120/d103ls1.jpg)
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/3bb78c2db98ad4dc2f0f27da716c2fafb46e9b10/materials/images/elevate/Day%20101%20-%20120/d103e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/3bb78c2db98ad4dc2f0f27da716c2fafb46e9b10/materials/images/lumosity/Day%20101%20-%20120/d103ls1.jpg)
 - ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20101%20-%20120/d103b1.jpg)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d103chs1.jpg)
