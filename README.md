@@ -2745,8 +2745,8 @@ John Wooden - Author
 <summary>Day 114</summary>
 <p>
 
-- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/3bb78c2db98ad4dc2f0f27da716c2fafb46e9b10/materials/images/elevate/Day%20101%20-%20120/d104e1.jpg)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/3bb78c2db98ad4dc2f0f27da716c2fafb46e9b10/materials/images/lumosity/Day%20101%20-%20120/d104ls1.jpg)
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/243c2f53501d69f04db0ec8f979eb9e5e091a917/materials/images/elevate/Day%20101%20-%20120/d104e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/243c2f53501d69f04db0ec8f979eb9e5e091a917/materials/images/elevate/Day%20101%20-%20120/d104e1.jpg)
 - ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20101%20-%20120/d104b1.jpg)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d104chs1.jpg)
