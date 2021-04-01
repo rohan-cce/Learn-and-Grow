@@ -2674,7 +2674,6 @@ John Wooden - Author
 <summary>-> Mar 29, 2021 - Apr 07, 2021</summary>
 <p>
 
-
 <details>
 <summary>Day 111</summary>
 <p>
@@ -2688,7 +2687,8 @@ John Wooden - Author
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d101chs3.jpg)
   - ✔️ [Played and won puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d101chs5.jpg)  
 - ✔️ Hackerrank
-  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/cd8b7f37cfd010d0aa53adca6b082d660f0daf6e/materials/images/hackerrank/Day%20101%20-%20120/d101h6.jpg)
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/243c2f53501d69f04db0ec8f979eb9e5e091a917/materials/images/elevate/Day%20101%20-%20120/d104e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/243c2f53501d69f04db0ec8f979eb9e5e091a917/materials/images/elevate/Day%20101%20-%20120/d104e1.jpg))
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20101%20-%20120/d101h6.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
@@ -2696,6 +2696,7 @@ John Wooden - Author
 - 🏃 [Walking -> 3025 ~ 1.7 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/cd8b7f37cfd010d0aa53adca6b082d660f0daf6e/materials/images/walking/Day%20101%20-%20120/d101walking.jpg)
 ***
 </p></details>
+
 <details>
 <summary>Day 112</summary>
 <p>
@@ -2709,13 +2710,14 @@ John Wooden - Author
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d102chs3.jpg)
   - ✔️ [Played and won puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d102chs5.jpg)  
 - ✔️ Hackerrank
-  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/cd8b7f37cfd010d0aa53adca6b082d660f0daf6e/materials/images/hackerrank/Day%20101%20-%20120/d102h6.jpg)
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/035e685517cb993097419b634ea14a8d4ea99f16/materials/images/hackerrank/Day%20101%20-%20120/d102h6.jpg)
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20101%20-%20120/d102h6.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
 - 🏃 [Walking -> 13010 ~ 8.0 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/cd8b7f37cfd010d0aa53adca6b082d660f0daf6e/materials/images/walking/Day%20101%20-%20120/d102walking.jpg)
 ***
 </p></details>
+
 
 <details>
 <summary>Day 113</summary>
@@ -2730,8 +2732,8 @@ John Wooden - Author
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d103chs3.jpg)
   - ✔️ [Played and won puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d103chs5.jpg)  
 - ✔️ Hackerrank
-  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/cd8b7f37cfd010d0aa53adca6b082d660f0daf6e/materials/images/hackerrank/Day%20101%20-%20120/d103h6.jpg)
-  - 🏆 [Earned 2nd star in Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/cd8b7f37cfd010d0aa53adca6b082d660f0daf6e/materials/images/hackerrank/Day%20101%20-%20120/d103h4.jpg)
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/3bb78c2db98ad4dc2f0f27da716c2fafb46e9b10/materials/images/hackerrank/Day%20101%20-%20120/d103h6.jpg)
+  - 🏆 [Earned 2nd star in Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/3bb78c2db98ad4dc2f0f27da716c2fafb46e9b10/materials/images/hackerrank/Day%20101%20-%20120/d103h4.jpg)
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20101%20-%20120/d103h6.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
@@ -2754,7 +2756,7 @@ John Wooden - Author
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d104chs3.jpg)
   - ✔️ [Played and won puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d104chs5.jpg)  
 - ✔️ Hackerrank
-  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/cd8b7f37cfd010d0aa53adca6b082d660f0daf6e/materials/images/hackerrank/Day%20101%20-%20120/d104h6.jpg)
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/243c2f53501d69f04db0ec8f979eb9e5e091a917/materials/images/hackerrank/Day%20101%20-%20120/d104h6.jpg)
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20101%20-%20120/d104h6.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
