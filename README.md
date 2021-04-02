@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 114 Days (01/04/2021)
+Learning Progress Till Now -> 115 Days (02/04/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -2771,6 +2771,7 @@ John Wooden - Author
 <details>
 <summary>Day 115</summary>
 <p>
+
 - ✔️ Elevate
   - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d105e1.jpg)
   - 🏆 [Earned an achievement "Training Sage ~ Completed 100 workout"](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d105e2.jpg)
