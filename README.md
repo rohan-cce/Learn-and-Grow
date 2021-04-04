@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 116 Days (03/04/2021)
+Learning Progress Till Now -> 117 Days (04/04/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -2813,6 +2813,31 @@ John Wooden - Author
 - 📰 [Daily English News](https://qz.com/india/)
 - ✔️ Played Cricket for 2 hours (Physical activity)
 - 🏃 [Walking -> 9238 ~ 5.9 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20101%20-%20120/d106walking.jpg)
+
+***
+</p></details>
+<details>
+<summary>Day 117</summary>
+<p>
+
+- ✔️ Elevate
+  - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d107e1.jpg)
+  - 🏆 [Earned an achievement "Phraseologist ~ Win 10 expression games"](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d107e2.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20101%20-%20120/d107ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20101%20-%20120/d107b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d107chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d107chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d107chs3.jpg)
+  - ✔️ [Played and won puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d107chs5.jpg)  
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge]()
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20101%20-%20120/d107h6.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Why Elon Musk Built a School for His Kids"](https://www.youtube.com/watch?v=MFOEyqqGuEI)
+- 👂🏻 [Watched a Youtube video "How Singapore Uses Science to Stay Cool"](https://www.youtube.com/watch?v=PM101DvvG4Q)
+- 👂🏻 [Watched a Youtube video "How Toilet Paper Companies Dealt With The 845% Demand Spike | Big Business"](https://www.youtube.com/watch?v=KVcqbqpMfQY)
 
 ***
 </p></details>
