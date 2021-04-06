@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 117 Days (04/04/2021)
+Learning Progress Till Now -> 119 Days (06/04/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -2860,6 +2860,33 @@ John Wooden - Author
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20101%20-%20120/d108leetcode.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
+
+***
+</p></details>
+<details>
+<summary>Day 119</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d109e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20101%20-%20120/d109ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20101%20-%20120/d109b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d109chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d109chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d109chs3.jpg)
+  - ✔️ [Played and won puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d109chs5.jpg)  
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20101%20-%20120/d109h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20101%20-%20120/d109leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Why Agarwood Is So Expensive | So Expensive"](https://www.youtube.com/watch?v=_1utBGvW5rM)
+- 👂🏻 [Watched a Youtube video "IIT Madras' home-grown e-bike"](https://www.youtube.com/watch?v=TmwcFHqtkBo)
+- 👂🏻 [Watched a Youtube video "India's latest feat: Arch of world's highest rail bridge completed in J&K"](https://www.youtube.com/watch?v=oAWQsM5bg2w)
+- 👂🏻 [Watched a Youtube video "The Unstoppable Growth of China's High-Speed Rail Network"](https://www.youtube.com/watch?v=belm4kDAHgM)
+- 👂🏻 [Watched a Youtube video "The Madhepura Electric Locomotive project"](https://www.youtube.com/watch?v=yyrZgl2nuW0)
+- 👂🏻 [Watched a Youtube video "How we make our highlighters? Faber-Castell"](https://www.youtube.com/watch?v=JQE2q-1bNZE)
+- 🏃 [Walking -> 11857 ~ 7.5 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20101%20-%20120/d109walking.jpg)
 
 ***
 </p></details>
