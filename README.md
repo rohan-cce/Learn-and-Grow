@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 119 Days (06/04/2021)
+Learning Progress Till Now -> 120 Days (07/04/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -2887,6 +2887,26 @@ John Wooden - Author
 - 👂🏻 [Watched a Youtube video "The Madhepura Electric Locomotive project"](https://www.youtube.com/watch?v=yyrZgl2nuW0)
 - 👂🏻 [Watched a Youtube video "How we make our highlighters? Faber-Castell"](https://www.youtube.com/watch?v=JQE2q-1bNZE)
 - 🏃 [Walking -> 11857 ~ 7.5 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20101%20-%20120/d109walking.jpg)
+
+***
+</p></details>
+<details>
+<summary>Day 120</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate]()
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20101%20-%20120/d110ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20101%20-%20120/d110b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d110chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d110chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d110chs3.jpg)
+  - ✔️ [Played and won puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d110chs5.jpg)  
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20101%20-%20120/d110h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20101%20-%20120/d110leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
 
 ***
 </p></details>
