@@ -5,7 +5,7 @@ Learning Progress Till Now -> 121 Days (08/04/2021)
 >“No one is perfect - that’s why pencils have erasers.”😇
 
 <details>
-  <summary>-> Dec 9, 2020 - Dec 18, 2020</summary>
+  <summary>Day 01 - 10 ~ Dec 9, 2020 - Dec 18, 2020</summary>
 <p>
 
 <details>
@@ -202,7 +202,7 @@ Learning Progress Till Now -> 121 Days (08/04/2021)
 done before.”😇
 
 <details>
-<summary>-> Dec 19, 2020 - Dec 28 , 2020</summary>
+<summary>Day 11 - 20 ~ Dec 19, 2020 - Dec 28 , 2020</summary>
 <p>
 
 <details>
@@ -481,7 +481,7 @@ done before.”😇
 Paulo Coelho
 Brazilian lyricist
 <details>
-<summary>-> Dec 29, 2020 - Jan 7, 2021</summary>
+<summary>Day 21 - 30 ~ Dec 29, 2020 - Jan 7, 2021</summary>
 <p>
 
 <details>
@@ -779,7 +779,7 @@ Brazilian lyricist
 positive impact.”
 Les Brown - Author
 <details>
-  <summary>-> Jan 8, 2021 - Jan 17, 2021</summary>
+  <summary>Day 31 - 40 ~ Jan 8, 2021 - Jan 17, 2021</summary>
 <p>
 
 <details>
@@ -1035,7 +1035,7 @@ Les Brown - Author
 John Wooden - Author
 
 <details>
-  <summary>-> Jan 18, 2021 - Jan 27, 2021</summary>
+  <summary>Day 41 - 50 ~ Jan 18, 2021 - Jan 27, 2021</summary>
 <p>
 
 <details>
@@ -1325,7 +1325,7 @@ John Wooden - Author
 ― Oprah Winfrey 
 
 <details>
-<summary>-> Jan 28, 2021 - Feb 06, 2021</summary>
+<summary>Day 51 - 60 ~ Jan 28, 2021 - Feb 06, 2021</summary>
 <p>
 
 <details>
@@ -1604,7 +1604,7 @@ John Wooden - Author
 – J. Sidlow Baxter
 
 <details>
-<summary>-> Feb 07, 2021 - Feb 16, 2021</summary>
+<summary>Day 61 - 70 ~ Feb 07, 2021 - Feb 16, 2021</summary>
 <p>
 
 <details>
@@ -1823,7 +1823,7 @@ John Wooden - Author
 >“You cannot dream yourself into a character; you must hammer and forge yourself one.” ―Henry David Thoreau
 
 <details>
-<summary>-> Feb 17, 2021 - Feb 26, 2021</summary>
+<summary>Day 71 - 80 ~ Feb 17, 2021 - Feb 26, 2021</summary>
 <p>
 
 <details>
@@ -2020,7 +2020,7 @@ John Wooden - Author
 >"Coming together is a beginning; keeping together is progress; working together is success." -Edward Everett Hale
 
 <details>
-<summary>-> Feb 27, 2021 - Mar 08, 2021</summary>
+<summary>Day 81 - 90 ~ Feb 27, 2021 - Mar 08, 2021</summary>
 <p>
 
 <details>
@@ -2241,7 +2241,7 @@ John Wooden - Author
 >“You always pass failure on the way to success.”- Mickey Rooney
 
 <details>
-<summary>-> Mar 09, 2021 - Mar 18, 2021</summary>
+<summary>Day 91 - 100 ~ Mar 09, 2021 - Mar 18, 2021</summary>
 <p>
 
 <details>
@@ -2449,7 +2449,7 @@ John Wooden - Author
 >"Try not to become a man of success. Rather become a man of value." - Albert Einstein
 
 <details>
-<summary>-> Mar 19, 2021 - Mar 28, 2021</summary>
+<summary>Day 101 - 110 ~ Mar 19, 2021 - Mar 28, 2021</summary>
 <p>
 
 <details>
@@ -2671,7 +2671,7 @@ John Wooden - Author
 
 >“ Little by little becomes a lot.” Anonymous.
 <details>
-<summary>-> Mar 29, 2021 - Apr 07, 2021</summary>
+<summary>Day 111 - 120 ~ Mar 29, 2021 - Apr 07, 2021</summary>
 <p>
 
 <details>
@@ -2918,7 +2918,7 @@ John Wooden - Author
 
 
 <details>
-  <summary>-> Apr 08, 2021 -  Apr 17, 2021</summary>
+  <summary>Day 121 - 130 ~ Apr 08, 2021 -  Apr 17, 2021</summary>
 <p>
 
 <details>
