@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 121 Days (08/04/2021)
+Learning Progress Till Now -> 122 Days (09/04/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -2946,6 +2946,33 @@ John Wooden - Author
   - 💰📈 [Read the book "Vishrambu's bus journey" ~ Super-naughty Vishrambu learns not to destroy public property as it belongs to everyone in the country and is funded by the taxpayers](https://drive.google.com/file/d/1LlBNgK7hfkUaQdDWc77T-Yh1XAfAFsD7/view)
   - 💰📈 [Read the book "One and a half stories" ~ While Janki reads her daughter Tara a bedtime story, Tara learns about insurance and wonders if she can insure her favourite toys forever](https://drive.google.com/file/d/1M13fmD60oNkifXhs6hYPrvvEqrSrfvLL/view)
   - 💰📈 [Read the book "The cake shop" ~ Vidya has a tough task as she has to explain the stock markets to her 8-year-old angry son](https://drive.google.com/file/d/1Hj4BvNmGov5I8a9U4TiGxKc00sxXKXiS/view)
+***
+</p></details>
+
+<details>
+<summary>Day 122</summary>
+<p>
+
+- ✔️
+  - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d112e1.jpg)
+  - 🏆 [Earned an achievement "Spelling star ~ Win 10 spelling games"](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d112e2.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20101%20-%20120/d112ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20101%20-%20120/d112b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d112chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d112chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d112chs3.jpg)
+  - ✔️ [Played and won puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d112chs5.jpg)  
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/cd8b7f37cfd010d0aa53adca6b082d660f0daf6e/materials/images/hackerrank/Day%20101%20-%20120/d112h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/cd8b7f37cfd010d0aa53adca6b082d660f0daf6e/materials/images/leetcode/Day%20101%20-%20120/d112leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "7 Unusual SKILLS You Need To Become a Millionaire"](https://www.youtube.com/watch?v=QUBl7trvHaI)
+- 👂🏻 [Watched a Youtube video "2 Things You Need to Understand to Stop Being Lazy – Willpower by Roy Baumeister"](https://www.youtube.com/watch?v=-iqiRCQWRmA)
+- 👂🏻 [Watched a Youtube video ""THE 1%" ARE DOING THIS EVERYDAY | Reprogram Your Subconscious Mind | Try It For 21 Days!"](https://www.youtube.com/watch?v=hv1k2YG0JK8)
+- 👂🏻 [Watched a Youtube video "How Illegal Items Are Found And Destroyed At JFK Airport"](https://www.youtube.com/watch?v=sAiTuitN5b8)
 ***
 </p></details>
 
