@@ -3007,6 +3007,12 @@ John Wooden - Author
 - 👂🏻 [Watched a Youtube video "The Most Honest Advice About Succeeding In Life | WARREN BUFFETT"](https://www.youtube.com/watch?v=0a5PiMygzAM)
 - 👂🏻 [Watched a Youtube video "What is Ethereum? | Ethereum Explained in tamil | How to Invest in Ethereum"](https://www.youtube.com/watch?v=y6QAG0Zrw-U)
 - 💰📈 Financial education
+  - 💰📈 [3.Financial Intermediaries](https://zerodha.com/varsity/chapter/financial-intermediaries/)
+    - 💰📈 [3.1 Overview](https://zerodha.com/varsity/chapter/financial-intermediaries/)
+    - 💰📈 [3.2 The Stock Broker](https://zerodha.com/varsity/chapter/financial-intermediaries/)
+    - 💰📈 [3.3 Depository and Depository Participants](https://zerodha.com/varsity/chapter/financial-intermediaries/)
+    - 💰📈 [3.4 Banks](https://zerodha.com/varsity/chapter/financial-intermediaries/)
+    - 💰📈 [3.5 NSCCL and ICCL](https://zerodha.com/varsity/chapter/financial-intermediaries/)
 
 ***
 </p></details>
