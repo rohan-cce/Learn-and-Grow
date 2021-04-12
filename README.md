@@ -3041,7 +3041,7 @@ John Wooden - Author
 ***
 </p></details>
 <details>
-<summary>Day 124</summary>
+<summary>Day 125</summary>
 <p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d115e1.jpg)
