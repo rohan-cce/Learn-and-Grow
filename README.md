@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 126 Days (13/04/2021)
+Learning Progress Till Now -> 127 Days (14/04/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -3102,6 +3102,42 @@ John Wooden - Author
     - 💰📈 [5.7 – Recent IPO’s in India*](https://zerodha.com/varsity/chapter/the-ipo-markets-part-2/)
 - 👨🏻‍💻☕ Java 
   - 👨🏻‍💻☕ [Why to Learn java Programming?](https://www.tutorialspoint.com/java/index.htm)
+***
+</p></details>
+<details>
+<summary>Day 127</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d117e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20101%20-%20120/d117ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20101%20-%20120/d117b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d117chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d117chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d117chs3.jpg)
+  - ✔️ [Played and won puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d117chs5.jpg)  
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20101%20-%20120/d117h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20101%20-%20120/d117leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "The Secrets Behind Five Guys' Perfect Burgers and Fries | Unwrapped | Food Network"](https://www.youtube.com/watch?v=l6quREmoPVM)
+- 👂🏻 [Watched a Youtube video "This tool will help improve your critical thinking - Erick Wilberding"](https://www.youtube.com/watch?v=vNDYUlxNIAA)
+- 👂🏻 [Watched a Youtube video "THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE BY STEPHEN COVEY - ANIMATED BOOK SUMMARY"](https://www.youtube.com/watch?v=ktlTxC4QG8g)
+- 👂🏻 [Watched a Youtube video "How Dinnerware Is Handmade For 5-Star Restaurants | The Making Of"](https://www.youtube.com/watch?v=7U4IgbE1e18)
+- 💰📈 Financial education
+  - 💰📈 [6.The Stock Markets](https://zerodha.com/varsity/chapter/the-stock-markets/)
+    - 💰📈 [6.1 – Overview](https://zerodha.com/varsity/chapter/the-stock-markets/)
+    - 💰📈 [6.2 – What really is the stock market](https://zerodha.com/varsity/chapter/the-stock-markets/)
+    - 💰📈 [6.3 – What moves the stock?](https://zerodha.com/varsity/chapter/the-stock-markets/)
+    - 💰📈 [6.4 – How does the stock get traded?](https://zerodha.com/varsity/chapter/the-stock-markets/)
+    - 💰📈 [6.5 – What happens after you own a stock?](https://zerodha.com/varsity/chapter/the-stock-markets/)
+    - 💰📈 [6.6 – A note on holding period](https://zerodha.com/varsity/chapter/the-stock-markets/)
+    - 💰📈 [6.7 – How to calculate returns?](https://zerodha.com/varsity/chapter/the-stock-markets/)
+    - 💰📈 [6.8 – Where do you fit in?](https://zerodha.com/varsity/chapter/the-stock-markets/)
+- 👨🏻‍💻☕ Java 
+  - 👨🏻‍💻☕ [Java - Environment Setup](https://www.tutorialspoint.com/java/java_environment_setup.htm)
 ***
 </p></details>
 </p></details>
