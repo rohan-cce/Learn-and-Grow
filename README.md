@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 127 Days (14/04/2021)
+Learning Progress Till Now -> 128 Days (15/04/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -3138,6 +3138,37 @@ John Wooden - Author
     - 💰📈 [6.8 – Where do you fit in?](https://zerodha.com/varsity/chapter/the-stock-markets/)
 - 👨🏻‍💻☕ Java 
   - 👨🏻‍💻☕ [Java - Environment Setup](https://www.tutorialspoint.com/java/java_environment_setup.htm)
+***
+</p></details>
+<details>
+<summary>Day 128</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d118e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20101%20-%20120/d118ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20101%20-%20120/d118b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d118chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d118chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d118chs3.jpg)
+  - ✔️ [Played and won puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d118chs5.jpg)  
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20101%20-%20120/d118h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20101%20-%20120/d118leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "The Secrets Behind Five Guys' Perfect Burgers and Fries | Unwrapped | Food Network"](https://www.youtube.com/watch?v=l6quREmoPVM)
+- 💰📈 Financial education
+  - 💰📈 [7.The Stock Markets Index]()
+    - 💰📈 [7.1 – Overview]()
+    - 💰📈 [7.2 – The Index]()
+    - 💰📈 [7.3 – Practical uses of the Index]()
+    - 💰📈 [7.4 – Index construction methodology]()
+    - 💰📈 [7.5 – Sector-specific indices]()
+
+- 👨🏻‍💻☕ Java 
+  - 👨🏻‍💻☕ [Java - Basic Syntax](https://www.tutorialspoint.com/java/java_basic_syntax.htm)
 ***
 </p></details>
 </p></details>
