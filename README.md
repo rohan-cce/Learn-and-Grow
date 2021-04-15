@@ -3160,13 +3160,12 @@ John Wooden - Author
 - 📰 [Daily English News](https://qz.com/india/)
 - 👂🏻 [Watched a Youtube video "The Secrets Behind Five Guys' Perfect Burgers and Fries | Unwrapped | Food Network"](https://www.youtube.com/watch?v=l6quREmoPVM)
 - 💰📈 Financial education
-  - 💰📈 [7.The Stock Markets Index]()
-    - 💰📈 [7.1 – Overview]()
-    - 💰📈 [7.2 – The Index]()
-    - 💰📈 [7.3 – Practical uses of the Index]()
-    - 💰📈 [7.4 – Index construction methodology]()
-    - 💰📈 [7.5 – Sector-specific indices]()
-
+  - 💰📈 [7.The Stock Markets Index](https://zerodha.com/varsity/chapter/the-stock-markets-index/)
+    - 💰📈 [7.1 – Overview](https://zerodha.com/varsity/chapter/the-stock-markets-index/)
+    - 💰📈 [7.2 – The Index](https://zerodha.com/varsity/chapter/the-stock-markets-index/)
+    - 💰📈 [7.3 – Practical uses of the Index](https://zerodha.com/varsity/chapter/the-stock-markets-index/)
+    - 💰📈 [7.4 – Index construction methodology](https://zerodha.com/varsity/chapter/the-stock-markets-index/)
+    - 💰📈 [7.5 – Sector-specific indices](https://zerodha.com/varsity/chapter/the-stock-markets-index/)
 - 👨🏻‍💻☕ Java 
   - 👨🏻‍💻☕ [Java - Basic Syntax](https://www.tutorialspoint.com/java/java_basic_syntax.htm)
 ***
