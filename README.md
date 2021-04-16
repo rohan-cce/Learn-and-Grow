@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 128 Days (15/04/2021)
+Learning Progress Till Now -> 129 Days (16/04/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -3165,6 +3165,30 @@ John Wooden - Author
     - 💰📈 [7.3 – Practical uses of the Index](https://zerodha.com/varsity/chapter/the-stock-markets-index/)
     - 💰📈 [7.4 – Index construction methodology](https://zerodha.com/varsity/chapter/the-stock-markets-index/)
     - 💰📈 [7.5 – Sector-specific indices](https://zerodha.com/varsity/chapter/the-stock-markets-index/)
+- 👨🏻‍💻☕ Java 
+  - 👨🏻‍💻☕ [Java - Basic Syntax](https://www.tutorialspoint.com/java/java_basic_syntax.htm)
+***
+</p></details>
+<details>
+<summary>Day 129</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d119e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20101%20-%20120/d119ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20101%20-%20120/d119b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d119chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d119chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d119chs3.jpg)
+  - ✔️ [Played and won puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d119chs5.jpg)  
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20101%20-%20120/d119h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20101%20-%20120/d119leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 💰📈 Financial education
+  - 💰📈 [8.Commonly Used Jargons](https://zerodha.com/varsity/chapter/commonly-used-jargons/)
 - 👨🏻‍💻☕ Java 
   - 👨🏻‍💻☕ [Java - Basic Syntax](https://www.tutorialspoint.com/java/java_basic_syntax.htm)
 ***
