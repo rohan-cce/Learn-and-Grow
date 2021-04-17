@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 129 Days (16/04/2021)
+Learning Progress Till Now -> 130 Days (16/04/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -3191,6 +3191,36 @@ John Wooden - Author
   - 💰📈 [8.Commonly Used Jargons](https://zerodha.com/varsity/chapter/commonly-used-jargons/)
 - 👨🏻‍💻☕ Java 
   - 👨🏻‍💻☕ [Java - Basic Syntax](https://www.tutorialspoint.com/java/java_basic_syntax.htm)
+***
+</p></details>
+<details>
+<summary>Day 130</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d120e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20101%20-%20120/d120ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20101%20-%20120/d120b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d120chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d120chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d120chs3.jpg)
+  - ✔️ [Played and won puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d120chs5.jpg)  
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20101%20-%20120/d120h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20101%20-%20120/d120leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 💰📈 Financial education
+  - 💰📈 [9.1 – Overview](https://zerodha.com/varsity/chapter/the-trading-terminal/)
+  - 💰📈 [9.2 – The login process](https://zerodha.com/varsity/chapter/the-trading-terminal/)
+  - 💰📈 [9.3 – The Market watch](https://zerodha.com/varsity/chapter/the-trading-terminal/)
+  - 💰📈 [9.4 – Buying stock through the trading terminal](https://zerodha.com/varsity/chapter/the-trading-terminal/)
+  - 💰📈 [9.5 – The order book and Trade book](https://zerodha.com/varsity/chapter/the-trading-terminal/)
+  - 💰📈 [9.6 – The Bid and Ask Price](https://zerodha.com/varsity/chapter/the-trading-terminal/)
+
+- 👨🏻‍💻☕ Java 
+  - 👨🏻‍💻☕ [Java - Object and Classes](https://www.tutorialspoint.com/java/java_object_classes.htm)
 ***
 </p></details>
 </p></details>
