@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 130 Days (16/04/2021)
+Learning Progress Till Now -> 131 Days (17/04/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -3212,15 +3212,54 @@ John Wooden - Author
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20101%20-%20120/d120leetcode.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
 - 💰📈 Financial education
-  - 💰📈 [9.1 – Overview](https://zerodha.com/varsity/chapter/the-trading-terminal/)
-  - 💰📈 [9.2 – The login process](https://zerodha.com/varsity/chapter/the-trading-terminal/)
-  - 💰📈 [9.3 – The Market watch](https://zerodha.com/varsity/chapter/the-trading-terminal/)
-  - 💰📈 [9.4 – Buying stock through the trading terminal](https://zerodha.com/varsity/chapter/the-trading-terminal/)
-  - 💰📈 [9.5 – The order book and Trade book](https://zerodha.com/varsity/chapter/the-trading-terminal/)
-  - 💰📈 [9.6 – The Bid and Ask Price](https://zerodha.com/varsity/chapter/the-trading-terminal/)
-
+  - 💰📈 [9.The Trading Terminal](https://zerodha.com/varsity/chapter/the-stock-markets/)
+    - 💰📈 [9.1 – Overview](https://zerodha.com/varsity/chapter/the-trading-terminal/)
+    - 💰📈 [9.2 – The login process](https://zerodha.com/varsity/chapter/the-trading-terminal/)
+    - 💰📈 [9.3 – The Market watch](https://zerodha.com/varsity/chapter/the-trading-terminal/)
+    - 💰📈 [9.4 – Buying stock through the trading terminal](https://zerodha.com/varsity/chapter/the-trading-terminal/)
+    - 💰📈 [9.5 – The order book and Trade book](https://zerodha.com/varsity/chapter/the-trading-terminal/)
+    - 💰📈 [9.6 – The Bid and Ask Price](https://zerodha.com/varsity/chapter/the-trading-terminal/)
 - 👨🏻‍💻☕ Java 
   - 👨🏻‍💻☕ [Java - Object and Classes](https://www.tutorialspoint.com/java/java_object_classes.htm)
 ***
 </p></details>
+</p></details>
+
+
+
+>"Just don't give up trying to do what you really want to do. Where there is love and inspiration, I don't think you can go wrong." - Ella Fitzgerald
+
+<details>
+  <summary>Day 1341 - 10 ~ -> Apr 18, 2021 -  Apr 27, 2021</summary>
+<p>
+
+<details>
+<summary>Day 131</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20121%20-%20140/d121e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20121%20-%20140/d121ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20121%20-%20140/d121b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d121chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d121chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d121chs3.jpg)
+  - ✔️ [Played and won puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d121chs5.jpg)  
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20121%20-%20140/d121h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20121%20-%20140/d121leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "People are going nuts over pizza served in cones"](https://www.youtube.com/watch?v=4pQxH-vLD3Q)
+- 👂🏻 [Watched a Youtube video "Why the Vada Pav Is Mumbai’s Best Sandwich"](https://www.youtube.com/watch?v=Xm7KAPPPkPQ)
+- 👂🏻 [Watched a Youtube video "Stretch Van Feels Like A Private Jet"](https://www.youtube.com/watch?v=I4Sw00QL_fk)
+- 👂🏻 [Watched a Youtube video "Food Truck Serves 3,000 Grilled Cheese Sandwiches A Day"](https://www.youtube.com/watch?v=1o5LN1RNuyQ)
+- 👂🏻 [Watched a Youtube video "Why Drinking Chai in Clay Cups Is So Much Better"](https://www.youtube.com/watch?v=juJUyA49VGs)
+- 💰📈 Financial education
+  - 💰📈 [10.Clearing and Settlement Process](https://zerodha.com/varsity/chapter/clearing-and-settlement-process/)
+    - 💰📈 [10.1 – Overview](https://zerodha.com/varsity/chapter/clearing-and-settlement-process/)
+    - 💰📈 [10.2 – What happens when you buy a stock?](https://zerodha.com/varsity/chapter/clearing-and-settlement-process/)
+    - 💰📈 [10.3 – What happens when you sell a stock?](https://zerodha.com/varsity/chapter/clearing-and-settlement-process/)
+***
 </p></details>
