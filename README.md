@@ -3230,7 +3230,7 @@ John Wooden - Author
 >"Just don't give up trying to do what you really want to do. Where there is love and inspiration, I don't think you can go wrong." - Ella Fitzgerald
 
 <details>
-  <summary>Day 1341 - 10 ~ -> Apr 18, 2021 -  Apr 27, 2021</summary>
+  <summary>Day 131 - 140 ~ Apr 18, 2021 -  Apr 27, 2021</summary>
 <p>
 
 <details>
