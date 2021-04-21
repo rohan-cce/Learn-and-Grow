@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 133 Days (20/04/2021)
+Learning Progress Till Now -> 134 Days (21/04/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -3332,6 +3332,38 @@ John Wooden - Author
     - 💰📈 [12.5 – Purchasing Managers Index (PMI)](https://zerodha.com/varsity/chapter/key-events-and-their-impact-on-markets/)
     - 💰📈 [12.6 – Budget](https://zerodha.com/varsity/chapter/key-events-and-their-impact-on-markets/)
     - 💰📈 [12.7 – Corporate Earnings Announcement](https://zerodha.com/varsity/chapter/key-events-and-their-impact-on-markets/)
+
+***
+</p></details>
+<details>
+<summary>Day 134</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20121%20-%20140/d124e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20121%20-%20140/d124ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20121%20-%20140/d124b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d124chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d124chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d124chs3.jpg)
+  - ✔️ [Played and won puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d124chs5.jpg)  
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20121%20-%20140/d124h5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20121%20-%20140/d124leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "How All You Can Eat Restaurants Make Money"](https://www.youtube.com/watch?v=p_WjntaMORQ)
+- 👂🏻 [Watched a Youtube video "Robot Has Perfect Handwriting"](https://www.youtube.com/watch?v=H9STe46uueQ)
+- 👂🏻 [Watched a Youtube video "Why Five Guys Always Gives You So Many Extra Fries"](https://www.youtube.com/watch?v=QWvUaKgQojE)
+- 👂🏻 [Watched a Youtube video "Warren Buffett On Why He'll Never Sell a Share of Coke Stock"](https://www.youtube.com/watch?v=4p1_5bZ8I4M)
+- 👂🏻 [Watched a Youtube video "How Domino's Makes Its Pizza"](https://www.youtube.com/watch?v=jPQ87J_5qyw)
+- 👂🏻 [Watched a Youtube video "36-Year-Old Spends A Year Learning How To Invest Using Charlie Munger's 4 Principles"](https://www.youtube.com/watch?v=KLHdNv3_RC4)
+- 👂🏻 [Watched a Youtube video "Why Vanilla Is So Expensive | So Expensive"](https://www.youtube.com/watch?v=3752x4PgpYE)
+- 💰📈 Financial education
+  - 💰📈 [13.Getting started!](https://zerodha.com/varsity/chapter/getting-started/)
+  - 💰📈 [14.Supplementary note – Rights, OFS, FPO](https://zerodha.com/varsity/chapter/supplementary-note-ipo-ofs-fpo/)
+  - 💰📈 [15.Supplementary note – The 20 market depth or level 3 data](https://zerodha.com/varsity/chapter/supplementary-note-the-20-market-depth/)
 
 ***
 </p></details>
