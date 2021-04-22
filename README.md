@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 134 Days (21/04/2021)
+Learning Progress Till Now -> 135 Days (22/04/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -2921,6 +2921,10 @@ John Wooden - Author
   <summary>Day 121 - 130 ~ Apr 08, 2021 -  Apr 17, 2021</summary>
 <p>
 
+>“Success is the sum of small efforts repeated day in and day out.” - Robert Collier Author
+
+-> Apr 08, 2021 -  Apr 17, 2021
+
 <details>
 <summary>Day 121</summary>
 <p>
@@ -2973,7 +2977,7 @@ John Wooden - Author
 - 👂🏻 [Watched a Youtube video "2 Things You Need to Understand to Stop Being Lazy – Willpower by Roy Baumeister"](https://www.youtube.com/watch?v=-iqiRCQWRmA)
 - 👂🏻 [Watched a Youtube video ""THE 1%" ARE DOING THIS EVERYDAY | Reprogram Your Subconscious Mind | Try It For 21 Days!"](https://www.youtube.com/watch?v=hv1k2YG0JK8)
 - 👂🏻 [Watched a Youtube video "How Illegal Items Are Found And Destroyed At JFK Airport"](https://www.youtube.com/watch?v=sAiTuitN5b8)
-- 💰📈 Financial education
+- 💰📈 [Financial education ~ Module 1 - Introduction to Stock Markets](https://zerodha.com/varsity/module/introduction-to-stock-markets/)
   - 💰📈 [1.The Need to Invest](https://zerodha.com/varsity/chapter/the-need-to-invest/)
     - 💰📈 [1.1 Why should one Invest?](https://zerodha.com/varsity/chapter/the-need-to-invest/)
     - 💰📈 [1.2 Where to invest?](https://zerodha.com/varsity/chapter/the-need-to-invest/)
@@ -3006,16 +3010,16 @@ John Wooden - Author
 - 📰 [Daily English News](https://qz.com/india/)
 - 👂🏻 [Watched a Youtube video "The Most Honest Advice About Succeeding In Life | WARREN BUFFETT"](https://www.youtube.com/watch?v=0a5PiMygzAM)
 - 👂🏻 [Watched a Youtube video "What is Ethereum? | Ethereum Explained in tamil | How to Invest in Ethereum"](https://www.youtube.com/watch?v=y6QAG0Zrw-U)
-- 💰📈 Financial education
+- 💰📈 [Financial education ~ Module 1 - Introduction to Stock Markets](https://zerodha.com/varsity/module/introduction-to-stock-markets/)
   - 💰📈 [3.Financial Intermediaries](https://zerodha.com/varsity/chapter/financial-intermediaries/)
     - 💰📈 [3.1 Overview](https://zerodha.com/varsity/chapter/financial-intermediaries/)
     - 💰📈 [3.2 The Stock Broker](https://zerodha.com/varsity/chapter/financial-intermediaries/)
     - 💰📈 [3.3 Depository and Depository Participants](https://zerodha.com/varsity/chapter/financial-intermediaries/)
     - 💰📈 [3.4 Banks](https://zerodha.com/varsity/chapter/financial-intermediaries/)
     - 💰📈 [3.5 NSCCL and ICCL](https://zerodha.com/varsity/chapter/financial-intermediaries/)
-
 ***
 </p></details>
+
 <details>
 <summary>Day 124</summary>
 <p>
@@ -3040,6 +3044,7 @@ John Wooden - Author
 - 🏃 Played cricket for 2 hours (Physical activity)
 ***
 </p></details>
+
 <details>
 <summary>Day 125</summary>
 <p>
@@ -3061,6 +3066,7 @@ John Wooden - Author
 
 ***
 </p></details>
+
 <details>
 <summary>Day 126</summary>
 <p>
@@ -3088,7 +3094,7 @@ John Wooden - Author
 - 👂🏻 [Watched a Youtube video "Peanut Butter | How It's Made"](https://www.youtube.com/watch?v=4iUduCtx7cA)
 - 👂🏻 [Watched a Youtube video "This Is How McDonald's Perfect French Fries Are Actually Made"](https://www.youtube.com/watch?v=ibH2fyiGWLg)
 - 👂🏻 [Watched a Youtube video "How Pringles Are Made (from Unwrapped) | Unwrapped | Food Network"](https://www.youtube.com/watch?v=6k7rN_GHfkw)
-- 💰📈 Financial education
+- 💰📈 [Financial education ~ Module 1 - Introduction to Stock Markets](https://zerodha.com/varsity/module/introduction-to-stock-markets/)
   - 💰📈 [4.The IPO Markets – Part 1](https://zerodha.com/varsity/chapter/the-ipo-markets-part-1/)
     - 💰📈 [4.1 Overview](https://zerodha.com/varsity/chapter/the-ipo-markets-part-1/)
     - 💰📈 [4.2 Origin of a Business](https://zerodha.com/varsity/chapter/the-ipo-markets-part-1/)
@@ -3104,6 +3110,7 @@ John Wooden - Author
   - 👨🏻‍💻☕ [Why to Learn java Programming?](https://www.tutorialspoint.com/java/index.htm)
 ***
 </p></details>
+
 <details>
 <summary>Day 127</summary>
 <p>
@@ -3126,7 +3133,7 @@ John Wooden - Author
 - 👂🏻 [Watched a Youtube video "This tool will help improve your critical thinking - Erick Wilberding"](https://www.youtube.com/watch?v=vNDYUlxNIAA)
 - 👂🏻 [Watched a Youtube video "THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE BY STEPHEN COVEY - ANIMATED BOOK SUMMARY"](https://www.youtube.com/watch?v=ktlTxC4QG8g)
 - 👂🏻 [Watched a Youtube video "How Dinnerware Is Handmade For 5-Star Restaurants | The Making Of"](https://www.youtube.com/watch?v=7U4IgbE1e18)
-- 💰📈 Financial education
+- 💰📈 [Financial education ~ Module 1 - Introduction to Stock Markets](https://zerodha.com/varsity/module/introduction-to-stock-markets/)
   - 💰📈 [6.The Stock Markets](https://zerodha.com/varsity/chapter/the-stock-markets/)
     - 💰📈 [6.1 – Overview](https://zerodha.com/varsity/chapter/the-stock-markets/)
     - 💰📈 [6.2 – What really is the stock market](https://zerodha.com/varsity/chapter/the-stock-markets/)
@@ -3140,35 +3147,7 @@ John Wooden - Author
   - 👨🏻‍💻☕ [Java - Environment Setup](https://www.tutorialspoint.com/java/java_environment_setup.htm)
 ***
 </p></details>
-<details>
-<summary>Day 128</summary>
-<p>
 
-- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d118e1.jpg)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20101%20-%20120/d118ls1.jpg)
-- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20101%20-%20120/d118b1.jpg)
-- ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d118chs1.jpg)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d118chs2.jpg)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d118chs3.jpg)
-  - ✔️ [Played and won puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20101%20-%20120/d118chs5.jpg)  
-- ✔️ Solved Daily Challenge Question in Skillrack
-- ✔️ Hackerrank
-  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20101%20-%20120/d118h6.jpg)
-- ✔️ LeetCode
-  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20101%20-%20120/d118leetcode.jpg)
-- 📰 [Daily English News](https://qz.com/india/)
-- 💰📈 Financial education
-  - 💰📈 [7.The Stock Markets Index](https://zerodha.com/varsity/chapter/the-stock-markets-index/)
-    - 💰📈 [7.1 – Overview](https://zerodha.com/varsity/chapter/the-stock-markets-index/)
-    - 💰📈 [7.2 – The Index](https://zerodha.com/varsity/chapter/the-stock-markets-index/)
-    - 💰📈 [7.3 – Practical uses of the Index](https://zerodha.com/varsity/chapter/the-stock-markets-index/)
-    - 💰📈 [7.4 – Index construction methodology](https://zerodha.com/varsity/chapter/the-stock-markets-index/)
-    - 💰📈 [7.5 – Sector-specific indices](https://zerodha.com/varsity/chapter/the-stock-markets-index/)
-- 👨🏻‍💻☕ Java 
-  - 👨🏻‍💻☕ [Java - Basic Syntax](https://www.tutorialspoint.com/java/java_basic_syntax.htm)
-***
-</p></details>
 <details>
 <summary>Day 129</summary>
 <p>
@@ -3187,7 +3166,7 @@ John Wooden - Author
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20101%20-%20120/d119leetcode.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
-- 💰📈 Financial education
+- 💰📈 [Financial education ~ Module 1 - Introduction to Stock Markets](https://zerodha.com/varsity/module/introduction-to-stock-markets/)
   - 💰📈 [8.Commonly Used Jargons](https://zerodha.com/varsity/chapter/commonly-used-jargons/)
 - 👨🏻‍💻☕ Java 
   - 👨🏻‍💻☕ [Java - Basic Syntax](https://www.tutorialspoint.com/java/java_basic_syntax.htm)
@@ -3211,7 +3190,7 @@ John Wooden - Author
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20101%20-%20120/d120leetcode.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
-- 💰📈 Financial education
+- 💰📈 [Financial education ~ Module 1 - Introduction to Stock Markets](https://zerodha.com/varsity/module/introduction-to-stock-markets/)
   - 💰📈 [9.The Trading Terminal](https://zerodha.com/varsity/chapter/the-stock-markets/)
     - 💰📈 [9.1 – Overview](https://zerodha.com/varsity/chapter/the-trading-terminal/)
     - 💰📈 [9.2 – The login process](https://zerodha.com/varsity/chapter/the-trading-terminal/)
@@ -3232,6 +3211,7 @@ John Wooden - Author
 <details>
   <summary>Day 131 - 140 ~ Apr 18, 2021 -  Apr 27, 2021</summary>
 <p>
+
 
 <details>
 <summary>Day 131</summary>
@@ -3256,7 +3236,7 @@ John Wooden - Author
 - 👂🏻 [Watched a Youtube video "Stretch Van Feels Like A Private Jet"](https://www.youtube.com/watch?v=I4Sw00QL_fk)
 - 👂🏻 [Watched a Youtube video "Food Truck Serves 3,000 Grilled Cheese Sandwiches A Day"](https://www.youtube.com/watch?v=1o5LN1RNuyQ)
 - 👂🏻 [Watched a Youtube video "Why Drinking Chai in Clay Cups Is So Much Better"](https://www.youtube.com/watch?v=juJUyA49VGs)
-- 💰📈 Financial education
+- 💰📈 [Financial education ~ Module 1 - Introduction to Stock Markets](https://zerodha.com/varsity/module/introduction-to-stock-markets/)
   - 💰📈 [10.Clearing and Settlement Process](https://zerodha.com/varsity/chapter/clearing-and-settlement-process/)
     - 💰📈 [10.1 – Overview](https://zerodha.com/varsity/chapter/clearing-and-settlement-process/)
     - 💰📈 [10.2 – What happens when you buy a stock?](https://zerodha.com/varsity/chapter/clearing-and-settlement-process/)
@@ -3288,7 +3268,7 @@ John Wooden - Author
 - 👂🏻 [Watched a Youtube video "Brazil’s President rejects lockdown despite 370,000 Covid deaths - BBC News"](https://www.youtube.com/watch?v=tuWDfuZAIoM)
 - 👂🏻 [Watched a Youtube video "What gives a dollar bill its value? - Doug Levinson"](https://www.youtube.com/watch?v=XNu5ppFZbHo)
 - 👂🏻 [Watched a Youtube video "The Best Indian Food In LA Is In A Gas Station | Legendary Eats"](https://www.youtube.com/watch?v=CyFHzQA88Wo)
-- 💰📈 Financial education
+- 💰📈 [Financial education ~ Module 1 - Introduction to Stock Markets](https://zerodha.com/varsity/module/introduction-to-stock-markets/)
   - 💰📈 [11.Five Corporate Actions and Its Impact on Stock Prices](https://zerodha.com/varsity/chapter/five-corporate-actions-and-its-impact-on-stock-prices/)
     - 💰📈 [11.1 – Overview](https://zerodha.com/varsity/chapter/five-corporate-actions-and-its-impact-on-stock-prices/)
     - 💰📈 [11.2 – Dividends](https://zerodha.com/varsity/chapter/five-corporate-actions-and-its-impact-on-stock-prices/)
@@ -3299,6 +3279,7 @@ John Wooden - Author
 
 ***
 </p></details>
+
 <details>
 <summary>Day 133</summary>
 <p>
@@ -3323,7 +3304,7 @@ John Wooden - Author
 - 👂🏻 [Watched a Youtube video "At This Buffet Restaurant, You Pay As You Wish"](https://www.youtube.com/watch?v=55MBhekoicI)
 - 👂🏻 [Watched a Youtube video "I ate like billionaire Warren Buffett for a week — and I felt awful"](https://www.youtube.com/watch?v=QzNOv2i_Q-w)
 - 👂🏻 [Watched a Youtube video "4 of the Best Street Food Finds in Delhi"](https://www.youtube.com/watch?v=VSEyEzoKGA4)
-- 💰📈 Financial education
+- 💰📈 [Financial education ~ Module 1 - Introduction to Stock Markets](https://zerodha.com/varsity/module/introduction-to-stock-markets/)
   - 💰📈 [12.Key Events and Their Impact on Markets](https://zerodha.com/varsity/chapter/key-events-and-their-impact-on-markets/)
     - 💰📈 [12.1 – Overview](https://zerodha.com/varsity/chapter/key-events-and-their-impact-on-markets/)
     - 💰📈 [12.2 – Monetary Policy](https://zerodha.com/varsity/chapter/key-events-and-their-impact-on-markets/)
@@ -3335,6 +3316,7 @@ John Wooden - Author
 
 ***
 </p></details>
+
 <details>
 <summary>Day 134</summary>
 <p>
@@ -3360,11 +3342,44 @@ John Wooden - Author
 - 👂🏻 [Watched a Youtube video "How Domino's Makes Its Pizza"](https://www.youtube.com/watch?v=jPQ87J_5qyw)
 - 👂🏻 [Watched a Youtube video "36-Year-Old Spends A Year Learning How To Invest Using Charlie Munger's 4 Principles"](https://www.youtube.com/watch?v=KLHdNv3_RC4)
 - 👂🏻 [Watched a Youtube video "Why Vanilla Is So Expensive | So Expensive"](https://www.youtube.com/watch?v=3752x4PgpYE)
-- 💰📈 Financial education
+- 💰📈 [Financial education ~ Module 1 - Introduction to Stock Markets](https://zerodha.com/varsity/module/introduction-to-stock-markets/)
   - 💰📈 [13.Getting started!](https://zerodha.com/varsity/chapter/getting-started/)
   - 💰📈 [14.Supplementary note – Rights, OFS, FPO](https://zerodha.com/varsity/chapter/supplementary-note-ipo-ofs-fpo/)
   - 💰📈 [15.Supplementary note – The 20 market depth or level 3 data](https://zerodha.com/varsity/chapter/supplementary-note-the-20-market-depth/)
 
+***
+</p></details>
+<details>
+<summary>Day 135</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20121%20-%20140/d125e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20121%20-%20140/d125ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20121%20-%20140/d125b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d125chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d125chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d125chs3.jpg)
+  - ✔️ [Played and won puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d125chs5.jpg)  
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20121%20-%20140/d125h5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20121%20-%20140/d125leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "LIVING on $1 INDIAN STREET FOOD for 24 HOURS!"](https://www.youtube.com/watch?v=G72Oz_HjsU4)
+- 👂🏻 [Watched a Youtube video "The Scariest Part About Being A Sniper"](https://www.youtube.com/watch?v=sMHOoIK3-18)
+- 👂🏻 [Watched a Youtube video "Why Scorpion Venom Is So Expensive | So Expensive"](https://www.youtube.com/watch?v=mYVKlQPsATY)
+- 👂🏻 [Watched a Youtube video "The Pastry Chef Adding to Japan’s 400+ Flavors of Kit Kat"](https://www.youtube.com/watch?v=oPHPYVeyLBE)
+- 👂🏻 [Watched a Youtube video "Large Hand-Tossed Cheese Pizza | Domino's Pizza | How Its Made? |"](https://www.youtube.com/watch?v=ETLjfjRce_Y)
+- 👂🏻 [Watched a Youtube video "Why Pink Himalayan Salt Is So Expensive | So Expensive"](https://www.youtube.com/watch?v=YmtIrYXlGRM)
+- 👂🏻 [Watched a Youtube video "This 3D pen is designed for little artists"](https://www.youtube.com/watch?v=wQNcOKzG3Eo)
+- 👂🏻 [Watched a Youtube video "How iPhones Are Professionally Cleaned | Deep Cleaned"](https://www.youtube.com/watch?v=wjHwQOpTkpA)
+- 💰📈 [Financial education ~ Module 2 - Technical Analysis](https://zerodha.com/varsity/module/technical-analysis/)
+  - 💰📈 [1. Background](https://zerodha.com/varsity/chapter/background/)
+    - 💰📈 [1.1 – Overview](https://zerodha.com/varsity/chapter/background/)
+    - 💰📈 [1.2 – Technical Analysis, what is it?](https://zerodha.com/varsity/chapter/background/)
+    - 💰📈 [1.3 – Setting expectations](https://zerodha.com/varsity/chapter/background/)
 ***
 </p></details>
 </p></details>
