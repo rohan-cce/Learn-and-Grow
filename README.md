@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 141 Days (28/04/2021)
+Learning Progress Till Now -> 142 Days (29/04/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -3582,8 +3582,42 @@ John Wooden - Author
     - 💰📈 [7.3 – The Hanging man](https://zerodha.com/varsity/chapter/single-candlestick-patterns-part-3/)
     - 💰📈 [7.4 –My experience with a paper umbrella](https://zerodha.com/varsity/chapter/single-candlestick-patterns-part-3/)
     - 💰📈 [7.5 – The shooting star](https://zerodha.com/varsity/chapter/single-candlestick-patterns-part-3/)
-
+- 🎨 [Tried half mandala art](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/art/d131art.jpg)
 ***
 </p></details>
+<details>
+<summary>Day 142</summary>
+<p>
 
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20121%20-%20140/d132e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20121%20-%20140/d132ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20121%20-%20140/d132b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d132chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d132chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d132chs3.jpg)
+  - ✔️ [Played and won puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d132chs5.jpg)  
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20121%20-%20140/d132h5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20121%20-%20140/d132leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Shaved Ice Looks Like Noodles"](https://www.youtube.com/watch?v=L337JwQIQC4)
+- 👂🏻 [Watched a Youtube video "Trying to revive Covid patients in a Delhi hospital - BBC News"](https://www.youtube.com/watch?v=Ui7mXtqHQxk)
+- 👂🏻 [Watched a Youtube video "Gravitas | Rich countries let India down: America's top infectious disease expert"](https://www.youtube.com/watch?v=ZeOoP2jNPu4)
+- 👂🏻 [Watched a Youtube video "India: No hospital beds - families take their dying to temples"](https://www.youtube.com/watch?v=kmtJajQSaDE)
+- 👂🏻 [Watched a Youtube video "This NYC Restaurant Is Hidden in a Freight Entrance"](https://www.youtube.com/watch?v=u1h-jPizdv4)
+- 👂🏻 [Watched a Youtube video "How Zoho's Sridhar Vembu is transforming Indian village economy"](https://www.youtube.com/watch?v=xOeGbJ2bYL0)
+- 💰📈 [Financial education ~ Module 2 - Technical Analysis](https://zerodha.com/varsity/module/technical-analysis/)
+  - 💰📈 [8. Multiple candlestick patterns (Part 1)](https://zerodha.com/varsity/chapter/multiple-candlestick-patterns-part-1/)
+    - 💰📈 [8.1 – The Engulfing Pattern](https://zerodha.com/varsity/chapter/multiple-candlestick-patterns-part-1/)
+    - 💰📈 [8.2 – The Bullish Engulfing Pattern](https://zerodha.com/varsity/chapter/multiple-candlestick-patterns-part-1/)
+    - 💰📈 [8.3 – The bearish engulfing pattern](https://zerodha.com/varsity/chapter/multiple-candlestick-patterns-part-1/)
+    - 💰📈 [8.4 – The presence of a doji](https://zerodha.com/varsity/chapter/multiple-candlestick-patterns-part-1/)
+    - 💰📈 [8.5 – The Piercing Pattern](https://zerodha.com/varsity/chapter/multiple-candlestick-patterns-part-1/)
+    - 💰📈 [8.6 – The Dark Cloud Cover](https://zerodha.com/varsity/chapter/multiple-candlestick-patterns-part-1/)
+    - 💰📈 [8.7 – A perspective on selecting a trade](https://zerodha.com/varsity/chapter/multiple-candlestick-patterns-part-1/)
+***
+</p></details>
 </p></details>
