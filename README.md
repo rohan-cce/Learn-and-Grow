@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 143 Days (30/04/2021)
+Learning Progress Till Now -> 144 Days (09/12/2020 to 01/05/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -3647,6 +3647,30 @@ John Wooden - Author
     - 💰📈 [9.1 – The Harami Pattern](https://zerodha.com/varsity/chapter/multiple-candlestick-patterns-part-2/)
     - 💰📈 [9.2 – The Bullish Harami](https://zerodha.com/varsity/chapter/multiple-candlestick-patterns-part-2/)
     - 💰📈 [9.3 – The bearish harami](https://zerodha.com/varsity/chapter/multiple-candlestick-patterns-part-2/)
+***
+</p></details>
+<details>
+<summary>Day 144</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20121%20-%20140/d134e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20121%20-%20140/d134ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20121%20-%20140/d134b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d134chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d134chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d134chs3.jpg)
+  - ✔️ [Played and won puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d134chs5.jpg)  
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20121%20-%20140/d134h5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20121%20-%20140/d134leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Spycam hunter in China helps people find hidden cameras in their homes"](https://www.youtube.com/watch?v=HZMdUlsD8is)
+- 👂🏻 [Watched a Youtube video "Why Is Housing In Hong Kong So Expensive? | So Expensive"](https://www.youtube.com/watch?v=cs5L3c40cvk)
+- 👂🏻 [Watched a Youtube video "Hong Kong’s $18BN Airport Expansion Explained"](https://www.youtube.com/watch?v=7YZ-VWORLL8)
+- 👂🏻 [Watched a Youtube video "He Dives Into Ovens to Bake Bread"](https://www.youtube.com/watch?v=jjcY5Rd4vzQ)
 ***
 </p></details>
 </p></details>
