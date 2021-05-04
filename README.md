@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 144 Days (09/12/2020 to 01/05/2021)
+Learning Progress Till Now -> 147 Days (09/12/2020 to 04/05/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -3737,6 +3737,31 @@ John Wooden - Author
     - 💰📈 [10.3 – The evening star](https://zerodha.com/varsity/chapter/multiple-candlestick-patterns-part-3/)
     - 💰📈 [10.4 – Summarizing the entry and exit for candlestick patterns](https://zerodha.com/varsity/chapter/multiple-candlestick-patterns-part-3/)
     - 💰📈 [10.5 – What next?](https://zerodha.com/varsity/chapter/multiple-candlestick-patterns-part-3/)
+***
+</p></details>
+<details>
+<summary>Day 147</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20121%20-%20140/d137e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20121%20-%20140/d137ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20121%20-%20140/d137b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d137chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d137chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d137chs3.jpg)
+  - ✔️ [Played and won puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d137chs5.jpg)  
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank SQL challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20121%20-%20140/d137h3.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20121%20-%20140/d137leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "How many spycams can Stacey Dooley find in a love motel bedroom? | BBC"](https://www.youtube.com/watch?v=ggYIsnUgUdU)
+- 👂🏻 [Watched a Youtube video "Nations continue to send aid as India fights a massive battle against coronavirus"](https://www.youtube.com/watch?v=DwEXSWO20YU)
+- 👂🏻 [Watched a Youtube video "Watch Master Ceramist Eric Landon Destroy His Pottery For Fun"](https://www.youtube.com/watch?v=YzxHipgaGZE)
+- 👂🏻 [Watched a Youtube video "Tech It Out: China to set a new speed record in ground transportation"](https://www.youtube.com/watch?v=OUFuGLqXU-E)
+
 ***
 </p></details>
 </p></details>
