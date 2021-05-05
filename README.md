@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 147 Days (09/12/2020 to 04/05/2021)
+Learning Progress Till Now -> 148 Days (09/12/2020 to 05/05/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -3739,6 +3739,7 @@ John Wooden - Author
     - 💰📈 [10.5 – What next?](https://zerodha.com/varsity/chapter/multiple-candlestick-patterns-part-3/)
 ***
 </p></details>
+
 <details>
 <summary>Day 147</summary>
 <p>
@@ -3764,4 +3765,30 @@ John Wooden - Author
 
 ***
 </p></details>
+
+<details>
+<summary>Day 148</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20121%20-%20140/d138e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20121%20-%20140/d138ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20121%20-%20140/d138b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d138chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d137chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d138chs3.jpg)
+  - ✔️ [Played and won puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d138chs5.jpg)  
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20121%20-%20140/d138h1.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20121%20-%20140/d138leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Pressure in India for national lockdown with more than 20 million Covid cases recorded - BBC News"](https://www.youtube.com/watch?v=Z-rMCOES7Lo)
+- 👂🏻 [Watched a Youtube video "Japan's $100 Billion World's Fastest Train"](https://www.youtube.com/watch?v=Wkgpxprl_5c)
+- 👂🏻 [Watched a Youtube video "Gravitas: New Wuhan virus variant found in India"](https://www.youtube.com/watch?v=qm-T9MxCSuQ)
+- 👂🏻 [Watched a Youtube video "Canadians get creative in solving food waste problem"](https://www.youtube.com/watch?v=fRovHP4eXyM)
+***
+</p></details>
+
 </p></details>
