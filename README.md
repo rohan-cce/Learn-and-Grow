@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 148 Days (09/12/2020 to 05/05/2021)
+Learning Progress Till Now -> 150 Days (09/12/2020 to 07/05/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -3820,6 +3820,36 @@ John Wooden - Author
     - 💰📈 [11.3 – Construction/Drawing of the Support and Resistance level](https://zerodha.com/varsity/chapter/support-resistance/)
     - 💰📈 [11.4 – Reliability of S&R](https://zerodha.com/varsity/chapter/support-resistance/)
     - 💰📈 [11.5 – Optimization and checklist](https://zerodha.com/varsity/chapter/support-resistance/)
+***
+</p></details>
+<details>
+<summary>Day 150</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20121%20-%20140/d140e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20121%20-%20140/d140ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20121%20-%20140/d140b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d140chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d140chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d140chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20121%20-%20140/d140chs5.jpg)  
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C++ language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20121%20-%20140/d140h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20121%20-%20140/d140leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Pressure in India for national lockdown with more than 20 million Covid cases recorded - BBC News"](https://www.youtube.com/watch?v=Z-rMCOES7Lo)
+- 👂🏻 [Watched a Youtube video "Dozens of French boats protest off Jersey in row with UK over fishing rights - BBC News"](https://www.youtube.com/watch?v=UhWeOmTEHzM)
+- 👂🏻 [Watched a Youtube video "India's Best Breakfast Costs 14 Cents! Amazing Punjabi Street Food!"](https://www.youtube.com/watch?v=I5mn4l6RGtI)
+- 👂🏻 [Watched a Youtube video "Inside Tesla's New Shanghai Gigafactory"](https://www.youtube.com/watch?v=OQcQcy-jScM)
+- 👂🏻 [Watched a Youtube video "What Happens To NYC’s 3.2 Million Tons Of Trash | Big Business"](https://www.youtube.com/watch?v=S758wEniU0c)
+- 💰📈 [Financial education ~ Module 2 - Technical Analysis](https://zerodha.com/varsity/module/technical-analysis/)
+  - 💰📈 [12. Volumes](https://zerodha.com/varsity/chapter/volumes/)
+    - 💰📈 [12.1 – The volume trend table](https://zerodha.com/varsity/chapter/volumes/)
+    - 💰📈 [12.2 – The thought process behind the volume trend table](https://zerodha.com/varsity/chapter/volumes/)
+    - 💰📈 [12.3 – Revisiting the checklist](https://zerodha.com/varsity/chapter/volumes/)
 ***
 </p></details>
 </p></details>
