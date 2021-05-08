@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 150 Days (09/12/2020 to 07/05/2021)
+Learning Progress Till Now -> 151 Days (09/12/2020 to 08/05/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -3852,4 +3852,42 @@ John Wooden - Author
     - 💰📈 [12.3 – Revisiting the checklist](https://zerodha.com/varsity/chapter/volumes/)
 ***
 </p></details>
+</p></details>
+
+>“You just can’t beat the person who won’t give up.” ―Babe Ruth
+
+<details>
+  <summary>Day 151 - 160 ~ May 08, 2021 - May 17, 2021</summary>
+<p>
+
+<details>
+<summary>Day 151</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d141e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20141%20-%20160/d141leetcode.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20141%20-%20160/d141b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d141chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d141chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d141chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d141chs5.jpg)  
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C++ language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20141%20-%20160/d141h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code]()
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "How 100 Billion Cranberries Are Harvested In 6 Weeks | Big Business"](https://www.youtube.com/watch?v=-Io188EOB4s)
+- 👂🏻 [Watched a Youtube video "SpaceX Starship prototype makes clean landing - BBC News"](https://www.youtube.com/watch?v=LpmiR9mSXo4)
+- 👂🏻 [Watched a Youtube video "Call for urgent cuts in methane gas emissions to tackle global warming - BBC News"](https://www.youtube.com/watch?v=Kuh7OsNhdTQ)
+- 👂🏻 [Watched a Youtube video "India’s Covid crisis: Untrained relatives of victims take on medical roles in Uttar Pradesh"](https://www.youtube.com/watch?v=7o0zFJzdHNU)
+- 💰📈 [Financial education ~ Module 2 - Technical Analysis](https://zerodha.com/varsity/module/technical-analysis/)
+  - 💰📈 [12. Volumes](https://zerodha.com/varsity/chapter/volumes/)
+    - 💰📈 [12.1 – The volume trend table](https://zerodha.com/varsity/chapter/volumes/)
+    - 💰📈 [12.2 – The thought process behind the volume trend table](https://zerodha.com/varsity/chapter/volumes/)
+    - 💰📈 [12.3 – Revisiting the checklist](https://zerodha.com/varsity/chapter/volumes/)
+***
+</p></details>
+
 </p></details>
