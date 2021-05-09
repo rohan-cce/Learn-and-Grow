@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 151 Days (09/12/2020 to 08/05/2021)
+Learning Progress Till Now -> 152 Days (09/12/2020 to 09/05/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -3889,5 +3889,27 @@ John Wooden - Author
     - 💰📈 [12.3 – Revisiting the checklist](https://zerodha.com/varsity/chapter/volumes/)
 ***
 </p></details>
+<details>
+<summary>Day 152</summary>
+<p>
 
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d142e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d142ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20141%20-%20160/d142b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d142chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d142chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d142chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d142chs5.jpg)  
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C++ language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20141%20-%20160/d142h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20141%20-%20160/d142leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "How The $30 Million 'Super Scooper' Plane Was Built To Fight Wildfires"](https://www.youtube.com/watch?v=fuLk5hXMRZY)
+- 👂🏻 [Watched a Youtube video "Inside The World's Biggest Passenger Plane"](https://www.youtube.com/watch?v=lFm4EM1juls)
+- 👂🏻 [Watched a Youtube video "The Rise And Fall Of The Cruise Industry | Rise And Fall"](https://www.youtube.com/watch?v=U5Ncbs-bE8Q)
+***
+</p></details>
 </p></details>
