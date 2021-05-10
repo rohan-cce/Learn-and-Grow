@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 152 Days (09/12/2020 to 09/05/2021)
+Learning Progress Till Now -> 153 Days (09/12/2020 to 10/05/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -3910,6 +3910,35 @@ John Wooden - Author
 - 👂🏻 [Watched a Youtube video "How The $30 Million 'Super Scooper' Plane Was Built To Fight Wildfires"](https://www.youtube.com/watch?v=fuLk5hXMRZY)
 - 👂🏻 [Watched a Youtube video "Inside The World's Biggest Passenger Plane"](https://www.youtube.com/watch?v=lFm4EM1juls)
 - 👂🏻 [Watched a Youtube video "The Rise And Fall Of The Cruise Industry | Rise And Fall"](https://www.youtube.com/watch?v=U5Ncbs-bE8Q)
+***
+</p></details>
+<details>
+<summary>Day 153</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d143e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d143ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20141%20-%20160/d143b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d143chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d143chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d143chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d143chs5.jpg)  
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - 🏆 [Earned 2nd star in C++ language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20141%20-%20160/d143h4.jpg)
+  - ✔️ [Completed 1 Question in hackerrank C++ language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20141%20-%20160/d143h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20141%20-%20160/d143leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Top 4 Civil Engineering Projects"](https://www.youtube.com/watch?v=XmtKwDE_5lk)
+- 👂🏻 [Watched a Youtube video "Inside China’s $3.6 Billion Underwater Vacuum Train"](https://youtu.be/Gck-D_G7Hvk)
+- 💰📈 [Financial education ~ Module 2 - Technical Analysis](https://zerodha.com/varsity/module/technical-analysis/)
+  - 💰📈 [13. Moving Averages](https://zerodha.com/varsity/chapter/moving-averages/)
+    - 💰📈 [13.1 – The ‘moving’ average (also called the simple moving average)](https://zerodha.com/varsity/chapter/moving-averages/)
+    - 💰📈 [13.2 – The exponential moving average](https://zerodha.com/varsity/chapter/moving-averages/)
+    - 💰📈 [13.3 – A simple application of moving average](https://zerodha.com/varsity/chapter/moving-averages/)
+    - 💰📈 [13.4 – Moving average crossover system](https://zerodha.com/varsity/chapter/moving-averages/)
 ***
 </p></details>
 </p></details>
