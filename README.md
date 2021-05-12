@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 154 Days (09/12/2020 to 11/05/2021)
+Learning Progress Till Now -> 155 Days (09/12/2020 to 12/05/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -3970,6 +3970,35 @@ John Wooden - Author
     - 💰📈 [13.2 – The exponential moving average](https://zerodha.com/varsity/chapter/moving-averages/)
     - 💰📈 [13.3 – A simple application of moving average](https://zerodha.com/varsity/chapter/moving-averages/)
     - 💰📈 [13.4 – Moving average crossover system](https://zerodha.com/varsity/chapter/moving-averages/)
+***
+</p></details>
+
+<details>
+<summary>Day 155</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d145e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d145ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20141%20-%20160/d145b1.jpg)
+- ✔️ [Completed 26 challenges in codemonkey](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/codemonkey/d145cm.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d145chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d145chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d145chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d145chs5.jpg)  
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C++ language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20141%20-%20160/d145h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20141%20-%20160/d145leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Design your own dessert at this San Diego cafe"](https://www.youtube.com/watch?v=NicOgHLenNQ)
+- 👂🏻 [Watched a Youtube video "India's USD 1.6 Billion metro rail project"](https://www.youtube.com/watch?v=j_8BDjCZ9Y4)
+- 👂🏻 [Watched a Youtube video "The Amazing Paradise Flying Snake | Wildest Islands Of Indonesia"](https://www.youtube.com/watch?v=16aGSx9gFO4)
+- 💰📈 [Financial education ~ Module 2 - Technical Analysis](https://zerodha.com/varsity/module/technical-analysis/)
+  - 💰📈 [14. Indicators (Part 1)](https://zerodha.com/varsity/chapter/indicators-part-1/)
+    - 💰📈 [14.1 – Relative Strength Index](https://zerodha.com/varsity/chapter/indicators-part-1/)
+    - 💰📈 [14.2 – One last note](https://zerodha.com/varsity/chapter/indicators-part-1/)
 ***
 </p></details>
 </p></details>
