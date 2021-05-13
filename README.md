@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 155 Days (09/12/2020 to 12/05/2021)
+Learning Progress Till Now -> 155 Days (09/12/2020 to 13/05/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -3999,6 +3999,40 @@ John Wooden - Author
   - 💰📈 [14. Indicators (Part 1)](https://zerodha.com/varsity/chapter/indicators-part-1/)
     - 💰📈 [14.1 – Relative Strength Index](https://zerodha.com/varsity/chapter/indicators-part-1/)
     - 💰📈 [14.2 – One last note](https://zerodha.com/varsity/chapter/indicators-part-1/)
+***
+</p></details>
+
+<details>
+<summary>Day 156</summary>
+<p>
+
+- ✔️ Elevate
+  - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d146e1.jpg)
+  - ✔️ [Reached New Proficieny level in maths (Master)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d146e2.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d146ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20141%20-%20160/d146b1.jpg)
+- ✔️ [Completed 5 challenges in codemonkey](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/codemonkey/d146cm.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d146chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d146chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d146chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d146chs5.jpg)  
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - 🏆 [Earned 3rd star in C++ language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20141%20-%20160/d146h4.jpg)
+  - ✔️ [Completed 1 Question in hackerrank C++ language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20141%20-%20160/d146h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20141%20-%20160/d146leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Kit Kat Factory | How Kit Kats Are Made In Factory | How It's Made Kit Kat | Food Factory ➤#10"](https://www.youtube.com/watch?v=2Yd2HhKIsiE)
+- 👂🏻 [Watched a Youtube video "Inside The World's Biggest Baked Bean Factory"](https://www.youtube.com/watch?v=G6O2zTuGOVQ)
+- 👂🏻 [Watched a Youtube video "Gravitas: What is Black Fungus or Mucormycosis?"](https://www.youtube.com/watch?v=Y4Wmv02XwQ8)
+- 💰📈 [Financial education ~ Module 2 - Technical Analysis](https://zerodha.com/varsity/module/technical-analysis/)
+  - 💰📈 [15. Indicators (Part 2)](https://zerodha.com/varsity/chapter/indicators-part-2/)
+    - 💰📈 [15.1 Moving Average Convergence and Divergence (MACD)](https://zerodha.com/varsity/chapter/indicators-part-2/)
+    - 💰📈 [15.2 – The Bollinger Bands](https://zerodha.com/varsity/chapter/indicators-part-2/)
+    - 💰📈 [15.3 – Other Indicators](https://zerodha.com/varsity/chapter/indicators-part-2/)
+    - 💰📈 [15.4 – The Checklist](https://zerodha.com/varsity/chapter/indicators-part-2/)
 ***
 </p></details>
 </p></details>
