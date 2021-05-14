@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 155 Days (09/12/2020 to 13/05/2021)
+Learning Progress Till Now -> 156 Days (09/12/2020 to 14/05/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -4035,4 +4035,34 @@ John Wooden - Author
     - 💰📈 [15.4 – The Checklist](https://zerodha.com/varsity/chapter/indicators-part-2/)
 ***
 </p></details>
+
+<details>
+<summary>Day 157</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d147e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d147ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20141%20-%20160/d147b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d147chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d147chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d147chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d147chs5.jpg)  
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C++ language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20141%20-%20160/d147h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20141%20-%20160/d147leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "The New York Public Library Has a Human Google"](https://www.youtube.com/watch?v=PfqgDG1qrKg)
+- 👂🏻 [Watched a Youtube video "The Ola Futurefactory vision!"](https://www.youtube.com/watch?v=tKEIPGWnJO0)
+- 👂🏻 [Watched a Youtube video "Best Breakfast in Delhi, India! STUPID Good Indian Street Food Tour in Old Delhi (and New Delhi)"](https://www.youtube.com/watch?v=2KDai2DuRd0)
+- 💰📈 [Financial education ~ Module 2 - Technical Analysis](https://zerodha.com/varsity/module/technical-analysis/)
+  - 💰📈 [16. The Fibonacci Retracements](https://zerodha.com/varsity/chapter/fibonacci-retracements/)
+    - 💰📈 [16.1 – Relevance to stocks markets](https://zerodha.com/varsity/chapter/fibonacci-retracements/)
+    - 💰📈 [16.2 – Fibonacci Retracement construction](https://zerodha.com/varsity/chapter/fibonacci-retracements/)
+    - 💰📈 [16.3 – How should you use the Fibonacci retracement levels?](https://zerodha.com/varsity/chapter/fibonacci-retracements/)
+***
+</p></details>
+
 </p></details>
