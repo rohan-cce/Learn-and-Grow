@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 156 Days (09/12/2020 to 14/05/2021)
+Learning Progress Till Now -> 158 Days (09/12/2020 to 15/05/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -4065,4 +4065,36 @@ John Wooden - Author
 ***
 </p></details>
 
+<details>
+<summary>Day 158</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d148e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d148ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20141%20-%20160/d148b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d148chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d148chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d148chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d148chs5.jpg)  
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C++ language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20141%20-%20160/d148h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20141%20-%20160/d148leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "The Mindset you Need in your 20s in tamil | RICH VS POOR MINDSET | Think like a rich man tamil | AE"](https://www.youtube.com/watch?v=WPDW5G7_SLs)
+- 👂🏻 [Watched a Youtube video "Gravitas: China cornered on Xinjiang"](https://www.youtube.com/watch?v=uEq4W1SG5Nw)
+- 👂🏻 [Watched a Youtube video "The Indian factory making 6,000 syringes a minute - BBC News"](https://www.youtube.com/watch?v=ZSBFXuPylHg)
+- 👂🏻 [Watched a Youtube video "Eco-friendly masks that grow into plants upon disposal"](https://www.youtube.com/watch?v=gjnhJfxc20A)
+- 💰📈 [Financial education ~ Module 2 - Technical Analysis](https://zerodha.com/varsity/module/technical-analysis/)
+  - 💰📈 [17. The Dow Theory (Part 1)](https://zerodha.com/varsity/chapter/dow-theory-part-1/)
+    - 💰📈 [17.1 – The Dow Theory Principles](https://zerodha.com/varsity/chapter/dow-theory-part-1/)
+    - 💰📈 [17.2 – The different phases of Market](https://zerodha.com/varsity/chapter/dow-theory-part-1/)
+    - 💰📈 [17.3 – The Dow Patterns](https://zerodha.com/varsity/chapter/dow-theory-part-1/)
+    - 💰📈 [17.4 – The Double bottom and top formation](https://zerodha.com/varsity/chapter/dow-theory-part-1)
+    - 💰📈 [17.5 – The triple top and bottom](https://zerodha.com/varsity/chapter/dow-theory-part-1/)
+
+***
+</p></details>
 </p></details>
