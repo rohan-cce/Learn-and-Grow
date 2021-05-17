@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 159 Days (09/12/2020 to 16/05/2021)
+Learning Progress Till Now -> 160 Days (09/12/2020 to 17/05/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -4127,6 +4127,37 @@ John Wooden - Author
     - 💰📈 [18.5 – The Reward to Risk Ratio (RRR)](https://zerodha.com/varsity/chapter/dow-theory-part-2/)
     - 💰📈 [18.6 – The Grand Checklist](https://zerodha.com/varsity/chapter/dow-theory-part-2/)
     - 💰📈 [18.7 – What next?](https://zerodha.com/varsity/chapter/dow-theory-part-2/)
+***
+</p></details>
+<details>
+<summary>Day 160</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d150e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d150ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20141%20-%20160/d150b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d150chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d150chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d150chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d150chs5.jpg)  
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C++ language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20141%20-%20160/d150h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20141%20-%20160/d150leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Futuristic motorhomes you need to see to believe"](https://www.youtube.com/watch?v=5hMNuh8_d5I)
+- 👂🏻 [Watched a Youtube video "Ship Speed: Why are Massive Ships So Painfully Slow?"](https://www.youtube.com/watch?v=rJs9dscwGgI)
+- 👂🏻 [Watched a Youtube video "STOP WASTING TIME | FOLLOW THIS DAILY ROUTINE FOR SUCCESS TAMIL| HOW TO HAVE A GOOD DAY BOOK TAMIL"](https://www.youtube.com/watch?v=prDD4m8a16w)
+- 💰📈 [Financial education ~ Module 2 - Technical Analysis](https://zerodha.com/varsity/module/technical-analysis/)
+  - 💰📈 [19. The Finale – Helping you get started](https://zerodha.com/varsity/chapter/finale-helping-get-started/)
+    - 💰📈 [19.1 – The Charting Software](https://zerodha.com/varsity/chapter/finale-helping-get-started/)
+    - 💰📈 [19.2 – Which timeframe to choose?](https://zerodha.com/varsity/chapter/finale-helping-get-started)
+    - 💰📈 [19.3 – Lookback period](https://zerodha.com/varsity/chapter/finale-helping-get-started/)
+    - 💰📈 [19.4 – The opportunity universe](https://zerodha.com/varsity/chapter/finale-helping-get-started/)
+    - 💰📈 [19.5 – The Scout](https://zerodha.com/varsity/chapter/finale-helping-get-started/)
+    - 💰📈 [19.6 – The Scalper](https://zerodha.com/varsity/chapter/finale-helping-get-started/)
 ***
 </p></details>
 </p></details>
