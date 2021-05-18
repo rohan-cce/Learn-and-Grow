@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 160 Days (09/12/2020 to 17/05/2021)
+Learning Progress Till Now -> 161 Days (09/12/2020 to 18/05/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -4158,6 +4158,41 @@ John Wooden - Author
     - 💰📈 [19.4 – The opportunity universe](https://zerodha.com/varsity/chapter/finale-helping-get-started/)
     - 💰📈 [19.5 – The Scout](https://zerodha.com/varsity/chapter/finale-helping-get-started/)
     - 💰📈 [19.6 – The Scalper](https://zerodha.com/varsity/chapter/finale-helping-get-started/)
+***
+</p></details>
+</p></details>
+
+>"If you start to think the problem is 'out there,' stop yourself. That thought is the problem." Stephen Covey
+
+<details>
+  <summary>Day 161 - 170 ~ May 18, 2021 - May 27, 2021</summary>
+<p>
+<details>
+<summary>Day 161</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d151e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d151ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20141%20-%20160/d151b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d151chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d151chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d151chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d151chs5.jpg)
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C++ language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20141%20-%20160/d151h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20141%20-%20160/d151leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Lays Chips Factory | How Chips Are Made | Fresh Potato Chips Factory | Food Factory ➤#19"](https://www.youtube.com/watch?v=L6IYy95ODDU)
+- 👂🏻 [Watched a Youtube video "The Economy Of SWITZERLAND, Unraveling Swiss Economy"](https://www.youtube.com/watch?v=De6rFH8oKsI)
+- 👂🏻 [Watched a Youtube video "Why Can't Government Print Money To Pay Off Debt? Inflation & Hyperinflation"](https://www.youtube.com/watch?v=44nmnsJVfPY)
+- 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
+  - 💰📈 [1. Introduction to Fundamental Analysis](https://zerodha.com/varsity/chapter/introduction-fundamental-analysis/)
+    - 💰📈 [1.1 – Overview](https://zerodha.com/varsity/chapter/introduction-fundamental-analysis/)
+    - 💰📈 [1.2 – Can I be a fundamental analyst?](https://zerodha.com/varsity/chapter/introduction-fundamental-analysis/)
+    - 💰📈 [1.3 – I’m happy with Technical Analysis, so why bother about Fundamental Analysis?](https://zerodha.com/varsity/chapter/introduction-fundamental-analysis/)
+    - 💰📈 [1.4 – Tools of FA](https://zerodha.com/varsity/chapter/introduction-fundamental-analysis/)
 ***
 </p></details>
 </p></details>
