@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 161 Days (09/12/2020 to 18/05/2021)
+Learning Progress Till Now -> 162 Days (09/12/2020 to 19/05/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -4167,6 +4167,7 @@ John Wooden - Author
 <details>
   <summary>Day 161 - 170 ~ May 18, 2021 - May 27, 2021</summary>
 <p>
+
 <details>
 <summary>Day 161</summary>
 <p>
@@ -4193,6 +4194,35 @@ John Wooden - Author
     - 💰📈 [1.2 – Can I be a fundamental analyst?](https://zerodha.com/varsity/chapter/introduction-fundamental-analysis/)
     - 💰📈 [1.3 – I’m happy with Technical Analysis, so why bother about Fundamental Analysis?](https://zerodha.com/varsity/chapter/introduction-fundamental-analysis/)
     - 💰📈 [1.4 – Tools of FA](https://zerodha.com/varsity/chapter/introduction-fundamental-analysis/)
+***
+</p></details>
+<details>
+<summary>Day 162</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d152e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d152ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20141%20-%20160/d152b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d152chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d152chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d152chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d152chs5.jpg)
+- ✔️ Hackerrank
+  - 🏆 [Earned 4th star in C++ language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20141%20-%20160/d152h4.jpg)
+  - ✔️ [Completed 1 Question in hackerrank C++ language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20141%20-%20160/d152h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20141%20-%20160/d152leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Candle Study | Online class | Mr.Money | Tamil |"](https://www.youtube.com/watch?v=BivPhbBKI_U)
+- 👂🏻 [Watched a Youtube video ""]()
+- 👂🏻 [Watched a Youtube video ""]()
+- 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
+  - 💰📈 [2. Mindset of an Investor](https://zerodha.com/varsity/chapter/mindset-investor/)
+    - 💰📈 [2.1– Speculator Vs Trader Vs Investor](https://zerodha.com/varsity/chapter/mindset-investor/)
+    - 💰📈 [2.2 – The compounding effect](https://zerodha.com/varsity/chapter/mindset-investor/)
+    - 💰📈 [2.3 – Does invest work?](https://zerodha.com/varsity/chapter/mindset-investor/)
+    - 💰📈 [2.4 – Investible grade attributes? What does that mean?](https://zerodha.com/varsity/chapter/mindset-investor/)
 ***
 </p></details>
 </p></details>
