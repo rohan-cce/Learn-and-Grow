@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 162 Days (09/12/2020 to 19/05/2021)
+Learning Progress Till Now -> 163 Days (09/12/2020 to 20/05/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -4196,6 +4196,7 @@ John Wooden - Author
     - 💰📈 [1.4 – Tools of FA](https://zerodha.com/varsity/chapter/introduction-fundamental-analysis/)
 ***
 </p></details>
+
 <details>
 <summary>Day 162</summary>
 <p>
@@ -4215,14 +4216,41 @@ John Wooden - Author
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20141%20-%20160/d152leetcode.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
 - 👂🏻 [Watched a Youtube video "Candle Study | Online class | Mr.Money | Tamil |"](https://www.youtube.com/watch?v=BivPhbBKI_U)
-- 👂🏻 [Watched a Youtube video ""]()
-- 👂🏻 [Watched a Youtube video ""]()
 - 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
   - 💰📈 [2. Mindset of an Investor](https://zerodha.com/varsity/chapter/mindset-investor/)
     - 💰📈 [2.1– Speculator Vs Trader Vs Investor](https://zerodha.com/varsity/chapter/mindset-investor/)
     - 💰📈 [2.2 – The compounding effect](https://zerodha.com/varsity/chapter/mindset-investor/)
     - 💰📈 [2.3 – Does invest work?](https://zerodha.com/varsity/chapter/mindset-investor/)
     - 💰📈 [2.4 – Investible grade attributes? What does that mean?](https://zerodha.com/varsity/chapter/mindset-investor/)
+***
+</p></details>
+
+<details>
+<summary>Day 163</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d153e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d153ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20141%20-%20160/d153b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d153chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d153chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d153chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d153chs5.jpg)
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C++ language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20141%20-%20160/d153h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20141%20-%20160/d153leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Gravitas: Wuhan virus is now infecting children"](https://www.youtube.com/watch?v=PhieVNS4nhs)
+- 👂🏻 [Watched a Youtube video "A few things to know from Google I/O 2021 in under 9 minutes."](https://www.youtube.com/watch?v=L7c4wS7T_T8)
+- 👂🏻 [Watched a Youtube video "Google Sustainability | A carbon-free future"](https://www.youtube.com/watch?v=rOZaxdPYP7U)
+- 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
+  - 💰📈 [3. How to Read the Annual Report of a Company](https://zerodha.com/varsity/chapter/read-annual-report-company/)
+    - 💰📈 [3.1 – What is an Annual Report?](https://zerodha.com/varsity/chapter/read-annual-report-company/)
+    - 💰📈 [3.2 – What to look for in an Annual Report?](https://zerodha.com/varsity/chapter/read-annual-report-company/)
+    - 💰📈 [3.3 – The Financial Statements](https://zerodha.com/varsity/chapter/read-annual-report-company/)
+    - 💰📈 [3.4 – Schedules of Financial Statements](https://zerodha.com/varsity/chapter/read-annual-report-company/)
 ***
 </p></details>
 </p></details>
