@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 163 Days (09/12/2020 to 20/05/2021)
+Learning Progress Till Now -> 164 Days (09/12/2020 to 21/05/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -4244,13 +4244,41 @@ John Wooden - Author
 - 📰 [Daily English News](https://qz.com/india/)
 - 👂🏻 [Watched a Youtube video "Gravitas: Wuhan virus is now infecting children"](https://www.youtube.com/watch?v=PhieVNS4nhs)
 - 👂🏻 [Watched a Youtube video "A few things to know from Google I/O 2021 in under 9 minutes."](https://www.youtube.com/watch?v=L7c4wS7T_T8)
-- 👂🏻 [Watched a Youtube video "Google Sustainability | A carbon-free future"](https://www.youtube.com/watch?v=rOZaxdPYP7U)
+- 👂🏻 [Watched a Youtube video "Google Sustainability | A carbon-free future"](https://www.youtube.com/watch?v=rOZaxdPYP7Us)
 - 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
   - 💰📈 [3. How to Read the Annual Report of a Company](https://zerodha.com/varsity/chapter/read-annual-report-company/)
     - 💰📈 [3.1 – What is an Annual Report?](https://zerodha.com/varsity/chapter/read-annual-report-company/)
     - 💰📈 [3.2 – What to look for in an Annual Report?](https://zerodha.com/varsity/chapter/read-annual-report-company/)
     - 💰📈 [3.3 – The Financial Statements](https://zerodha.com/varsity/chapter/read-annual-report-company/)
     - 💰📈 [3.4 – Schedules of Financial Statements](https://zerodha.com/varsity/chapter/read-annual-report-company/)
+***
+</p></details>
+<details>
+<summary>Day 164</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d154e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d154ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20141%20-%20160/d154b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d154chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d154chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d154chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d154chs5.jpg)
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C++ language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20141%20-%20160/d154h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20141%20-%20160/d154leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "This one single piece of advice will make you over Rs. 40000000 - WATCH AND LEARN : Anand Srinivasan"](https://www.youtube.com/watch?v=zmO9Z-9LoEo)
+- 👂🏻 [Watched a Youtube video "Project Starline: Feel like you're there, together"](https://www.youtube.com/watch?v=Q13CishCKXY)
+- 👂🏻 [Watched a Youtube video "Gravitas: After black fungus, cases of "white fungus" found in India"](https://www.youtube.com/watch?v=WQ5L1oidAgM)
+- 👂🏻 [Watched a Youtube video "Warren Buffett: When to sell a stock"](https://www.youtube.com/watch?v=MjwtZnuEexA)
+- 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
+  - 💰📈 [4. Understanding the P&L Statement (Part 1)](https://zerodha.com/varsity/chapter/understanding-pl-statement-part1/)
+    - 💰📈 [4.1 – Overview of the financial statements](https://zerodha.com/varsity/chapter/understanding-pl-statement-part1/)
+    - 💰📈 [4.2 – The Profit and Loss statement](https://zerodha.com/varsity/chapter/understanding-pl-statement-part1/)
+    - 💰📈 [4.3 – The Top Line of the company (Revenue)](https://zerodha.com/varsity/chapter/understanding-pl-statement-part1/)
 ***
 </p></details>
 </p></details>
