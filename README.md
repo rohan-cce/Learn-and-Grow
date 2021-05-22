@@ -4281,4 +4281,32 @@ John Wooden - Author
     - 💰📈 [4.3 – The Top Line of the company (Revenue)](https://zerodha.com/varsity/chapter/understanding-pl-statement-part1/)
 ***
 </p></details>
+<details>
+<summary>Day 165</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d155e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d155ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20141%20-%20160/d155b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d155chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d155chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d155chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d155chs5.jpg)
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C++ language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20141%20-%20160/d155h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20141%20-%20160/d155leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "What is Dogecoin crypto in Tamil |Why Elon Musk promotes it ? |Crypto crash tamil| almost everything"](https://www.youtube.com/watch?v=VKsgWqHJa0U)
+- 👂🏻 [Watched a Youtube video "Gravitas: Clashes break out at Al Aqsa, again"](https://www.youtube.com/watch?v=dSWMq2pIBsA)
+- 👂🏻 [Watched a Youtube video "Google's new MEGA supercomputers revealed! (with quantum updates)"](https://www.youtube.com/watch?v=xjI80zS3CgQ)
+- 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
+  - 💰📈 [5. Understanding P&L Statement (Part 2)](https://zerodha.com/varsity/chapter/understanding-pl-statement-part2/)
+    - 💰📈 [5.1 – The Expense details](https://zerodha.com/varsity/chapter/understanding-pl-statement-part2/)
+    - 💰📈 [5.2 – The Profit before tax](https://zerodha.com/varsity/chapter/understanding-pl-statement-part2/)
+    - 💰📈 [5.3 – Net Profit after tax](https://zerodha.com/varsity/chapter/understanding-pl-statement-part2/)
+    - 💰📈 [5.4 – Conclusion](https://zerodha.com/varsity/chapter/understanding-pl-statement-part2/)
+***
+</p></details>
 </p></details>
