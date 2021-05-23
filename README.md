@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 164 Days (09/12/2020 to 21/05/2021)
+Learning Progress Till Now -> 166 Days (09/12/2020 to 23/05/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -4281,6 +4281,7 @@ John Wooden - Author
     - 💰📈 [4.3 – The Top Line of the company (Revenue)](https://zerodha.com/varsity/chapter/understanding-pl-statement-part1/)
 ***
 </p></details>
+
 <details>
 <summary>Day 165</summary>
 <p>
@@ -4307,6 +4308,35 @@ John Wooden - Author
     - 💰📈 [5.2 – The Profit before tax](https://zerodha.com/varsity/chapter/understanding-pl-statement-part2/)
     - 💰📈 [5.3 – Net Profit after tax](https://zerodha.com/varsity/chapter/understanding-pl-statement-part2/)
     - 💰📈 [5.4 – Conclusion](https://zerodha.com/varsity/chapter/understanding-pl-statement-part2/)
+***
+</p></details>
+<details>
+<summary>Day 166</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d156e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d156ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20141%20-%20160/d156b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d156chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d156chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d156chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d156chs5.jpg)
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C++ language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20141%20-%20160/d156h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20141%20-%20160/d156leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Gravitas: ICMR approves COVID self-testing kit"](https://www.youtube.com/watch?v=whT7eME44sg)
+- 👂🏻 [Watched a Youtube video "Why Japanese Eel Is So Expensive | So Expensive"](https://www.youtube.com/watch?v=k4URGc_3FrE)
+- 👂🏻 [Watched a Youtube video "How Do Touchscreens Work?"](https://www.youtube.com/watch?v=cFvh7qM6LdA)
+- 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
+  - 💰📈 [6. Understanding Balance Sheet Statement (Part 1)](https://zerodha.com/varsity/chapter/understanding-balance-sheet-statement-part-1/)
+    - 💰📈 [6.1 – The balance sheet equation](https://zerodha.com/varsity/chapter/understanding-balance-sheet-statement-part-1/)
+    - 💰📈 [6.2 –A quick note on shareholders’ funds](https://zerodha.com/varsity/chapter/understanding-balance-sheet-statement-part-1/)
+    - 💰📈 [6.3 –The liability side of the balance sheet](https://zerodha.com/varsity/chapter/understanding-balance-sheet-statement-part-1/)
+    - 💰📈 [6.4 – Non-Current Liabilities](https://zerodha.com/varsity/chapter/understanding-balance-sheet-statement-part-1/)
+    - 💰📈 [6.5 – Current liabilities](https://zerodha.com/varsity/chapter/understanding-balance-sheet-statement-part-1/)
 ***
 </p></details>
 </p></details>
