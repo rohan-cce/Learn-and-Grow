@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 167 Days (09/12/2020 to 24/05/2021)
+Learning Progress Till Now -> 168 Days (09/12/2020 to 25/05/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -4340,6 +4340,7 @@ John Wooden - Author
     - 💰📈 [6.5 – Current liabilities](https://zerodha.com/varsity/chapter/understanding-balance-sheet-statement-part-1/)
 ***
 </p></details>
+
 <details>
 <summary>Day 167</summary>
 <p>
@@ -4363,6 +4364,36 @@ John Wooden - Author
 - 👂🏻 [Watched a Youtube video "Why should Warren Buffet be Interested in Karnataka Bank | Secrets of Buying | Anand Srinivasan"](https://www.youtube.com/watch?v=fBTXZUftPy4)
 - 👂🏻 [Watched a Youtube video "Taiwan slams the World Health Organization, takes direct hit at China | World English News"](https://www.youtube.com/watch?v=xwcx457d-DU)
 - 👂🏻 [Watched a Youtube video "IBM Reveals FIRST 2 Nanometer Chip Tech! (Watch the trailer here)"](https://www.youtube.com/watch?v=bZBSNzG6X-I)
+- 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
+  - 💰📈 [7. Understanding the Balance Sheet Statement (Part 2)](https://zerodha.com/varsity/chapter/understanding-balance-sheet-statement-part-2/)
+    - 💰📈 [7.1 – The Assets side of Balance Sheet](https://zerodha.com/varsity/chapter/understanding-balance-sheet-statement-part-2/)
+    - 💰📈 [7.2 – Non-current assets (Fixed Assets)](https://zerodha.com/varsity/chapter/understanding-balance-sheet-statement-part-2/)
+    - 💰📈 [7.3 – Non-current assets (Other line items)](https://zerodha.com/varsity/chapter/understanding-balance-sheet-statement-part-2/)
+    - 💰📈 [7.4 – Current assets](https://zerodha.com/varsity/chapter/understanding-balance-sheet-statement-part-2/)
+    - 💰📈 [7.5 – Connecting the P&L and Balance Sheet](https://zerodha.com/varsity/chapter/understanding-balance-sheet-statement-part-2/)
+***
+</p></details>
+
+<details>
+<summary>Day 168</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d158e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d158ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20141%20-%20160/d158b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d158chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d158chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d158chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d158chs5.jpg)
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C++ language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20141%20-%20160/d158h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20141%20-%20160/d158leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Gravitas: seeds of terror reach more countries"](https://www.youtube.com/watch?v=rvwBusTGHy0)
+- 👂🏻 [Watched a Youtube video "How Tokyo's Subway Keeps On-time, Clean, and Safe"](https://www.youtube.com/watch?v=ZT6H_XMDm7s)
+- 👂🏻 [Watched a Youtube video "Inside The World's Largest Aircraft Carrier"](https://www.youtube.com/watch?v=K_DvZmPAwuY)
 - 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
   - 💰📈 [7. Understanding the Balance Sheet Statement (Part 2)](https://zerodha.com/varsity/chapter/understanding-balance-sheet-statement-part-2/)
     - 💰📈 [7.1 – The Assets side of Balance Sheet](https://zerodha.com/varsity/chapter/understanding-balance-sheet-statement-part-2/)
