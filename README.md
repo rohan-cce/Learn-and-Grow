@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 168 Days (09/12/2020 to 25/05/2021)
+Learning Progress Till Now -> 169 Days (09/12/2020 to 26/05/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -4387,7 +4387,7 @@ John Wooden - Author
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d158chs3.jpg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d158chs5.jpg)
 - ✔️ Hackerrank
-  - ✔️ [Completed 1 Question in hackerrank C++ language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20141%20-%20160/d158h7.jpg)
+  - ✔️ [Completed 1 Question in hackerrank Database language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20141%20-%20160/d158h8.jpg)
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20141%20-%20160/d158leetcode.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
@@ -4403,4 +4403,46 @@ John Wooden - Author
     - 💰📈 [7.5 – Connecting the P&L and Balance Sheet](https://zerodha.com/varsity/chapter/understanding-balance-sheet-statement-part-2/)
 ***
 </p></details>
+
+<details>
+<summary>Day 169</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d159e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d159ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20141%20-%20160/d159b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d159chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d159chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d159chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d159chs5.jpg)
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Database language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20141%20-%20160/d159h8.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20141%20-%20160/d159leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 🏃 [Walking -> 4881 Steps ~ 3.14 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20140-160/d159walking.jpg)
+- 👂🏻 [Watched a Youtube video "How India's MTR foods built a 1000 Cr empire despite the Emergency & Pandemic | 97-year-old Legacy"](https://www.youtube.com/watch?v=jp_CSPtSQWY)
+- 👂🏻 [Watched a Youtube video "Gravitas: Social Media giants face heat in India"](https://www.youtube.com/watch?v=OrKqUvBQpfs)
+- 👂🏻 [Watched a Youtube video "Inside Bitcoin's Energy Consumption Problem"](https://www.youtube.com/watch?v=RzGQkYQ-rp8)
+- 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+- 💰📈📖 Read 5 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 💰📈 [Financial education ~ "All you need to know about NPS (National Pension Scheme) by CA Rachana Ranade"](https://www.youtube.com/watch?v=T_NIXo3q09c) 
+- 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
+  - 💰📈 [8. The Cash Flow statement](https://zerodha.com/varsity/chapter/cash-flow-statement/)
+    - 💰📈 [8.1 – Overview](https://zerodha.com/varsity/chapter/cash-flow-statement/)
+    - 💰📈 [8.2 – Activities of a company](https://zerodha.com/varsity/chapter/cash-flow-statement/)
+    - 💰📈 [8.3 – The Cash Flow Statement](https://zerodha.com/varsity/chapter/cash-flow-statement/)
+    - 💰📈 [8.4 – A brief on the financial statements](https://zerodha.com/varsity/chapter/cash-flow-statement/)
+- 🐱‍💻 [15 Days of Code | Day 1 | Python Warriors](https://www.youtube.com/watch?v=Gq6OY8uyDvw&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=2/)
+- ✔️ Understood These Concepts
+    - S.no | Title |
+      ---- | ----- |
+      1 | [Python Language Introduction](https://www.geeksforgeeks.org/python-language-introduction/)
+      2 | [Different Python IDEs and Code Editors](https://www.geeksforgeeks.org/different-python-ides-and-code-editors/)
+- 🐱‍💻 [Created a repository for learning and solving Python problems](https://github.com/rohan-cce/learn-and-grow-python)
+- ➕➖ Solved 10 Questions(Aptitude~Numbers) ✖️➗ 
+***
+</p></details>
+
 </p></details>
