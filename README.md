@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 169 Days (09/12/2020 to 26/05/2021)
+Learning Progress Till Now -> 170 Days (09/12/2020 to 27/05/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -4426,7 +4426,7 @@ John Wooden - Author
 - 👂🏻 [Watched a Youtube video "Gravitas: Social Media giants face heat in India"](https://www.youtube.com/watch?v=OrKqUvBQpfs)
 - 👂🏻 [Watched a Youtube video "Inside Bitcoin's Energy Consumption Problem"](https://www.youtube.com/watch?v=RzGQkYQ-rp8)
 - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
-- 💰📈📖 Read 5 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 💰📈📖 Financial education ~ Read 5 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
 - 💰📈 [Financial education ~ "All you need to know about NPS (National Pension Scheme) by CA Rachana Ranade"](https://www.youtube.com/watch?v=T_NIXo3q09c) 
 - 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
   - 💰📈 [8. The Cash Flow statement](https://zerodha.com/varsity/chapter/cash-flow-statement/)
@@ -4445,4 +4445,37 @@ John Wooden - Author
 ***
 </p></details>
 
+<details>
+<summary>Day 170</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d160e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d160ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20141%20-%20160/d160b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d160chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d160chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d160chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20141%20-%20160/d160chs5.jpg)
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Database language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20141%20-%20160/d160h8.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20141%20-%20160/d160leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Gravitas: US seeks 'Phase 2' of investigation into COVID-origins"](https://www.youtube.com/watch?v=JunF_PYnNEA)
+- 👂🏻 [Watched a Youtube video "US President Joe Biden orders intel officials to 'redouble' efforts to probe COVID-19 origin | News"](https://www.youtube.com/watch?v=fwdpO6MTxy8)
+- 👂🏻 [Watched a Youtube video "WhatsApp​ Sues Indian Govt But IT Ministry Hits Back, Claims US, UK & Other Countries Seek More Data"](https://www.youtube.com/watch?v=nitoPwUQIR4)
+- 👂🏻 [Watched a Youtube video "Indian Govt amidst legal battle over privacy says, "WhatsApp users in India will not be affected""](https://www.youtube.com/watch?v=oIpA3tQ-b7g)
+- 📖 Read 6 pages in the book "Think and Grow Rich by Napoleon hill"
+- 💰📈📖 Financial education ~ Read 6 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 💰📈 [Financial education ~ "What is ETF? Is it same as Nifty BeES? | CA Rachana Ranade"](https://www.youtube.com/watch?v=R5aDUli_sAc&t=9s) 
+- 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
+  - 💰📈 [9. The Financial Ratio Analysis (Part 1)](https://zerodha.com/varsity/chapter/financial-ratio-analysis/)
+    - 💰📈 [9.1 – A note on Financial Ratios](https://zerodha.com/varsity/chapter/financial-ratio-analysis/)
+    - 💰📈 [9.2 – Financial Ratios](https://zerodha.com/varsity/chapter/financial-ratio-analysis/)
+    - 💰📈 [9.3 – The Profitability Ratios](https://zerodha.com/varsity/chapter/financial-ratio-analysis/)
+- 🐱‍💻 [15 Days of Code | Day 2 | Python Warriors](https://www.youtube.com/watch?v=ZvBOCE73b98&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=3)
+- ➕➖ Solved 10 Questions(Aptitude~Numbers) ✖️➗ 
+***
+</p></details>
 </p></details>
