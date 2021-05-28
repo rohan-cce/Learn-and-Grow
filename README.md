@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 170 Days (09/12/2020 to 27/05/2021)
+Learning Progress Till Now -> 171 Days (09/12/2020 to 28/05/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -4462,6 +4462,7 @@ John Wooden - Author
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20141%20-%20160/d160leetcode.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
+- 🏃 [Walking -> 4264 Steps ~ 2.8 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20140-160/d160walking.jpg)
 - 👂🏻 [Watched a Youtube video "Gravitas: US seeks 'Phase 2' of investigation into COVID-origins"](https://www.youtube.com/watch?v=JunF_PYnNEA)
 - 👂🏻 [Watched a Youtube video "US President Joe Biden orders intel officials to 'redouble' efforts to probe COVID-19 origin | News"](https://www.youtube.com/watch?v=fwdpO6MTxy8)
 - 👂🏻 [Watched a Youtube video "WhatsApp​ Sues Indian Govt But IT Ministry Hits Back, Claims US, UK & Other Countries Seek More Data"](https://www.youtube.com/watch?v=nitoPwUQIR4)
@@ -4475,6 +4476,47 @@ John Wooden - Author
     - 💰📈 [9.2 – Financial Ratios](https://zerodha.com/varsity/chapter/financial-ratio-analysis/)
     - 💰📈 [9.3 – The Profitability Ratios](https://zerodha.com/varsity/chapter/financial-ratio-analysis/)
 - 🐱‍💻 [15 Days of Code | Day 2 | Python Warriors](https://www.youtube.com/watch?v=ZvBOCE73b98&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=3)
+- ➕➖ Solved 10 Questions(Aptitude~Numbers) ✖️➗ 
+***
+</p></details>
+</p></details>
+
+>“The Best Way To Get Started Is To Quit Talking And Begin Doing.” – Walt Disney
+
+<details>
+  <summary>Day 171 - 180 ~ May 28, 2021 - Jun 06, 2021</summary>
+<p>
+
+<details>
+<summary>Day 170</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d161e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d161ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20161%20-%20180/d161b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d161chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d161chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d161chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d165chs1.jpg)
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Database language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20161%20-%20180/d161h8.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20161%20-%20180/d161leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Gravitas: US seeks 'Phase 2' of investigation into COVID-origins"](https://www.youtube.com/watch?v=JunF_PYnNEA)
+- 👂🏻 [Watched a Youtube video "Surprising images from inside North Korea - BBC REEL"](https://www.youtube.com/watch?v=HhAtTKA1hks)
+- 👂🏻 [Watched a Youtube video "The Most Venomous Snakes in the World | Modern Dinosaurs"](https://www.youtube.com/watch?v=qv2hvCJrM4Q)
+- 👂🏻 [Watched a Youtube video "Why Rolls-Royce Cars Are So Expensive | So Expensive"](https://www.youtube.com/watch?v=NUzDLpSkQTg)
+- 👂🏻 [Watched a Youtube video "Meet Chinnaponnu, an abandoned dog who is now assisting RPF personnel"](https://www.youtube.com/watch?v=PjncaPT29pU)
+- 📖 Read 7 pages in the book "Think and Grow Rich by Napoleon hill"
+- 💰📈📖 Financial education ~ Read 7 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 💰📈 [Financial education ~ "What is Helicopter Money? 🚁💸 Can India have Helicopter Money? Explained by CA Rachana Ranade"](https://www.youtube.com/watch?v=IKZ9b7nwIZo) 
+- 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
+  - 💰📈 [10. The Financial Ratio Analysis (Part 2)](https://zerodha.com/varsity/chapter/financial-ratios-part-2/)
+    - 💰📈 [10.1 – The Leverage Ratios](https://zerodha.com/varsity/chapter/financial-ratios-part-2/)
+    - 💰📈 [10.2 – Operating Ratios](https://zerodha.com/varsity/chapter/financial-ratios-part-2/)
+- 🐱‍💻 [15 Days of Code | Day 3 | Python Warrior](https://www.youtube.com/watch?v=ZvBOCE73b98&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=4)
 - ➕➖ Solved 10 Questions(Aptitude~Numbers) ✖️➗ 
 ***
 </p></details>
