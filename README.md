@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 171 Days (09/12/2020 to 28/05/2021)
+Learning Progress Till Now -> 172 Days (09/12/2020 to 29/05/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -4504,7 +4504,6 @@ John Wooden - Author
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20161%20-%20180/d161leetcode.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
-- 👂🏻 [Watched a Youtube video "Gravitas: US seeks 'Phase 2' of investigation into COVID-origins"](https://www.youtube.com/watch?v=JunF_PYnNEA)
 - 👂🏻 [Watched a Youtube video "Surprising images from inside North Korea - BBC REEL"](https://www.youtube.com/watch?v=HhAtTKA1hks)
 - 👂🏻 [Watched a Youtube video "The Most Venomous Snakes in the World | Modern Dinosaurs"](https://www.youtube.com/watch?v=qv2hvCJrM4Q)
 - 👂🏻 [Watched a Youtube video "Why Rolls-Royce Cars Are So Expensive | So Expensive"](https://www.youtube.com/watch?v=NUzDLpSkQTg)
@@ -4520,4 +4519,38 @@ John Wooden - Author
 - ➕➖ Solved 10 Questions(Aptitude~Numbers) ✖️➗ 
 ***
 </p></details>
+
+<details>
+<summary>Day 172</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d162e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d162ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20161%20-%20180/d162b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d162chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d162chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d162chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d162chs5.jpg)
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Database language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20161%20-%20180/d162h8.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20161%20-%20180/d162leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "How Zerodha became a Billion $ company without raising money from investors |Stock Market Case Study"](https://www.youtube.com/watch?v=vguLPoLiFNg)
+- 👂🏻 [Watched a Youtube video "Simple & Powerful Sales Technique to get Clients/Internships (Part 1)"](https://www.youtube.com/watch?v=Lb55kGWCZy0)
+- 👂🏻 [Watched a Youtube video "INVESTMENT BANKING EXPLAINED | Introduction, History, Lifestyle"](https://www.youtube.com/watch?v=eVu99Mr45H8)
+- 👂🏻 [Watched a Youtube video "How Domino’s Won India’s Pizza Wars"](https://www.youtube.com/watch?v=EK6_QNZa4S4)
+- 📖 Read 8 pages in the book "Think and Grow Rich by Napoleon hill"
+- 💰📈📖 Financial education ~ Read 8 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 💰📈 [Financial education ~ "Learn Money Management Tips Ft. @Asset Yogi | Funance with Rachana Ranade"](https://www.youtube.com/watch?v=EKVW0zWGMdk) 
+- 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
+  - 💰📈 [10. The Financial Ratio Analysis (Part 2)](https://zerodha.com/varsity/chapter/financial-ratios-part-2/)
+    - 💰📈 [10.1 – The Leverage Ratios](https://zerodha.com/varsity/chapter/financial-ratios-part-2/)
+    - 💰📈 [10.2 – Operating Ratios](https://zerodha.com/varsity/chapter/financial-ratios-part-2/)
+- 🐱‍💻 [15 Days of Code | Day 4 | Python Warriors](https://www.youtube.com/watch?v=nu552B84DjY&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=5)
+- ➕➖ Solved 10 Questions(Aptitude~Numbers) ✖️➗ 
+***
+</p></details>
+
 </p></details>
