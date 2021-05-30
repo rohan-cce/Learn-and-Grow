@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 172 Days (09/12/2020 to 29/05/2021)
+Learning Progress Till Now -> 173 Days (09/12/2020 to 30/05/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -4550,6 +4550,29 @@ John Wooden - Author
     - 💰📈 [10.2 – Operating Ratios](https://zerodha.com/varsity/chapter/financial-ratios-part-2/)
 - 🐱‍💻 [15 Days of Code | Day 4 | Python Warriors](https://www.youtube.com/watch?v=nu552B84DjY&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=5)
 - ➕➖ Solved 10 Questions(Aptitude~Numbers) ✖️➗ 
+***
+</p></details>
+
+<details>
+<summary>Day 173</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d163e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d163ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20161%20-%20180/d163b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d163chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d163chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d163chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d163chs5.jpg)
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Database language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20161%20-%20180/d163h8.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20161%20-%20180/d163leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "This green oasis is a drought-proof village in Rajasthan"](https://www.youtube.com/watch?v=I1Vt8oPCZiE)
+- 👂🏻 [Watched a Youtube video "How Tesla Builds Batteries So Fast"](https://www.youtube.com/watch?v=NTb3SNtwTjg)
+- 💰📈📖 Financial education ~ Read 8 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
 ***
 </p></details>
 
