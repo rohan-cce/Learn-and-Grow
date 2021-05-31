@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 173 Days (09/12/2020 to 30/05/2021)
+Learning Progress Till Now -> 174 Days (09/12/2020 to 31/05/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -4572,7 +4572,42 @@ John Wooden - Author
 - 📰 [Daily English News](https://qz.com/india/)
 - 👂🏻 [Watched a Youtube video "This green oasis is a drought-proof village in Rajasthan"](https://www.youtube.com/watch?v=I1Vt8oPCZiE)
 - 👂🏻 [Watched a Youtube video "How Tesla Builds Batteries So Fast"](https://www.youtube.com/watch?v=NTb3SNtwTjg)
-- 💰📈📖 Financial education ~ Read 8 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 💰📈📖 Financial education ~ Read 9 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+***
+</p></details>
+
+<details>
+<summary>Day 174</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d164e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d164ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20161%20-%20180/d164b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d164chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d164chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d164chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d164chs5.jpg)
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Database language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20161%20-%20180/d164h8.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20161%20-%20180/d164leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Who's Winning The Self-Driving Car Race?"](https://www.youtube.com/watch?v=Ji-xx4NY6KM)
+- 👂🏻 [Watched a Youtube video "Nokia 2720 V Flip - now available at Verizon"](https://www.youtube.com/watch?v=T5JqxR_cPaw)
+- 👂🏻 [Watched a Youtube video "The man behind the world's largest phone empire (the story of BBK)"](https://www.youtube.com/watch?v=VIggp85vgZA)
+- 📖 Read 9 pages in the book "Think and Grow Rich by Napoleon hill"
+- 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 💰📈 [Financial education ~ "How To Create Retirement Plan with Retirement Calculator By CA Rachana Ranade"](https://www.youtube.com/watch?v=uO8EoK6wUIY) 
+- 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
+  - 💰📈 [11. The Financial Ratio Analysis (Part 3)](https://zerodha.com/varsity/chapter/financial-ratios-part-3/)
+    - 💰📈 [11.1 – The Valuation Ratio](https://zerodha.com/varsity/chapter/financial-ratios-part-3/)
+        - 💰📈 [11.1.1 Price to Sales (P/S) Ratio](https://zerodha.com/varsity/chapter/financial-ratios-part-3/)
+        - 💰📈 [11.1.2 Price to Book Value (P/BV) Ratio](https://zerodha.com/varsity/chapter/financial-ratios-part-3/)
+        - 💰📈 [11.1.3 Price to Earning (P/E) Ratio](https://zerodha.com/varsity/chapter/financial-ratios-part-3/)
+    - 💰📈 [11.2 – The Index Valuation](https://zerodha.com/varsity/chapter/financial-ratios-part-3/)
+- 🐱‍💻 [15 Days of Code | Day 4 | Python Warriors](https://www.youtube.com/watch?v=nu552B84DjY&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=5)
+- ➕➖ Solved 10 Questions(Aptitude~Numbers) ✖️➗ 
 ***
 </p></details>
 
