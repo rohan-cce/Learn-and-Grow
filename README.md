@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 174 Days (09/12/2020 to 31/05/2021)
+Learning Progress Till Now -> 175 Days (09/12/2020 to 01/06/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -4606,9 +4606,38 @@ John Wooden - Author
         - 💰📈 [11.1.2 Price to Book Value (P/BV) Ratio](https://zerodha.com/varsity/chapter/financial-ratios-part-3/)
         - 💰📈 [11.1.3 Price to Earning (P/E) Ratio](https://zerodha.com/varsity/chapter/financial-ratios-part-3/)
     - 💰📈 [11.2 – The Index Valuation](https://zerodha.com/varsity/chapter/financial-ratios-part-3/)
-- 🐱‍💻 [15 Days of Code | Day 4 | Python Warriors](https://www.youtube.com/watch?v=nu552B84DjY&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=5)
+- 🐱‍💻 [15 Days of Code | Day 5 | Python Warriors](https://www.youtube.com/watch?v=nu552B84DjY&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=6)
 - ➕➖ Solved 10 Questions(Aptitude~Numbers) ✖️➗ 
 ***
 </p></details>
 
+<details>
+<summary>Day 175</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d165e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d165ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20161%20-%20180/d165b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d165chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d165chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d165chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d165chs5.jpg)
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20161%20-%20180/d165h5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20161%20-%20180/d165leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "100% SAIL Made "Railway Tracks" are BETTER than "European Tracks" 🔥 High-Speed Freight"](https://www.youtube.com/watch?v=jLw0WsBMe5E)
+- 👂🏻 [Watched a Youtube video "RECORD ! Indian Freight Train Beats "Rajdhani Express" in Avg. SPEED 🔥 2021"](https://www.youtube.com/watch?v=tJH9xLF_seg)
+- 👂🏻 [Watched a Youtube video "Gravitas: Covid-19 Origins: Was the virus "manipulated" in a lab?"](https://www.youtube.com/watch?v=wTNp6nG4dXA)
+- 👂🏻 [Watched a Youtube video "Why Japanese Chef’s Knives Are So Expensive | So Expensive"](https://www.youtube.com/watch?v=7dZmeh_28Eo)
+- 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+- 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 💰📈 [Financial education ~ "Bonds and Debentures Explained - How Bond Investment Market Works in India? | BONDS INVESTING #1"](https://www.youtube.com/watch?v=gEMZKXwNNRo) 
+- 🐱‍💻 [15 Days of Code | Day 6 | Python Warriors [TUPLES]](https://www.youtube.com/watch?v=7c33xQ93MDA&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=8)
+- ➕➖ Solved 10 Questions(Aptitude~Numbers) ✖️➗ 
+- 🏃 [Walking -> 5222 Steps ~ 3.3 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20161%20-%20180/d165walking.jpg)
+***
+</p></details>
 </p></details>
