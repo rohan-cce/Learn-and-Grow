@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 175 Days (09/12/2020 to 01/06/2021)
+Learning Progress Till Now -> 176 Days (09/12/2020 to 02/06/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -4638,6 +4638,41 @@ John Wooden - Author
 - 🐱‍💻 [15 Days of Code | Day 6 | Python Warriors [TUPLES]](https://www.youtube.com/watch?v=7c33xQ93MDA&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=8)
 - ➕➖ Solved 10 Questions(Aptitude~Numbers) ✖️➗ 
 - 🏃 [Walking -> 5222 Steps ~ 3.3 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20161%20-%20180/d165walking.jpg)
+***
+</p></details>
+
+<details>
+<summary>Day 176</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d166e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d166ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20161%20-%20180/d166b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d166chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d166chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d166chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d166chs5.jpg)
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20161%20-%20180/d166h5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20161%20-%20180/d166leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Why Are 96,000,000 Black Balls on This Reservoir?"](https://www.youtube.com/watch?v=uxPdPpi5W4o)
+- 👂🏻 [Watched a Youtube video "What If the Sun Exploded Tomorrow?"](https://www.youtube.com/watch?v=YIXy2Kit4z4)
+- 👂🏻 [Watched a Youtube video "Gravitas: Israel's PM to step down?"](https://www.youtube.com/watch?v=ObIXCBVbVdM)
+- 👂🏻 [Watched a Youtube video "Backspin Basketball Flies Off Dam"](https://www.youtube.com/watch?v=2OSrvzNW9FE)
+- 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+- 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
+  - 💰📈 [12. The Investment Due Diligence](https://zerodha.com/varsity/chapter/investment-due-diligence/)
+    - 💰📈 [12.1 – Taking stock](https://zerodha.com/varsity/chapter/investment-due-diligence/)
+    - 💰📈 [12.2 – Generating a stock idea](https://zerodha.com/varsity/chapter/investment-due-diligence/)
+    - 💰📈 [12.3 – The Moat](https://zerodha.com/varsity/chapter/investment-due-diligence/)
+    - 💰📈 [12.4 – Due Diligence](https://zerodha.com/varsity/chapter/investment-due-diligence/)
+- 💰📈 [Financial education ~ "How To Make Passive Income From Stock Market? Where To Invest? #AskRachanaShow Ep5"](https://www.youtube.com/watch?v=Fi_zUgHhIaY) 
+- 🐱‍💻 [15 Days of Code | Day 7 | Python Warriors [DICTIONARY]](https://www.youtube.com/watch?v=4ZKQ-1nYMLI&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=8)
+- ➕➖ Solved 10 Questions(Aptitude~Numbers) ✖️➗ 
 ***
 </p></details>
 </p></details>
