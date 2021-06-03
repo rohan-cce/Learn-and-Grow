@@ -4675,4 +4675,44 @@ John Wooden - Author
 - ➕➖ Solved 10 Questions(Aptitude~Numbers) ✖️➗ 
 ***
 </p></details>
+
+<details>
+<summary>Day 177</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d167e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d167ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20161%20-%20180/d167b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d167chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d167chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d167chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d167chs5.jpg)
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20161%20-%20180/d167h5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20161%20-%20180/d167leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Nokia phones Durability Testing"](https://www.youtube.com/watch?v=7lvKkgaiMsU)
+- 👂🏻 [Watched a Youtube video "Gravitas: Fauci's e-mails reveal U.S pandemic mess"](https://www.youtube.com/watch?v=esJlTJzmtfQ)
+- 👂🏻 [Watched a Youtube video "Gravitas: Amul calls for a ban on PETA"](https://www.youtube.com/watch?v=9-pnPVMc5bc)
+- 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+- 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
+  - 💰📈 [13. Equity Research (Part 1)]https://zerodha.com/varsity/chapter/equity-research-part-1/()
+    - 💰📈 [13.1 – What to expect?](https://zerodha.com/varsity/chapter/equity-research-part-1/)
+    - 💰📈 [13.2 – Stock Price vs Business Fundamentals](https://zerodha.com/varsity/chapter/equity-research-part-1/)
+    - 💰📈 [13.3 – Understanding the Business](https://zerodha.com/varsity/chapter/equity-research-part-1/)
+    - 💰📈 [13.4 – Application of checklist](https://zerodha.com/varsity/chapter/equity-research-part-1/)
+      - 💰📈 [13.4.1 - Revenue & Pat Growth](https://zerodha.com/varsity/chapter/equity-research-part-1/) 
+      - 💰📈 [13.4.2 - Earnings per Share (EPS)](https://zerodha.com/varsity/chapter/equity-research-part-1/) 
+      - 💰📈 [13.4.3 - Gross Profit margins](https://zerodha.com/varsity/chapter/equity-research-part-1/) 
+      - 💰📈 [13.4.4 - Debt level – Balance Sheet check](https://zerodha.com/varsity/chapter/equity-research-part-1/)
+      - 💰📈 [13.4.5 - Inventory Check](https://zerodha.com/varsity/chapter/equity-research-part-1/) 
+      - 💰📈 [13.4.6 - Sales vs Receivables](https://zerodha.com/varsity/chapter/equity-research-part-1/)
+      - 💰📈 [13.4.7 - Cash flow from Operations](https://zerodha.com/varsity/chapter/equity-research-part-1/) 
+      - 💰📈 [13.4.8 - Return on Equity](https://zerodha.com/varsity/chapter/equity-research-part-1/) 
+- 🐱‍💻 [15 Days of Code | Day 8 | Python Warriors [Conditions and Loops]](https://www.youtube.com/watch?v=j5gPB2cxlsc&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=9)
+***
+</p></details>
 </p></details>
