@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 176 Days (09/12/2020 to 02/06/2021)
+Learning Progress Till Now -> 178 Days (09/12/2020 to 04/06/2021)
 ***
 >“No one is perfect - that’s why pencils have erasers.”😇
 
@@ -4713,6 +4713,52 @@ John Wooden - Author
       - 💰📈 [13.4.7 - Cash flow from Operations](https://zerodha.com/varsity/chapter/equity-research-part-1/) 
       - 💰📈 [13.4.8 - Return on Equity](https://zerodha.com/varsity/chapter/equity-research-part-1/) 
 - 🐱‍💻 [15 Days of Code | Day 8 | Python Warriors [Conditions and Loops]](https://www.youtube.com/watch?v=j5gPB2cxlsc&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=9)
+***
+</p></details>
+
+<details>
+<summary>Day 178</summary>
+<p>
+
+- ✔️ Elevate
+  - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d168e1.jpg)
+  - ✔️ [Reached New Proficieny level in Speaking(Advanced)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d168e2.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d168ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20161%20-%20180/d168b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d168chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d168chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d168chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d168chs5.jpg)
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20161%20-%20180/d168h5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20161%20-%20180/d168leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Gravitas: Is WhatsApp tricking users into consent?"](https://www.youtube.com/watch?v=LTGobc7ypTo)
+- 👂🏻 [Watched a Youtube video "Why large ships don’t sink in bad weather"](https://www.youtube.com/watch?v=2X_cG5elxOg)
+- 👂🏻 [Watched a Youtube video "Where Do Ships Get Their Fuel?"](https://www.youtube.com/watch?v=-A-SavHMHNs)
+- 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+- 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
+  - 💰📈 [13. Equity Research (Part 1)]https://zerodha.com/varsity/chapter/equity-research-part-1/()
+    - 💰📈 [13.1 – What to expect?](https://zerodha.com/varsity/chapter/equity-research-part-1/)
+    - 💰📈 [13.2 – Stock Price vs Business Fundamentals](https://zerodha.com/varsity/chapter/equity-research-part-1/)
+    - 💰📈 [13.3 – Understanding the Business](https://zerodha.com/varsity/chapter/equity-research-part-1/)
+    - 💰📈 [13.4 – Application of checklist](https://zerodha.com/varsity/chapter/equity-research-part-1/)
+      - 💰📈 [13.4.1 - Revenue & Pat Growth](https://zerodha.com/varsity/chapter/equity-research-part-1/) 
+      - 💰📈 [13.4.2 - Earnings per Share (EPS)](https://zerodha.com/varsity/chapter/equity-research-part-1/) 
+      - 💰📈 [13.4.3 - Gross Profit margins](https://zerodha.com/varsity/chapter/equity-research-part-1/) 
+      - 💰📈 [13.4.4 - Debt level – Balance Sheet check](https://zerodha.com/varsity/chapter/equity-research-part-1/)
+      - 💰📈 [13.4.5 - Inventory Check](https://zerodha.com/varsity/chapter/equity-research-part-1/) 
+      - 💰📈 [13.4.6 - Sales vs Receivables](https://zerodha.com/varsity/chapter/equity-research-part-1/)
+      - 💰📈 [13.4.7 - Cash flow from Operations](https://zerodha.com/varsity/chapter/equity-research-part-1/) 
+      - 💰📈 [13.4.8 - Return on Equity](https://zerodha.com/varsity/chapter/equity-research-part-1/) 
+- 🐱‍💻 [15 Days of Code | Day 9 | Python Warriors [FUNCTIONS]](https://www.youtube.com/watch?v=Q6GlmfB_JgA&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=10)
+- 📜 Blogs
+  - 📜 [Numbers in Python | Integer, Float & Complex Number Data Types](https://www.faceprep.in/python/numbers-in-python/)
+  - 📜 [Python Input | How To Take Multiple Inputs in Python in one line](https://www.faceprep.in/python/how-to-take-multiple-inputs-in-python/)
+
 ***
 </p></details>
 </p></details>
