@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 178 Days (09/12/2020 to 04/06/2021)
+Learning Progress Till Now -> 179 Days (09/12/2020 to 05/06/2021)
 ***
 
 >“The Best Way To Get Started Is To Quit Talking And Begin Doing.” – Walt Disney
@@ -8,6 +8,33 @@ Learning Progress Till Now -> 178 Days (09/12/2020 to 04/06/2021)
 <details>
   <summary>Day 171 - 180 ~ May 28, 2021 - Jun 06, 2021</summary>
 <p>
+
+<details>
+<summary>Day 179</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d169e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d169ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20161%20-%20180/d169b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d169chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d169chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d169chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d169chs5.jpg)
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20161%20-%20180/d169h5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20161%20-%20180/d169leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "India's USD 200 billion project will push its construction sector to the limit"](https://www.youtube.com/watch?v=PUx8V6eN6P4)
+- 👂🏻 [Watched a Youtube video "Gravitas: Why did the Wuhan Lab take a database of "22,000 virus samples" offline?"](https://www.youtube.com/watch?v=qB7d70_hWRQ)
+- 👂🏻 [Watched a Youtube video "The Turnaround Story of Domino's Pizza that saw it grow 2000% : Business Case Study"](https://www.youtube.com/watch?v=fxjFr54LLOw)
+- 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+- 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 🐱‍💻 [15 Days of Code | Day 10 | Python Warriors [LIST COMPREHENSIONS]](https://www.youtube.com/watch?v=aDMM8wfQbm4&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=11)
+
+***
+</p></details>
 
 <details>
 <summary>Day 178</summary>
