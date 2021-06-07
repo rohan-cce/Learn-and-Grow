@@ -1,7 +1,50 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 180 Days (09/12/2020 to 06/06/2021)
+Learning Progress Till Now -> 181 Days (09/12/2020 to 07/06/2021)
 ***
+
+>"Stay afraid, but do it anyway. What's important is the action. You don't have to wait to be confident. Just do it and eventually the confidence will follow." - Carrie Fisher
+<details>
+  <summary>Day 181 - 190 ~ Jun 07, 2021 - Jun 16, 2021</summary>
+<p>
+
+<details>
+<summary>Day 181</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d171e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d171ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20161%20-%20180/d171b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d171chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d171chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d171chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d171chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20161%20-%20180/d171h5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20161%20-%20180/d171leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "The intricacies of the F-35 Fighter Jet"](https://www.youtube.com/watch?v=3ecFClwFObE)
+- 👂🏻 [Watched a Youtube video "Dangers of artificial islands"](https://www.youtube.com/watch?v=usqZn_3gewk)
+- 👂🏻 [Watched a Youtube video "How modern highways are built"](https://www.youtube.com/watch?v=RWezidRx_tE)
+- 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+- 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 💰📈 [Financial education ~ "Warren Buffett: How To Achieve A 30% Return Per Year (7 Investing Rules)"](https://www.youtube.com/watch?v=Ln-5bHEsqIQ)
+- 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
+  - 💰📈 [14. DCF Primer](https://zerodha.com/varsity/chapter/dcf-primer/)
+    - 💰📈 [14.1 – The Stock Price](https://zerodha.com/varsity/chapter/dcf-primer/)
+    - 💰📈 [14.2 – The future cash flow](https://zerodha.com/varsity/chapter/dcf-primer/)
+    - 💰📈 [14.3 – Time Value of Money (TMV)](https://zerodha.com/varsity/chapter/dcf-primer/)
+    - 💰📈 [14.4 – The Net Present Value of cash flows](https://zerodha.com/varsity/chapter/dcf-primer/)
+- 🐱‍💻 [15 Days of Code | Day 11 | Python Warriors [Handling Errors]](https://www.youtube.com/watch?v=oXh6T8EoSYE&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=12)
+   
+***
+</p></details>
+
+</p></details>
+
 
 >“The Best Way To Get Started Is To Quit Talking And Begin Doing.” – Walt Disney
 
@@ -21,6 +64,7 @@ Learning Progress Till Now -> 180 Days (09/12/2020 to 06/06/2021)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d170chs2.jpg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d170chs3.jpg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d170chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Hackerrank
   - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20161%20-%20180/d170h5.jpg)
 - ✔️ LeetCode
@@ -51,6 +95,7 @@ Learning Progress Till Now -> 180 Days (09/12/2020 to 06/06/2021)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d169chs2.jpg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d169chs3.jpg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d169chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Hackerrank
   - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20161%20-%20180/d169h5.jpg)
 - ✔️ LeetCode
@@ -1320,6 +1365,7 @@ Learning Progress Till Now -> 180 Days (09/12/2020 to 06/06/2021)
 ***
 </p></details>
 </p></details>
+
 >"Just don't give up trying to do what you really want to do. Where there is love and inspiration, I don't think you can go wrong." - Ella Fitzgerald
 
 <details>
@@ -4164,9 +4210,8 @@ Les Brown - Author
 </p></details>
 
 </p></details>
->“When you are enthusiastic about what you do, you feel this positive energy. It’s very simple.”😇
-Paulo Coelho
-Brazilian lyricist
+
+>“When you are enthusiastic about what you do, you feel this positive energy. It’s very simple.”😇 - Paulo Coelho
 <details>
 <summary>Day 21 - 30 ~ Dec 29, 2020 - Jan 7, 2021</summary>
 <p>
