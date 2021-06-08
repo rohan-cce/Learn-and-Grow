@@ -1,12 +1,48 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 181 Days (09/12/2020 to 07/06/2021)
+Learning Progress Till Now -> 182 Days (09/12/2020 to 08/06/2021)
 ***
 
 >"Stay afraid, but do it anyway. What's important is the action. You don't have to wait to be confident. Just do it and eventually the confidence will follow." - Carrie Fisher
 <details>
   <summary>Day 181 - 190 ~ Jun 07, 2021 - Jun 16, 2021</summary>
 <p>
+
+<details>
+<summary>Day 182</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d172e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d172ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20161%20-%20180/d172b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d172chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d172chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d172chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d172chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20161%20-%20180/d172h5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20161%20-%20180/d172leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "The Broke Student Who Invented Subway"](https://www.youtube.com/watch?v=RNW2zlH6ATE)
+- 👂🏻 [Watched a Youtube video "How 6 Million Pounds Of Electronic Waste Gets Recycled A Month | Big Business"](https://www.youtube.com/watch?v=S2lmPIa1iWE)
+- 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 💰📈 [Financial education ~ "THE PSYCHOLOGY OF MONEY (BY MORGAN HOUSEL)"](https://www.youtube.com/watch?v=TJDcGv9OH4Q)
+- 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
+  - 💰📈 [15. Equity Research (Part 2)](https://zerodha.com/varsity/chapter/equity-research-part-2/)
+    - 💰📈 [15.1 – The Free Cash Flow (FCF)](https://zerodha.com/varsity/chapter/equity-research-part-2/)
+    - 💰📈 [15.2 – The Terminal Value](https://zerodha.com/varsity/chapter/equity-research-part-2/)
+    - 💰📈 [15.3 – The Net Present Value (NPV)](https://zerodha.com/varsity/chapter/equity-research-part-2/)
+    - 💰📈 [15.4 – The Share Price](https://zerodha.com/varsity/chapter/equity-research-part-2/)
+    - 💰📈 [15.5 – Modeling Error & the intrinsic value band](https://zerodha.com/varsity/chapter/equity-research-part-2/)
+    - 💰📈 [15.6 –Spotting buying opportunities](https://zerodha.com/varsity/chapter/equity-research-part-2/)
+    - 💰📈 [15.7 – Conclusion](https://zerodha.com/varsity/chapter/equity-research-part-2/)
+- 🐱‍💻 [15 Days of Code | Day 12 | Python Warriors [File Handling]](https://www.youtube.com/watch?v=tnValygNunI&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=14)
+   
+***
+</p></details>
 
 <details>
 <summary>Day 181</summary>
