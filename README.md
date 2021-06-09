@@ -1,12 +1,45 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 182 Days (09/12/2020 to 08/06/2021)
+Learning Progress Till Now -> 183 Days (09/12/2020 to 09/06/2021)
 ***
 
 >"Stay afraid, but do it anyway. What's important is the action. You don't have to wait to be confident. Just do it and eventually the confidence will follow." - Carrie Fisher
 <details>
   <summary>Day 181 - 190 ~ Jun 07, 2021 - Jun 16, 2021</summary>
 <p>
+
+<details>
+<summary>Day 183</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d173e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d173ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20161%20-%20180/d173b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d173chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d173chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d173chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d173chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20161%20-%20180/d173h5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20161%20-%20180/d173leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Gravitas: Most sophisticated sting op in history"](https://www.youtube.com/watch?v=pRbdDsprPTc)
+- 👂🏻 [Watched a Youtube video "How I Beat Procrastination?"](https://www.youtube.com/watch?v=9F2GYHYbAtA)
+- 👂🏻 [Watched a Youtube video "D3O: The Life-Saving Protective Goo"](https://www.youtube.com/watch?v=PRX3PHOh_L8)
+- 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+- 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
+  - 💰📈 [15. Equity Research (Part 2)](https://zerodha.com/varsity/chapter/equity-research-part-2/)
+    - 💰📈 [15.5 – Modeling Error & the intrinsic value band](https://zerodha.com/varsity/chapter/equity-research-part-2/)
+    - 💰📈 [15.6 –Spotting buying opportunities](https://zerodha.com/varsity/chapter/equity-research-part-2/)
+    - 💰📈 [15.7 – Conclusion](https://zerodha.com/varsity/chapter/equity-research-part-2/)
+- 🐱‍💻 [15 Days of Code | Day 13 | Python Warriors [Classes and Objects]](https://www.youtube.com/watch?v=187nSH-g8l0)
+   
+***
+</p></details>
 
 <details>
 <summary>Day 182</summary>
@@ -36,9 +69,6 @@ Learning Progress Till Now -> 182 Days (09/12/2020 to 08/06/2021)
     - 💰📈 [15.2 – The Terminal Value](https://zerodha.com/varsity/chapter/equity-research-part-2/)
     - 💰📈 [15.3 – The Net Present Value (NPV)](https://zerodha.com/varsity/chapter/equity-research-part-2/)
     - 💰📈 [15.4 – The Share Price](https://zerodha.com/varsity/chapter/equity-research-part-2/)
-    - 💰📈 [15.5 – Modeling Error & the intrinsic value band](https://zerodha.com/varsity/chapter/equity-research-part-2/)
-    - 💰📈 [15.6 –Spotting buying opportunities](https://zerodha.com/varsity/chapter/equity-research-part-2/)
-    - 💰📈 [15.7 – Conclusion](https://zerodha.com/varsity/chapter/equity-research-part-2/)
 - 🐱‍💻 [15 Days of Code | Day 12 | Python Warriors [File Handling]](https://www.youtube.com/watch?v=tnValygNunI&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=14)
    
 ***
@@ -200,9 +230,6 @@ Learning Progress Till Now -> 182 Days (09/12/2020 to 08/06/2021)
 - 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
 - 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
   - 💰📈 [13. Equity Research (Part 1)](https://zerodha.com/varsity/chapter/equity-research-part-1/)
-    - 💰📈 [13.1 – What to expect?](https://zerodha.com/varsity/chapter/equity-research-part-1/)
-    - 💰📈 [13.2 – Stock Price vs Business Fundamentals](https://zerodha.com/varsity/chapter/equity-research-part-1/)
-    - 💰📈 [13.3 – Understanding the Business](https://zerodha.com/varsity/chapter/equity-research-part-1/)
     - 💰📈 [13.4 – Application of checklist](https://zerodha.com/varsity/chapter/equity-research-part-1/)
       - 💰📈 [13.4.1 - Revenue & Pat Growth](https://zerodha.com/varsity/chapter/equity-research-part-1/) 
       - 💰📈 [13.4.2 - Earnings per Share (EPS)](https://zerodha.com/varsity/chapter/equity-research-part-1/) 
@@ -247,15 +274,6 @@ Learning Progress Till Now -> 182 Days (09/12/2020 to 08/06/2021)
     - 💰📈 [13.1 – What to expect?](https://zerodha.com/varsity/chapter/equity-research-part-1/)
     - 💰📈 [13.2 – Stock Price vs Business Fundamentals](https://zerodha.com/varsity/chapter/equity-research-part-1/)
     - 💰📈 [13.3 – Understanding the Business](https://zerodha.com/varsity/chapter/equity-research-part-1/)
-    - 💰📈 [13.4 – Application of checklist](https://zerodha.com/varsity/chapter/equity-research-part-1/)
-      - 💰📈 [13.4.1 - Revenue & Pat Growth](https://zerodha.com/varsity/chapter/equity-research-part-1/) 
-      - 💰📈 [13.4.2 - Earnings per Share (EPS)](https://zerodha.com/varsity/chapter/equity-research-part-1/) 
-      - 💰📈 [13.4.3 - Gross Profit margins](https://zerodha.com/varsity/chapter/equity-research-part-1/) 
-      - 💰📈 [13.4.4 - Debt level – Balance Sheet check](https://zerodha.com/varsity/chapter/equity-research-part-1/)
-      - 💰📈 [13.4.5 - Inventory Check](https://zerodha.com/varsity/chapter/equity-research-part-1/) 
-      - 💰📈 [13.4.6 - Sales vs Receivables](https://zerodha.com/varsity/chapter/equity-research-part-1/)
-      - 💰📈 [13.4.7 - Cash flow from Operations](https://zerodha.com/varsity/chapter/equity-research-part-1/) 
-      - 💰📈 [13.4.8 - Return on Equity](https://zerodha.com/varsity/chapter/equity-research-part-1/) 
 - 🐱‍💻 [15 Days of Code | Day 8 | Python Warriors [Conditions and Loops]](https://www.youtube.com/watch?v=j5gPB2cxlsc&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=9)
 ***
 </p></details>
