@@ -1,12 +1,46 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 183 Days (09/12/2020 to 09/06/2021)
+Learning Progress Till Now -> 184 Days (09/12/2020 to 10/06/2021)
 ***
 
 >"Stay afraid, but do it anyway. What's important is the action. You don't have to wait to be confident. Just do it and eventually the confidence will follow." - Carrie Fisher
 <details>
   <summary>Day 181 - 190 ~ Jun 07, 2021 - Jun 16, 2021</summary>
 <p>
+
+<details>
+<summary>Day 184</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d174e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d174ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20161%20-%20180/d174b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d174chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d174chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d174chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d174chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20161%20-%20180/d174h5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20161%20-%20180/d174leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Why Australian snakes are so venomous"](https://www.youtube.com/watch?v=jrMvMoTUbtw)
+- 👂🏻 [Watched a Youtube video "Futuristic Concept Vehicles"](https://www.youtube.com/watch?v=imI9KqW0sgM)
+- 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+- 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
+  - 💰📈 [16. The Finale](https://zerodha.com/varsity/chapter/finale/)
+    - 💰📈 [16.1 – The follies of DCF Analysis](https://zerodha.com/varsity/chapter/finale/)
+    - 💰📈 [16.2 – Margin of Safety](https://zerodha.com/varsity/chapter/finale/)
+    - 💰📈 [16.3 – When to sell?](https://zerodha.com/varsity/chapter/finale/)
+    - 💰📈 [16.4 – How many stocks in the portfolio?](https://zerodha.com/varsity/chapter/finale/)
+    - 💰📈 [16.5 – Final Conclusion](https://zerodha.com/varsity/chapter/finale/)
+- 🐱‍💻 [15 Days of Code | Day 14 | Python Warriors [Web Scraping]](https://www.youtube.com/watch?v=EdpOH9p9Tq8&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=15)
+   
+***
+</p></details>
 
 <details>
 <summary>Day 183</summary>
@@ -36,7 +70,7 @@ Learning Progress Till Now -> 183 Days (09/12/2020 to 09/06/2021)
     - 💰📈 [15.5 – Modeling Error & the intrinsic value band](https://zerodha.com/varsity/chapter/equity-research-part-2/)
     - 💰📈 [15.6 –Spotting buying opportunities](https://zerodha.com/varsity/chapter/equity-research-part-2/)
     - 💰📈 [15.7 – Conclusion](https://zerodha.com/varsity/chapter/equity-research-part-2/)
-- 🐱‍💻 [15 Days of Code | Day 13 | Python Warriors [Classes and Objects]](https://www.youtube.com/watch?v=187nSH-g8l0)
+- 🐱‍💻 [15 Days of Code | Day 13 | Python Warriors [Classes and Objects]](https://www.youtube.com/watch?v=187nSH-g8l0&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=14)
    
 ***
 </p></details>
