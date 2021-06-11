@@ -1,12 +1,47 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 184 Days (09/12/2020 to 10/06/2021)
+Learning Progress Till Now -> 185 Days (09/12/2020 to 11/06/2021)
 ***
 
 >"Stay afraid, but do it anyway. What's important is the action. You don't have to wait to be confident. Just do it and eventually the confidence will follow." - Carrie Fisher
 <details>
   <summary>Day 181 - 190 ~ Jun 07, 2021 - Jun 16, 2021</summary>
 <p>
+
+<details>
+<summary>Day 185</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d175e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d175ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20161%20-%20180/d175b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d175chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d175chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d175chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d175chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20161%20-%20180/d175h5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20161%20-%20180/d175leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "The 8 lane greenfield Delhi-Mumbai Expressway will be the longest expressway in India|Nitin Gadkari|"](https://www.youtube.com/watch?v=FDSsFm_eWJQ)
+- 👂🏻 [Watched a Youtube video "93-year-old Japanese ex-taxi driver becomes YouTube legend at racing games"](https://www.youtube.com/watch?v=YCXxIX6HiWE)
+- 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+- 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 💰📈 [Financial education ~ Module 4 - Futures Trading](https://zerodha.com/varsity/module/futures-trading/)
+  - 💰📈 [1. Background – Forwards Market](https://zerodha.com/varsity/chapter/background-forwards-market/)
+    - 💰📈 [1.1 – Overview](https://zerodha.com/varsity/chapter/background-forwards-market/)
+    - 💰📈 [1.2 – A simple Forwards example](https://zerodha.com/varsity/chapter/background-forwards-market/)
+    - 💰📈 [1.3 – 3 possible scenarios](https://zerodha.com/varsity/chapter/background-forwards-market/)
+    - 💰📈 [1.4 – 3 possible scenarios in one graph](https://zerodha.com/varsity/chapter/background-forwards-market/)
+    - 💰📈 [1.5– A quick note on settlement](https://zerodha.com/varsity/chapter/background-forwards-market/)
+    - 💰📈 [1.6 – What about the risk?](https://zerodha.com/varsity/chapter/background-forwards-market/)
+- 🐱‍💻 [15 Days of Code | Day 15 | Python Warriors [Numpy]](https://www.youtube.com/watch?v=iGtQV6VDOng&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=16)
+   
+***
+</p></details>
 
 <details>
 <summary>Day 184</summary>
