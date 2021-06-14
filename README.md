@@ -1,12 +1,47 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 187 Days (09/12/2020 to 13/06/2021)
+Learning Progress Till Now -> 188 Days (09/12/2020 to 14/06/2021)
 ***
 
 >"Stay afraid, but do it anyway. What's important is the action. You don't have to wait to be confident. Just do it and eventually the confidence will follow." - Carrie Fisher
 <details>
   <summary>Day 181 - 190 ~ Jun 07, 2021 - Jun 16, 2021</summary>
 <p>
+
+<details>
+<summary>Day 188</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d178e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d178ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20161%20-%20180/d178b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d178chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d178chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d178chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d178chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20161%20-%20180/d178h5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20161%20-%20180/d178leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "How a cooperative conserved rainwater to grow a forest in a drought-prone Dharmapuri of Tamil Nadu"](https://www.youtube.com/watch?v=Xy9qdrD3uK0)
+- 👂🏻 [Watched a Youtube video "Thailand: Turning straw into gold | Global Ideas"](https://www.youtube.com/watch?v=H8kodphRkAc)
+- 👂🏻 [Watched a Youtube video "Waste Warriors: This startup turns waste into public good"]()
+- 💰📈 [Financial education ~ "How Businessman Pay Low/Zero Taxes & Still Become Rich? | Financial Education"](https://www.youtube.com/watch?v=diyNzcd64T4)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 💰📈📖 Financial education ~ Read 5 pages in the book "ABSOLUTE POWER - Inside story of the National Stock Exchange’s amazing success, leading to hubris, regulatory capture and algo scam. by Basu, Debashis  Dalal, Sucheta"
+- 💰📈 [Financial education ~ Module 4 - Futures Trading](https://zerodha.com/varsity/module/futures-trading/)
+  - 💰📈 [3. The Futures Trade](https://zerodha.com/varsity/chapter/futures-trade/)
+    - 💰📈 [3.1 – Before the Trade](https://zerodha.com/varsity/chapter/futures-trade/)
+    - 💰📈 [3.2 – The Futures Trade](https://zerodha.com/varsity/chapter/futures-trade/)
+    - 💰📈 [3.3 –The 3 possible scenarios post the agreement](https://zerodha.com/varsity/chapter/futures-trade/)
+    - 💰📈 [3.4 – Exploiting a trading opportunity](https://zerodha.com/varsity/chapter/futures-trade/)
+
+***
+</p></details>
 
 <details>
 <summary>Day 187</summary>
@@ -29,7 +64,8 @@ Learning Progress Till Now -> 187 Days (09/12/2020 to 13/06/2021)
 - 👂🏻 [Watched a Youtube video "How a cooperative conserved rainwater to grow a forest in a drought-prone Dharmapuri of Tamil Nadu"](https://www.youtube.com/watch?v=Xy9qdrD3uK0)
 - 👂🏻 [Watched a Youtube video "What If We Terraformed the Sahara Desert?"](https://www.youtube.com/watch?v=oH_OK6OGr80)
 - 👂🏻 [Watched a Youtube video "How can a small farmer earn Rs 15 lakh from multilayer farming?"](https://www.youtube.com/watch?v=FyOzeO6fQwI)
-- 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 📖📈 Book reading
+  - 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
 ***
 </p></details>
 
@@ -53,8 +89,9 @@ Learning Progress Till Now -> 187 Days (09/12/2020 to 13/06/2021)
 - 📰 [Daily English News](https://qz.com/india/)
 - 👂🏻 [Watched a Youtube video "G7 Summit 2021: Indian Prime Minister Narendra Modi To Attend G7 on June 12 & 13 | Latest News |WION"](https://www.youtube.com/watch?v=DNGVNigwido)
 - 👂🏻 [Watched a Youtube video "Gravitas: Why did America deny approval to Covaxin?"](https://www.youtube.com/watch?v=cZt4N70HeQU)
-- 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
-- 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
 - 💰📈 [Financial education ~ Module 4 - Futures Trading](https://zerodha.com/varsity/module/futures-trading/)
   - 💰📈 [2. Introducing Futures Contract](https://zerodha.com/varsity/chapter/introducing-futures-contract/)
     - 💰📈 [2.1 – Setting the context](https://zerodha.com/varsity/chapter/introducing-futures-contract/)
@@ -83,8 +120,9 @@ Learning Progress Till Now -> 187 Days (09/12/2020 to 13/06/2021)
 - 📰 [Daily English News](https://qz.com/india/)
 - 👂🏻 [Watched a Youtube video "The 8 lane greenfield Delhi-Mumbai Expressway will be the longest expressway in India|Nitin Gadkari|"](https://www.youtube.com/watch?v=FDSsFm_eWJQ)
 - 👂🏻 [Watched a Youtube video "93-year-old Japanese ex-taxi driver becomes YouTube legend at racing games"](https://www.youtube.com/watch?v=YCXxIX6HiWE)
-- 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
-- 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
 - 💰📈 [Financial education ~ Module 4 - Futures Trading](https://zerodha.com/varsity/module/futures-trading/)
   - 💰📈 [1. Background – Forwards Market](https://zerodha.com/varsity/chapter/background-forwards-market/)
     - 💰📈 [1.1 – Overview](https://zerodha.com/varsity/chapter/background-forwards-market/)
@@ -118,8 +156,9 @@ Learning Progress Till Now -> 187 Days (09/12/2020 to 13/06/2021)
 - 📰 [Daily English News](https://qz.com/india/)
 - 👂🏻 [Watched a Youtube video "Why Australian snakes are so venomous"](https://www.youtube.com/watch?v=jrMvMoTUbtw)
 - 👂🏻 [Watched a Youtube video "Futuristic Concept Vehicles"](https://www.youtube.com/watch?v=imI9KqW0sgM)
-- 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
-- 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
 - 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
   - 💰📈 [16. The Finale](https://zerodha.com/varsity/chapter/finale/)
     - 💰📈 [16.1 – The follies of DCF Analysis](https://zerodha.com/varsity/chapter/finale/)
@@ -153,8 +192,9 @@ Learning Progress Till Now -> 187 Days (09/12/2020 to 13/06/2021)
 - 👂🏻 [Watched a Youtube video "Gravitas: Most sophisticated sting op in history"](https://www.youtube.com/watch?v=pRbdDsprPTc)
 - 👂🏻 [Watched a Youtube video "How I Beat Procrastination?"](https://www.youtube.com/watch?v=9F2GYHYbAtA)
 - 👂🏻 [Watched a Youtube video "D3O: The Life-Saving Protective Goo"](https://www.youtube.com/watch?v=PRX3PHOh_L8)
-- 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
-- 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
 - 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
   - 💰📈 [15. Equity Research (Part 2)](https://zerodha.com/varsity/chapter/equity-research-part-2/)
     - 💰📈 [15.5 – Modeling Error & the intrinsic value band](https://zerodha.com/varsity/chapter/equity-research-part-2/)
@@ -185,8 +225,9 @@ Learning Progress Till Now -> 187 Days (09/12/2020 to 13/06/2021)
 - 📰 [Daily English News](https://qz.com/india/)
 - 👂🏻 [Watched a Youtube video "The Broke Student Who Invented Subway"](https://www.youtube.com/watch?v=RNW2zlH6ATE)
 - 👂🏻 [Watched a Youtube video "How 6 Million Pounds Of Electronic Waste Gets Recycled A Month | Big Business"](https://www.youtube.com/watch?v=S2lmPIa1iWE)
-- 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
-- 💰📈 [Financial education ~ "THE PSYCHOLOGY OF MONEY (BY MORGAN HOUSEL)"](https://www.youtube.com/watch?v=TJDcGv9OH4Q)
+- 📖📈 Book reading
+  - 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+  - 💰📈 [Financial education ~ "THE PSYCHOLOGY OF MONEY (BY MORGAN HOUSEL)"](https://www.youtube.com/watch?v=TJDcGv9OH4Q)
 - 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
   - 💰📈 [15. Equity Research (Part 2)](https://zerodha.com/varsity/chapter/equity-research-part-2/)
     - 💰📈 [15.1 – The Free Cash Flow (FCF)](https://zerodha.com/varsity/chapter/equity-research-part-2/)
@@ -219,8 +260,9 @@ Learning Progress Till Now -> 187 Days (09/12/2020 to 13/06/2021)
 - 👂🏻 [Watched a Youtube video "The intricacies of the F-35 Fighter Jet"](https://www.youtube.com/watch?v=3ecFClwFObE)
 - 👂🏻 [Watched a Youtube video "Dangers of artificial islands"](https://www.youtube.com/watch?v=usqZn_3gewk)
 - 👂🏻 [Watched a Youtube video "How modern highways are built"](https://www.youtube.com/watch?v=RWezidRx_tE)
-- 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
-- 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
 - 💰📈 [Financial education ~ "Warren Buffett: How To Achieve A 30% Return Per Year (7 Investing Rules)"](https://www.youtube.com/watch?v=Ln-5bHEsqIQ)
 - 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
   - 💰📈 [14. DCF Primer](https://zerodha.com/varsity/chapter/dcf-primer/)
@@ -294,8 +336,9 @@ Learning Progress Till Now -> 187 Days (09/12/2020 to 13/06/2021)
 - 👂🏻 [Watched a Youtube video "India's USD 200 billion project will push its construction sector to the limit"](https://www.youtube.com/watch?v=PUx8V6eN6P4)
 - 👂🏻 [Watched a Youtube video "Gravitas: Why did the Wuhan Lab take a database of "22,000 virus samples" offline?"](https://www.youtube.com/watch?v=qB7d70_hWRQ)
 - 👂🏻 [Watched a Youtube video "The Turnaround Story of Domino's Pizza that saw it grow 2000% : Business Case Study"](https://www.youtube.com/watch?v=fxjFr54LLOw)
-- 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
-- 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
 - 🐱‍💻 [15 Days of Code | Day 10 | Python Warriors [LIST COMPREHENSIONS]](https://www.youtube.com/watch?v=aDMM8wfQbm4&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=11)
 
 ***
@@ -321,8 +364,9 @@ Learning Progress Till Now -> 187 Days (09/12/2020 to 13/06/2021)
 - 👂🏻 [Watched a Youtube video "India's USD 200 billion project will push its construction sector to the limit"](https://www.youtube.com/watch?v=PUx8V6eN6P4)
 - 👂🏻 [Watched a Youtube video "Gravitas: Why did the Wuhan Lab take a database of "22,000 virus samples" offline?"](https://www.youtube.com/watch?v=qB7d70_hWRQ)
 - 👂🏻 [Watched a Youtube video "The Turnaround Story of Domino's Pizza that saw it grow 2000% : Business Case Study"](https://www.youtube.com/watch?v=fxjFr54LLOw)
-- 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
-- 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
 - 🐱‍💻 [15 Days of Code | Day 10 | Python Warriors [LIST COMPREHENSIONS]](https://www.youtube.com/watch?v=aDMM8wfQbm4&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=11)
 
 ***
@@ -350,8 +394,9 @@ Learning Progress Till Now -> 187 Days (09/12/2020 to 13/06/2021)
 - 👂🏻 [Watched a Youtube video "Gravitas: Is WhatsApp tricking users into consent?"](https://www.youtube.com/watch?v=LTGobc7ypTo)
 - 👂🏻 [Watched a Youtube video "Why large ships don’t sink in bad weather"](https://www.youtube.com/watch?v=2X_cG5elxOg)
 - 👂🏻 [Watched a Youtube video "Where Do Ships Get Their Fuel?"](https://www.youtube.com/watch?v=-A-SavHMHNs)
-- 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
-- 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
 - 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
   - 💰📈 [13. Equity Research (Part 1)](https://zerodha.com/varsity/chapter/equity-research-part-1/)
     - 💰📈 [13.4 – Application of checklist](https://zerodha.com/varsity/chapter/equity-research-part-1/)
@@ -391,8 +436,9 @@ Learning Progress Till Now -> 187 Days (09/12/2020 to 13/06/2021)
 - 👂🏻 [Watched a Youtube video "Nokia phones Durability Testing"](https://www.youtube.com/watch?v=7lvKkgaiMsU)
 - 👂🏻 [Watched a Youtube video "Gravitas: Fauci's e-mails reveal U.S pandemic mess"](https://www.youtube.com/watch?v=esJlTJzmtfQ)
 - 👂🏻 [Watched a Youtube video "Gravitas: Amul calls for a ban on PETA"](https://www.youtube.com/watch?v=9-pnPVMc5bc)
-- 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
-- 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
 - 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
   - 💰📈 [13. Equity Research (Part 1)](https://zerodha.com/varsity/chapter/equity-research-part-1/)
     - 💰📈 [13.1 – What to expect?](https://zerodha.com/varsity/chapter/equity-research-part-1/)
@@ -423,8 +469,9 @@ Learning Progress Till Now -> 187 Days (09/12/2020 to 13/06/2021)
 - 👂🏻 [Watched a Youtube video "What If the Sun Exploded Tomorrow?"](https://www.youtube.com/watch?v=YIXy2Kit4z4)
 - 👂🏻 [Watched a Youtube video "Gravitas: Israel's PM to step down?"](https://www.youtube.com/watch?v=ObIXCBVbVdM)
 - 👂🏻 [Watched a Youtube video "Backspin Basketball Flies Off Dam"](https://www.youtube.com/watch?v=2OSrvzNW9FE)
-- 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
-- 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
 - 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
   - 💰📈 [12. The Investment Due Diligence](https://zerodha.com/varsity/chapter/investment-due-diligence/)
     - 💰📈 [12.1 – Taking stock](https://zerodha.com/varsity/chapter/investment-due-diligence/)
@@ -458,8 +505,9 @@ Learning Progress Till Now -> 187 Days (09/12/2020 to 13/06/2021)
 - 👂🏻 [Watched a Youtube video "RECORD ! Indian Freight Train Beats "Rajdhani Express" in Avg. SPEED 🔥 2021"](https://www.youtube.com/watch?v=tJH9xLF_seg)
 - 👂🏻 [Watched a Youtube video "Gravitas: Covid-19 Origins: Was the virus "manipulated" in a lab?"](https://www.youtube.com/watch?v=wTNp6nG4dXA)
 - 👂🏻 [Watched a Youtube video "Why Japanese Chef’s Knives Are So Expensive | So Expensive"](https://www.youtube.com/watch?v=7dZmeh_28Eo)
-- 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
-- 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
 - 💰📈 [Financial education ~ "Bonds and Debentures Explained - How Bond Investment Market Works in India? | BONDS INVESTING #1"](https://www.youtube.com/watch?v=gEMZKXwNNRo) 
 - 🐱‍💻 [15 Days of Code | Day 6 | Python Warriors [TUPLES]](https://www.youtube.com/watch?v=7c33xQ93MDA&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=8)
 - ➕➖ Solved 10 Questions(Aptitude~Numbers) ✖️➗ 
@@ -487,8 +535,9 @@ Learning Progress Till Now -> 187 Days (09/12/2020 to 13/06/2021)
 - 👂🏻 [Watched a Youtube video "Who's Winning The Self-Driving Car Race?"](https://www.youtube.com/watch?v=Ji-xx4NY6KM)
 - 👂🏻 [Watched a Youtube video "Nokia 2720 V Flip - now available at Verizon"](https://www.youtube.com/watch?v=T5JqxR_cPaw)
 - 👂🏻 [Watched a Youtube video "The man behind the world's largest phone empire (the story of BBK)"](https://www.youtube.com/watch?v=VIggp85vgZA)
-- 📖 Read 9 pages in the book "Think and Grow Rich by Napoleon hill"
-- 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 📖📈 Book reading
+  - 📖 Read 9 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
 - 💰📈 [Financial education ~ "How To Create Retirement Plan with Retirement Calculator By CA Rachana Ranade"](https://www.youtube.com/watch?v=uO8EoK6wUIY) 
 - 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
   - 💰📈 [11. The Financial Ratio Analysis (Part 3)](https://zerodha.com/varsity/chapter/financial-ratios-part-3/)
@@ -522,7 +571,8 @@ Learning Progress Till Now -> 187 Days (09/12/2020 to 13/06/2021)
 - 📰 [Daily English News](https://qz.com/india/)
 - 👂🏻 [Watched a Youtube video "This green oasis is a drought-proof village in Rajasthan"](https://www.youtube.com/watch?v=I1Vt8oPCZiE)
 - 👂🏻 [Watched a Youtube video "How Tesla Builds Batteries So Fast"](https://www.youtube.com/watch?v=NTb3SNtwTjg)
-- 💰📈📖 Financial education ~ Read 9 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 📖📈 Book reading
+  - 💰📈📖 Financial education ~ Read 9 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
 ***
 </p></details>
 
@@ -547,8 +597,9 @@ Learning Progress Till Now -> 187 Days (09/12/2020 to 13/06/2021)
 - 👂🏻 [Watched a Youtube video "Simple & Powerful Sales Technique to get Clients/Internships (Part 1)"](https://www.youtube.com/watch?v=Lb55kGWCZy0)
 - 👂🏻 [Watched a Youtube video "INVESTMENT BANKING EXPLAINED | Introduction, History, Lifestyle"](https://www.youtube.com/watch?v=eVu99Mr45H8)
 - 👂🏻 [Watched a Youtube video "How Domino’s Won India’s Pizza Wars"](https://www.youtube.com/watch?v=EK6_QNZa4S4)
-- 📖 Read 8 pages in the book "Think and Grow Rich by Napoleon hill"
-- 💰📈📖 Financial education ~ Read 8 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 📖📈 Book reading
+  - 📖 Read 8 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 💰📈📖 Financial education ~ Read 8 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
 - 💰📈 [Financial education ~ "Learn Money Management Tips Ft. @Asset Yogi | Funance with Rachana Ranade"](https://www.youtube.com/watch?v=EKVW0zWGMdk) 
 - 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
   - 💰📈 [10. The Financial Ratio Analysis (Part 2)](https://zerodha.com/varsity/chapter/financial-ratios-part-2/)
@@ -580,8 +631,9 @@ Learning Progress Till Now -> 187 Days (09/12/2020 to 13/06/2021)
 - 👂🏻 [Watched a Youtube video "The Most Venomous Snakes in the World | Modern Dinosaurs"](https://www.youtube.com/watch?v=qv2hvCJrM4Q)
 - 👂🏻 [Watched a Youtube video "Why Rolls-Royce Cars Are So Expensive | So Expensive"](https://www.youtube.com/watch?v=NUzDLpSkQTg)
 - 👂🏻 [Watched a Youtube video "Meet Chinnaponnu, an abandoned dog who is now assisting RPF personnel"](https://www.youtube.com/watch?v=PjncaPT29pU)
-- 📖 Read 7 pages in the book "Think and Grow Rich by Napoleon hill"
-- 💰📈📖 Financial education ~ Read 7 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 📖📈 Book reading
+  - 📖 Read 7 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 💰📈📖 Financial education ~ Read 7 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
 - 💰📈 [Financial education ~ "What is Helicopter Money? 🚁💸 Can India have Helicopter Money? Explained by CA Rachana Ranade"](https://www.youtube.com/watch?v=IKZ9b7nwIZo) 
 - 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
   - 💰📈 [10. The Financial Ratio Analysis (Part 2)](https://zerodha.com/varsity/chapter/financial-ratios-part-2/)
@@ -622,8 +674,9 @@ Learning Progress Till Now -> 187 Days (09/12/2020 to 13/06/2021)
 - 👂🏻 [Watched a Youtube video "US President Joe Biden orders intel officials to 'redouble' efforts to probe COVID-19 origin | News"](https://www.youtube.com/watch?v=fwdpO6MTxy8)
 - 👂🏻 [Watched a Youtube video "WhatsApp​ Sues Indian Govt But IT Ministry Hits Back, Claims US, UK & Other Countries Seek More Data"](https://www.youtube.com/watch?v=nitoPwUQIR4)
 - 👂🏻 [Watched a Youtube video "Indian Govt amidst legal battle over privacy says, "WhatsApp users in India will not be affected""](https://www.youtube.com/watch?v=oIpA3tQ-b7g)
-- 📖 Read 6 pages in the book "Think and Grow Rich by Napoleon hill"
-- 💰📈📖 Financial education ~ Read 6 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 📖📈 Book reading
+  - 📖 Read 6 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 💰📈📖 Financial education ~ Read 6 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
 - 💰📈 [Financial education ~ "What is ETF? Is it same as Nifty BeES? | CA Rachana Ranade"](https://www.youtube.com/watch?v=R5aDUli_sAc&t=9s) 
 - 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
   - 💰📈 [9. The Financial Ratio Analysis (Part 1)](https://zerodha.com/varsity/chapter/financial-ratio-analysis/)
@@ -656,8 +709,9 @@ Learning Progress Till Now -> 187 Days (09/12/2020 to 13/06/2021)
 - 👂🏻 [Watched a Youtube video "How India's MTR foods built a 1000 Cr empire despite the Emergency & Pandemic | 97-year-old Legacy"](https://www.youtube.com/watch?v=jp_CSPtSQWY)
 - 👂🏻 [Watched a Youtube video "Gravitas: Social Media giants face heat in India"](https://www.youtube.com/watch?v=OrKqUvBQpfs)
 - 👂🏻 [Watched a Youtube video "Inside Bitcoin's Energy Consumption Problem"](https://www.youtube.com/watch?v=RzGQkYQ-rp8)
-- 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
-- 💰📈📖 Financial education ~ Read 5 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 💰📈📖 Financial education ~ Read 5 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
 - 💰📈 [Financial education ~ "All you need to know about NPS (National Pension Scheme) by CA Rachana Ranade"](https://www.youtube.com/watch?v=T_NIXo3q09c) 
 - 💰📈 [Financial education ~ Module 3 - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
   - 💰📈 [8. The Cash Flow statement](https://zerodha.com/varsity/chapter/cash-flow-statement/)
