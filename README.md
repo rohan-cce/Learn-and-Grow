@@ -1,12 +1,48 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 188 Days (09/12/2020 to 14/06/2021)
+Learning Progress Till Now -> 189 Days (09/12/2020 to 15/06/2021)
 ***
 
 >"Stay afraid, but do it anyway. What's important is the action. You don't have to wait to be confident. Just do it and eventually the confidence will follow." - Carrie Fisher
 <details>
   <summary>Day 181 - 190 ~ Jun 07, 2021 - Jun 16, 2021</summary>
 <p>
+
+<details>
+<summary>Day 189</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d179e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d179ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20161%20-%20180/d179b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d179chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d179chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d179chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20161%20-%20180/d179chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20161%20-%20180/d179h5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20161%20-%20180/d179leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "How a cooperative conserved rainwater to grow a forest in a drought-prone Dharmapuri of Tamil Nadu"](https://www.youtube.com/watch?v=Xy9qdrD3uK0)
+- 👂🏻 [Watched a Youtube video "INDIA'S First "SOLAR Highways" Coming soon 🔥 Mumbai-Nagpur Ex. 250MW Investment 🔥"](https://www.youtube.com/watch?v=GDIT-dCQIho)
+- 👂🏻 [Watched a Youtube video "Babocush Bed Helps Prevent Babies Crying, Keeps Airways Open | CNBC"](https://www.youtube.com/watch?v=NtxNDA6JLts)
+- 👂🏻 [Watched a Youtube video "Twitter Ban Gets Koo to Nigeria | ‘Pe’ Wars: PhonePe vs BharatPe | World’s Largest Eyewear Factory"](https://www.youtube.com/watch?v=6eEAixncd-Y)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 💰📈📖 Financial education ~ Read 5 pages in the book "ABSOLUTE POWER - Inside story of the National Stock Exchange’s amazing success, leading to hubris, regulatory capture and algo scam. by Basu, Debashis  Dalal, Sucheta"
+- 💰📈 [Financial education ~ Module 4 - Futures Trading](https://zerodha.com/varsity/module/futures-trading/)
+  - 💰📈 [4. Leverage & Payoff](https://zerodha.com/varsity/chapter/leverage-payoff/)
+    - 💰📈 [4.1 – A quick recap](https://zerodha.com/varsity/chapter/leverage-payoff/)
+    - 💰📈 [4.2 – Leverage in perspective](https://zerodha.com/varsity/chapter/leverage-payoff/)
+    - 💰📈 [4.3 – The Leverage](https://zerodha.com/varsity/chapter/leverage-payoff/)
+    - 💰📈 [4.4 – Leverage Calculation](https://zerodha.com/varsity/chapter/leverage-payoff/)
+    - 💰📈 [4.5 – The Futures payoff](https://zerodha.com/varsity/chapter/leverage-payoff/)
+
+***
+</p></details>
 
 <details>
 <summary>Day 188</summary>
