@@ -48,6 +48,9 @@ Learning Progress Till Now -> 190 Days (09/12/2020 to 16/06/2021)
     - 👨🏻‍💻⌨️ [2.4 Introduction to Loops in C++ programming | Guaranteed Placement Course | Lecture 2.4](https://www.youtube.com/watch?v=IlIn_D1RT7M&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=6)
 
 ***
+</p></details>
+
+
 <details>
 <summary>Day 189</summary>
 <p>
