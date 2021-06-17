@@ -1,7 +1,54 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 190 Days (09/12/2020 to 16/06/2021)
+Learning Progress Till Now -> 191 Days (09/12/2020 to 17/06/2021)
 ***
+
+<details>
+  <summary>Day 191 - 200 ~ Jun 17, 2021 - Jun 26, 2021</summary>
+<p>
+
+<details>
+<summary>Day 191</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d181e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d181ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20181%20-%20200/d181b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d181chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d181chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d181chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d181chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20181%20-%20200/d181h5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20181%20-%20200/d181leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "BIG NEWS! Indian Firm to Double "Ethanol Production" by 2022 🔥 Huge Investment, E20 Fuel"](https://www.youtube.com/watch?v=lHZsxdVycuM)
+- 👂🏻 [Watched a Youtube video "What If the World Lost Its Oxygen for 5 Seconds? #Shorts"](https://www.youtube.com/watch?v=0K46hqmgzAc)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 💰📈📖 Financial education ~ Read 5 pages in the book "ABSOLUTE POWER - Inside story of the National Stock Exchange’s amazing success, leading to hubris, regulatory capture and algo scam. by Basu, Debashis  Dalal, Sucheta"
+- 💰📈 [Financial education ~ Module 4 - Futures Trading](https://zerodha.com/varsity/module/futures-trading/)
+  - 💰📈 [4. Leverage & Payoff](https://zerodha.com/varsity/chapter/leverage-payoff/)
+    - 💰📈 [4.1 – A quick recap](https://zerodha.com/varsity/chapter/leverage-payoff/)
+    - 💰📈 [4.2 – Leverage in perspective](https://zerodha.com/varsity/chapter/leverage-payoff/)
+    - 💰📈 [4.3 – The Leverage](https://zerodha.com/varsity/chapter/leverage-payoff/)
+    - 💰📈 [4.4 – Leverage Calculation](https://zerodha.com/varsity/chapter/leverage-payoff/)
+    - 💰📈 [4.5 – The Futures payoff](https://zerodha.com/varsity/chapter/leverage-payoff/)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Apna College ~ C++ Tutorial | DataStructure & Algorithm ](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
+    - 👨🏻‍💻⌨️ [3.1 Break and Continue statement in C++ Programming | Guaranteed Placement Course | Lecture 3.1](https://www.youtube.com/watch?v=Stf7KBiA1vs&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=7)
+    - 👨🏻‍💻⌨️ [3.2 Switch-Case statement in C++ Programming | Guaranteed Placement Course | Lecture 3.2](https://www.youtube.com/watch?v=G80-j_xnE_8&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=8)
+    - 👨🏻‍💻⌨️ [3.3 Operators in C++ Programming | Guaranteed Placement Course | 3.3](https://www.youtube.com/watch?v=JBgZxnAj4hg&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=9)
+
+***
+</p></details>
+
+***
+</p></details>
+
 
 >"Stay afraid, but do it anyway. What's important is the action. You don't have to wait to be confident. Just do it and eventually the confidence will follow." - Carrie Fisher
 <details>
