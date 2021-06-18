@@ -1,11 +1,55 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 191 Days (09/12/2020 to 17/06/2021)
+Learning Progress Till Now -> 192 Days (09/12/2020 to 18/06/2021)
 ***
+
+>“How much you can learn when you fail determines how far you will go into achieving your goals.”― Roy Bennett
 
 <details>
   <summary>Day 191 - 200 ~ Jun 17, 2021 - Jun 26, 2021</summary>
 <p>
+
+<details>
+<summary>Day 192</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d182e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d182ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20181%20-%20200/d182b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d182chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d182chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d182chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d182chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20181%20-%20200/d182h5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20181%20-%20200/d182leetcode.jpg)
+- 🏃 [Walking -> 3311 Steps ~ 2.3 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20181%20-%20200/d182walking.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Google's New $1 Billion UK Headquarters"](https://www.youtube.com/watch?v=Gq-ra9cwKeY)
+- 👂🏻 [Watched a Youtube video "Ronaldo's latest action is making people rethink their love for the slow sugar death"](https://www.youtube.com/watch?v=xA3KG96VieI)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 💰📈📖 Financial education ~ Read 5 pages in the book "ABSOLUTE POWER - Inside story of the National Stock Exchange’s amazing success, leading to hubris, regulatory capture and algo scam. by Basu, Debashis  Dalal, Sucheta"
+- 💰📈 [Financial education ~ "5 Money Mistakes I Wish I knew at 20"](https://www.youtube.com/watch?v=nzap6qlxfYg)
+- 💰📈 [Financial education ~ Module 4 - Futures Trading](https://zerodha.com/varsity/module/futures-trading/)
+  - 💰📈 [5. Margin & M2M](https://zerodha.com/varsity/chapter/margin-m2m/)
+    - 💰📈 [5.1 – Things you should know by now](https://zerodha.com/varsity/chapter/margin-m2m/)
+    - 💰📈 [5.2 – Why are Margins charged?](https://zerodha.com/varsity/chapter/margin-m2m/)
+    - 💰📈 [5.3 – Mark to Market (M2M)](https://zerodha.com/varsity/chapter/margin-m2m/)
+    - 💰📈 [5.4 – Margins, the bigger perspective](https://zerodha.com/varsity/chapter/margin-m2m/)
+    - 💰📈 [5.5 – An interesting case of ‘Margin Call.’](https://zerodha.com/varsity/chapter/margin-m2m/)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Apna College ~ C++ Tutorial | DataStructure & Algorithm ](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
+    - 👨🏻‍💻⌨️ [4.1 Awesome Pattern Questions -1 ](https://www.youtube.com/watch?v=LfgAOZ1kKMw&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=10)
+    - 👨🏻‍💻⌨️ [4.2 Advanced Pattern Questions in C++ | Lecture 4.2](https://www.youtube.com/watch?v=k9OlCJFy5yo&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=11)
+
+
+***
+</p></details>
+
 
 <details>
 <summary>Day 191</summary>
@@ -39,9 +83,9 @@ Learning Progress Till Now -> 191 Days (09/12/2020 to 17/06/2021)
     - 💰📈 [4.5 – The Futures payoff](https://zerodha.com/varsity/chapter/leverage-payoff/)
 - 👨🏻‍💻⌨️ Learn and Code
   - 👨🏻‍💻⌨️ [Apna College ~ C++ Tutorial | DataStructure & Algorithm ](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
-    - 👨🏻‍💻⌨️ [3.1 Break and Continue statement in C++ Programming | Guaranteed Placement Course | Lecture 3.1](https://www.youtube.com/watch?v=Stf7KBiA1vs&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=7)
-    - 👨🏻‍💻⌨️ [3.2 Switch-Case statement in C++ Programming | Guaranteed Placement Course | Lecture 3.2](https://www.youtube.com/watch?v=G80-j_xnE_8&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=8)
-    - 👨🏻‍💻⌨️ [3.3 Operators in C++ Programming | Guaranteed Placement Course | 3.3](https://www.youtube.com/watch?v=JBgZxnAj4hg&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=9)
+    - 👨🏻‍💻⌨️ [3.1 Break and Continue statement in C++ Programming | Lecture 3.1](https://www.youtube.com/watch?v=Stf7KBiA1vs&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=7)
+    - 👨🏻‍💻⌨️ [3.2 Switch-Case statement in C++ Programming | Lecture 3.2](https://www.youtube.com/watch?v=G80-j_xnE_8&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=8)
+    - 👨🏻‍💻⌨️ [3.3 Operators in C++ Programming | 3.3](https://www.youtube.com/watch?v=JBgZxnAj4hg&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=9)
 
 ***
 </p></details>
@@ -92,7 +136,7 @@ Learning Progress Till Now -> 191 Days (09/12/2020 to 17/06/2021)
     - 👨🏻‍💻⌨️ [2.1 Data Types & Type Modifiers | Data Structures & Algorithms Course in C++ | Lecture 2.1](https://www.youtube.com/watch?v=cnT1oW5_ePM&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=3)
     - 👨🏻‍💻⌨️ [2.2 Input/Output in C++ | Data Structures and Algorithm Course in C++ | Lecture 2.2](https://www.youtube.com/watch?v=7dPdMtBX1d8&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=4)
     - 👨🏻‍💻⌨️ [2.3 If/else statement in C++ programming | Data Structure and Algorithm Course | Lecture 2.3](https://www.youtube.com/watch?v=cyB3HNlQyjY&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=5)
-    - 👨🏻‍💻⌨️ [2.4 Introduction to Loops in C++ programming | Guaranteed Placement Course | Lecture 2.4](https://www.youtube.com/watch?v=IlIn_D1RT7M&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=6)
+    - 👨🏻‍💻⌨️ [2.4 Introduction to Loops in C++ programming | Lecture 2.4](https://www.youtube.com/watch?v=IlIn_D1RT7M&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=6)
 
 ***
 </p></details>
