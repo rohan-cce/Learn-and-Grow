@@ -34,6 +34,44 @@ Learning Progress Till Now -> 194 Days (09/12/2020 to 20/06/2021)
 </p></details>
 
 <details>
+<summary>Day 193</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d183e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d183ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20181%20-%20200/d183b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d183chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d183chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d183chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d183chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20181%20-%20200/d183h5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20181%20-%20200/d183leetcode.jpg)
+- 🏃 [Walking -> 6201 Steps ~ 4.3 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20181%20-%20200/d183walking.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "How are microwaves a part of our daily lives?"](https://www.youtube.com/watch?v=KG57MHSFrlE)
+- 👂🏻 [Watched a Youtube video "Why the U.S. uses a different voltage than some countries"](https://www.youtube.com/watch?v=awZ1GzGeMKM)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 💰📈📖 Financial education ~ Read 5 pages in the book "ABSOLUTE POWER - Inside story of the National Stock Exchange’s amazing success, leading to hubris, regulatory capture and algo scam. by Basu, Debashis  Dalal, Sucheta"
+- 💰📈 [Financial education ~ "Rs.10000 to 848 Crores | Farmer's Son Investing success story Tamil | Financial Life changing story"](https://www.youtube.com/watch?v=TYcQ7zILX-c)
+- 💰📈 [Financial education ~ "Finance Basics Ep 1: What no one tells you about Mutual Funds (with calculations)"](https://www.youtube.com/watch?v=kW0jnjRoXOQ)
+- 💰📈 [Financial education ~ Module 4 - Futures Trading](https://zerodha.com/varsity/module/futures-trading/)
+  - 💰📈 [6. Margin Calculator (Part 1)](https://zerodha.com/varsity/chapter/margin-calculator-part-1/)
+    - 💰📈 [6.1 – The Margin Calculator](https://zerodha.com/varsity/chapter/margin-calculator-part-1/)
+    - 💰📈 [6.2 – Expiry](https://zerodha.com/varsity/chapter/margin-calculator-part-1/)
+    - 💰📈 [6.3 – Sneak Peek into Spreads](https://zerodha.com/varsity/chapter/margin-calculator-part-1/)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Apna College ~ C++ Tutorial | DataStructure & Algorithm ](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
+    - 👨🏻‍💻⌨️ [5.1 Binary Number System | Lecture 5.1](https://www.youtube.com/watch?v=QIyugGzih4k&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=12)
+    - 👨🏻‍💻⌨️ [5.2 How to reverse a number | Check if a number is Prime or Armstrong | # 5.2](https://www.youtube.com/watch?v=6TzUHrAXytM&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=13)
+***
+</p></details>
+
+<details>
 <summary>Day 192</summary>
 <p>
 
