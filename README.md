@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 194 Days (09/12/2020 to 20/06/2021)
+Learning Progress Till Now -> 195 Days (09/12/2020 to 21/06/2021)
 ***
 
 >“How much you can learn when you fail determines how far you will go into achieving your goals.”― Roy Bennett
@@ -8,6 +8,45 @@ Learning Progress Till Now -> 194 Days (09/12/2020 to 20/06/2021)
 <details>
   <summary>Day 191 - 200 ~ Jun 17, 2021 - Jun 26, 2021</summary>
 <p>
+
+<details>
+<summary>Day 195</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d185e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d185ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20181%20-%20200/d185b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d185chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d185chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d185chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d185chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20181%20-%20200/d185h5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20181%20-%20200/d185leetcode.jpg)
+- 🏃 [Walking -> 6725 Steps ~ 4.2 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20181%20-%20200/d185walking.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Gravitas Plus: 6 Trends that will rule 2021"](https://www.youtube.com/watch?v=7cmI25aQyq0)
+- 👂🏻 [Watched a Youtube video "4 Life Changing Lessons For Young People |Tools of Titans Tamil | 4 Success Habits|almost everything"](https://www.youtube.com/watch?v=Zo1FdeOQO2Q)
+- 👂🏻 [Watched a Youtube video "The Unbelievable Power of The B-2 Bomber"](https://www.youtube.com/watch?v=cG4cwo0BWMM)
+- 💰📈 [Financial education ~ "Warren Buffett: How To Invest For Beginners"](https://www.youtube.com/watch?v=yRr0_gJ-3mI)
+- 💰📈 [Financial education ~ Module 4 - Futures Trading](https://zerodha.com/varsity/module/futures-trading/)
+  - 💰📈 [7. Margin Calculator (Part 2)](https://zerodha.com/varsity/chapter/margin-calculator-part-2/)
+    - 💰📈 [7.1 – The trade information](https://zerodha.com/varsity/chapter/margin-calculator-part-2/)
+    - 💰📈 [7.2 – Product types](https://zerodha.com/varsity/chapter/margin-calculator-part-2/)
+    - 💰📈 [7.3 – Back to the Margin Calculator](https://zerodha.com/varsity/chapter/margin-calculator-part-2/)
+    - 💰📈 [7.4 – BO&CO Margin Calculator](https://zerodha.com/varsity/chapter/margin-calculator-part-2/)
+    - 💰📈 [7.5 – The trailing stoploss](https://zerodha.com/varsity/chapter/margin-calculator-part-2/)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Apna College ~ C++ Tutorial | DataStructure & Algorithm ](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
+    - 👨🏻‍💻⌨️ [6.1 Functions in C++](https://www.youtube.com/watch?v=83KtncYgHYQ&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=14)
+    - 👨🏻‍💻⌨️ [6.2 Functions Challenges | Lecture 6.2](https://www.youtube.com/watch?v=8vzk_JBKGcQ&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=15)
+    - 👨🏻‍💻⌨️ [6.3 Advanced Questions on Functions](https://www.youtube.com/watch?v=lYnPK1svd-4&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=16)
+
+***
+</p></details>
 
 <details>
 <summary>Day 194</summary>
