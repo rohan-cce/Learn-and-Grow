@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 195 Days (09/12/2020 to 21/06/2021)
+Learning Progress Till Now -> 196 Days (09/12/2020 to 22/06/2021)
 ***
 
 >“How much you can learn when you fail determines how far you will go into achieving your goals.”― Roy Bennett
@@ -8,6 +8,41 @@ Learning Progress Till Now -> 195 Days (09/12/2020 to 21/06/2021)
 <details>
   <summary>Day 191 - 200 ~ Jun 17, 2021 - Jun 26, 2021</summary>
 <p>
+
+<details>
+<summary>Day 196</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d186e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d186ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20181%20-%20200/d186b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d186chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d186chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d186chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d186chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20181%20-%20200/d186h5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20181%20-%20200/d186leetcode.jpg)
+- 🏃 [Walking -> 3694 Steps ~ 2.4 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20181%20-%20200/d186walking.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Hyped Pizza Robot Company Is Now Tackling Our Plastic Waste Problem"](https://www.youtube.com/watch?v=VpD_gPWOz3o)
+- 👂🏻 [Watched a Youtube video "Hundreds of South Africans dig for 'diamonds' - BBC News"](https://www.youtube.com/watch?v=10C3SnjM83I)
+- 💰📈 [Financial education ~ "The ULTIMATE Beginner's Guide to CHART PATTERNS"](https://www.youtube.com/watch?v=OiXEpjO7rOs)
+- 💰📈 [Financial education ~ Module 4 - Futures Trading](https://zerodha.com/varsity/module/futures-trading/)
+  - 💰📈 [8. All about Shorting](https://zerodha.com/varsity/chapter/shorting/)
+    - 💰📈 [8.1 – Shorting in a nutshell](https://zerodha.com/varsity/chapter/shorting/)
+    - 💰📈 [8.2 – Shorting stocks in the spot market](https://zerodha.com/varsity/chapter/shorting/)
+    - 💰📈 [8.3 – Shorting in spot (The stock exchange’s perspective)](https://zerodha.com/varsity/chapter/shorting/)
+    - 💰📈 [8.4 – Shorting in the Futures Market](https://zerodha.com/varsity/chapter/shorting/)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Apna College ~ C++ Tutorial | DataStructure & Algorithm ](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
+    - 👨🏻‍💻⌨️ [7.1 Time Complexity | C++ Course](https://www.youtube.com/watch?v=rq_rwnveh8s&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=17)
+
+***
+</p></details>
 
 <details>
 <summary>Day 195</summary>
