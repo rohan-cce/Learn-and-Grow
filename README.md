@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 197 Days (09/12/2020 to 23/06/2021)
+Learning Progress Till Now -> 198 Days (09/12/2020 to 24/06/2021)
 ***
 
 >“How much you can learn when you fail determines how far you will go into achieving your goals.”― Roy Bennett
@@ -8,6 +8,43 @@ Learning Progress Till Now -> 197 Days (09/12/2020 to 23/06/2021)
 <details>
   <summary>Day 191 - 200 ~ Jun 17, 2021 - Jun 26, 2021</summary>
 <p>
+
+<details>
+<summary>Day 198</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d188e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d188ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20181%20-%20200/d188b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d188chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d188chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d188chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d188chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20181%20-%20200/d188h5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20181%20-%20200/d188leetcode.jpg)
+- 🏃 [Walking -> 3500 Steps ~ 2.3 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20181%20-%20200/d188walking.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 💰📈📖 Financial education ~ Read 5 pages in the book "ABSOLUTE POWER - Inside story of the National Stock Exchange’s amazing success, leading to hubris, regulatory capture and algo scam. by Basu, Debashis  Dalal, Sucheta"
+- 👂🏻 [Watched a Youtube video "Gravitas | Delta Plus variant: The new worry for the world"](https://www.youtube.com/watch?v=Zp_5UzLsCSY)
+- 👂🏻 [Watched a Youtube video "Perfect Time Table strategy for maximum productivity (This is huge) 🔥🔥"](https://www.youtube.com/watch?v=VM8BJA4jX6U)
+- 👂🏻 [Watched a Youtube video "Unusual fitness products"](https://www.youtube.com/watch?v=fVGE4cK3hLY)
+- 💰📈 [Financial education ~ "5 Ways Rich People Make Money With Debt"](https://www.youtube.com/watch?v=nZ4SAXgUrIc)
+- 💰📈 [Financial education ~ Module 4 - Futures Trading](https://zerodha.com/varsity/module/futures-trading/)
+  - 💰📈 [10. The Futures Pricing](https://zerodha.com/varsity/chapter/futures-pricing/)
+    - 💰📈 [10.1 – The Pricing Formula](https://zerodha.com/varsity/chapter/futures-pricing/)
+    - 💰📈 [10.2 – Practical Application](https://zerodha.com/varsity/chapter/futures-pricing/)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Apna College ~ C++ Tutorial | DataStructure & Algorithm ](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
+    - 👨🏻‍💻⌨️ [8.3.1 Sorting in Arrays | Selection Sort | C++ Course](https://www.youtube.com/watch?v=dQa4A2Z0_Ro&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=20)
+    - 👨🏻‍💻⌨️ [8.3.2 Bubble Sort | Sorting in C++ ](https://www.youtube.com/watch?v=xcPFUCh0jT0&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=21)
+***
+</p></details>
 
 <details>
 <summary>Day 197</summary>
