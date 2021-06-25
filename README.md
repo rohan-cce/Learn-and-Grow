@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 198 Days (09/12/2020 to 24/06/2021)
+Learning Progress Till Now -> 199 Days (09/12/2020 to 25/06/2021)
 ***
 
 >“How much you can learn when you fail determines how far you will go into achieving your goals.”― Roy Bennett
@@ -8,6 +8,46 @@ Learning Progress Till Now -> 198 Days (09/12/2020 to 24/06/2021)
 <details>
   <summary>Day 191 - 200 ~ Jun 17, 2021 - Jun 26, 2021</summary>
 <p>
+
+<details>
+<summary>Day 199</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d189e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d189ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20181%20-%20200/d189b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d189chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d189chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d189chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d189chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20181%20-%20200/d189h5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20181%20-%20200/d189leetcode.jpg)
+- 🏃 [Walking -> 4030 Steps ~ 2.77 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20181%20-%20200/d189walking.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 💰📈📖 Financial education ~ Read 5 pages in the book "ABSOLUTE POWER - Inside story of the National Stock Exchange’s amazing success, leading to hubris, regulatory capture and algo scam. by Basu, Debashis  Dalal, Sucheta"
+- 👂🏻 [Watched a Youtube video "This alien-like metal may one day power your electronics"](https://www.youtube.com/watch?v=xG7n0dl5I60)
+- 💰📈 [Financial education ~ "Stock market for beginners - My Investment Strategies revealed🔥🔥"](https://www.youtube.com/watch?v=G6Hai-W9pRE)
+- 💰📈 [Financial education ~ "The "HEIKIN ASHI" Strategy That The Top 5% Use [ High Winrate ]"](https://www.youtube.com/watch?v=Yjy8U3NP0fM)
+- 💰📈 [Financial education ~ Module 4 - Futures Trading](https://zerodha.com/varsity/module/futures-trading/)
+  - 💰📈 [11. Hedging with Futures](https://zerodha.com/varsity/chapter/hedging-futures/)
+    - 💰📈 [11.1 – Hedging, what is it?](https://zerodha.com/varsity/chapter/hedging-futures/)
+    - 💰📈 [11.2 – Hedge – But why?](https://zerodha.com/varsity/chapter/hedging-futures/)
+    - 💰📈 [11.3 – Risk](https://zerodha.com/varsity/chapter/hedging-futures/)
+    - 💰📈 [11.4 – Hedging a single stock position](https://zerodha.com/varsity/chapter/hedging-futures/)
+    - 💰📈 [11.5 – Understanding Beta (β)](https://zerodha.com/varsity/chapter/hedging-futures/)
+    - 💰📈 [11.6 – Calculating beta in MS Excel](https://zerodha.com/varsity/chapter/hedging-futures/)
+    - 💰📈 [11.7 – Hedging a stock Portfolio](https://zerodha.com/varsity/chapter/hedging-futures/)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Apna College ~ C++ Tutorial | DataStructure & Algorithm ](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
+    - 👨🏻‍💻⌨️ [8.3.3 Insertion Sort | Sorting Algorithms | C++ Course ](https://www.youtube.com/watch?v=3GC83dh4cf0&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=22)
+***
+</p></details>
 
 <details>
 <summary>Day 198</summary>
