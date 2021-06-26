@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 199 Days (09/12/2020 to 25/06/2021)
+Learning Progress Till Now -> 200 Days (09/12/2020 to 26/06/2021)
 ***
 
 >“How much you can learn when you fail determines how far you will go into achieving your goals.”― Roy Bennett
@@ -8,6 +8,42 @@ Learning Progress Till Now -> 199 Days (09/12/2020 to 25/06/2021)
 <details>
   <summary>Day 191 - 200 ~ Jun 17, 2021 - Jun 26, 2021</summary>
 <p>
+
+<details>
+<summary>Day 200</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d190e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d190ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20181%20-%20200/d190b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d190chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d190chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d190chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d190chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20181%20-%20200/d190h5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20181%20-%20200/d190leetcode.jpg)
+- 🏃 [Walking -> 3381 Steps ~ 2.2 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20181%20-%20200/d190walking.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 💰📈📖 Financial education ~ Read 5 pages in the book "ABSOLUTE POWER - Inside story of the National Stock Exchange’s amazing success, leading to hubris, regulatory capture and algo scam. by Basu, Debashis  Dalal, Sucheta"
+- 👂🏻 [Watched a Youtube video "Gravitas: New Delta Plus variant sparks concern"](https://www.youtube.com/watch?v=Gaq46BbQdwo)
+- 👂🏻 [Watched a Youtube video "What is watershed management?"](https://www.youtube.com/watch?v=9fe3HDg2Guc)
+- 👂🏻 [Watched a Youtube video "This 22 Year Old Cleaned Up 3,800 Tons of Garbage in India | EVERYDAY BOSSES #31"](https://www.youtube.com/watch?v=xAcM-Z4MWSM)
+- 💰📈 [Financial education ~ "How To Earn in your Early 20s? | Aman Dhattarwal | TEDxVIPS"](https://www.youtube.com/watch?v=Y7qzo1WMcxs)
+- 💰📈 [Financial education ~ Module 4 - Futures Trading](https://zerodha.com/varsity/module/futures-trading/)
+  - 💰📈 [12. Open Interest](https://zerodha.com/varsity/chapter/open-interest/)
+    - 💰📈 [12.1 – Open Interest and its calculation](https://zerodha.com/varsity/chapter/open-interest/)
+    - 💰📈 [12.2 – OI and Volume interpretation](https://zerodha.com/varsity/chapter/open-interest/)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Apna College ~ C++ Tutorial | DataStructure & Algorithm ](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
+    - 👨🏻‍💻⌨️ [8.3.3 Insertion Sort | Sorting Algorithms | C++ Course ](https://www.youtube.com/watch?v=3GC83dh4cf0&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=22)
+***
+</p></details>
 
 <details>
 <summary>Day 199</summary>
@@ -43,9 +79,6 @@ Learning Progress Till Now -> 199 Days (09/12/2020 to 25/06/2021)
     - 💰📈 [11.5 – Understanding Beta (β)](https://zerodha.com/varsity/chapter/hedging-futures/)
     - 💰📈 [11.6 – Calculating beta in MS Excel](https://zerodha.com/varsity/chapter/hedging-futures/)
     - 💰📈 [11.7 – Hedging a stock Portfolio](https://zerodha.com/varsity/chapter/hedging-futures/)
-- 👨🏻‍💻⌨️ Learn and Code
-  - 👨🏻‍💻⌨️ [Apna College ~ C++ Tutorial | DataStructure & Algorithm ](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
-    - 👨🏻‍💻⌨️ [8.3.3 Insertion Sort | Sorting Algorithms | C++ Course ](https://www.youtube.com/watch?v=3GC83dh4cf0&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=22)
 ***
 </p></details>
 
