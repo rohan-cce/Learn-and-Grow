@@ -1,12 +1,52 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 200 Days (09/12/2020 to 26/06/2021)
+Learning Progress Till Now -> 201 Days (09/12/2020 to 27/06/2021)
 ***
+>“If people are doubting how far you can go, go so far that you can’t hear them anymore.” – Michele Ruiz
+
+<details>
+  <summary>Day 201 - 210 ~ June 27, 2021 - July 06, 2021</summary>
+<p>
+
+<details>
+<summary>Day 201</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d191e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d191ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20181%20-%20200/d191b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d191chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d191chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d191chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d191chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20181%20-%20200/d191h5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20181%20-%20200/d191leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Unique Japanese inventions"](https://www.youtube.com/watch?v=7zAgeI3Gr58)
+- 👂🏻 [Watched a Youtube video "Windows 11 vs Mac OS | Which one is better for students"](https://www.youtube.com/watch?v=LYuJ2aT0UcY)
+- 👂🏻 [Watched a Youtube video "How Indore Is Becoming Garbage-Free | Cleanest City In India"](https://www.youtube.com/watch?v=-MS8vfcTmSM)
+- 💰📈 [Financial education ~ Module 4 - Futures Trading](https://zerodha.com/varsity/module/futures-trading/)
+  - 💰📈 [13. Quick Note on Physical Settlement](https://zerodha.com/varsity/chapter/quick-note-on-physical-settlement/)
+    - 💰📈 [13.1 – Overview](https://zerodha.com/varsity/chapter/quick-note-on-physical-settlement/)
+    - 💰📈 [13.2 What is Physical Settlement?](https://zerodha.com/varsity/chapter/quick-note-on-physical-settlement/)
+    - 💰📈 [13.3 Why is Physical Settlement enforced?](https://zerodha.com/varsity/chapter/quick-note-on-physical-settlement/)
+    - 💰📈 [13.4 How are positions settled?](https://zerodha.com/varsity/chapter/quick-note-on-physical-settlement/)
+    - 💰📈 [13.5 Netted off positions(subcategory)](https://zerodha.com/varsity/chapter/quick-note-on-physical-settlement/)
+    - 💰📈 [13.6 Margins](https://zerodha.com/varsity/chapter/quick-note-on-physical-settlement/)
+***
+</p></details>
+
+***
+</p></details>
 
 >“How much you can learn when you fail determines how far you will go into achieving your goals.”― Roy Bennett
 
 <details>
-  <summary>Day 191 - 200 ~ Jun 17, 2021 - Jun 26, 2021</summary>
+  <summary>Day 191 - 200 ~ June 17, 2021 - June 26, 2021</summary>
 <p>
 
 <details>
@@ -379,7 +419,7 @@ Learning Progress Till Now -> 200 Days (09/12/2020 to 26/06/2021)
 
 >"Stay afraid, but do it anyway. What's important is the action. You don't have to wait to be confident. Just do it and eventually the confidence will follow." - Carrie Fisher
 <details>
-  <summary>Day 181 - 190 ~ Jun 07, 2021 - Jun 16, 2021</summary>
+  <summary>Day 181 - 190 ~ June 07, 2021 - June 16, 2021</summary>
 <p>
 
 <details>
@@ -540,7 +580,7 @@ Learning Progress Till Now -> 200 Days (09/12/2020 to 26/06/2021)
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20161%20-%20180/d176leetcode.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
-- 👂🏻 [Watched a Youtube video "G7 Summit 2021: Indian Prime Minister Narendra Modi To Attend G7 on June 12 & 13 | Latest News |WION"](https://www.youtube.com/watch?v=DNGVNigwido)
+- 👂🏻 [Watched a Youtube video "G7 Summit 2021: Indian Prime Minister Narendra Modi To Attend G7 on june 12 & 13 | Latest News |WION"](https://www.youtube.com/watch?v=DNGVNigwido)
 - 👂🏻 [Watched a Youtube video "Gravitas: Why did America deny approval to Covaxin?"](https://www.youtube.com/watch?v=cZt4N70HeQU)
 - 📖📈 Book reading
   - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
@@ -734,7 +774,7 @@ Learning Progress Till Now -> 200 Days (09/12/2020 to 26/06/2021)
 >“The Best Way To Get Started Is To Quit Talking And Begin Doing.” – Walt Disney
 
 <details>
-  <summary>Day 171 - 180 ~ May 28, 2021 - Jun 06, 2021</summary>
+  <summary>Day 171 - 180 ~ May 28, 2021 - June 06, 2021</summary>
 <p>
 
 <details>
@@ -1738,7 +1778,7 @@ Learning Progress Till Now -> 200 Days (09/12/2020 to 26/06/2021)
 >"Your life is in your hands. Every single circumstance in your life can change."
 
 <details>
-  <summary>Day 141 - 150 ~ Apr 28, 2021 -  May 07, 2021</summary>
+  <summary>Day 141 - 150 ~ April 28, 2021 -  May 07, 2021</summary>
 <p>
 
 <details>
@@ -2054,7 +2094,7 @@ Learning Progress Till Now -> 200 Days (09/12/2020 to 26/06/2021)
 >"Just don't give up trying to do what you really want to do. Where there is love and inspiration, I don't think you can go wrong." - Ella Fitzgerald
 
 <details>
-  <summary>Day 131 - 140 ~ Apr 18, 2021 -  Apr 27, 2021</summary>
+  <summary>Day 131 - 140 ~ April 18, 2021 -  April 27, 2021</summary>
 <p>
 
 <details>
@@ -2397,7 +2437,7 @@ Learning Progress Till Now -> 200 Days (09/12/2020 to 26/06/2021)
 >“Success is the sum of small efforts repeated day in and day out.” - Robert Collier Author
 
 <details>
-  <summary>Day 121 - 130 ~ Apr 08, 2021 -  Apr 17, 2021</summary>
+  <summary>Day 121 - 130 ~ April 08, 2021 -  April 17, 2021</summary>
 <p>
 
 <details>
@@ -2699,7 +2739,7 @@ Learning Progress Till Now -> 200 Days (09/12/2020 to 26/06/2021)
   - 💰📈 [Read the book "Anu learns to save" ~ This is a story about Anu, a little girl from Goa, and how she learns to save money for the future from her friend, Annie](https://drive.google.com/file/d/1gcNGPY_4noyQNEseVgu7ynVmvCKm_dkI/view?usp=sharing)
   - 💰📈 [Read the book "Mani's Money" ~ Dadi helps Mani understand why his money is safe in a bank as opposed to keeping it in the house](https://drive.google.com/file/d/11O2LynL-COfnnQ3dJgiQ-CuT02lOMceS/view)
   - 💰📈 [Read the book "Vishrambu's bus journey" ~ Super-naughty Vishrambu learns not to destroy public property as it belongs to everyone in the country and is funded by the taxpayers](https://drive.google.com/file/d/1LlBNgK7hfkUaQdDWc77T-Yh1XAfAFsD7/view)
-  - 💰📈 [Read the book "One and a half stories" ~ While Janki reads her daughter Tara a bedtime story, Tara learns about insurance and wonders if she can insure her favourite toys forever](https://drive.google.com/file/d/1M13fmD60oNkifXhs6hYPrvvEqrSrfvLL/view)
+  - 💰📈 [Read the book "One and a half stories" ~ While janki reads her daughter Tara a bedtime story, Tara learns about insurance and wonders if she can insure her favourite toys forever](https://drive.google.com/file/d/1M13fmD60oNkifXhs6hYPrvvEqrSrfvLL/view)
   - 💰📈 [Read the book "The cake shop" ~ Vidya has a tough task as she has to explain the stock markets to her 8-year-old angry son](https://drive.google.com/file/d/1Hj4BvNmGov5I8a9U4TiGxKc00sxXKXiS/view)
 ***
 </p></details>
@@ -2707,7 +2747,7 @@ Learning Progress Till Now -> 200 Days (09/12/2020 to 26/06/2021)
 
 >“ Little by little becomes a lot.” Anonymous.
 <details>
-<summary>Day 111 - 120 ~ Mar 29, 2021 - Apr 07, 2021</summary>
+<summary>Day 111 - 120 ~ March29, 2021 - April 07, 2021</summary>
 <p>
 
 <details>
@@ -2954,7 +2994,7 @@ Learning Progress Till Now -> 200 Days (09/12/2020 to 26/06/2021)
 >"Try not to become a man of success. Rather become a man of value." - Albert Einstein
 
 <details>
-<summary>Day 101 - 110 ~ Mar 19, 2021 - Mar 28, 2021</summary>
+<summary>Day 101 - 110 ~ March 19, 2021 - March 28, 2021</summary>
 <p>
 
 <details>
@@ -3186,7 +3226,7 @@ Learning Progress Till Now -> 200 Days (09/12/2020 to 26/06/2021)
 >“You always pass failure on the way to success.”- Mickey Rooney
 
 <details>
-<summary>Day 91 - 100 ~ Mar 09, 2021 - Mar 18, 2021</summary>
+<summary>Day 91 - 100 ~ March 09, 2021 - March 18, 2021</summary>
 <p>
 
 <details>
@@ -3402,7 +3442,7 @@ Learning Progress Till Now -> 200 Days (09/12/2020 to 26/06/2021)
 >"Coming together is a beginning; keeping together is progress; working together is success." -Edward Everett Hale
 
 <details>
-<summary>Day 81 - 90 ~ Feb 27, 2021 - Mar 08, 2021</summary>
+<summary>Day 81 - 90 ~ February 27, 2021 - March 08, 2021</summary>
 <p>
 
 <details>
@@ -3623,7 +3663,7 @@ Learning Progress Till Now -> 200 Days (09/12/2020 to 26/06/2021)
 >“You cannot dream yourself into a character; you must hammer and forge yourself one.” ―Henry David Thoreau
 
 <details>
-<summary>Day 71 - 80 ~ Feb 17, 2021 - Feb 26, 2021</summary>
+<summary>Day 71 - 80 ~ February 17, 2021 - February 26, 2021</summary>
 <p>
 
 <details>
@@ -3822,7 +3862,7 @@ Learning Progress Till Now -> 200 Days (09/12/2020 to 26/06/2021)
 – J. Sidlow Baxter
 
 <details>
-<summary>Day 61 - 70 ~ Feb 07, 2021 - Feb 16, 2021</summary>
+<summary>Day 61 - 70 ~ February 07, 2021 - February 16, 2021</summary>
 <p>
 
 <details>
@@ -4051,7 +4091,7 @@ Learning Progress Till Now -> 200 Days (09/12/2020 to 26/06/2021)
 ― Oprah Winfrey 
 
 <details>
-<summary>Day 51 - 60 ~ Jan 28, 2021 - Feb 06, 2021</summary>
+<summary>Day 51 - 60 ~ January 28, 2021 - February 06, 2021</summary>
 <p>
 
 <details>
@@ -4340,7 +4380,7 @@ Learning Progress Till Now -> 200 Days (09/12/2020 to 26/06/2021)
 John Wooden - Author
 
 <details>
-  <summary>Day 41 - 50 ~ Jan 18, 2021 - Jan 27, 2021</summary>
+  <summary>Day 41 - 50 ~ January 18, 2021 - January 27, 2021</summary>
 <p>
 
 <details>
@@ -4640,7 +4680,7 @@ John Wooden - Author
 positive impact.”
 Les Brown - Author
 <details>
-  <summary>Day 31 - 40 ~ Jan 8, 2021 - Jan 17, 2021</summary>
+  <summary>Day 31 - 40 ~ January 8, 2021 - January 17, 2021</summary>
 <p>
 
 <details>
@@ -4898,7 +4938,7 @@ Les Brown - Author
 
 >“When you are enthusiastic about what you do, you feel this positive energy. It’s very simple.”😇 - Paulo Coelho
 <details>
-<summary>Day 21 - 30 ~ Dec 29, 2020 - Jan 7, 2021</summary>
+<summary>Day 21 - 30 ~ December 29, 2020 - January 7, 2021</summary>
 <p>
 
 <details>
@@ -5199,7 +5239,7 @@ Les Brown - Author
 done before.”😇
 
 <details>
-<summary>Day 11 - 20 ~ Dec 19, 2020 - Dec 28 , 2020</summary>
+<summary>Day 11 - 20 ~ December 19, 2020 - December 28 , 2020</summary>
 <p>
 
 <details>
@@ -5479,7 +5519,7 @@ done before.”😇
 >“No one is perfect - that’s why pencils have erasers.”😇
 
 <details>
-  <summary>Day 01 - 10 ~ Dec 9, 2020 - Dec 18, 2020</summary>
+  <summary>Day 01 - 10 ~ December 9, 2020 - December 18, 2020</summary>
 <p>
 
 <details>
