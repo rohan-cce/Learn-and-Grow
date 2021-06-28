@@ -1,12 +1,40 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 201 Days (09/12/2020 to 27/06/2021)
+Learning Progress Till Now -> 202 Days (09/12/2020 to 28/06/2021)
 ***
 >“If people are doubting how far you can go, go so far that you can’t hear them anymore.” – Michele Ruiz
 
 <details>
   <summary>Day 201 - 210 ~ June 27, 2021 - July 06, 2021</summary>
 <p>
+
+<details>
+<summary>Day 202</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d192e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d192ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20181%20-%20200/d192b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d192chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d192chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d192chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d192chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20181%20-%20200/d192h5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20181%20-%20200/d192leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Marvels of engineering: railway tunnels"](https://www.youtube.com/watch?v=Je-4h3V5PMg)
+- 👂🏻 [Watched a Youtube video "Plates Made From Pineapple Scraps Grow Edible Plants | World Wide Waste"](https://www.youtube.com/watch?v=hPTrtp098vg)
+- 👂🏻 [Watched a Youtube video "US carries out air strikes in Iraq and Syria, target Iran-backed militia groups| World English News"](https://www.youtube.com/watch?v=L3XZd97ws5s)
+- 💰📈 [Financial education ~ "BUY or RENT a House in 2021 | CA Rachana Ranade"](https://www.youtube.com/watch?v=hPTrtp098vg)
+- 💰📈 [Financial education ~ Module 7 - Markets and Taxation](https://zerodha.com/varsity/module/markets-and-taxation/)
+  - 💰📈 [1. Introduction (Setting the Context)](https://zerodha.com/varsity/chapter/introduction-setting-the-context/)
+
+***
+</p></details>
 
 <details>
 <summary>Day 201</summary>
@@ -26,6 +54,7 @@ Learning Progress Till Now -> 201 Days (09/12/2020 to 27/06/2021)
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20181%20-%20200/d191leetcode.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
+- 🏃 [Walking -> 3792 Steps ~ 2.4 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20181%20-%20200/d191walking.jpg)
 - 👂🏻 [Watched a Youtube video "Unique Japanese inventions"](https://www.youtube.com/watch?v=7zAgeI3Gr58)
 - 👂🏻 [Watched a Youtube video "Windows 11 vs Mac OS | Which one is better for students"](https://www.youtube.com/watch?v=LYuJ2aT0UcY)
 - 👂🏻 [Watched a Youtube video "How Indore Is Becoming Garbage-Free | Cleanest City In India"](https://www.youtube.com/watch?v=-MS8vfcTmSM)
