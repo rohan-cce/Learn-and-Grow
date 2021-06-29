@@ -1,12 +1,48 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 202 Days (09/12/2020 to 28/06/2021)
+Learning Progress Till Now -> 203 Days (09/12/2020 to 29/06/2021)
 ***
 >“If people are doubting how far you can go, go so far that you can’t hear them anymore.” – Michele Ruiz
 
 <details>
   <summary>Day 201 - 210 ~ June 27, 2021 - July 06, 2021</summary>
 <p>
+
+<details>
+<summary>Day 203</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d193e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d193ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20181%20-%20200/d193b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d193chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d193chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d193chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d193chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20181%20-%20200/d193h5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20181%20-%20200/d193leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 💰📈📖 Financial education ~ Read 5 pages in the book "ABSOLUTE POWER - Inside story of the National Stock Exchange’s amazing success, leading to hubris, regulatory capture and algo scam. by Basu, Debashis  Dalal, Sucheta"
+- 👂🏻 [Watched a Youtube video "Gravitas: Can Twitter be blocked for distorting India's map?"](https://www.youtube.com/watch?v=ni_ujadiLrc)
+- 👂🏻 [Watched a Youtube video "Gravitas: Got Covishield? No entry into Europe"](https://www.youtube.com/watch?v=7GYu7tsHbsA)
+- 💰📈 [Financial education ~ "First Salary best use (Personal Opinion) | What did I do with my first Salary ?"](https://www.youtube.com/watch?v=WYiYkl-vPzo)
+- 💰📈 [Financial education ~ "Investment Strategy Explained"](https://www.youtube.com/watch?v=_DYuHz9VBLo)
+- 💰📈 [Financial education ~ Module 7 - Markets and Taxation](https://zerodha.com/varsity/module/markets-and-taxation/)
+  - 💰📈 [2. Basics](https://zerodha.com/varsity/chapter/basics/)
+    - 💰📈 [2.1 – Overview](https://zerodha.com/varsity/chapter/basics/)
+    - 💰📈 [2.2 – What is income tax?](https://zerodha.com/varsity/chapter/basics/)
+    - 💰📈 [2.3 – Income tax slabs in India for financial year 2020/21](https://zerodha.com/varsity/chapter/basics/)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Apna College ~ C++ Tutorial | DataStructure & Algorithm ](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
+    - 👨🏻‍💻⌨️ [8.4 Array Challenges | C++ Course](https://www.youtube.com/watch?v=eJcBH0xvG98&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=23)
+***
+</p></details>
 
 <details>
 <summary>Day 202</summary>
@@ -25,6 +61,8 @@ Learning Progress Till Now -> 202 Days (09/12/2020 to 28/06/2021)
   - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20181%20-%20200/d192h5.jpg)
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20181%20-%20200/d192leetcode.jpg)
+- 🏃 [Walking -> 4007 Steps ~ 2.7 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20181%20-%20200/d192walking.jpg)
+
 - 📰 [Daily English News](https://qz.com/india/)
 - 👂🏻 [Watched a Youtube video "Marvels of engineering: railway tunnels"](https://www.youtube.com/watch?v=Je-4h3V5PMg)
 - 👂🏻 [Watched a Youtube video "Plates Made From Pineapple Scraps Grow Edible Plants | World Wide Waste"](https://www.youtube.com/watch?v=hPTrtp098vg)
