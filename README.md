@@ -1,12 +1,44 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 203 Days (09/12/2020 to 29/06/2021)
+Learning Progress Till Now -> 204 Days (09/12/2020 to 30/06/2021)
 ***
 >“If people are doubting how far you can go, go so far that you can’t hear them anymore.” – Michele Ruiz
 
 <details>
   <summary>Day 201 - 210 ~ June 27, 2021 - July 06, 2021</summary>
 <p>
+
+<details>
+<summary>Day 204</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d194e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d194ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20181%20-%20200/d194b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d194chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d194chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d194chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d194chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Python language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20181%20-%20200/d194h5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20181%20-%20200/d194leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 💰📈📖 Financial education ~ Read 5 pages in the book "ABSOLUTE POWER - Inside story of the National Stock Exchange’s amazing success, leading to hubris, regulatory capture and algo scam. by Basu, Debashis  Dalal, Sucheta"
+- 👂🏻 [Watched a Youtube video "FIR filed against Twitter India Chief for showing wrong map of India | Manish Maheshwari | WION News"](https://www.youtube.com/watch?v=Znc5mXFbmho)
+- 👂🏻 [Watched a Youtube video "Covishield excluded from EU's COVID 'Green Pass' | Coronavirus Vaccine | Latest World English News"](https://www.youtube.com/watch?v=jxtK8Ylx-ic)
+- 💰📈 [Financial education ~ "What is a Mutual Fund? How Does It Work? 🔥💰💰 Basic for Beginners"](https://www.youtube.com/watch?v=HVu4lQhw8ao)
+- 💰📈 [Financial education ~ Module 7 - Markets and Taxation](https://zerodha.com/varsity/module/markets-and-taxation/)
+  - 💰📈 [3. Classifying Your Market Activity](https://zerodha.com/varsity/chapter/classifying-your-market-activity/)
+    - 💰📈 [3.1 – Are you a trader or investor or both?](https://zerodha.com/varsity/chapter/classifying-your-market-activity/)
+    - 💰📈 [3.2 – Pros and cons of declaring trading as a business income](https://zerodha.com/varsity/chapter/classifying-your-market-activity/)
+    - 💰📈 [3.3 – What are you? Trader, Investor, or Both?](https://zerodha.com/varsity/chapter/classifying-your-market-activity/)
+***
+</p></details>
 
 <details>
 <summary>Day 203</summary>
