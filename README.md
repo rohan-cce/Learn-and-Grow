@@ -1,12 +1,67 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 204 Days (09/12/2020 to 30/06/2021)
+Learning Progress Till Now -> 205 Days (09/12/2020 to 01/07/2021)
 ***
 >“If people are doubting how far you can go, go so far that you can’t hear them anymore.” – Michele Ruiz
 
 <details>
   <summary>Day 201 - 210 ~ June 27, 2021 - July 06, 2021</summary>
 <p>
+
+<details>
+<summary>Day 205</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d195e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d195ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20181%20-%20200/d195b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d195chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d195chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d195chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d195chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20181%20-%20200/d195h1.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20181%20-%20200/d195leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
+  - 💰📈📖 Financial education ~ Read 5 pages in the book "ABSOLUTE POWER - Inside story of the National Stock Exchange’s amazing success, leading to hubris, regulatory capture and algo scam. by Basu, Debashis  Dalal, Sucheta"
+- 👂🏻 [Watched a Youtube video "Clear Message to Beijing | India Deploys 50,000 Additional Troops, Fighter Jets Along China Border"](https://www.youtube.com/watch?v=-ULnTn_G7YY)
+- 👂🏻 [Watched a Youtube video "Gravitas: Indians face "serious threat" of kidnapping in Afghanistan"](https://www.youtube.com/watch?v=jP_DY82X4b8)
+- 👂🏻 [Watched a Youtube video "Heatwave melts power cables, causes power outages in US & Canada | California | Latest English News"](https://www.youtube.com/watch?v=wrKwrc_aEpM)
+- 💰📈 [Financial education ~ "Dalio: 6 Signs Of A Market Crash On Its Way"](https://www.youtube.com/watch?v=ynCXHgeZ_K8)
+- 💰📈 [Financial education ~ Module 7 - Markets and Taxation](https://zerodha.com/varsity/module/markets-and-taxation/)
+  - 💰📈 [4. Taxation for Investors](https://zerodha.com/varsity/chapter/taxation-for-investors/)
+    - 💰📈 [4.1 – Quick recap](https://zerodha.com/varsity/chapter/taxation-for-investors/)
+    - 💰📈 [4.2 – Long term capital gain (LTCG)](https://zerodha.com/varsity/chapter/taxation-for-investors/)
+    - 💰📈 [4.3 – Indexation](https://zerodha.com/varsity/chapter/taxation-for-investors/)
+    - 💰📈 [4.4 – Short term capital gain (STCG)](https://zerodha.com/varsity/chapter/taxation-for-investors/)
+    - 💰📈 [4.5 – Days of holding](https://zerodha.com/varsity/chapter/taxation-for-investors/)
+    - 💰📈 [4.6 – Quick note on STT, Advance Tax, and more](https://zerodha.com/varsity/chapter/taxation-for-investors/)
+    - 💰📈 [4.7 – Short and long term capital losses](https://zerodha.com/varsity/chapter/taxation-for-investors/)
+- 📖 [Attempted Random Aptitude Test In indiabix.com]()
+- 📑 Blogs Read
+  - 📑[TYPES OF CYBER ATTACK OR THREATS](https://d3pakblog.wordpress.com/2016/12/27/types-of-cyber-attack-or-threats/)
+- 🧐What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🧐[What is Ransomware? Understanding and Protecting Against Ransomware Attacks](https://digitalguardian.com/blog/what-is-ransomware-and-how-to-protect-against-attacks)
+  - 🧐[RANSOMWARE: WHAT NEXT?](https://www.linkedin.com/pulse/ransomware-what-next-deepak-kumar-d3pak-/)
+  - 🧐[RANSOMWARE AS A SERVICE](https://www.linkedin.com/pulse/ransomware-service-deepak-kumar-d3pak-/)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Apna College ~ C++ Tutorial | DataStructure & Algorithm ](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
+    - 👨🏻‍💻⌨️ [8.4 Array Challenges | C++ Course](https://www.youtube.com/watch?v=eJcBH0xvG98&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=23)
+  - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)
+    - 👨🏻‍💻⌨️ [1.1 How to be a Java Programmer | What is Java](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)
+    - 👨🏻‍💻⌨️ [1.1.2 Prerequisites to Learn Java](https://www.youtube.com/watch?v=9_CJYK47d6M&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=2)
+    - 👨🏻‍💻⌨️ [1.2 Is it the End of Java?](https://www.youtube.com/watch?v=FK4a6XrM2P0&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=3)
+  - 👨🏻‍💻⌨️ [Geeks for Geeks](https://www.geeksforgeeks.org/output-of-a-program-set-1/)
+    - 👨🏻‍💻⌨️ [Output of C Programs | Set 1](https://www.geeksforgeeks.org/output-of-a-program-set-1/)
+    - 👨🏻‍💻⌨️ [Puzzle 1 | (How to Measure 45 minutes using two identical wires?)](https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/)
+***
+</p></details>
 
 <details>
 <summary>Day 204</summary>
@@ -26,6 +81,7 @@ Learning Progress Till Now -> 204 Days (09/12/2020 to 30/06/2021)
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20181%20-%20200/d194leetcode.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
+- 🏃 [Walking -> 3104 Steps ~ 2.0 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20181%20-%20200/d194walking.jpg)
 - 📖📈 Book reading
   - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
   - 💰📈📖 Financial education ~ Read 5 pages in the book "ABSOLUTE POWER - Inside story of the National Stock Exchange’s amazing success, leading to hubris, regulatory capture and algo scam. by Basu, Debashis  Dalal, Sucheta"
