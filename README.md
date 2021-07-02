@@ -1,12 +1,64 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 205 Days (09/12/2020 to 01/07/2021)
+Learning Progress Till Now -> 206 Days (09/12/2020 to 02/07/2021)
 ***
 >“If people are doubting how far you can go, go so far that you can’t hear them anymore.” – Michele Ruiz
 
 <details>
   <summary>Day 201 - 210 ~ June 27, 2021 - July 06, 2021</summary>
 <p>
+
+<details>
+<summary>Day 206</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d196e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d196ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20181%20-%20200/d196b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d196chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d196chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d196chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d196chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20181%20-%20200/d196h1.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20181%20-%20200/d196leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
+  - 👨🏻‍💻⌨️ Read 2 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 👂🏻 [Watched a Youtube video "Graham: The only crash-proof human"](https://www.youtube.com/watch?v=vfEPVqJHAe0)
+- 👂🏻 [Watched a Youtube video "Amazing medical innovations"](https://www.youtube.com/watch?v=Y7pS4eQw0VQ)
+- 💰📈 [Financial education ~ "Why Bitcoin is Going To Go - The Untold Truth About Bitcoin"](https://www.youtube.com/watch?v=y-9a4aimLw8)
+- 💰📈 [Financial education ~ Module 7 - Markets and Taxation](https://zerodha.com/varsity/module/markets-and-taxation/)
+  - 💰📈 [5. Taxation for Traders](https://zerodha.com/varsity/chapter/taxation-for-traders/)
+    - 💰📈 [5.1 – Quick Recap](https://zerodha.com/varsity/chapter/taxation-for-traders/)
+    - 💰📈 [5.2 – Taxation of trading/business income](https://zerodha.com/varsity/chapter/taxation-for-traders/)
+    - 💰📈 [5.3 – Carry forward business loss](https://zerodha.com/varsity/chapter/taxation-for-traders/)
+    - 💰📈 [5.4 – Offsetting Speculative and non-speculative business income](https://zerodha.com/varsity/chapter/taxation-for-traders/)
+    - 💰📈 [5.5 What is tax-loss harvesting?](https://zerodha.com/varsity/chapter/taxation-for-traders/)
+    - 💰📈 [5.6 – BTST (ATST) – Is it speculative, non-speculative, or STCG?](https://zerodha.com/varsity/chapter/taxation-for-traders/)
+    - 💰📈 [5.7 – Advance tax – business income](https://zerodha.com/varsity/chapter/taxation-for-traders/)
+    - 💰📈 [5.8 – Balance sheet and P&L statements –](https://zerodha.com/varsity/chapter/taxation-for-traders/)
+    - 💰📈 [5.9 – Turnover and Tax audit](https://zerodha.com/varsity/chapter/taxation-for-traders/)
+- 📖 [Attempted Random Aptitude Test In indiabix.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/aptitude/Day%20181%20-%20200/d195apti.jpg)
+- 📑 Blogs Read
+  - 📑[Colonial Pipeline’s Ransomware Recovery Reveals Bitcoin Is Not Truly Anonymous](https://marker.medium.com/colonial-pipelines-ransomware-recovery-reveals-bitcoin-is-not-truly-anonymous-6dfca3b320c9)
+- 🧐What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🧐[Blockchain Explained](https://www.investopedia.com/terms/b/blockchain.asp)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)
+    - 👨🏻‍💻⌨️ [1.3 Java Tutorial for Beginners](https://www.youtube.com/watch?v=5W568dNIVPM&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=6)
+    - 👨🏻‍💻⌨️ [1.4 Software Requirements for Java](https://www.youtube.com/watch?v=9Kk1dGkpGPI&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=6)
+    - 👨🏻‍💻⌨️ [1.5 Simple Example Code in Java | Java Tutorial](https://www.youtube.com/watch?v=E-LMhKEwL_w)
+  - 👨🏻‍💻⌨️ [Geeks for Geeks](https://www.geeksforgeeks.org)
+    - 👨🏻‍💻⌨️ [Output of C Programs | Set 2](https://www.geeksforgeeks.org/output-of-a-program-set-2/)
+    - 👨🏻‍💻⌨️ [Puzzle 2 | (Find ages of daughters)](https://www.geeksforgeeks.org/puzzle-2-find-ages-of-daughters/)
+***
+</p></details>
 
 <details>
 <summary>Day 205</summary>
@@ -26,10 +78,11 @@ Learning Progress Till Now -> 205 Days (09/12/2020 to 01/07/2021)
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20181%20-%20200/d195leetcode.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
+- 🏃 [Walking -> 7034 Steps ~ 4.7 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20181%20-%20200/d195walking.jpg)
 - 📖📈 Book reading
   - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
   - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
-  - 💰📈📖 Financial education ~ Read 5 pages in the book "ABSOLUTE POWER - Inside story of the National Stock Exchange’s amazing success, leading to hubris, regulatory capture and algo scam. by Basu, Debashis  Dalal, Sucheta"
+  - 👨🏻‍💻⌨️ Read 2 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
 - 👂🏻 [Watched a Youtube video "Clear Message to Beijing | India Deploys 50,000 Additional Troops, Fighter Jets Along China Border"](https://www.youtube.com/watch?v=-ULnTn_G7YY)
 - 👂🏻 [Watched a Youtube video "Gravitas: Indians face "serious threat" of kidnapping in Afghanistan"](https://www.youtube.com/watch?v=jP_DY82X4b8)
 - 👂🏻 [Watched a Youtube video "Heatwave melts power cables, causes power outages in US & Canada | California | Latest English News"](https://www.youtube.com/watch?v=wrKwrc_aEpM)
@@ -57,7 +110,7 @@ Learning Progress Till Now -> 205 Days (09/12/2020 to 01/07/2021)
     - 👨🏻‍💻⌨️ [1.1 How to be a Java Programmer | What is Java](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)
     - 👨🏻‍💻⌨️ [1.1.2 Prerequisites to Learn Java](https://www.youtube.com/watch?v=9_CJYK47d6M&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=2)
     - 👨🏻‍💻⌨️ [1.2 Is it the End of Java?](https://www.youtube.com/watch?v=FK4a6XrM2P0&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=3)
-  - 👨🏻‍💻⌨️ [Geeks for Geeks](https://www.geeksforgeeks.org/output-of-a-program-set-1/)
+  - 👨🏻‍💻⌨️ [Geeks for Geeks](https://www.geeksforgeeks.org)
     - 👨🏻‍💻⌨️ [Output of C Programs | Set 1](https://www.geeksforgeeks.org/output-of-a-program-set-1/)
     - 👨🏻‍💻⌨️ [Puzzle 1 | (How to Measure 45 minutes using two identical wires?)](https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/)
 ***
