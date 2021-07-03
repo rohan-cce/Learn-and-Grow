@@ -1,12 +1,63 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 206 Days (09/12/2020 to 02/07/2021)
+Learning Progress Till Now -> 207 Days (09/12/2020 to 03/07/2021)
 ***
 >“If people are doubting how far you can go, go so far that you can’t hear them anymore.” – Michele Ruiz
 
 <details>
   <summary>Day 201 - 210 ~ June 27, 2021 - July 06, 2021</summary>
 <p>
+
+<details>
+<summary>Day 207</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d197e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d197ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20181%20-%20200/d197b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d197chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d197chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d197chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d197chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20181%20-%20200/d197h1.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20181%20-%20200/d197leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 👂🏻 [Watched a Youtube video "Gravitas: China deploys "thousands of troops" close to India border"](https://www.youtube.com/watch?v=IbIhogFmr5U)
+- 👂🏻 [Watched a Youtube video "Elon Musk talks Starlink Growth, $5-10 Billion Investment! (MWC 2021 Presentation)"](https://www.youtube.com/watch?v=gSJrf45IBIA)
+- 👂🏻 [Watched a Youtube video "What If You Drank From Lake Natron?"](https://www.youtube.com/watch?v=cYd0rcE7Kks)
+- 💰📈 [Financial education ~ Module 7 - Markets and Taxation](https://zerodha.com/varsity/module/markets-and-taxation/)
+  - 💰📈 [6. Turnover, Balance Sheet, and P&L](https://zerodha.com/varsity/chapter/turnover-balance-sheet-and-pl/)
+    - 💰📈 [6.1 – Turnover & Tax Audit](https://zerodha.com/varsity/chapter/turnover-balance-sheet-and-pl/)
+    - 💰📈 [6.2 – Section 44AD](https://zerodha.com/varsity/chapter/turnover-balance-sheet-and-pl/)
+    - 💰📈 [6.3 – Balance sheet, P&L, Book of accounts](https://zerodha.com/varsity/chapter/turnover-balance-sheet-and-pl/)
+- 📖 [Attempted Random Aptitude Test In indiabix.com]()
+- 📑 Blogs Read
+  - 📑[Cyber Security for Beginners](https://medium.com/@Tarun.N/cyber-security-for-beginners-5936020f91d6)
+  - 📑[Incognito Mode Won’t Keep Your Browsing Private. Do This Instead](https://medium.com/fast-company/incognito-mode-wont-keep-your-browsing-private-do-this-instead-dd64bc812010)
+- 🧐What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🧐[Firefox features](https://www.mozilla.org/en-US/firefox/features/)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Apna College ~ C++ Tutorial | DataStructure & Algorithm ](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
+    - 👨🏻‍💻⌨️ [8.5 Arrays - Q's asked by Top MNC's | C++ Course](https://www.youtube.com/watch?v=kJW_iXrwePE&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=24)
+  - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)
+    - 👨🏻‍💻⌨️ [#2.1 Java Tutorial | Variable in Java](https://www.youtube.com/watch?v=haI01OWwFPk&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=8)
+    - 👨🏻‍💻⌨️ [2.2 What is Variable in Java](https://www.youtube.com/watch?v=n7D5El5-pEU&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=9)
+    - 👨🏻‍💻⌨️ [2.3 More on variables Java Tutorial part 5 | Lecture](https://www.youtube.com/watch?v=4NGi9WzLTFg&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=10)
+    - 👨🏻‍💻⌨️ [#2.4 Naming Convention in Java](https://www.youtube.com/watch?v=VtDBsy_enkE&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=11)
+    - 👨🏻‍💻⌨️ [How Java Works](https://www.youtube.com/watch?v=neTl7g7dGqI&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=12)
+  - 👨🏻‍💻⌨️ [Geeks for Geeks](https://www.geeksforgeeks.org)
+    - 👨🏻‍💻⌨️ [Output of C Programs | Set 3](https://www.geeksforgeeks.org/output-of-programs-set-3/)
+    - 👨🏻‍💻⌨️ [Puzzle 3 | (Calculate total distance travelled by bee)](https://www.geeksforgeeks.org/puzzle-3-calculate-total-distance-travelled-by-bee/)
+***
+</p></details>
 
 <details>
 <summary>Day 206</summary>
@@ -44,7 +95,6 @@ Learning Progress Till Now -> 206 Days (09/12/2020 to 02/07/2021)
     - 💰📈 [5.7 – Advance tax – business income](https://zerodha.com/varsity/chapter/taxation-for-traders/)
     - 💰📈 [5.8 – Balance sheet and P&L statements –](https://zerodha.com/varsity/chapter/taxation-for-traders/)
     - 💰📈 [5.9 – Turnover and Tax audit](https://zerodha.com/varsity/chapter/taxation-for-traders/)
-- 📖 [Attempted Random Aptitude Test In indiabix.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/aptitude/Day%20181%20-%20200/d195apti.jpg)
 - 📑 Blogs Read
   - 📑[Colonial Pipeline’s Ransomware Recovery Reveals Bitcoin Is Not Truly Anonymous](https://marker.medium.com/colonial-pipelines-ransomware-recovery-reveals-bitcoin-is-not-truly-anonymous-6dfca3b320c9)
 - 🧐What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
