@@ -1,12 +1,48 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 207 Days (09/12/2020 to 03/07/2021)
+Learning Progress Till Now -> 208 Days (09/12/2020 to 04/07/2021)
 ***
 >“If people are doubting how far you can go, go so far that you can’t hear them anymore.” – Michele Ruiz
 
 <details>
   <summary>Day 201 - 210 ~ June 27, 2021 - July 06, 2021</summary>
 <p>
+
+<details>
+<summary>Day 208</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d198e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d198ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20181%20-%20200/d198b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d198chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d198chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d198chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d198chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20181%20-%20200/d198h1.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20181%20-%20200/d198leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "HOW TO LEARN ANYTHING-ONLY 1% PEOPLE KNOW THESE TECHNIQUES| MOTIVATIONAL| SUCCESS LIFE INSPIRATIONAL"](https://www.youtube.com/watch?v=UQNfpC_jW2U)
+- 👂🏻 [Watched a Youtube video "What If All the Passengers on a Plane Jumped at Once?"](https://www.youtube.com/watch?v=Badwh-33OGk)
+- 💰📈 [Financial education ~ Module 7 - Markets and Taxation](https://zerodha.com/varsity/module/markets-and-taxation/)
+  - 💰📈 [6. Turnover, Balance Sheet, and P&L](https://zerodha.com/varsity/chapter/turnover-balance-sheet-and-pl/)
+    - 💰📈 [6.1 – Turnover & Tax Audit](https://zerodha.com/varsity/chapter/turnover-balance-sheet-and-pl/)
+    - 💰📈 [6.2 – Section 44AD](https://zerodha.com/varsity/chapter/turnover-balance-sheet-and-pl/)
+    - 💰📈 [6.3 – Balance sheet, P&L, Book of accounts](https://zerodha.com/varsity/chapter/turnover-balance-sheet-and-pl/)
+- 📖 [Attempted Random Aptitude Test In indiabix.com]()
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Apna College ~ C++ Tutorial | DataStructure & Algorithm ](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
+    - 👨🏻‍💻⌨️ [8.5 Arrays - Q's asked by Top MNC's | C++ Course](https://www.youtube.com/watch?v=kJW_iXrwePE&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=24)
+  - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)
+    - 👨🏻‍💻⌨️ [3.1 How Java works Demo](https://www.youtube.com/watch?v=PKLvLJcSs8A&list=PLGwb7xZHg-oMv1pOlTHAqAEjw0EPALzlL&index=10)
+    - 👨🏻‍💻⌨️ [3.2 How to learn Java from Telusko](https://www.youtube.com/watch?v=IZJWI0d0zw8&list=PLGwb7xZHg-oMv1pOlTHAqAEjw0EPALzlL&index=10)
+    - 👨🏻‍💻⌨️ [Introduction to Netbeans IDE](https://www.youtube.com/watch?v=_n9SqA0E8HY&list=PLGwb7xZHg-oMv1pOlTHAqAEjw0EPALzlL&index=11)
+***
+</p></details>
 
 <details>
 <summary>Day 207</summary>
