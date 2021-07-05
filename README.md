@@ -1,12 +1,61 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 208 Days (09/12/2020 to 04/07/2021)
+Learning Progress Till Now -> 209 Days (09/12/2020 to 05/07/2021)
 ***
 >“If people are doubting how far you can go, go so far that you can’t hear them anymore.” – Michele Ruiz
 
 <details>
   <summary>Day 201 - 210 ~ June 27, 2021 - July 06, 2021</summary>
 <p>
+
+<details>
+<summary>Day 209</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d199e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d199ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20181%20-%20200/d199b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d199chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d199chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d199chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d199chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20181%20-%20200/d199h1.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20181%20-%20200/d199leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 👂🏻 [Watched a Youtube video "Gravitas Plus: Everything you must know about the deadly Forever Chemicals"](https://www.youtube.com/watch?v=WIgLLpcanPM)
+- 👂🏻 [Watched a Youtube video "Flying car completes first flight between cities"](https://www.youtube.com/watch?v=RjXHlX-o9zE)
+- 💰📈 [Financial education ~ Module 7 - Markets and Taxation](https://zerodha.com/varsity/module/markets-and-taxation/)
+  - 💰📈 [7. ITR Forms (The Finale)](https://zerodha.com/varsity/chapter/itr-forms/)
+    - 💰📈 [7.1 – Income Tax Return (ITR) Forms](https://zerodha.com/varsity/chapter/itr-forms/)
+    - 💰📈 [7.2 – Different ITR forms](https://zerodha.com/varsity/chapter/itr-forms/)
+    - 💰📈 [7.3 – Exploring ITR 4 (4S until 2017)](https://zerodha.com/varsity/chapter/itr-forms/)
+    - 💰📈 [7.4 – Quick FAQ and notes](https://zerodha.com/varsity/chapter/itr-forms/)
+- 📑 Blogs Read
+  - 📑[This Startup Is Paying People To Scan Their Eyeballs](https://2madness.com/this-startup-is-paying-people-to-scan-their-eyeballs-f20f56cd9488)
+  - 📑[Could Bitcoin Save You from Hyperinflation?](https://medium.com/geekculture/could-bitcoin-save-you-from-hyperinflation-e574a6a6b61f)
+- 🧐What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🧐[WHAT IS INFLATION](https://www.business-standard.com/about/what-is-inflation)
+  - 🧐[What Is Hyperinflation?](https://www.investopedia.com/terms/h/hyperinflation.asp)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)
+    - 👨🏻‍💻⌨️ [4.2 How to use Printf method in Java](https://www.youtube.com/watch?v=0-nM4IoQXsY&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=16)
+    - 👨🏻‍💻⌨️ [4.3 Short Hand Operators in Java | With Java Tricks | Tutorial](https://www.youtube.com/watch?v=JWFWbSH2Q_M&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=17)
+    - 👨🏻‍💻⌨️ [4.4 Binary Literal in Java](https://www.youtube.com/watch?v=Dhe1Q_N89EE&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=18)
+    - 👨🏻‍💻⌨️ [4.5 Post and Pre Increment in Java](https://www.youtube.com/watch?v=TnJ_bzLfUXk&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=19)
+    - 👨🏻‍💻⌨️ [4.6 Bitwise And & Or | Operator in Java](https://www.youtube.com/watch?v=rzfiE0UuZnQ&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=20)
+  - 👨🏻‍💻⌨️ [Geeks for Geeks](https://www.geeksforgeeks.org)
+    - 👨🏻‍💻⌨️ [Puzzle 4 | (Pay an employee using a gold rod of 7 units ?)](https://www.geeksforgeeks.org/puzzle-4-pay-an-employee-using-a-gold-rod-of-7-units/)
+    - 👨🏻‍💻⌨️ [Output of C Programs | Set 4](https://www.geeksforgeeks.org/output-of-programs-set-4/)
+***
+</p></details>
 
 <details>
 <summary>Day 208</summary>
@@ -25,6 +74,8 @@ Learning Progress Till Now -> 208 Days (09/12/2020 to 04/07/2021)
   - ✔️ [Completed 1 Question in hackerrank C language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20181%20-%20200/d198h1.jpg)
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20181%20-%20200/d198leetcode.jpg)
+- 🏃 [Walking -> 7511 Steps ~ 4.5 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20181%20-%20200/d198walking.jpg)
+
 - 📰 [Daily English News](https://qz.com/india/)
 - 👂🏻 [Watched a Youtube video "HOW TO LEARN ANYTHING-ONLY 1% PEOPLE KNOW THESE TECHNIQUES| MOTIVATIONAL| SUCCESS LIFE INSPIRATIONAL"](https://www.youtube.com/watch?v=UQNfpC_jW2U)
 - 👂🏻 [Watched a Youtube video "What If All the Passengers on a Plane Jumped at Once?"](https://www.youtube.com/watch?v=Badwh-33OGk)
@@ -33,7 +84,6 @@ Learning Progress Till Now -> 208 Days (09/12/2020 to 04/07/2021)
     - 💰📈 [6.1 – Turnover & Tax Audit](https://zerodha.com/varsity/chapter/turnover-balance-sheet-and-pl/)
     - 💰📈 [6.2 – Section 44AD](https://zerodha.com/varsity/chapter/turnover-balance-sheet-and-pl/)
     - 💰📈 [6.3 – Balance sheet, P&L, Book of accounts](https://zerodha.com/varsity/chapter/turnover-balance-sheet-and-pl/)
-- 📖 [Attempted Random Aptitude Test In indiabix.com]()
 - 👨🏻‍💻⌨️ Learn and Code
   - 👨🏻‍💻⌨️ [Apna College ~ C++ Tutorial | DataStructure & Algorithm ](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
     - 👨🏻‍💻⌨️ [8.5 Arrays - Q's asked by Top MNC's | C++ Course](https://www.youtube.com/watch?v=kJW_iXrwePE&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=24)
