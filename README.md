@@ -1,12 +1,62 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 209 Days (09/12/2020 to 05/07/2021)
+Learning Progress Till Now -> 210 Days (09/12/2020 to 06/07/2021)
 ***
 >“If people are doubting how far you can go, go so far that you can’t hear them anymore.” – Michele Ruiz
 
 <details>
   <summary>Day 201 - 210 ~ June 27, 2021 - July 06, 2021</summary>
 <p>
+
+<details>
+<summary>Day 210</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d200e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d200ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20181%20-%20200/d200b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d200chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d200chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d200chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20181%20-%20200/d200chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20181%20-%20200/d200h1.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20181%20-%20200/d200leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 👂🏻 [Watched a Youtube video "Indian govt to Delhi High Court: Twitter fails to comply with IT rules| Indian govt Vs Twitter| WION"](https://www.youtube.com/watch?v=-himkC7gPCI)
+- 👂🏻 [Watched a Youtube video "South Korean designer invents ‘third eye’ to keep smartphone addicts safe while walking"](https://www.youtube.com/watch?v=3TXrsvc7GQU)
+- 💰📈 [Financial education ~ "3 skills to create your first income source | almost everything"](https://www.youtube.com/watch?v=1wXBATcawoM)
+- 💰📈 [Financial education ~ Module 8 - Currency, Commodity, and Government Securities](https://zerodha.com/varsity/module/commodities-currency-government-securities/)
+  - 💰📈 [1. Currency Basics](https://zerodha.com/varsity/chapter/currency-basics/)
+    - 💰📈 [1.1 – Module Orientation](https://zerodha.com/varsity/chapter/currency-basics/)
+    - 💰📈 [1.2 – Currency (in)equality](https://zerodha.com/varsity/chapter/currency-basics/)
+    - 💰📈 [1.3 – International Currency market (Forex)](https://zerodha.com/varsity/chapter/currency-basics/)
+    - 💰📈 [1.4 – Currency Pairs and quotes](https://zerodha.com/varsity/chapter/currency-basics/)
+- 📑 Blogs Read
+  - 📑[9 simple tips to work faster in the Linux command line](https://medium.com/javarevisited/top-10-unix-and-linux-productivity-tips-for-programmers-and-developers-c748129cf3e8)
+- 🧐What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🧐[Basic Linux command line tutorial to start developing in Ubuntu Linux](https://medium.com/@zibon/basic-linux-command-lines-to-get-started-developing-in-ubuntu-linux-b54def1c2190)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)
+    - 👨🏻‍💻⌨️ [4.7 Left and Right Shift Operator in Java](https://www.youtube.com/watch?v=pv1C0_6k78A&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=22)
+    - 👨🏻‍💻⌨️ [5.1 how to use Boolean in java](https://www.youtube.com/watch?v=tpP8EQE8DNU&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=23)
+    - 👨🏻‍💻⌨️ [5.2 If Else in Java Tutorial Part 8 | Lecture](https://www.youtube.com/watch?v=ywYMkaoIvYA&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=24)
+    - 👨🏻‍💻⌨️ [5.3 How to use Ternary Operator in Java Tutorial](https://www.youtube.com/watch?v=g5Kphf1exzg&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=25)
+    - 👨🏻‍💻⌨️ [5.4 Java Trick | Print Hello World without using Semicolon](https://www.youtube.com/watch?v=4K0vDFyPa2o&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=26)
+    - 👨🏻‍💻⌨️ [5.5 Switch Case in Java Tutorial Part 9 | Lecture](https://www.youtube.com/watch?v=zFORKqC4lKA&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=27)
+    - 👨🏻‍💻⌨️ [5.6 Loop For, while, do while Java Tutorial Part 10 | Lecture](https://www.youtube.com/watch?v=eqtzsqMiFss&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=28)
+  - 👨🏻‍💻⌨️ [Geeks for Geeks](https://www.geeksforgeeks.org)
+    - 👨🏻‍💻⌨️ [Puzzle 5 | (Finding the Injection for Anesthesia)](https://www.geeksforgeeks.org/puzzle-5-finding-the-injection-for-anesthesia/)
+    - 👨🏻‍💻⌨️ [Output of C Programs | Set 5](https://www.geeksforgeeks.org/output-of-programs-set-5/)
+***
+</p></details>
 
 <details>
 <summary>Day 209</summary>
@@ -25,6 +75,7 @@ Learning Progress Till Now -> 209 Days (09/12/2020 to 05/07/2021)
   - ✔️ [Completed 1 Question in hackerrank C language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20181%20-%20200/d199h1.jpg)
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20181%20-%20200/d199leetcode.jpg)
+- 🏃 [Walking -> 2352 Steps ~ 1.5 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20181%20-%20200/d199walking.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
 - 📖📈 Book reading
   - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
@@ -75,7 +126,6 @@ Learning Progress Till Now -> 209 Days (09/12/2020 to 05/07/2021)
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20181%20-%20200/d198leetcode.jpg)
 - 🏃 [Walking -> 7511 Steps ~ 4.5 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20181%20-%20200/d198walking.jpg)
-
 - 📰 [Daily English News](https://qz.com/india/)
 - 👂🏻 [Watched a Youtube video "HOW TO LEARN ANYTHING-ONLY 1% PEOPLE KNOW THESE TECHNIQUES| MOTIVATIONAL| SUCCESS LIFE INSPIRATIONAL"](https://www.youtube.com/watch?v=UQNfpC_jW2U)
 - 👂🏻 [Watched a Youtube video "What If All the Passengers on a Plane Jumped at Once?"](https://www.youtube.com/watch?v=Badwh-33OGk)
