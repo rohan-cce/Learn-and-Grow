@@ -1,7 +1,68 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 210 Days (09/12/2020 to 06/07/2021)
+Learning Progress Till Now -> 211 Days (09/12/2020 to 07/07/2021)
 ***
+
+>"No matter what you're going through, there's a light at the end of the tunnel and it may seem hard to get to it but you can do it and just keep working towards it and you'll find the positive side of things.~Demi Lovato
+
+<details>
+  <summary>Day 211 - 220 ~ July 07, 2021 - July 16, 2021</summary>
+<p>
+
+<details>
+<summary>Day 211</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d201e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d201ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20201%20-%20220/d201b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d201chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d201chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d201chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d205chs1.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20201%20-%20220/d201h1.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20201%20-%20220/d201leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 👂🏻 [Watched a Youtube video "Why Expensive Restaurants Give Small Portions! Fine Dining Explained!!"](https://www.youtube.com/watch?v=Sj91tSPOZ70)
+- 👂🏻 [Watched a Youtube video "Kenya opens massive US$1.5 billion railway project funded and built by China"](https://www.youtube.com/watch?v=pKR1sRifMRw)
+- 👂🏻 [Watched a Youtube video "Satya Nadella announces strategic collaboration with Novartis"](https://www.youtube.com/watch?v=wMfsQE-D2q4)
+- 💰📈 [Financial education ~ "Investing for Teenagers in India | Personal finance channel by Abhi and Niy"](https://www.youtube.com/watch?v=IzQjpEPfL2o)
+- 💰📈 [Financial education ~ Module 8 - Currency, Commodity, and Government Securities](https://zerodha.com/varsity/module/commodities-currency-government-securities/)
+  - 💰📈 [2. Reference Rates & Impact of events](https://zerodha.com/varsity/chapter/reference-rates-impact-of-events/)
+    - 💰📈 [2.1 – Dual View](https://zerodha.com/varsity/chapter/reference-rates-impact-of-events/)
+    - 💰📈 [2.2 – Rate fixing and conversion path](https://zerodha.com/varsity/chapter/reference-rates-impact-of-events/)
+    - 💰📈 [2.3 – Events that matter](https://zerodha.com/varsity/chapter/reference-rates-impact-of-events/)
+- 📑 Blogs Read
+  - 📑[The Most Loved, Hated and Wanted Programming Languages](https://betterprogramming.pub/the-most-loved-hated-and-wanted-programming-languages-a04d676d155d)
+  - 📑[Never, Ever Pay the Ransom!](https://medium.com/pcmag-access/never-ever-pay-the-ransom-4971609065e1)  
+- 🧐What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🧐[What is Blockchain? Simply Explained by a 15-Year-Old](https://medium.com/swlh/what-is-blockchain-simply-explained-by-a-15-year-old-941489219704)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)
+    - 👨🏻‍💻⌨️ [5.7 How to use Labeled Break Statement in Java | Hidden Feature](https://www.youtube.com/watch?v=JlRgBWWYOSE&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=28)
+    - 👨🏻‍💻⌨️ [5.8 How to Print Ascii values in Java](https://www.youtube.com/watch?v=M2Q052lF55Y&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=29)
+    - 👨🏻‍💻⌨️ [5.9 Java Tutorial Part 10.1 Patterns with loops | Lecture](https://www.youtube.com/watch?v=jp6O9SPf5T0&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=30)
+    - 👨🏻‍💻⌨️ [5.10 Loop pattern Logic in Java Tutorial](https://www.youtube.com/watch?v=jvBnoA5sUfA&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=31)
+    - 👨🏻‍💻⌨️ [5.11 Pattern Example in Java for Beginners Tutorial | Lecture](https://www.youtube.com/watch?v=EbnofpvSZx4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=32)
+    - 👨🏻‍💻⌨️ [5.12 Pattern Example in Java Part 2 for Begineers Tutorial | Lecture](https://www.youtube.com/watch?v=jrq-XSfrisY&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=33)
+    - 👨🏻‍💻⌨️ [5.13 How to print Fibonacci Series in Java Tutorial | Lecture](https://www.youtube.com/watch?v=2kyctZDPeio&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=34)
+  - 👨🏻‍💻⌨️ [Geeks for Geeks](https://www.geeksforgeeks.org)
+    - 👨🏻‍💻⌨️ [Output of C Programs | Set 6](https://www.geeksforgeeks.org/output-of-c-programs-set-6/)
+    - 👨🏻‍💻⌨️ [Puzzle 6 | (Monty Hall problem)](https://www.geeksforgeeks.org/puzzle-6-monty-hall-problem/)
+***
+</p></details>
+
+***
+</p></details>
+
 >“If people are doubting how far you can go, go so far that you can’t hear them anymore.” – Michele Ruiz
 
 <details>
