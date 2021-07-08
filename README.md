@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 211 Days (09/12/2020 to 07/07/2021)
+Learning Progress Till Now -> 212 Days (09/12/2020 to 08/07/2021)
 ***
 
 >"No matter what you're going through, there's a light at the end of the tunnel and it may seem hard to get to it but you can do it and just keep working towards it and you'll find the positive side of things.~Demi Lovato
@@ -8,6 +8,55 @@ Learning Progress Till Now -> 211 Days (09/12/2020 to 07/07/2021)
 <details>
   <summary>Day 211 - 220 ~ July 07, 2021 - July 16, 2021</summary>
 <p>
+
+<details>
+<summary>Day 212</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d202e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d202ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20201%20-%20220/d202b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d202chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d202chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d202chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d202chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20201%20-%20220/d202h1.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20201%20-%20220/d202leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 👂🏻 [Watched a Youtube video "Another intense heatwave to roast Canada, Western US | Climate Change | Canada temperature | WION"](https://www.youtube.com/watch?v=ohkUIRGocks)
+- 👂🏻 [Watched a Youtube video "How many Programming Languages Should you Learn? (THE TRUTH!)"](https://www.youtube.com/watch?v=wRdPmY8yS1E)
+- 👂🏻 [Watched a Youtube video "Gravitas: China bans tallest skyscrapers"](https://www.youtube.com/watch?v=NVbF38gG0uk)
+- 💰📈 [Financial education ~ "7 Rules Rich People Follow To Get Everything in Life"](https://www.youtube.com/watch?v=h_5FhgQAcoQ)
+- 💰📈 [Financial education ~ Module 8 - Currency, Commodity, and Government Securities](https://zerodha.com/varsity/module/commodities-currency-government-securities/)
+  - 💰📈 [3. Impact of events (Brexit) & Interest Rate Parity](https://zerodha.com/varsity/chapter/impact-of-events-brexit-interest-rate-parity/)
+    - 💰📈 [3.1 – Brexit, the event extraordinaire!](https://zerodha.com/varsity/chapter/impact-of-events-brexit-interest-rate-parity/)
+    - 💰📈 [3.2 – Fairy Trade](https://zerodha.com/varsity/chapter/impact-of-events-brexit-interest-rate-parity/)
+    - 💰📈 [3.3 – Forward Premia & Interest Rate parity](https://zerodha.com/varsity/chapter/impact-of-events-brexit-interest-rate-parity/)
+- 📑 Blogs Read
+  - 📑[7 Great Hobbies for Programmers To Balance Their Work and Life](https://blog.devgenius.io/7-great-hobbies-for-programmers-to-balance-their-work-and-life-1b4b57b9280b)
+  - 📑[Audacity Is Being Called Spyware After Privacy Policy Update](https://medium.com/pcmag-access/audacity-is-being-called-spyware-after-privacy-policy-update-e073959a9cdb)  
+- 🧐What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🧐[The Power of ‘Free’ in Increasing Online Sales](The Power of ‘Free’ in Increasing Online Sales)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)
+    - 👨🏻‍💻⌨️ [5.14 Palindrome or not Java Tutorial](https://www.youtube.com/watch?v=2-TKmwzxtZ8&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=35)
+    - 👨🏻‍💻⌨️ [5.15 Perfect Number in Java](https://www.youtube.com/watch?v=0_vyy5oRn-c&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=36)
+    - 👨🏻‍💻⌨️ [5.16 Armstrong Number in Java](https://www.youtube.com/watch?v=KkAiNXR42fk&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=37)
+    - 👨🏻‍💻⌨️ [5.17 How to check a given number is prime or not in Java Tutorial | Lecture](https://www.youtube.com/watch?v=V7-PnNDPwVk&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=38)
+    - 👨🏻‍💻⌨️ [5.18 Swapping of Two Numbers in Java in 3 Different ways](https://www.youtube.com/watch?v=lSKrdopNNks&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=39)
+    - 👨🏻‍💻⌨️ [5.19 Swapping of 2 Numbers in Easy way](https://www.youtube.com/watch?v=CZFr8wR4xlk&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=40)
+    - 👨🏻‍💻⌨️ [Java Tutorial | Array Theory](https://www.youtube.com/watch?v=xftdnEpZRuA&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=41)
+    
+***
+</p></details>
 
 <details>
 <summary>Day 211</summary>
@@ -20,7 +69,7 @@ Learning Progress Till Now -> 211 Days (09/12/2020 to 07/07/2021)
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d201chs1.jpg)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d201chs2.jpg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d201chs3.jpg)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d205chs1.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d202chs5.jpg)
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Hackerrank
   - ✔️ [Completed 1 Question in hackerrank C language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20201%20-%20220/d201h1.jpg)
