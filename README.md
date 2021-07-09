@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 212 Days (09/12/2020 to 08/07/2021)
+Learning Progress Till Now -> 213 Days (09/12/2020 to 09/07/2021)
 ***
 
 >"No matter what you're going through, there's a light at the end of the tunnel and it may seem hard to get to it but you can do it and just keep working towards it and you'll find the positive side of things.~Demi Lovato
@@ -8,6 +8,52 @@ Learning Progress Till Now -> 212 Days (09/12/2020 to 08/07/2021)
 <details>
   <summary>Day 211 - 220 ~ July 07, 2021 - July 16, 2021</summary>
 <p>
+
+<details>
+<summary>Day 213</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d203e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d203ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20201%20-%20220/d203b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d203chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d203chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d203chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d203chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20201%20-%20220/d203h1.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20201%20-%20220/d203leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 👂🏻 [Watched a Youtube video "Who Makes Money From America’s Pool Obsession"](https://www.youtube.com/watch?v=-mtElPFf46I)
+- 👂🏻 [Watched a Youtube video "'India-Russia relationship among steadiest in the world', says EAM Jaishankar | Latest English News"](https://www.youtube.com/watch?v=XuVN47jNZhA)
+- 💰📈 [Financial education ~ "What are Index Funds? | Mutual Funds Masterclass"](https://www.youtube.com/watch?v=sbaMMXSAnT0)
+- 💰📈 [Financial education ~ Module 8 - Currency, Commodity, and Government Securities](https://zerodha.com/varsity/module/commodities-currency-government-securities/)
+  - 💰📈 [4. The USD INR Pair (Part 1)](https://zerodha.com/varsity/chapter/the-usd-inr-pair/)
+    - 💰📈 [4.1 – The contract](https://zerodha.com/varsity/chapter/the-usd-inr-pair/)
+    - 💰📈 [4.2 – The contract logistics](https://zerodha.com/varsity/chapter/the-usd-inr-pair/)
+    - 💰📈 [4.3 – USD INR options contract](https://zerodha.com/varsity/chapter/the-usd-inr-pair/)
+- 📑 Blogs Read
+  - 📑[7 Ways To Boost Your Skills As A Junior Developer](https://blog.devgenius.io/7-ways-to-boost-your-skills-as-a-junior-developer-d6264840221d)
+- 🧐What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🧐[5 Ways Identity Theft Can Ruin Your Life](https://medium.com/pcmag-access/5-ways-identity-theft-can-ruin-your-life-17a88081a95e)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)
+    - 👨🏻‍💻⌨️ [6.2 Array in Java Tutorial](https://www.youtube.com/watch?v=oMwU4lTAO8g&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=42)
+    - 👨🏻‍💻⌨️ [6.3 Array in Java Tutorial With Example](https://www.youtube.com/watch?v=okHL1h5rhNM&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=43)
+    - 👨🏻‍💻⌨️ [6.4 Enhanced Forloop Tutorial Theory](https://www.youtube.com/watch?v=rYVX-hCAUIo&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=44)
+    - 👨🏻‍💻⌨️ [6.5 Array in Java Tutorial With Example using Enhanced For Loop](https://www.youtube.com/watch?v=cWLUROPLPZc&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=45)
+    - 👨🏻‍💻⌨️ [6.6 Array in Java Tutorial With Example using Random Class](https://www.youtube.com/watch?v=vEzd6CfQYnA&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=46)
+    - 👨🏻‍💻⌨️ [6.7 Array in Java Tutorial With Example ArrayIndexOutOfBoundsException](https://www.youtube.com/watch?v=3gWUH_4ExQ8&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=47)
+    - 👨🏻‍💻⌨️ [6.9 2D Array in Java](https://www.youtube.com/watch?v=5pLNsNKWbsk&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=49)    
+***
+</p></details>
 
 <details>
 <summary>Day 212</summary>
@@ -44,7 +90,7 @@ Learning Progress Till Now -> 212 Days (09/12/2020 to 08/07/2021)
   - 📑[7 Great Hobbies for Programmers To Balance Their Work and Life](https://blog.devgenius.io/7-great-hobbies-for-programmers-to-balance-their-work-and-life-1b4b57b9280b)
   - 📑[Audacity Is Being Called Spyware After Privacy Policy Update](https://medium.com/pcmag-access/audacity-is-being-called-spyware-after-privacy-policy-update-e073959a9cdb)  
 - 🧐What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
-  - 🧐[The Power of ‘Free’ in Increasing Online Sales](The Power of ‘Free’ in Increasing Online Sales)
+  - 🧐[The Power of ‘Free’ in Increasing Online Sales](https://medium.com/swlh/the-power-of-free-in-increasing-online-sales-afa3a2fa8e00)
 - 👨🏻‍💻⌨️ Learn and Code
   - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)
     - 👨🏻‍💻⌨️ [5.14 Palindrome or not Java Tutorial](https://www.youtube.com/watch?v=2-TKmwzxtZ8&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=35)
