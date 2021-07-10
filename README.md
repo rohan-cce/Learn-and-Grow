@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 213 Days (09/12/2020 to 09/07/2021)
+Learning Progress Till Now -> 214 Days (09/12/2020 to 10/07/2021)
 ***
 
 >"No matter what you're going through, there's a light at the end of the tunnel and it may seem hard to get to it but you can do it and just keep working towards it and you'll find the positive side of things.~Demi Lovato
@@ -8,6 +8,49 @@ Learning Progress Till Now -> 213 Days (09/12/2020 to 09/07/2021)
 <details>
   <summary>Day 211 - 220 ~ July 07, 2021 - July 16, 2021</summary>
 <p>
+
+<details>
+<summary>Day 214</summary>
+<p>
+
+- ✔️ Elevate
+  - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d204e1.jpg)
+  - ✔️ [Reached New proficiency level in Speaking(expert)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d204e2.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d204ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20201%20-%20220/d204b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d204chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d204chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d204chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d204chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20201%20-%20220/d204h1.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20201%20-%20220/d204leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 👂🏻 [Watched a Youtube video "Gravitas: Is Sri Lanka struggling to keep up with its debt payments?"](https://www.youtube.com/watch?v=Zl6I1pKWJxY)
+- 👂🏻 [Watched a Youtube video "Gravitas: Indonesia: Scientist leading Sinovac trial dies of suspected Covid-19"](https://www.youtube.com/watch?v=St5EbIW4QuY)
+- 💰📈 [Financial education ~ "Bitcoin | Comparison with Real Estate & Stock Market | An Honest Talk"](https://www.youtube.com/watch?v=sXwh6bGp8as)
+- 💰📈 [Financial education ~ Module 9 - Risk Management & Trading Psychology](https://zerodha.com/varsity/module/risk-management/)
+  - 💰📈 [1. Orientation note](https://zerodha.com/varsity/chapter/orientation-note/)
+    - 💰📈 [1.1 – A unique opportunity](https://zerodha.com/varsity/chapter/orientation-note/)
+    - 💰📈 [1.2 – What to expect?](https://zerodha.com/varsity/chapter/orientation-note/)
+- 📑 Blogs Read
+  - 📑[This is the Future of Webdev. Crazy, Right](https://suzdalnitski.medium.com/the-future-of-webdev-b5fe293b5f2c)
+- 🧐What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🧐[18 Little Things To Start Doing Now If You Want To Be Ahead Of Everyone Else In 10 Years](https://thoughtcatalog.medium.com/18-little-things-to-start-doing-now-if-you-want-to-be-ahead-of-everyone-else-in-10-years-db2c52031b08)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)
+    - 👨🏻‍💻⌨️ [6.10 Enhance For Loop in Java | For Each Loop](https://www.youtube.com/watch?v=6P0YVDMJIyQ&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=50)   
+    - 👨🏻‍💻⌨️ [6.11 Enhanced for Loop with 2D Array](https://www.youtube.com/watch?v=4LZc6WtloIc&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=51)   
+    - 👨🏻‍💻⌨️ [6.12 Jagged Array in Java](https://www.youtube.com/watch?v=6A5SRl1VwbE&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=52)   
+***
+</p></details>
 
 <details>
 <summary>Day 213</summary>
@@ -1421,7 +1464,7 @@ Learning Progress Till Now -> 213 Days (09/12/2020 to 09/07/2021)
 
 - ✔️ Elevate
   - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d168e1.jpg)
-  - ✔️ [Reached New Proficieny level in Speaking(Advanced)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d168e2.jpg)
+  - ✔️ [Reached New proficiency level in Speaking(Advanced)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d168e2.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d168ls1.jpg)
 - ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20161%20-%20180/d168b1.jpg)
 - ✔️ Chess.com 
@@ -1809,7 +1852,7 @@ Learning Progress Till Now -> 213 Days (09/12/2020 to 09/07/2021)
 
 - ✔️ Elevate
   - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d157e1.jpg)
-  - ✔️ [Reached New Proficieny level in Writing (Expert)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d157e2.jpg)
+  - ✔️ [Reached New proficiency level in Writing (Expert)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d157e2.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d157ls1.jpg)
 - ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20141%20-%20160/d157b1.jpg)
 - ✔️ Chess.com 
@@ -2153,7 +2196,7 @@ Learning Progress Till Now -> 213 Days (09/12/2020 to 09/07/2021)
 
 - ✔️ Elevate
   - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d146e1.jpg)
-  - ✔️ [Reached New Proficieny level in maths (Master)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d146e2.jpg)
+  - ✔️ [Reached New proficiency level in maths (Master)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d146e2.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d146ls1.jpg)
 - ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20141%20-%20160/d146b1.jpg)
 - ✔️ [Completed 5 challenges in codemonkey](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/codemonkey/d146cm.jpg)
@@ -5340,7 +5383,7 @@ Les Brown - Author
 
 - ✔️ Elevate
   - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d26e1.jpeg)
-  - ✔️ [Reached New Proficieny level in maths (Expert)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d26e2.jpeg)
+  - ✔️ [Reached New proficiency level in maths (Expert)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d26e2.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d26ls1.jpg)
 - ✔️ [Solved a question from community section in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%2021%20-%2040/d26b1.jpg)
 - ✔️ Chess.com 
