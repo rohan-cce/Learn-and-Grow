@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 214 Days (09/12/2020 to 10/07/2021)
+Learning Progress Till Now -> 215 Days (09/12/2020 to 11/07/2021)
 ***
 
 >"No matter what you're going through, there's a light at the end of the tunnel and it may seem hard to get to it but you can do it and just keep working towards it and you'll find the positive side of things.~Demi Lovato
@@ -8,6 +8,39 @@ Learning Progress Till Now -> 214 Days (09/12/2020 to 10/07/2021)
 <details>
   <summary>Day 211 - 220 ~ July 07, 2021 - July 16, 2021</summary>
 <p>
+
+<details>
+<summary>Day 215</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d205e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d205ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20201%20-%20220/d205b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d205chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d205chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d205chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d205chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20201%20-%20220/d205h1.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20201%20-%20220/d205leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Gravitas Plus | Future of War: Cyber is the new nuclear"](https://www.youtube.com/watch?v=b-gEK3tVf9o)
+- 👂🏻 [Watched a Youtube video "Chinese warplane enters Taiwan's air defence identification zone, 4th incursion this month | WION"](https://www.youtube.com/watch?v=T7sTM2zCoHA)
+- 💰📈 [Financial education ~ "JAPANESE METHOD TO SAVE MONEY SMARTLY | KAKEIBO METHOD EXPLAINED IN TAMIL |almost everything finance"](https://www.youtube.com/watch?v=CGGII2xsKVM)
+- 💰📈 [Financial education ~ Module 9 - Risk Management & Trading Psychology](https://zerodha.com/varsity/module/risk-management/)
+  - 💰📈 [2. Risk (Part 1)](https://zerodha.com/varsity/chapter/risk-part-1/)
+    - 💰📈 [2.1 – Warming up to risk](https://zerodha.com/varsity/chapter/risk-part-1/)
+    - 💰📈 [2.2 – Expected Return](https://zerodha.com/varsity/chapter/risk-part-1/)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)
+    - 👨🏻‍💻⌨️ [6.13 3D ( Multi Dimensional ) Array in Java](https://www.youtube.com/watch?v=TlFC8tAqD9w&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=53)      
+    - 👨🏻‍💻⌨️ [6.14 How to use Varargs Variable Arguments in Java Tutorial Lecture](https://www.youtube.com/watch?v=vKyyexUlit8&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=54)      
+    - 👨🏻‍💻⌨️ [6.15 Different Ways of writing main method in java | Cool Tricks](https://www.youtube.com/watch?v=Bz36rTn5WEQ&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=55)      
+***
+</p></details>
 
 <details>
 <summary>Day 214</summary>
@@ -29,6 +62,7 @@ Learning Progress Till Now -> 214 Days (09/12/2020 to 10/07/2021)
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20201%20-%20220/d204leetcode.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
+- 🏃 [Walking -> 3380 Steps ~ 2.2 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20201%20-%20220/d204walking.jpg)
 - 📖📈 Book reading
   - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
   - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
