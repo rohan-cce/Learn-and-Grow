@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 215 Days (09/12/2020 to 11/07/2021)
+Learning Progress Till Now -> 216 Days (09/12/2020 to 12/07/2021)
 ***
 
 >"No matter what you're going through, there's a light at the end of the tunnel and it may seem hard to get to it but you can do it and just keep working towards it and you'll find the positive side of things.~Demi Lovato
@@ -8,6 +8,54 @@ Learning Progress Till Now -> 215 Days (09/12/2020 to 11/07/2021)
 <details>
   <summary>Day 211 - 220 ~ July 07, 2021 - July 16, 2021</summary>
 <p>
+
+<details>
+<summary>Day 216</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d206e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d206ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20201%20-%20220/d206b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d206chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d206chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d206chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d206chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20201%20-%20220/d206h1.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20201%20-%20220/d206leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 👂🏻 [Watched a Youtube video "Turmoil in Afghanistan: India pulls out diplomats, other officials"](https://www.youtube.com/watch?v=RGHAp5XOf5k)
+- 👂🏻 [Watched a Youtube video "Twitter VS India: Twitter names Vinay Prakash as grievance officer"](https://www.youtube.com/watch?v=azYKKTO3GUk)
+- 💰📈 [Financial education ~ "Gravitas Plus | Financial Literacy: The need of the hour"](https://www.youtube.com/watch?v=7oj6gpAbYgw)
+- 💰📈 [Financial education ~ Module 9 - Risk Management & Trading Psychology](https://zerodha.com/varsity/module/risk-management/)
+  - 💰📈 [3. Risk (Part 2) – Variance & Covariance](https://zerodha.com/varsity/chapter/risk-part-2-variance-covariance/)
+    - 💰📈 [3.1 – Variance](https://zerodha.com/varsity/chapter/risk-part-2-variance-covariance/)
+    - 💰📈 [3.2 – Covariance](https://zerodha.com/varsity/chapter/risk-part-2-variance-covariance/)
+- 📑 Blogs Read
+  - 📑[We’re About to Witness the Great Cryptocurrency Reset](https://medium.com/concoda/the-crypto-movement-is-destroying-itself-11ce48a24fe3)
+- 🧐What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🧐[What Happens to a Bitcoin Wallet When Its Owner Dies?](https://medium.com/geekculture/what-happens-to-a-bitcoin-wallet-when-its-owner-dies-65c02c86796f)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)
+    - 👨🏻‍💻⌨️ [7.1 Class and Object in Java](https://www.youtube.com/watch?v=bn3zKuU6gwI&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=56)        
+    - 👨🏻‍💻⌨️ [7.2 Creating Object in Java](https://www.youtube.com/watch?v=V-PQvKUtSY8&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=57)        
+    - 👨🏻‍💻⌨️ [7.3 Object Instantiation | How to create Object in Java](https://www.youtube.com/watch?v=AozJ0CR2W4A&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=58)        
+    - 👨🏻‍💻⌨️ [#4.2 Constructor in Java Theory](https://www.youtube.com/watch?v=YqBVgUh64Ks&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=59)        
+    - 👨🏻‍💻⌨️ [7.5 Constructor Example in Java](https://www.youtube.com/watch?v=lrYghXs9EEU&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=60)        
+    - 👨🏻‍💻⌨️ [7.6 Constructor Example in Java Constructor Overloading](https://www.youtube.com/watch?v=I0o0olRhLDk&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=61)        
+    - 👨🏻‍💻⌨️ [7.7 Constructor Example in Java Constructor Overloading Implicit Conversion](https://www.youtube.com/watch?v=5hMqIdPexVs&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=62)      
+  - 👨🏻‍💻⌨️ [Geeks for Geeks](https://www.geeksforgeeks.org)
+    - 👨🏻‍💻⌨️ [Output of C Programs | Set 6](https://www.geeksforgeeks.org/output-of-c-programs-set-6/)
+    - 👨🏻‍💻⌨️ [Puzzle 6 | (Monty Hall problem)](https://www.geeksforgeeks.org/puzzle-6-monty-hall-problem/)  
+***
+</p></details>
 
 <details>
 <summary>Day 215</summary>
