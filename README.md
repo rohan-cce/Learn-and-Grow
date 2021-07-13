@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 216 Days (09/12/2020 to 12/07/2021)
+Learning Progress Till Now -> 217 Days (09/12/2020 to 13/07/2021)
 ***
 
 >"No matter what you're going through, there's a light at the end of the tunnel and it may seem hard to get to it but you can do it and just keep working towards it and you'll find the positive side of things.~Demi Lovato
@@ -8,6 +8,54 @@ Learning Progress Till Now -> 216 Days (09/12/2020 to 12/07/2021)
 <details>
   <summary>Day 211 - 220 ~ July 07, 2021 - July 16, 2021</summary>
 <p>
+
+<details>
+<summary>Day 217</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d207e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d207ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20201%20-%20220/d207b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d207chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d207chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d207chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d207chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20201%20-%20220/d207h1.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20201%20-%20220/d207leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 👂🏻 [Watched a Youtube video "Gravitas: Sore losers: England fans turn savage after Euro loss"](https://www.youtube.com/watch?v=9_U_FsZ5glA)
+- 👂🏻 [Watched a Youtube video "Gravitas: Canada heatwave: 1 Billion sea animals dead"](https://www.youtube.com/watch?v=AnDLQ2Q2bXQ)
+- 💰📈 [Financial education ~ "STOP WASTING TIME| 12 Weeks to change your life tamil |Stop laziness and procrastination Tamil | AE"](https://www.youtube.com/watch?v=PGa5mrKm7Yk)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [Background and Orientation](https://zerodha.com/varsity/chapter/background-and-orientation/)
+    - 💰📈 [1.1– What’s in the name?](https://zerodha.com/varsity/chapter/background-and-orientation/)
+    - 💰📈 [1.2– I’m not ready yet](https://zerodha.com/varsity/chapter/background-and-orientation/)
+- 📑 Blogs Read
+  - 📑[6 Brain Damaging Habits You May Want to Quit](https://medium.com/publishous/6-brain-damaging-habits-you-may-want-to-quit-623b81827b51)
+- 🧐What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🧐[How to Locate Dark Web Hacker Forums for Security Research](https://towardsdatascience.com/how-to-locate-dark-web-hacker-forums-for-security-research-e87b53f18508)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)
+    - 👨🏻‍💻⌨️ [7.8 Object Passing in Java](https://www.youtube.com/watch?v=mAoJtlLfrqg&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=63)             
+    - 👨🏻‍💻⌨️ [7.9 Packages in Java Theory](https://www.youtube.com/watch?v=mjjEPYPCri8&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=64)             
+    - 👨🏻‍💻⌨️ [7.10 What are Packages in Java](https://www.youtube.com/watch?v=eEujVn-ZTLE&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=65)             
+    - 👨🏻‍💻⌨️ [7.11 Access Modifiers in Java | Public, Protected, Private](https://www.youtube.com/watch?v=5nNTafzmX9o&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=66)             
+    - 👨🏻‍💻⌨️ [7.12 How to use javap Command in Java Tutorial](https://www.youtube.com/watch?v=kP6VKOtpf2M&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=67)             
+    - 👨🏻‍💻⌨️ [7.13 What is Static Keyword in Java | static method and static variable](https://www.youtube.com/watch?v=-TxHjyC8WY4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=68)             
+    - 👨🏻‍💻⌨️ [7.14 Why Non-Static variables does not work in Static method in Java?](https://www.youtube.com/watch?v=msXJVIecGp0&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=69)             
+  - 👨🏻‍💻⌨️ [Geeks for Geeks](https://www.geeksforgeeks.org)
+    - 👨🏻‍💻⌨️ [Output of C Programs | Set 6](https://www.geeksforgeeks.org/output-of-c-programs-set-6/)
+    - 👨🏻‍💻⌨️ [Puzzle 6 | (Monty Hall problem)](https://www.geeksforgeeks.org/puzzle-6-monty-hall-problem/)  
+***
+</p></details>
 
 <details>
 <summary>Day 216</summary>
@@ -27,6 +75,7 @@ Learning Progress Till Now -> 216 Days (09/12/2020 to 12/07/2021)
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20201%20-%20220/d206leetcode.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
+- 🏃 [Walking -> 6902 Steps ~ 3.92 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20201%20-%20220/d206walking.jpg)
 - 📖📈 Book reading
   - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
   - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
