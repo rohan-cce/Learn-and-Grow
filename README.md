@@ -31,6 +31,10 @@ Learning Progress Till Now -> 218 Days (09/12/2020 to 14/07/2021)
   - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
   - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
   - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 📑 Blogs Read
+  - 📑[7 Amazing Developer Tools That You’re Not Using Yet](https://blog.devgenius.io/7-amazing-developer-tools-that-youre-not-using-yet-79bbbbcf80b)
+- 🧐What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🧐[As a tech guy, you will thank me for these websites](https://blog.devgenius.io/as-a-tech-guy-you-will-thank-me-for-these-websites-be09e86ebcef)
 - 👂🏻 [Watched a Youtube video "Gravitas: Buried under dollars: Cost of the Afghan war"](https://www.youtube.com/watch?v=wWQlS7N3mD0)
 - 👂🏻 [Watched a Youtube video "How Maersk Profits From The Chaos In Container Shipping"](https://www.youtube.com/watch?v=9-IEcZOa4rg)
 - 💰📈 [Financial education ~ "Why Zomato is a GOLD MINE in the making?"](Why Zomato is a GOLD MINE in the making?)
