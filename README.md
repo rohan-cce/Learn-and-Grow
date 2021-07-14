@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 217 Days (09/12/2020 to 13/07/2021)
+Learning Progress Till Now -> 218 Days (09/12/2020 to 14/07/2021)
 ***
 
 >"No matter what you're going through, there's a light at the end of the tunnel and it may seem hard to get to it but you can do it and just keep working towards it and you'll find the positive side of things.~Demi Lovato
@@ -8,6 +8,48 @@ Learning Progress Till Now -> 217 Days (09/12/2020 to 13/07/2021)
 <details>
   <summary>Day 211 - 220 ~ July 07, 2021 - July 16, 2021</summary>
 <p>
+
+<details>
+<summary>Day 218</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d208e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d208ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20201%20-%20220/d208b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d208chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d208chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d208chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d208chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20201%20-%20220/d208h1.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20201%20-%20220/d208leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 👂🏻 [Watched a Youtube video "Gravitas: Buried under dollars: Cost of the Afghan war"](https://www.youtube.com/watch?v=wWQlS7N3mD0)
+- 👂🏻 [Watched a Youtube video "How Maersk Profits From The Chaos In Container Shipping"](https://www.youtube.com/watch?v=9-IEcZOa4rg)
+- 💰📈 [Financial education ~ "Why Zomato is a GOLD MINE in the making?"](Why Zomato is a GOLD MINE in the making?)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [Personal Finance Math (Part 1)](https://zerodha.com/varsity/chapter/personal-finance-math-part-1/)
+    - 💰📈 [2.1 – Simple Interest](https://zerodha.com/varsity/chapter/personal-finance-math-part-1/)
+    - 💰📈 [2.2 – Compound interest](https://zerodha.com/varsity/chapter/personal-finance-math-part-1/)
+    - 💰📈 [2.3 – Compounded returns](https://zerodha.com/varsity/chapter/personal-finance-math-part-1/)
+    - 💰📈 [2.4 – The compounding effect](https://zerodha.com/varsity/chapter/personal-finance-math-part-1/)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)
+    - 👨🏻‍💻⌨️ [7.13 What is Static Keyword in Java | static method and static variable](https://www.youtube.com/watch?v=-TxHjyC8WY4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=68)             
+    - 👨🏻‍💻⌨️ [7.14 Why Non-Static variables does not work in Static method in Java?](https://www.youtube.com/watch?v=msXJVIecGp0&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=69)
+    - 👨🏻‍💻⌨️ [7.15 Count Number of Objects of Class in Java](https://www.youtube.com/watch?v=zZlqRkgNSrg&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=70)                         
+    - 👨🏻‍💻⌨️ [7.16 How to use Static Block in Java Tutorial](https://www.youtube.com/watch?v=dCvEChffnTA&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=71)                         
+    - 👨🏻‍💻⌨️ [7.17 Static Import in Java](https://www.youtube.com/watch?v=kHWcA4X2anE&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=72)                        
+
+***
+</p></details>
 
 <details>
 <summary>Day 217</summary>
@@ -35,7 +77,7 @@ Learning Progress Till Now -> 217 Days (09/12/2020 to 13/07/2021)
 - 👂🏻 [Watched a Youtube video "Gravitas: Canada heatwave: 1 Billion sea animals dead"](https://www.youtube.com/watch?v=AnDLQ2Q2bXQ)
 - 💰📈 [Financial education ~ "STOP WASTING TIME| 12 Weeks to change your life tamil |Stop laziness and procrastination Tamil | AE"](https://www.youtube.com/watch?v=PGa5mrKm7Yk)
 - 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
-  - 💰📈 [Background and Orientation](https://zerodha.com/varsity/chapter/background-and-orientation/)
+  - 💰📈 [1. Background and Orientation](https://zerodha.com/varsity/chapter/background-and-orientation/)
     - 💰📈 [1.1– What’s in the name?](https://zerodha.com/varsity/chapter/background-and-orientation/)
     - 💰📈 [1.2– I’m not ready yet](https://zerodha.com/varsity/chapter/background-and-orientation/)
 - 📑 Blogs Read
@@ -48,9 +90,7 @@ Learning Progress Till Now -> 217 Days (09/12/2020 to 13/07/2021)
     - 👨🏻‍💻⌨️ [7.9 Packages in Java Theory](https://www.youtube.com/watch?v=mjjEPYPCri8&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=64)             
     - 👨🏻‍💻⌨️ [7.10 What are Packages in Java](https://www.youtube.com/watch?v=eEujVn-ZTLE&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=65)             
     - 👨🏻‍💻⌨️ [7.11 Access Modifiers in Java | Public, Protected, Private](https://www.youtube.com/watch?v=5nNTafzmX9o&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=66)             
-    - 👨🏻‍💻⌨️ [7.12 How to use javap Command in Java Tutorial](https://www.youtube.com/watch?v=kP6VKOtpf2M&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=67)             
-    - 👨🏻‍💻⌨️ [7.13 What is Static Keyword in Java | static method and static variable](https://www.youtube.com/watch?v=-TxHjyC8WY4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=68)             
-    - 👨🏻‍💻⌨️ [7.14 Why Non-Static variables does not work in Static method in Java?](https://www.youtube.com/watch?v=msXJVIecGp0&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=69)             
+    - 👨🏻‍💻⌨️ [7.12 How to use javap Command in Java Tutorial](https://www.youtube.com/watch?v=kP6VKOtpf2M&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=67)                          
   - 👨🏻‍💻⌨️ [Geeks for Geeks](https://www.geeksforgeeks.org)
     - 👨🏻‍💻⌨️ [Output of C Programs | Set 6](https://www.geeksforgeeks.org/output-of-c-programs-set-6/)
     - 👨🏻‍💻⌨️ [Puzzle 6 | (Monty Hall problem)](https://www.geeksforgeeks.org/puzzle-6-monty-hall-problem/)  
