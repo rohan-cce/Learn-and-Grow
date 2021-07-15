@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 218 Days (09/12/2020 to 14/07/2021)
+Learning Progress Till Now -> 219 Days (09/12/2020 to 15/07/2021)
 ***
 
 >"No matter what you're going through, there's a light at the end of the tunnel and it may seem hard to get to it but you can do it and just keep working towards it and you'll find the positive side of things.~Demi Lovato
@@ -8,6 +8,50 @@ Learning Progress Till Now -> 218 Days (09/12/2020 to 14/07/2021)
 <details>
   <summary>Day 211 - 220 ~ July 07, 2021 - July 16, 2021</summary>
 <p>
+
+<details>
+<summary>Day 219</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d209e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d209ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20201%20-%20220/d209b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d209chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d209chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d209chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d209chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank C language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20201%20-%20220/d209h1.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20201%20-%20220/d209leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 📑 Blogs Read
+  - 📑[Anxiety Is in Your Body, Not Your Mind](https://elemental.medium.com/anxiety-is-in-your-body-not-your-mind-93031abd14eb)
+- 🧐What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🧐[The Best Password Manager Is Right Under Your Nose](https://medium.com/macoclock/the-best-password-manager-is-right-under-your-nose-c6f8457ad06e)
+- 👂🏻 [Watched a Youtube video "Gravitas: WION Ground Report: Indians under attack in South Africa"](https://www.youtube.com/watch?v=wjJnRxip9ZU)
+- 👂🏻 [Watched a Youtube video "The largest dams in the world"](https://www.youtube.com/watch?v=xHDEjdPYtik)
+- 💰📈 [Financial education ~ "Top 5 Strategies on When to Buy Sell Stocks | CA Rachana Ranade"](https://www.youtube.com/watch?v=1wDAhDZUP3k)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [3. Personal Finance Math (Part 2)](https://zerodha.com/varsity/chapter/personal-finance-math-part-2/)
+    - 💰📈 [3.1 – Money today versus money tomorrow](https://zerodha.com/varsity/chapter/personal-finance-math-part-2/)
+    - 💰📈 [3.2 – Present value of money](https://zerodha.com/varsity/chapter/personal-finance-math-part-2/)
+    - 💰📈 [3.3 – Future value of money](https://zerodha.com/varsity/chapter/personal-finance-math-part-2/)
+    - 💰📈 [3.4 – The offer](https://zerodha.com/varsity/chapter/personal-finance-math-part-2/)
+    - 💰📈 [3.5 – Real-life applications](https://zerodha.com/varsity/chapter/personal-finance-math-part-2/)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)                       
+    - 👨🏻‍💻⌨️ [7.16 How to use Static Block in Java Tutorial](https://www.youtube.com/watch?v=dCvEChffnTA&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=71)                         
+    - 👨🏻‍💻⌨️ [7.17 Static Import in Java](https://www.youtube.com/watch?v=kHWcA4X2anE&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=72)                        
+
+***
+</p></details>
 
 <details>
 <summary>Day 218</summary>
@@ -27,10 +71,6 @@ Learning Progress Till Now -> 218 Days (09/12/2020 to 14/07/2021)
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20201%20-%20220/d208leetcode.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
-- 📖📈 Book reading
-  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
-  - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
-  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
 - 📑 Blogs Read
   - 📑[7 Amazing Developer Tools That You’re Not Using Yet](https://blog.devgenius.io/7-amazing-developer-tools-that-youre-not-using-yet-79bbbbcf80b)
 - 🧐What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
@@ -39,7 +79,7 @@ Learning Progress Till Now -> 218 Days (09/12/2020 to 14/07/2021)
 - 👂🏻 [Watched a Youtube video "How Maersk Profits From The Chaos In Container Shipping"](https://www.youtube.com/watch?v=9-IEcZOa4rg)
 - 💰📈 [Financial education ~ "Why Zomato is a GOLD MINE in the making?"](Why Zomato is a GOLD MINE in the making?)
 - 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
-  - 💰📈 [Personal Finance Math (Part 1)](https://zerodha.com/varsity/chapter/personal-finance-math-part-1/)
+  - 💰📈 [2. Personal Finance Math (Part 1)](https://zerodha.com/varsity/chapter/personal-finance-math-part-1/)
     - 💰📈 [2.1 – Simple Interest](https://zerodha.com/varsity/chapter/personal-finance-math-part-1/)
     - 💰📈 [2.2 – Compound interest](https://zerodha.com/varsity/chapter/personal-finance-math-part-1/)
     - 💰📈 [2.3 – Compounded returns](https://zerodha.com/varsity/chapter/personal-finance-math-part-1/)
@@ -48,9 +88,7 @@ Learning Progress Till Now -> 218 Days (09/12/2020 to 14/07/2021)
   - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)
     - 👨🏻‍💻⌨️ [7.13 What is Static Keyword in Java | static method and static variable](https://www.youtube.com/watch?v=-TxHjyC8WY4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=68)             
     - 👨🏻‍💻⌨️ [7.14 Why Non-Static variables does not work in Static method in Java?](https://www.youtube.com/watch?v=msXJVIecGp0&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=69)
-    - 👨🏻‍💻⌨️ [7.15 Count Number of Objects of Class in Java](https://www.youtube.com/watch?v=zZlqRkgNSrg&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=70)                         
-    - 👨🏻‍💻⌨️ [7.16 How to use Static Block in Java Tutorial](https://www.youtube.com/watch?v=dCvEChffnTA&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=71)                         
-    - 👨🏻‍💻⌨️ [7.17 Static Import in Java](https://www.youtube.com/watch?v=kHWcA4X2anE&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=72)                        
+    - 👨🏻‍💻⌨️ [7.15 Count Number of Objects of Class in Java](https://www.youtube.com/watch?v=zZlqRkgNSrg&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=70)                                             
 
 ***
 </p></details>
