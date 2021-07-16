@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 219 Days (09/12/2020 to 15/07/2021)
+Learning Progress Till Now -> 220 Days (09/12/2020 to 16/07/2021)
 ***
 
 >"No matter what you're going through, there's a light at the end of the tunnel and it may seem hard to get to it but you can do it and just keep working towards it and you'll find the positive side of things.~Demi Lovato
@@ -8,6 +8,52 @@ Learning Progress Till Now -> 219 Days (09/12/2020 to 15/07/2021)
 <details>
   <summary>Day 211 - 220 ~ July 07, 2021 - July 16, 2021</summary>
 <p>
+
+<details>
+<summary>Day 220</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d210e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d210ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20201%20-%20220/d210b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d210chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d210chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d210chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d210chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20201%20-%20220/d210h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20201%20-%20220/d210leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 📑 Blogs Read
+  - 📑[These are 8 strict workplace rules Elon Musk makes his Tesla employees follow](https://medium.com/business-insider/8-strict-workplace-rules-elon-musk-makes-tesla-employees-follow-29ca6686bcab)
+- 🧐What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🧐[Why programmers choose Linux over Windows](https://betascribbles.medium.com/why-programmers-choose-linux-over-windows-8f556c303b14)
+  - 🧐[You Aren’t Lazy. You Are Overstimulated.](https://medium.com/mind-cafe/you-arent-lazy-you-are-just-overstimulated-389033f164c9)
+- 👂🏻 [Watched a Youtube video "Drought emergency declared in Washington state, 91 died due to record temperature | Climate Change"](https://www.youtube.com/watch?v=HjQrOSnGbk0)
+- 👂🏻 [Watched a Youtube video "Gravitas: Turkish President changes tune on Israel"](https://www.youtube.com/watch?v=yDS0ZIBhTS4)
+- 👂🏻 [Watched a Youtube video "Gravitas: Taliban's Offensive: Afghanistan may seek military aid from India"](https://www.youtube.com/watch?v=-Ejn-VUSzhI)
+- 💰📈 [Financial education ~ "12 Tiny Habits To Improve Your Life in 2021 Effortlessly"](https://www.youtube.com/watch?v=_J8VN-TVzxc)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [4. The retirement problem (Part 1)](https://zerodha.com/varsity/chapter/the-retirement-problem-part-1/)
+    - 💰📈 [4.1 – Defining the problem](https://zerodha.com/varsity/chapter/the-retirement-problem-part-1/)
+    - 💰📈 [4.2 – Inflation and other realities of life](https://zerodha.com/varsity/chapter/the-retirement-problem-part-1/)
+    - 💰📈 [4.3 – The Future value](https://zerodha.com/varsity/chapter/the-retirement-problem-part-1/)
+    - 💰📈 [4.4 – Estimating the future value of the corpus](https://zerodha.com/varsity/chapter/the-retirement-problem-part-1/)
+    - 💰📈 [ 4.5 – Oversimplification](https://zerodha.com/varsity/chapter/the-retirement-problem-part-1/)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)                       
+    - 👨🏻‍💻⌨️ [8.1 What is Encapsulation in Java Tutorial](https://www.youtube.com/watch?v=tt_astMjep0&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=73)                         
+    - 👨🏻‍💻⌨️ [8.2 Encapsulation Example in Java](https://www.youtube.com/watch?v=-Alpmo-OfJs&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=75)                        
+
+***
+</p></details>
 
 <details>
 <summary>Day 219</summary>
