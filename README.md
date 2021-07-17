@@ -1,7 +1,57 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 220 Days (09/12/2020 to 16/07/2021)
+Learning Progress Till Now -> 221 Days (09/12/2020 to 17/07/2021)
 ***
+
+<details>
+  <summary>Day 221 - 230 ~ July 17, 2021 - July 26, 2021</summary>
+<p>
+
+<details>
+<summary>Day 221</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d211e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d211ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20201%20-%20220/d211b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d211chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d211chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d211chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d211chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20201%20-%20220/d211h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20201%20-%20220/d211leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 📑 Blogs Read
+  - 📑[:where() :is() — A New CSS](https://roilivne14.medium.com/where-is-a-new-css-8cee1141a5f3)
+- 🧐What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🧐[Google Joins Apple to Cancel Facebook’s Trillion-Dollar Empire Dream](https://medium.com/big-tech/google-joins-apple-to-cancel-facebooks-trillion-dollar-empire-bet-1dbcf14a49e4)
+- 👂🏻 [Watched a Youtube video "Gravitas: Long Covid has more than 200 symptoms, 10 organ systems affected"](https://www.youtube.com/watch?v=hsqSgfMtPaA)
+- 👂🏻 [Watched a Youtube video "Gravitas: Explained: India's Mastercard Ban"](https://www.youtube.com/watch?v=pYcE14RpqQ8)
+- 💰📈 [Financial education ~ "Don't Invest without knowing This Tamil | Asset Allocation Explained |finance friday 58| AE"](https://www.youtube.com/watch?v=ZpoRaUniKzY)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [5. The retirement problem (Part 2)](https://zerodha.com/varsity/chapter/the-retirement-problem-part-2/)
+    - 💰📈 [5.1 – Assumptions](https://zerodha.com/varsity/chapter/the-retirement-problem-part-2/)
+    - 💰📈 [5.2 – The setup](https://zerodha.com/varsity/chapter/the-retirement-problem-part-2/)
+    - 💰📈 [5.3 – Are you serious?](https://zerodha.com/varsity/chapter/the-retirement-problem-part-2/)
+    - 💰📈 [5.4 –Next step](https://zerodha.com/varsity/chapter/the-retirement-problem-part-2/)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)                       
+    - 👨🏻‍💻⌨️ [8.3 What is Inheritance in Java | Lecture | Tutorial](https://www.youtube.com/watch?v=aFZ-0bbSLi8&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=76)                        
+    - 👨🏻‍💻⌨️ [8.4 Inheritance Example in Java Single Level](https://www.youtube.com/watch?v=361J5nra5PU&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=77)                        
+    - 👨🏻‍💻⌨️ [8.5 Inheritance Example in Java Multi Level](https://www.youtube.com/watch?v=y6qpkSS15hw&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=78)                        
+
+***
+</p></details>
+
+</p></details>
 
 >"No matter what you're going through, there's a light at the end of the tunnel and it may seem hard to get to it but you can do it and just keep working towards it and you'll find the positive side of things.~Demi Lovato
 
