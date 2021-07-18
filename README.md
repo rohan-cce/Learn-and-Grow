@@ -1,11 +1,40 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 221 Days (09/12/2020 to 17/07/2021)
+Learning Progress Till Now -> 222 Days (09/12/2020 to 18/07/2021)
 ***
 
 <details>
   <summary>Day 221 - 230 ~ July 17, 2021 - July 26, 2021</summary>
 <p>
+
+<details>
+<summary>Day 222</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d212e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d212ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20201%20-%20220/d212b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d212chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d212chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d212chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d212chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20201%20-%20220/d212h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20201%20-%20220/d212leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 💰📈 [Financial education ~ "The Ultimate guide to Investing in your 20's| Investment Strategy 2021 |Retire early Financialy FREE"](https://www.youtube.com/watch?v=HKXGDGwzorI)
+- 💰📈 [Financial education ~ "Investing in Mutual Funds? Don't make these 5 blunders | Money-Minded Mandee"](https://www.youtube.com/watch?v=Uf7-g6agJxk)
+- 💰📈 [Financial education ~ "Stocks Vs Mutual Funds | Where to Invest Money? | Share Market Tips & Advice"](https://www.youtube.com/watch?v=pE9REHhtP-0)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)]()
+  - 💰📈 [6. Introduction to Mutual Funds](https://zerodha.com/varsity/chapter/introduction-to-mutual-funds/)
+    - 💰📈 [6.1 – Flashback](https://zerodha.com/varsity/chapter/introduction-to-mutual-funds/)                       
+    - 💰📈 [6.2 – Large scale fund manager](https://zerodha.com/varsity/chapter/introduction-to-mutual-funds/)                       
+    - 💰📈 [6.3 – Deconstructing an AMC](https://zerodha.com/varsity/chapter/introduction-to-mutual-funds/)                       
+***
+</p></details>
 
 <details>
 <summary>Day 221</summary>
