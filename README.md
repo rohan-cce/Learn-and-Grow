@@ -1,11 +1,54 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 222 Days (09/12/2020 to 18/07/2021)
+Learning Progress Till Now -> 223 Days (09/12/2020 to 19/07/2021)
 ***
 
 <details>
   <summary>Day 221 - 230 ~ July 17, 2021 - July 26, 2021</summary>
 <p>
+
+<details>
+<summary>Day 223</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d213e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d213ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20201%20-%20220/d213b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d213chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d213chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d213chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d213chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20201%20-%20220/d213h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20201%20-%20220/d213leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 📑 Blogs Read
+  - 📑[6 Brain Damaging Habits You May Want to Quit](https://medium.com/publishous/6-brain-damaging-habits-you-may-want-to-quit-623b81827b51)
+- 🧐What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🧐[6 Money Rules I’ll Follow Until I Die](https://themakingofamillionaire.com/6-money-rules-ill-follow-until-i-die-81510a82fe59)
+- 👂🏻 [Watched a Youtube video "Over 180 killed in Europe's flood catastrophe | Germany | Belgium | Netherlands |Latest English News"](https://www.youtube.com/watch?v=1J0r_eKEgig)
+- 👂🏻 [Watched a Youtube video "First batch of India’s 88 Olympic-bound contingent reaches Japan | Tokyo 2020"](https://www.youtube.com/watch?v=6RKDsyJ-4jI)
+- 👂🏻 [Watched a Youtube video "India: Heavy downpour causes water logging | Mumbai | Latest World English News | WION News"](https://www.youtube.com/watch?v=VdPYjF1AXgo)
+- 💰📈 [Financial education ~ "The Ultimate guide to Investing in your 20's| Investment Strategy 2021 |Retire early Financialy FREE"](https://www.youtube.com/watch?v=HKXGDGwzorI)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [6. Concept of fund & NAV](https://zerodha.com/varsity/chapter/concept-of-fund-nav/)
+    - 💰📈 [7.1 – The Family pot ](https://zerodha.com/varsity/chapter/concept-of-fund-nav/)
+    - 💰📈 [7.2 – The fund logistics](https://zerodha.com/varsity/chapter/concept-of-fund-nav/)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)                       
+    - 👨🏻‍💻⌨️ [8.6 Object Creation in Inheritance | Constructor | Super](https://www.youtube.com/watch?v=P89hOqvBhCw&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=78)                                               
+    - 👨🏻‍💻⌨️ [8.7 Polymorphism in Java](https://www.youtube.com/watch?v=AmdgVatPL9k&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=79)                                               
+    - 👨🏻‍💻⌨️ [8.8 Polymorphism | OOPs | Method Overloading](https://www.youtube.com/watch?v=Y49U25-sRo8&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=80)                                               
+    - 👨🏻‍💻⌨️ [8.9 Polymorphism | OOPs | Method Overriding](https://www.youtube.com/watch?v=a6cdFZwX7kQ&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=81)                                               
+***
+</p></details>
 
 <details>
 <summary>Day 222</summary>
@@ -25,7 +68,6 @@ Learning Progress Till Now -> 222 Days (09/12/2020 to 18/07/2021)
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20201%20-%20220/d212leetcode.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
-- 💰📈 [Financial education ~ "The Ultimate guide to Investing in your 20's| Investment Strategy 2021 |Retire early Financialy FREE"](https://www.youtube.com/watch?v=HKXGDGwzorI)
 - 💰📈 [Financial education ~ "Investing in Mutual Funds? Don't make these 5 blunders | Money-Minded Mandee"](https://www.youtube.com/watch?v=Uf7-g6agJxk)
 - 💰📈 [Financial education ~ "Stocks Vs Mutual Funds | Where to Invest Money? | Share Market Tips & Advice"](https://www.youtube.com/watch?v=pE9REHhtP-0)
 - 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)]()
