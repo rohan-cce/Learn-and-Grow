@@ -1,11 +1,57 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 223 Days (09/12/2020 to 19/07/2021)
+Learning Progress Till Now -> 224 Days (09/12/2020 to 20/07/2021)
 ***
 
 <details>
   <summary>Day 221 - 230 ~ July 17, 2021 - July 26, 2021</summary>
 <p>
+
+<details>
+<summary>Day 224</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d214e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d214ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20201%20-%20220/d214b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d214chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d214chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d214chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d214chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20201%20-%20220/d214h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20201%20-%20220/d214leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 🏃 [Walking -> 4796 Steps ~ 2.7 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20201%20-%20220/d214walking.jpg)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 📑 Blogs Read
+  - 📑[Don’t Use If-Else and Switch in JavaScript, Use Object Literals](https://betterprogramming.pub/dont-use-if-else-and-switch-in-javascript-use-object-literals-c54578566ba0)
+- 🧐What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🧐[Four Fake Nice Gestures That Are Actually Manipulative](https://medium.com/mind-cafe/four-fake-nice-gestures-that-are-actually-manipulative-a168e1bc9bb1)
+- 👂🏻 [Watched a Youtube video "Gravitas: With 4 days left for the games, Japan struggles as a host"](https://www.youtube.com/watch?v=rYEP-ZuKpsA)
+- 👂🏻 [Watched a Youtube video "4 Chinese nationals charged for hacking US companies | China accused of widespread cybercrime | WION"](https://www.youtube.com/watch?v=ChbbqBRSy8w)
+- 👂🏻 [Watched a Youtube video "US & allies condemn China for malicious cyber activity | NATO to step up action against China | WION"](https://www.youtube.com/watch?v=AtFqIqcFSK4)
+- 💰📈 [Financial education ~ "Lesson 10 || Index Investing || For Long Term Wealth Accumulation (In Tamil)"](https://www.youtube.com/watch?v=0yvSuLjdccA)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [8. The mutual fund fact-sheet](https://zerodha.com/varsity/chapter/the-mutual-fund-fact-sheet/)
+    - 💰📈 [8.1 – The Mutual Fund world](https://zerodha.com/varsity/chapter/the-mutual-fund-fact-sheet/)
+    - 💰📈 [8.2 – The fund factsheet](https://zerodha.com/varsity/chapter/the-mutual-fund-fact-sheet/)
+    - 💰📈 [8.3 – Other fund facts](https://zerodha.com/varsity/chapter/the-mutual-fund-fact-sheet/)
+    - 💰📈 [8.4 – Riskometer](https://zerodha.com/varsity/chapter/the-mutual-fund-fact-sheet/)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)                       
+    - 👨🏻‍💻⌨️ [8.10 Dynamic Method Dispatch in Java](https://www.youtube.com/watch?v=RAaPv49jkCw&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=82)                                               
+    - 👨🏻‍💻⌨️ [8.11 What is Super Keyword in Java Part 1](https://www.youtube.com/watch?v=1ZDApgnufSI&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=83)                                               
+    - 👨🏻‍💻⌨️ [8.12 What is Super Keyword in Java Part 2](https://www.youtube.com/watch?v=i710R2JDZ7c&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=84)                                               
+    - 👨🏻‍💻⌨️ [8.13 Final Keyword in Java](https://www.youtube.com/watch?v=WZgcRSWVgpQ&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=85)                                               
+***
+</p></details>
 
 <details>
 <summary>Day 223</summary>
@@ -25,10 +71,6 @@ Learning Progress Till Now -> 223 Days (09/12/2020 to 19/07/2021)
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20201%20-%20220/d213leetcode.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
-- 📖📈 Book reading
-  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
-  - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
-  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
 - 📑 Blogs Read
   - 📑[6 Brain Damaging Habits You May Want to Quit](https://medium.com/publishous/6-brain-damaging-habits-you-may-want-to-quit-623b81827b51)
 - 🧐What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
@@ -38,7 +80,7 @@ Learning Progress Till Now -> 223 Days (09/12/2020 to 19/07/2021)
 - 👂🏻 [Watched a Youtube video "India: Heavy downpour causes water logging | Mumbai | Latest World English News | WION News"](https://www.youtube.com/watch?v=VdPYjF1AXgo)
 - 💰📈 [Financial education ~ "The Ultimate guide to Investing in your 20's| Investment Strategy 2021 |Retire early Financialy FREE"](https://www.youtube.com/watch?v=HKXGDGwzorI)
 - 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
-  - 💰📈 [6. Concept of fund & NAV](https://zerodha.com/varsity/chapter/concept-of-fund-nav/)
+  - 💰📈 [7. Concept of fund & NAV](https://zerodha.com/varsity/chapter/concept-of-fund-nav/)
     - 💰📈 [7.1 – The Family pot ](https://zerodha.com/varsity/chapter/concept-of-fund-nav/)
     - 💰📈 [7.2 – The fund logistics](https://zerodha.com/varsity/chapter/concept-of-fund-nav/)
 - 👨🏻‍💻⌨️ Learn and Code
