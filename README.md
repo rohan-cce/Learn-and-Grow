@@ -1,11 +1,49 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 224 Days (09/12/2020 to 20/07/2021)
+Learning Progress Till Now -> 225 Days (09/12/2020 to 25/07/2021)
 ***
 
 <details>
   <summary>Day 221 - 230 ~ July 17, 2021 - July 26, 2021</summary>
 <p>
+
+<details>
+<summary>Day 225</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d215e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d215ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20201%20-%20220/d215b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d215chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d215chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d215chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d215chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20201%20-%20220/d215h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20201%20-%20220/d215leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 🏃 [Walking -> 5957 Steps ~ 3.5 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20201%20-%20220/d215walking.jpg)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 👂🏻 [Watched a Youtube video "Gravitas: Ben & Jerry's vs Israel: No Ice-creams in 'occupied territories'"](https://www.youtube.com/watch?v=1-qHBxrgfug)
+- 👂🏻 [Watched a Youtube video "French President Macron among potential Pegasus Spyware targets | Latest World English News | WION"](https://www.youtube.com/watch?v=5cUBc5r334I)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [9. The Equity scheme (Part 1)](https://zerodha.com/varsity/chapter/the-equity-scheme-part-1/)
+    - 💰📈 [9.1 – October 2017](https://zerodha.com/varsity/chapter/the-equity-scheme-part-1/)
+    - 💰📈 [ 9.2 – The Mutual fund universe](https://zerodha.com/varsity/chapter/the-equity-scheme-part-1/)
+    - 💰📈 [9.3 – Equity Category](https://zerodha.com/varsity/chapter/the-equity-scheme-part-1/)
+    - 💰📈 [9.4 – The Equity mutual fund subcategories](https://zerodha.com/varsity/chapter/the-equity-scheme-part-1/)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)                                                                     
+    - 👨🏻‍💻⌨️ [8.12 What is Super Keyword in Java Part 2](https://www.youtube.com/watch?v=i710R2JDZ7c&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=84)                                               
+    - 👨🏻‍💻⌨️ [8.13 Final Keyword in Java](https://www.youtube.com/watch?v=WZgcRSWVgpQ&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=85)                                               
+***
+</p></details>
 
 <details>
 <summary>Day 224</summary>
@@ -26,10 +64,6 @@ Learning Progress Till Now -> 224 Days (09/12/2020 to 20/07/2021)
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20201%20-%20220/d214leetcode.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
 - 🏃 [Walking -> 4796 Steps ~ 2.7 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20201%20-%20220/d214walking.jpg)
-- 📖📈 Book reading
-  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
-  - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
-  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
 - 📑 Blogs Read
   - 📑[Don’t Use If-Else and Switch in JavaScript, Use Object Literals](https://betterprogramming.pub/dont-use-if-else-and-switch-in-javascript-use-object-literals-c54578566ba0)
 - 🧐What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
@@ -47,9 +81,7 @@ Learning Progress Till Now -> 224 Days (09/12/2020 to 20/07/2021)
 - 👨🏻‍💻⌨️ Learn and Code
   - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)                       
     - 👨🏻‍💻⌨️ [8.10 Dynamic Method Dispatch in Java](https://www.youtube.com/watch?v=RAaPv49jkCw&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=82)                                               
-    - 👨🏻‍💻⌨️ [8.11 What is Super Keyword in Java Part 1](https://www.youtube.com/watch?v=1ZDApgnufSI&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=83)                                               
-    - 👨🏻‍💻⌨️ [8.12 What is Super Keyword in Java Part 2](https://www.youtube.com/watch?v=i710R2JDZ7c&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=84)                                               
-    - 👨🏻‍💻⌨️ [8.13 Final Keyword in Java](https://www.youtube.com/watch?v=WZgcRSWVgpQ&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=85)                                               
+    - 👨🏻‍💻⌨️ [8.11 What is Super Keyword in Java Part 1](https://www.youtube.com/watch?v=1ZDApgnufSI&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=83)                                                                                             
 ***
 </p></details>
 
