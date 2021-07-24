@@ -1,12 +1,40 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 227 Days (09/12/2020 to 23/07/2021)
+Learning Progress Till Now -> 228 Days (09/12/2020 to 24/07/2021)
 ***
 
 <details>
   <summary>Day 221 - 230 ~ July 17, 2021 - July 26, 2021</summary>
 <p>
 
+<details>
+<summary>Day 228</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d218e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d218ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20201%20-%20220/d218b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d218chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d218chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d218chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d218chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20201%20-%20220/d218h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20201%20-%20220/d218leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 🏃 [Walking -> 5572 Steps ~ 4 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20201%20-%20220/d218walking.jpg)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 👂🏻 [Watched a Youtube video "What If You Only Drank Coca-Cola?"](https://www.youtube.com/watch?v=xIpeS3ncJrw)
+- 💰📈 [Financial education ~ "5 things I did to become financially free at 30"](https://www.youtube.com/watch?v=2LuanPuxBnE)
+- 💰📈 [Financial education ~ "SIP VS LUMPSUM Investment in tamil | SIP or one time in mutual fund tamil | FF 59 |almost everything"](https://www.youtube.com/watch?v=Z0rJRe3BgcI)
+- 💰📈 [Financial education ~ "ITC | Fundamental Analysis"](https://www.youtube.com/watch?v=ie-n7tIX0EU)
+</p></details>
 
 <details>
 <summary>Day 227</summary>
@@ -27,14 +55,9 @@ Learning Progress Till Now -> 227 Days (09/12/2020 to 23/07/2021)
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20201%20-%20220/d217leetcode.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
 - 🏃 [Walking -> 4290 Steps ~ 3 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20201%20-%20220/d217walking.jpg)
-- 📖📈 Book reading
-  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
-  - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
-  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
-- 👂🏻 [Watched a Youtube video "India reports this year's first human death from bird flu | AIIMS Chief: No need to panic |WION News"](https://www.youtube.com/watch?v=ngMIgYsBRzQ)
 - 👂🏻 [Watched a Youtube video "Gravitas: British warship to challenge Beijing in South China Sea"](https://www.youtube.com/watch?v=_cp02DLratA)
 - 💰📈 [Financial education ~ "Hanging Man | Trading techniques- Identification & Entries | Candles - Main Strategy | Lesson 4"]()
-- 💰📈 [Financial education ~ "How to Start with Less Money in Share Market? | Stock Market Knowledge"](https://www.youtube.com/watch?v=fQyUrDs0rX4)                                            
+- 💰📈 [Financial education ~ "How to Start with Less Money in Share Market? | Stock Market Knowledge"](https://www.youtube.com/watch?v=fQyUrDs0rX4)                                          
 ***
 </p></details>
 
