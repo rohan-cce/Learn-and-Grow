@@ -1,11 +1,44 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 229 Days (09/12/2020 to 25/07/2021)
+Learning Progress Till Now -> 230 Days (09/12/2020 to 26/07/2021)
 ***
 
 <details>
   <summary>Day 221 - 230 ~ July 17, 2021 - July 26, 2021</summary>
 <p>
+
+<details>
+<summary>Day 230</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d220e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d220ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20201%20-%20220/d220b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d220chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d220chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d220chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20201%20-%20220/d220chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20201%20-%20220/d220h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20201%20-%20220/d220leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
+  - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 👂🏻 [Watched a Youtube video "Dozens of warships & aircraft on display at Russia's Navy Day | Vladimir Putin | Latest English News"](https://www.youtube.com/watch?v=UeCaSrbuSqI)
+- 👂🏻 [Watched a Youtube video "How to end poverty in India : Cardano Case study from Ethiopia"](https://www.youtubepp.com/watch?v=NM-WadrQqWE)
+- 👂🏻 [Watched a Youtube video "U.S: Bootleg fire scorches over 400,000 acres of forest land | US wildfires | Latest English News"](https://www.youtube.com/watch?v=jBhh9nt-F9s)
+- 💰📈 [Financial education ~ "Mutual Funds for Beginners | 5 most important Mutual Fund terms you should know "](https://www.youtube.com/watch?v=TsOkGGMThsc)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [12. The Debt funds (Part 2)](https://zerodha.com/varsity/chapter/the-debt-funds-part-2/)
+    - 💰📈 [12.1 – Overnight Fund](https://zerodha.com/varsity/chapter/the-debt-funds-part-2/)
+    - 💰📈 [12.2 – Ultra-short duration Fund](https://zerodha.com/varsity/chapter/the-debt-funds-part-2/)
+    - 💰📈 [12.3 – Franklin and Vodafone saga](https://zerodha.com/varsity/chapter/the-debt-funds-part-2/)
+</p></details>
 
 <details>
 <summary>Day 229</summary>
@@ -26,10 +59,6 @@ Learning Progress Till Now -> 229 Days (09/12/2020 to 25/07/2021)
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20201%20-%20220/d219leetcode.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
 - 🏃 [Walking -> 4555 Steps ~ 3.5 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20201%20-%20220/d219walking.jpg)
-- 📖📈 Book reading
-  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
-  - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
-  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
 - 👂🏻 [Watched a Youtube video "COVID-19: India supplies medical oxygen to Bangladesh"](https://www.youtube.com/watch?v=Q10CS98rBGM)
 - 👂🏻 [Watched a Youtube video "Australia: Thousands take out protests in Sydney against lockdown"](https://www.youtube.com/watch?v=FwHFOG55quc)
 - 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
