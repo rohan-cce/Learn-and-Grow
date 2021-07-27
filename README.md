@@ -1,8 +1,47 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 230 Days (09/12/2020 to 26/07/2021)
+Learning Progress Till Now -> 231 Days (09/12/2020 to 27/07/2021)
 ***
 
+>“You do what you can for as long as you can, and when you finally can’t, you do the next best thing. You back up but you don’t give up.” ―Chuck Yeager
+
+<details>
+  <summary>Day 231 - 240 ~ July 27, 2021 - August 05, 2021</summary>
+<p>
+
+<details>
+<summary>Day 231</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20221%20-%20240/d221e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20221%20-%20240/d221ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20221%20-%20240/d221b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d221chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d221chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d221chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d221chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d221h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20221%20-%20240/d221leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 🏃 [Walking -> 8021 Steps ~ 6.21 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20221%20-%20240/d221walking.jpg)
+- 👂🏻 [Watched a Youtube video "How Media is Controlling you | Trust Me Iam Lying Book by Ryan Holiday in tamil | almost everything"](https://www.youtube.com/watch?v=HrXwvtbmX6g)
+- 💰📈 [Financial education ~ "Nifty nears 15,900; Sensex sits in green, crosses 53,000 | Market News | Business and Economy"](https://www.youtube.com/watch?v=UhvYSQw-bQI)
+- 💰📈 [Financial education ~ "How to Save Income Tax in 2021 by CA Rachana Ranade"](https://www.youtube.com/watch?v=59z5yb5Dr4M)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [13. The Debt funds (Part 3)](https://zerodha.com/varsity/chapter/the-debt-funds-part-3/)
+    - 💰📈 [13.1 – Debt jargons](https://zerodha.com/varsity/chapter/the-debt-funds-part-3/)
+    - 💰📈 [13.2 – Low duration and Money Market](https://zerodha.com/varsity/chapter/the-debt-funds-part-3/)
+    - 💰📈 [13.3 – Short Duration and Medium Duration funds](https://zerodha.com/varsity/chapter/the-debt-funds-part-3/)
+    - 💰📈 [13.4 – The  Franklin India debt fund saga](https://zerodha.com/varsity/chapter/the-debt-funds-part-3/)
+</p></details>
+
+</p></details>
+
+>“Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.” ―Dale Carnegie
 <details>
   <summary>Day 221 - 230 ~ July 17, 2021 - July 26, 2021</summary>
 <p>
@@ -25,10 +64,6 @@ Learning Progress Till Now -> 230 Days (09/12/2020 to 26/07/2021)
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20201%20-%20220/d220leetcode.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
-- 📖📈 Book reading
-  - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
-  - 📖 Read 5 pages in the book "No Shortcuts Rare Insights from 15 Successful Startup Founders by Nistha Tripathi"
-  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
 - 👂🏻 [Watched a Youtube video "Dozens of warships & aircraft on display at Russia's Navy Day | Vladimir Putin | Latest English News"](https://www.youtube.com/watch?v=UeCaSrbuSqI)
 - 👂🏻 [Watched a Youtube video "How to end poverty in India : Cardano Case study from Ethiopia"](https://www.youtubepp.com/watch?v=NM-WadrQqWE)
 - 👂🏻 [Watched a Youtube video "U.S: Bootleg fire scorches over 400,000 acres of forest land | US wildfires | Latest English News"](https://www.youtube.com/watch?v=jBhh9nt-F9s)
