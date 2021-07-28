@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 231 Days (09/12/2020 to 27/07/2021)
+Learning Progress Till Now -> 232 Days (09/12/2020 to 28/07/2021)
 ***
 
 >“You do what you can for as long as you can, and when you finally can’t, you do the next best thing. You back up but you don’t give up.” ―Chuck Yeager
@@ -8,6 +8,36 @@ Learning Progress Till Now -> 231 Days (09/12/2020 to 27/07/2021)
 <details>
   <summary>Day 231 - 240 ~ July 27, 2021 - August 05, 2021</summary>
 <p>
+
+<details>
+<summary>Day 232</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20221%20-%20240/d222e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20221%20-%20240/d222ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20221%20-%20240/d222b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d222chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d222chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d222chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d222chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d222h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20221%20-%20240/d222leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 🏃 [Walking -> 3402 Steps ~ 2.4  km   (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20221%20-%20240/d222  walking.jpg)
+- 👂🏻 [Watched a Youtube video "Gravitas: Is the Chinese military planning to enter Afghanistan?"](https://www.youtube.com/watch?v=J_Uizq0eLAc)
+- 👂🏻 [Watched a Youtube video "WATCH: Dubai creates fake rain using drones to beat 50-degree heat | Cobrapost"](https://www.youtube.com/watch?v=g0-jh8-kbTA)
+- 👂🏻 [Watched a Youtube video "What If We Planted a Trillion Trees?"](https://www.youtube.com/watch?v=yXIS-c9HsXc)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [14. ](https://zerodha.com/varsity/chapter/the-debt-funds-part-4/)
+    - 💰📈 [14.1 – Liquidity Risk](https://zerodha.com/varsity/chapter/the-debt-funds-part-4/)
+    - 💰📈 [14.2 – Banking and PSU Debt Fund](https://zerodha.com/varsity/chapter/the-debt-funds-part-4/)
+    - 💰📈 [14.3 – Credit Risk Funds](https://zerodha.com/varsity/chapter/the-debt-funds-part-4/)
+    - 💰📈 [14.4 – GILT Funds](https://zerodha.com/varsity/chapter/the-debt-funds-part-4/)
+</p></details>
 
 <details>
 <summary>Day 231</summary>
