@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 232 Days (09/12/2020 to 28/07/2021)
+Learning Progress Till Now -> 233 Days (09/12/2020 to 29/07/2021)
 ***
 
 >“You do what you can for as long as you can, and when you finally can’t, you do the next best thing. You back up but you don’t give up.” ―Chuck Yeager
@@ -8,6 +8,37 @@ Learning Progress Till Now -> 232 Days (09/12/2020 to 28/07/2021)
 <details>
   <summary>Day 231 - 240 ~ July 27, 2021 - August 05, 2021</summary>
 <p>
+
+<details>
+<summary>Day 233</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20221%20-%20240/d223e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20221%20-%20240/d223ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20221%20-%20240/d223b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d223chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d223chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d223chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d223chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d223h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20221%20-%20240/d223leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 🏃 [Walking -> 8110 Steps ~ 4.9  km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20221%20-%20240/d223walking.jpg)
+- 👂🏻 [Watched a Youtube video "Gravitas: Wuhan Virus is making a comeback in the United States"](https://www.youtube.com/watch?v=eEgubSYZQ2Y)
+- 👂🏻 [Watched a Youtube video "Gravitas: Chinese FM hosts Taliban delegation"](https://www.youtube.com/watch?v=h4p7n0CNck0)
+- 👂🏻 [Watched a Youtube video "This MP's Brutal Honesty Shook Parliament"](https://www.youtube.com/watch?v=kLoRvMLP5VI)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [15. Investing in Bonds](https://zerodha.com/varsity/chapter/investing-in-bonds/)
+    - 💰📈 [15.1 – Context](https://zerodha.com/varsity/chapter/investing-in-bonds/)
+    - 💰📈 [15.2 – The bonds platform](https://zerodha.com/varsity/chapter/investing-in-bonds/)
+    - 💰📈 [15.3 – Yield to Maturity](https://zerodha.com/varsity/chapter/investing-in-bonds/)
+    - 💰📈 [15.4 – Accrued Interest](https://zerodha.com/varsity/chapter/investing-in-bonds/)
+    - 💰📈 [15.5 – Should you invest in Bonds?](https://zerodha.com/varsity/chapter/investing-in-bonds/)
+</p></details>
 
 <details>
 <summary>Day 232</summary>
@@ -27,12 +58,12 @@ Learning Progress Till Now -> 232 Days (09/12/2020 to 28/07/2021)
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20221%20-%20240/d222leetcode.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
-- 🏃 [Walking -> 3402 Steps ~ 2.4  km   (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20221%20-%20240/d222  walking.jpg)
+- 🏃 [Walking -> 3402 Steps ~ 2.4  km   (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20221%20-%20240/d222walking.jpg)
 - 👂🏻 [Watched a Youtube video "Gravitas: Is the Chinese military planning to enter Afghanistan?"](https://www.youtube.com/watch?v=J_Uizq0eLAc)
 - 👂🏻 [Watched a Youtube video "WATCH: Dubai creates fake rain using drones to beat 50-degree heat | Cobrapost"](https://www.youtube.com/watch?v=g0-jh8-kbTA)
 - 👂🏻 [Watched a Youtube video "What If We Planted a Trillion Trees?"](https://www.youtube.com/watch?v=yXIS-c9HsXc)
 - 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
-  - 💰📈 [14. ](https://zerodha.com/varsity/chapter/the-debt-funds-part-4/)
+  - 💰📈 [14. The Debt Funds (Part 4)](https://zerodha.com/varsity/chapter/the-debt-funds-part-4/)
     - 💰📈 [14.1 – Liquidity Risk](https://zerodha.com/varsity/chapter/the-debt-funds-part-4/)
     - 💰📈 [14.2 – Banking and PSU Debt Fund](https://zerodha.com/varsity/chapter/the-debt-funds-part-4/)
     - 💰📈 [14.3 – Credit Risk Funds](https://zerodha.com/varsity/chapter/the-debt-funds-part-4/)
