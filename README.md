@@ -1,6 +1,6 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 234 Days (09/12/2020 to 30/07/2021)
+Learning Progress Till Now -> 235 Days (09/12/2020 to 31/07/2021)
 ***
 
 >“You do what you can for as long as you can, and when you finally can’t, you do the next best thing. You back up but you don’t give up.” ―Chuck Yeager
@@ -8,6 +8,34 @@ Learning Progress Till Now -> 234 Days (09/12/2020 to 30/07/2021)
 <details>
   <summary>Day 231 - 240 ~ July 27, 2021 - August 05, 2021</summary>
 <p>
+
+<details>
+<summary>Day 235</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20221%20-%20240/d225e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20221%20-%20240/d225ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20221%20-%20240/d225b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d225chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d225chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d225chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d225chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d225h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20221%20-%20240/d225leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 🏃 [Walking -> 6011 Steps ~ 3.4 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20221%20-%20240/d225walking.jpg)
+- 👂🏻 [Watched a Youtube video ""]()
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [16. Index Funds](https://zerodha.com/varsity/chapter/introduction-to-index-funds/)
+    - 💰📈 [16.5 Historical Performance](https://zerodha.com/varsity/chapter/introduction-to-index-funds/)
+    - 💰📈 [16.6 Bottomline](https://zerodha.com/varsity/chapter/introduction-to-index-funds/)
+    - 💰📈 [16.7 Fixed income (Debt)](https://zerodha.com/varsity/chapter/introduction-to-index-funds/)
+    - 💰📈 [16.8 Active or passive (Conclusion)](https://zerodha.com/varsity/chapter/introduction-to-index-funds/)
+</p></details>
 
 <details>
 <summary>Day 234</summary>
