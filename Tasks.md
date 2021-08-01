@@ -1,6 +1,5 @@
 # Learn-and-Grow
 Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
-## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 >“You do what you can for as long as you can, and when you finally can’t, you do the next best thing. You back up but you don’t give up.” ―Chuck Yeager
 
