@@ -3087,7 +3087,10 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 🎨 [Tried half mandala art](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/art/d131art.jpg)
 ***
 </p></details></p></details>
+
+
 >"Just don't give up trying to do what you really want to do. Where there is love and inspiration, I don't think you can go wrong." - Ella Fitzgerald
+
 <details><summary>Day 131 - 140 ~ April 18, 2021 -  April 27, 2021</summary><p>
 <details></details><summary>Day 140</summary><p>
 
@@ -3390,6 +3393,8 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [10.3 – What happens when you sell a stock?](https://zerodha.com/varsity/chapter/clearing-and-settlement-process/)
 ***
 </p></details></p></details>
+
+
 >“Success is the sum of small efforts repeated day in and day out.” - Robert Collier Author
 <details> <summary>Day 121 - 130 ~ April 08, 2021 -  April 17, 2021</summary><p>
 <details><summary>Day 130</summary><p>
@@ -3665,6 +3670,8 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
   - 💰📈 [Read the book "The cake shop" ~ Vidya has a tough task as she has to explain the stock markets to her 8-year-old angry son](https://drive.google.com/file/d/1Hj4BvNmGov5I8a9U4TiGxKc00sxXKXiS/view)
 ***
 </p></details></p></details>
+
+
 >“ Little by little becomes a lot.” Anonymous.
 <details><summary>Day 111 - 120 ~ March29, 2021 - April 07, 2021</summary><p>
 <details><summary>Day 120</summary><p>
@@ -3871,6 +3878,8 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 🏃 [Walking -> 3025 ~ 1.7 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/cd8b7f37cfd010d0aa53adca6b082d660f0daf6e/materials/images/walking/Day%20101%20-%20120/d101walking.jpg)
 ***
 </p></details></p></details>
+
+
 >"Try not to become a man of success. Rather become a man of value." - Albert Einstein
 <details><summary>Day 101 - 110 ~ March 19, 2021 - March 28, 2021</summary><p>
 <details><summary>Day 110</summary><p>
