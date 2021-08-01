@@ -1,8 +1,8 @@
 # Learn-and-Grow
 Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
-***
+
 >“You do what you can for as long as you can, and when you finally can’t, you do the next best thing. You back up but you don’t give up.” ―Chuck Yeager
-***
+
 <details><summary>Day 201 - 250 ~ June 27, 2021 -  August 15, 2021</summary><p>
 <details><summary>Day 231 - 240 ~ July 27, 2021 - August 05, 2021</summary><p>
 <details><summary>Day 236</summary><p>
@@ -459,6 +459,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 👨🏻‍💻⌨️ [8.5 Inheritance Example in Java Multi Level](https://www.youtube.com/watch?v=y6qpkSS15hw&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=78)                        
 ***
 </p></details></p></details>
+
 >"No matter what you're going through, there's a light at the end of the tunnel and it may seem hard to get to it but you can do it and just keep working towards it and you'll find the positive side of things.~Demi Lovato
 <details><summary>Day 211 - 220 ~ July 07, 2021 - July 16, 2021</summary><p>
 <details><summary>Day 220</summary><p>
@@ -875,6 +876,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 👨🏻‍💻⌨️ [Output of C Programs | Set 6](https://www.geeksforgeeks.org/output-of-c-programs-set-6/)
     - 👨🏻‍💻⌨️ [Puzzle 6 | (Monty Hall problem)](https://www.geeksforgeeks.org/puzzle-6-monty-hall-problem/)
 </p></details></p></details>
+
 >“If people are doubting how far you can go, go so far that you can’t hear them anymore.” – Michele Ruiz
 <details><summary>Day 201 - 210 ~ June 27, 2021 - July 06, 2021</summary><p>
 <details><summary>Day 210</summary><p>
@@ -1272,9 +1274,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [13.6 Margins](https://zerodha.com/varsity/chapter/quick-note-on-physical-settlement/)
 </p></details></p></details></p></details>
 
-***
+
 >“How much you can learn when you fail determines how far you will go into achieving your goals.”― Roy Bennett
-***
+
 <details><summary>Day 151 - 201 ~ May 08, 2021 - June 26, 2021</summary><p>
 <details><summary>Day 191 - 200 ~ June 17, 2021 - June 26, 2021</summary><p>
 <details><summary>Day 200</summary><p>
@@ -1603,6 +1605,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 👨🏻‍💻⌨️ [3.2 Switch-Case statement in C++ Programming | Lecture 3.2](https://www.youtube.com/watch?v=G80-j_xnE_8&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=8)
     - 👨🏻‍💻⌨️ [3.3 Operators in C++ Programming | 3.3](https://www.youtube.com/watch?v=JBgZxnAj4hg&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=9)
 </p></details></p></details>
+
 >"Stay afraid, but do it anyway. What's important is the action. You don't have to wait to be confident. Just do it and eventually the confidence will follow." - Carrie Fisher
 <details><summary>Day 181 - 190 ~ June 07, 2021 - June 16, 2021</summary><p>
 <details><summary>Day 190</summary><p>
@@ -1915,6 +1918,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 🐱‍💻 [15 Days of Code | Day 11 | Python Warriors [Handling Errors]](https://www.youtube.com/watch?v=oXh6T8EoSYE&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=12)
 ***
 </p></details></p></details>
+
 >“The Best Way To Get Started Is To Quit Talking And Begin Doing.” – Walt Disney
 <details><summary>Day 171 - 180 ~ May 28, 2021 - June 06, 2021</summary><p>
 <details><summary>Day 180</summary><p>
@@ -2241,6 +2245,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - ➕➖ Solved 10 Questions(Aptitude~Numbers) ✖️➗ 
 ***
 </p></details></p></details>
+
 >"If you start to think the problem is 'out there,' stop yourself. That thought is the problem." Stephen Covey
 <details><summary>Day 161 - 170 ~ May 18, 2021 - May 27, 2021</summary><p>
 <details><summary>Day 170</summary><p>
@@ -2528,6 +2533,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [1.4 – Tools of FA](https://zerodha.com/varsity/chapter/introduction-fundamental-analysis/)
 ***
 </p></details></p></details>
+
 >“You just can’t beat the person who won’t give up.” ―Babe Ruth
 <details><summary>Day 151 - 160 ~ May 08, 2021 - May 17, 2021</summary><p>
 <details><summary>Day 160</summary><p>
@@ -2804,9 +2810,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 ***
 </p></details></p></details></p></details>
 
-***
+
 >"Your life is in your hands. Every single circumstance in your life can change."
-***
+
 
 <details><summary>Day 101 - 151 ~ March 19, 2021 -  May 07, 2021</summary><p>
 <details><summary>Day 141 - 150 ~ April 28, 2021 -  May 07, 2021</summary><p>
@@ -3085,8 +3091,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [7.4 –My experience with a paper umbrella](https://zerodha.com/varsity/chapter/single-candlestick-patterns-part-3/)
     - 💰📈 [7.5 – The shooting star](https://zerodha.com/varsity/chapter/single-candlestick-patterns-part-3/)
 - 🎨 [Tried half mandala art](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/art/d131art.jpg)
-***
-</p></details></p></details>
+</p></details>
 
 
 >"Just don't give up trying to do what you really want to do. Where there is love and inspiration, I don't think you can go wrong." - Ella Fitzgerald
@@ -3396,7 +3401,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 
 
 >“Success is the sum of small efforts repeated day in and day out.” - Robert Collier Author
-<details> <summary>Day 121 - 130 ~ April 08, 2021 -  April 17, 2021</summary><p>
+<details><summary>Day 121 - 130 ~ April 08, 2021 -  April 17, 2021</summary><p>
 <details><summary>Day 130</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d120e1.jpg)
@@ -4078,9 +4083,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 ***
 </p></details></p></details></p></details>
 
-***
+
 >“You always pass failure on the way to success.”- Mickey Rooney
-***
+
 <details><summary>Day 51 - 100 ~ January 28, 2021 - March 18, 2021</summary><p>
 <details><summary>Day 91 - 100 ~ March 09, 2021 - March 18, 2021</summary><p>
 <details><summary>Day 100</summary><p>
@@ -4261,6 +4266,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 🏃 [Walking -> 13283 Steps ~ 8.3 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2081%20-%20100/d81walking.jpg)
 ***
 </p></details></p></details>
+
 >"Coming together is a beginning; keeping together is progress; working together is success." -Edward Everett Hale
 <details><summary>Day 81 - 90 ~ February 27, 2021 - March 08, 2021</summary><p>
 <details><summary>Day 90</summary><p>
@@ -4447,6 +4453,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 🐱‍💻 [Completed 1 Question in cryptography for beginners in TryHackme]
 ***
 </p></details></p></details>
+
 >“You cannot dream yourself into a character; you must hammer and forge yourself one.” ―Henry David Thoreau
 <details><summary>Day 71 - 80 ~ February 17, 2021 - February 26, 2021</summary><p>
 <details><summary>Day 80</summary><p>
@@ -4609,6 +4616,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 🐱‍💻 [Completed 1 Question in nmap room in try hack me]
 ***
 </p></details></p></details>
+
 >“What is the difference between an obstacle and an opportunity? Our attitude toward it. Every opportunity has a difficult, and every difficulty has an opportunity.”
 – J. Sidlow Baxter
 <details><summary>Day 61 - 70 ~ February 07, 2021 - February 16, 2021</summary><p>
@@ -4802,8 +4810,10 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 🐱‍💻 [Completed 1 Question in Text-fu Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2041%20-%2060/d51lx1.jpg)
 ***
 </p></details></p></details>
+
 >“Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough”
-― Oprah Winfrey 
+― Oprah Winfrey
+
 <details><summary>Day 51 - 60 ~ January 28, 2021 - February 06, 2021</summary><p>
 <details><summary>Day 60</summary><p>
 
@@ -5056,10 +5066,10 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 ***
 </p></details></p></details></p></details>
  
- ***
+ 
 >"If you're not making mistakes, then you're not doing anything. I'm positive that a doer makes mistakes."
 John Wooden - Author
-***
+
 <details><summary>Day 01 - 50 ~ December 09, 2020 - January 27, 2021</summary><p>
 <details><summary>Day 41 - 50 ~ January 18, 2021 - January 27, 2021</summary><p>
 <details><summary>Day 50</summary><p>
@@ -5323,6 +5333,7 @@ John Wooden - Author
 - 🌐 [Created Text Typing Effect using Html & CSS](https://rohan-cce.github.io/Typing-text-effect-using-css/)
 ***
 </p></details></p></details>
+
 >“In every day, there are 1,440 minutes. That means we have 1,440 daily opportunities to make a
 positive impact.”
 Les Brown - Author
@@ -5547,6 +5558,7 @@ Les Brown - Author
    - [A $1000 Bounty](https://gauravnarwani.com/a-1000-bounty/)
 ***
 </p></details></p></details>
+
 >“When you are enthusiastic about what you do, you feel this positive energy. It’s very simple.”😇 - Paulo Coelho
 <details><summary>Day 21 - 30 ~ December 29, 2020 - January 7, 2021</summary><p>
 <details><summary>Day 30</summary><p>
@@ -5807,6 +5819,7 @@ Les Brown - Author
 - ✔️ [Completed 17 Questions in basic css in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%201%20-%2020/d11fcc.png)
 ***
 </p></details></p></details>
+
 >“Winning doesn’t always mean being first. Winning means you’re doing better than you’ve
 done before.”😇
 <details><summary>Day 11 - 20 ~ December 19, 2020 - December 28 , 2020</summary><p>
@@ -6049,6 +6062,7 @@ done before.”😇
 - ✔️ [Completed 1-29 questions in w3school html exercise](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/Day%201%20-%2020/d1w3.jpg)
 ***
 </p></details></p></details>
+
 >“No one is perfect - that’s why pencils have erasers.”😇
 <details><summary>Day 01 - 10 ~ December 9, 2020 - December 18, 2020</summary><p>
 <details><summary>Day 10</summary><p>
