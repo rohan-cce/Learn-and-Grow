@@ -1,21 +1,10 @@
 # Learn-and-Grow
-
 Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 ***
-
 >“You do what you can for as long as you can, and when you finally can’t, you do the next best thing. You back up but you don’t give up.” ―Chuck Yeager
-
-<details>
-  <summary>Day 201 - 250 ~ June 27, 2021 -  August 15, 2021</summary>
-<p>
-
-<details>
-  <summary>Day 231 - 240 ~ July 27, 2021 - August 05, 2021</summary>
-<p>
-
-<details>
-<summary>Day 236</summary>
-<p>
+<details><summary>Day 201 - 250 ~ June 27, 2021 -  August 15, 2021</summary><p>
+<details><summary>Day 231 - 240 ~ July 27, 2021 - August 05, 2021</summary><p>
+<details><summary>Day 236</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20221%20-%20240/d226e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20221%20-%20240/d226ls1.jpg)
@@ -38,10 +27,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 💰📈 [Financial education ~ "What is Ethereum? How is it different from Bitcoin? | CA Rachana Ranade"](https://www.youtube.com/watch?v=gh5b-MzDl6I)
 - 💰📈 [Financial education ~ "Inverted Hammer | Candles - Main strategy | Lesson 6 |"](https://www.youtube.com/watch?v=CAto5EsxFEs) 
 </p></details>
-
-<details>
-<summary>Day 235</summary>
-<p>
+<details><summary>Day 235</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20221%20-%20240/d225e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20221%20-%20240/d225ls1.jpg)
@@ -65,10 +51,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [16.7 Fixed income (Debt)](https://zerodha.com/varsity/chapter/introduction-to-index-funds/)
     - 💰📈 [16.8 Active or passive (Conclusion)](https://zerodha.com/varsity/chapter/introduction-to-index-funds/)
 </p></details>
-
-<details>
-<summary>Day 234</summary>
-<p>
+<details><summary>Day 234</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20221%20-%20240/d224e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20221%20-%20240/d224ls1.jpg)
@@ -96,10 +79,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [16.3 Definition of an index fund](https://zerodha.com/varsity/chapter/introduction-to-index-funds/)
     - 💰📈 [16.4 Do index funds work?](https://zerodha.com/varsity/chapter/introduction-to-index-funds/)
 </p></details>
-
-<details>
-<summary>Day 233</summary>
-<p>
+<details><summary>Day 233</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20221%20-%20240/d223e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20221%20-%20240/d223ls1.jpg)
@@ -123,10 +103,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [15.4 – Accrued Interest](https://zerodha.com/varsity/chapter/investing-in-bonds/)
     - 💰📈 [15.5 – Should you invest in Bonds?](https://zerodha.com/varsity/chapter/investing-in-bonds/)
 </p></details>
-
-<details>
-<summary>Day 232</summary>
-<p>
+<details><summary>Day 232</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20221%20-%20240/d222e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20221%20-%20240/d222ls1.jpg)
@@ -153,10 +130,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [14.3 – Credit Risk Funds](https://zerodha.com/varsity/chapter/the-debt-funds-part-4/)
     - 💰📈 [14.4 – GILT Funds](https://zerodha.com/varsity/chapter/the-debt-funds-part-4/)
 </p></details>
-
-<details>
-<summary>Day 231</summary>
-<p>
+<details><summary>Day 231</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20221%20-%20240/d221e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20221%20-%20240/d221ls1.jpg)
@@ -182,18 +156,11 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [13.2 – Low duration and Money Market](https://zerodha.com/varsity/chapter/the-debt-funds-part-3/)
     - 💰📈 [13.3 – Short Duration and Medium Duration funds](https://zerodha.com/varsity/chapter/the-debt-funds-part-3/)
     - 💰📈 [13.4 – The  Franklin India debt fund saga](https://zerodha.com/varsity/chapter/the-debt-funds-part-3/)
-</p></details>
-
-</p></details>
+</p></details></p></details>
 
 >“Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.” ―Dale Carnegie
-<details>
-  <summary>Day 221 - 230 ~ July 17, 2021 - July 26, 2021</summary>
-<p>
-
-<details>
-<summary>Day 230</summary>
-<p>
+<details><summary>Day 221 - 230 ~ July 17, 2021 - July 26, 2021</summary><p>
+<details><summary>Day 230</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d220e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d220ls1.jpg)
@@ -219,10 +186,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [12.2 – Ultra-short duration Fund](https://zerodha.com/varsity/chapter/the-debt-funds-part-2/)
     - 💰📈 [12.3 – Franklin and Vodafone saga](https://zerodha.com/varsity/chapter/the-debt-funds-part-2/)
 </p></details>
-
-<details>
-<summary>Day 229</summary>
-<p>
+<details><summary>Day 229</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d219e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d219ls1.jpg)
@@ -247,7 +211,6 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [11.2 – The liquid fund](https://zerodha.com/varsity/chapter/the-debt-funds-part-1/)
     - 💰📈 [11.3 – Why liquid fund?](https://zerodha.com/varsity/chapter/the-debt-funds-part-1/)
 </p></details>
-
 <details>
 <summary>Day 228</summary>
 <p>
