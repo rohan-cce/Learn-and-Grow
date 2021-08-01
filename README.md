@@ -1,13 +1,43 @@
 # Learn-and-Grow
 
-Learning Progress Till Now -> 235 Days (09/12/2020 to 31/07/2021)
+Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 ***
 
 >“You do what you can for as long as you can, and when you finally can’t, you do the next best thing. You back up but you don’t give up.” ―Chuck Yeager
 
 <details>
+  <summary>Day 201 - 250 ~ June 27, 2021 -  August 15, 2021</summary>
+<p>
+
+<details>
   <summary>Day 231 - 240 ~ July 27, 2021 - August 05, 2021</summary>
 <p>
+
+<details>
+<summary>Day 236</summary>
+<p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20221%20-%20240/d226e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20221%20-%20240/d226ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20221%20-%20240/d226b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d226chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d226chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d226chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d226chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d226h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20221%20-%20240/d226leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 🏃 [Walking -> 8867 Steps ~ 4.95 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20221%20-%20240/d226walking.jpg)
+- 👂🏻 [Watched a Youtube video "Historic eviction crisis looms over US | COVID-19 | Delta Variant"](https://www.youtube.com/watch?v=zLlm4jUYrOE)
+- 👂🏻 [Watched a Youtube video "Residents forced to buy bottled water after Spain face water shortage | Latest English News | WION"](https://www.youtube.com/watch?v=cuG4nTp7Gog)
+- 👂🏻 [Watched a Youtube video "Anti-Health Pass Protest: France battles fourth wave of COVID-19"](https://www.youtube.com/watch?v=aiPWHYfMTCw)
+- 💰📈 [Financial education ~ "What is Ethereum? How is it different from Bitcoin? | CA Rachana Ranade"](https://www.youtube.com/watch?v=gh5b-MzDl6I)
+- 💰📈 [Financial education ~ "Inverted Hammer | Candles - Main strategy | Lesson 6 |"](https://www.youtube.com/watch?v=CAto5EsxFEs) 
+</p></details>
 
 <details>
 <summary>Day 235</summary>
@@ -28,7 +58,6 @@ Learning Progress Till Now -> 235 Days (09/12/2020 to 31/07/2021)
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20221%20-%20240/d225leetcode.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
 - 🏃 [Walking -> 6011 Steps ~ 3.4 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20221%20-%20240/d225walking.jpg)
-- 👂🏻 [Watched a Youtube video ""]()
 - 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
   - 💰📈 [16. Index Funds](https://zerodha.com/varsity/chapter/introduction-to-index-funds/)
     - 💰📈 [16.5 Historical Performance](https://zerodha.com/varsity/chapter/introduction-to-index-funds/)
@@ -1384,8 +1413,13 @@ Learning Progress Till Now -> 235 Days (09/12/2020 to 31/07/2021)
 
 ***
 </p></details>
+</p></details>
 
 >“How much you can learn when you fail determines how far you will go into achieving your goals.”― Roy Bennett
+
+<details>
+  <summary>Day 151 - 201 ~ May 08, 2021 - June 26, 2021</summary>
+<p>
 
 <details>
   <summary>Day 191 - 200 ~ June 17, 2021 - June 26, 2021</summary>
@@ -3116,8 +3150,13 @@ Learning Progress Till Now -> 235 Days (09/12/2020 to 31/07/2021)
 ***
 </p></details>
 </p></details>
+</p></details>
 
 >"Your life is in your hands. Every single circumstance in your life can change."
+
+<details>
+  <summary>Day 101 - 151 ~ March 19, 2021 -  May 07, 2021</summary>
+<p>
 
 <details>
   <summary>Day 141 - 150 ~ April 28, 2021 -  May 07, 2021</summary>
@@ -4564,8 +4603,13 @@ Learning Progress Till Now -> 235 Days (09/12/2020 to 31/07/2021)
 ***
 </p></details>
 </p></details>
+</p></details>
 
 >“You always pass failure on the way to success.”- Mickey Rooney
+
+<details>
+  <summary>Day 51 - 100 ~ January 28, 2021 - March 18, 2021</summary>
+<p>
 
 <details>
 <summary>Day 91 - 100 ~ March 09, 2021 - March 18, 2021</summary>
@@ -5716,10 +5760,14 @@ Learning Progress Till Now -> 235 Days (09/12/2020 to 31/07/2021)
 ***
 </p></details>
 </p></details>
-
+</p></details>
 
 >"If you're not making mistakes, then you're not doing anything. I'm positive that a doer makes mistakes."
 John Wooden - Author
+
+<details>
+  <summary>Day 01 - 50 ~ December 09, 2020 - January 27, 2021</summary>
+<p>
 
 <details>
   <summary>Day 41 - 50 ~ January 18, 2021 - January 27, 2021</summary>
@@ -7050,5 +7098,6 @@ done before.”😇
 - ✔️ Watched and Understood Intro part of Practical Ethical Hacking by The Cyber Mentor
 - ✔️ Read And Understood (Page Number 16-27) in Data Structures and Algorithm made easy by Narasimha karumanchi
 ***
+</p></details>
 </p></details>
 </p></details>
