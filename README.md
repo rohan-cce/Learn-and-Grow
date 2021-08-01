@@ -211,9 +211,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [11.2 – The liquid fund](https://zerodha.com/varsity/chapter/the-debt-funds-part-1/)
     - 💰📈 [11.3 – Why liquid fund?](https://zerodha.com/varsity/chapter/the-debt-funds-part-1/)
 </p></details>
-<details>
-<summary>Day 228</summary>
-<p>
+<details><summary>Day 228</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d218e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d218ls1.jpg)
@@ -239,10 +237,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 💰📈 [Financial education ~ "SIP VS LUMPSUM Investment in tamil | SIP or one time in mutual fund tamil | FF 59 |almost everything"](https://www.youtube.com/watch?v=Z0rJRe3BgcI)
 - 💰📈 [Financial education ~ "ITC | Fundamental Analysis"](https://www.youtube.com/watch?v=ie-n7tIX0EU)
 </p></details>
-
-<details>
-<summary>Day 227</summary>
-<p>
+<details><summary>Day 227</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d217e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d217ls1.jpg)
@@ -264,10 +259,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 💰📈 [Financial education ~ "How to Start with Less Money in Share Market? | Stock Market Knowledge"](https://www.youtube.com/watch?v=fQyUrDs0rX4)                                          
 ***
 </p></details>
-
-<details>
-<summary>Day 226</summary>
-<p>
+<details><summary>Day 226</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d216e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d216ls1.jpg)
@@ -296,10 +288,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [10.4 – ELSS Funds](https://zerodha.com/varsity/chapter/equity-scheme-part-2/)                                             
 ***
 </p></details>
-
-<details>
-<summary>Day 225</summary>
-<p>
+<details><summary>Day 225</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d215e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d215ls1.jpg)
@@ -331,10 +320,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 👨🏻‍💻⌨️ [8.13 Final Keyword in Java](https://www.youtube.com/watch?v=WZgcRSWVgpQ&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=85)                                               
 ***
 </p></details>
-
-<details>
-<summary>Day 224</summary>
-<p>
+<details><summary>Day 224</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d214e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d214ls1.jpg)
@@ -371,10 +357,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 👨🏻‍💻⌨️ [8.11 What is Super Keyword in Java Part 1](https://www.youtube.com/watch?v=1ZDApgnufSI&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=83)                                                                                             
 ***
 </p></details>
-
-<details>
-<summary>Day 223</summary>
-<p>
+<details><summary>Day 223</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d213e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d213ls1.jpg)
@@ -410,10 +393,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 👨🏻‍💻⌨️ [8.9 Polymorphism | OOPs | Method Overriding](https://www.youtube.com/watch?v=a6cdFZwX7kQ&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=81)                                               
 ***
 </p></details>
-
-<details>
-<summary>Day 222</summary>
-<p>
+<details><summary>Day 222</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d212e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d212ls1.jpg)
@@ -438,10 +418,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [6.3 – Deconstructing an AMC](https://zerodha.com/varsity/chapter/introduction-to-mutual-funds/)                       
 ***
 </p></details>
-
-<details>
-<summary>Day 221</summary>
-<p>
+<details><summary>Day 221</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d211e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d211ls1.jpg)
@@ -479,21 +456,11 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 👨🏻‍💻⌨️ [8.3 What is Inheritance in Java | Lecture | Tutorial](https://www.youtube.com/watch?v=aFZ-0bbSLi8&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=76)                        
     - 👨🏻‍💻⌨️ [8.4 Inheritance Example in Java Single Level](https://www.youtube.com/watch?v=361J5nra5PU&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=77)                        
     - 👨🏻‍💻⌨️ [8.5 Inheritance Example in Java Multi Level](https://www.youtube.com/watch?v=y6qpkSS15hw&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=78)                        
-
 ***
-</p></details>
-
-</p></details>
-
+</p></details></p></details>
 >"No matter what you're going through, there's a light at the end of the tunnel and it may seem hard to get to it but you can do it and just keep working towards it and you'll find the positive side of things.~Demi Lovato
-
-<details>
-  <summary>Day 211 - 220 ~ July 07, 2021 - July 16, 2021</summary>
-<p>
-
-<details>
-<summary>Day 220</summary>
-<p>
+<details><summary>Day 211 - 220 ~ July 07, 2021 - July 16, 2021</summary><p>
+<details><summary>Day 220</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d210e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d210ls1.jpg)
@@ -533,13 +500,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
   - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)                       
     - 👨🏻‍💻⌨️ [8.1 What is Encapsulation in Java Tutorial](https://www.youtube.com/watch?v=tt_astMjep0&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=73)                         
     - 👨🏻‍💻⌨️ [8.2 Encapsulation Example in Java](https://www.youtube.com/watch?v=-Alpmo-OfJs&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=75)                        
-
 ***
 </p></details>
-
-<details>
-<summary>Day 219</summary>
-<p>
+<details><summary>Day 219</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d209e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d209ls1.jpg)
@@ -577,13 +540,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
   - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)                       
     - 👨🏻‍💻⌨️ [7.16 How to use Static Block in Java Tutorial](https://www.youtube.com/watch?v=dCvEChffnTA&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=71)                         
     - 👨🏻‍💻⌨️ [7.17 Static Import in Java](https://www.youtube.com/watch?v=kHWcA4X2anE&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=72)                        
-
 ***
 </p></details>
-
-<details>
-<summary>Day 218</summary>
-<p>
+<details><summary>Day 218</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d208e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d208ls1.jpg)
@@ -617,13 +576,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 👨🏻‍💻⌨️ [7.13 What is Static Keyword in Java | static method and static variable](https://www.youtube.com/watch?v=-TxHjyC8WY4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=68)             
     - 👨🏻‍💻⌨️ [7.14 Why Non-Static variables does not work in Static method in Java?](https://www.youtube.com/watch?v=msXJVIecGp0&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=69)
     - 👨🏻‍💻⌨️ [7.15 Count Number of Objects of Class in Java](https://www.youtube.com/watch?v=zZlqRkgNSrg&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=70)                                             
-
 ***
 </p></details>
-
-<details>
-<summary>Day 217</summary>
-<p>
+<details><summary>Day 217</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d207e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d207ls1.jpg)
@@ -666,10 +621,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 👨🏻‍💻⌨️ [Puzzle 6 | (Monty Hall problem)](https://www.geeksforgeeks.org/puzzle-6-monty-hall-problem/)  
 ***
 </p></details>
-
-<details>
-<summary>Day 216</summary>
-<p>
+<details><summary>Day 216</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d206e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d206ls1.jpg)
@@ -715,10 +667,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 👨🏻‍💻⌨️ [Puzzle 6 | (Monty Hall problem)](https://www.geeksforgeeks.org/puzzle-6-monty-hall-problem/)  
 ***
 </p></details>
-
-<details>
-<summary>Day 215</summary>
-<p>
+<details><summary>Day 215</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d205e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d205ls1.jpg)
@@ -748,10 +697,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 👨🏻‍💻⌨️ [6.15 Different Ways of writing main method in java | Cool Tricks](https://www.youtube.com/watch?v=Bz36rTn5WEQ&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=55)      
 ***
 </p></details>
-
-<details>
-<summary>Day 214</summary>
-<p>
+<details><summary>Day 214</summary><p>
 
 - ✔️ Elevate
   - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d204e1.jpg)
@@ -792,10 +738,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 👨🏻‍💻⌨️ [6.12 Jagged Array in Java](https://www.youtube.com/watch?v=6A5SRl1VwbE&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=52)   
 ***
 </p></details>
-
-<details>
-<summary>Day 213</summary>
-<p>
+<details><summary>Day 213</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d203e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d203ls1.jpg)
@@ -838,10 +781,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 👨🏻‍💻⌨️ [6.9 2D Array in Java](https://www.youtube.com/watch?v=5pLNsNKWbsk&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=49)    
 ***
 </p></details>
-
-<details>
-<summary>Day 212</summary>
-<p>
+<details><summary>Day 212</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d202e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d202ls1.jpg)
@@ -887,10 +827,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     
 ***
 </p></details>
-
-<details>
-<summary>Day 211</summary>
-<p>
+<details><summary>Day 211</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20201%20-%20220/d201e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20201%20-%20220/d201ls1.jpg)
@@ -936,21 +873,10 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
   - 👨🏻‍💻⌨️ [Geeks for Geeks](https://www.geeksforgeeks.org)
     - 👨🏻‍💻⌨️ [Output of C Programs | Set 6](https://www.geeksforgeeks.org/output-of-c-programs-set-6/)
     - 👨🏻‍💻⌨️ [Puzzle 6 | (Monty Hall problem)](https://www.geeksforgeeks.org/puzzle-6-monty-hall-problem/)
-***
-</p></details>
-
-***
-</p></details>
-
+</p></details></p></details>
 >“If people are doubting how far you can go, go so far that you can’t hear them anymore.” – Michele Ruiz
-
-<details>
-  <summary>Day 201 - 210 ~ June 27, 2021 - July 06, 2021</summary>
-<p>
-
-<details>
-<summary>Day 210</summary>
-<p>
+<details><summary>Day 201 - 210 ~ June 27, 2021 - July 06, 2021</summary><p>
+<details><summary>Day 210</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d200e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d200ls1.jpg)
@@ -997,10 +923,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 👨🏻‍💻⌨️ [Output of C Programs | Set 5](https://www.geeksforgeeks.org/output-of-programs-set-5/)
 ***
 </p></details>
-
-<details>
-<summary>Day 209</summary>
-<p>
+<details><summary>Day 209</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d199e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d199ls1.jpg)
@@ -1047,10 +970,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 👨🏻‍💻⌨️ [Output of C Programs | Set 4](https://www.geeksforgeeks.org/output-of-programs-set-4/)
 ***
 </p></details>
-
-<details>
-<summary>Day 208</summary>
-<p>
+<details><summary>Day 208</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d198e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d198ls1.jpg)
@@ -1083,10 +1003,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 👨🏻‍💻⌨️ [Introduction to Netbeans IDE](https://www.youtube.com/watch?v=_n9SqA0E8HY&list=PLGwb7xZHg-oMv1pOlTHAqAEjw0EPALzlL&index=11)
 ***
 </p></details>
-
-<details>
-<summary>Day 207</summary>
-<p>
+<details><summary>Day 207</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d197e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d197ls1.jpg)
@@ -1134,10 +1051,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 👨🏻‍💻⌨️ [Puzzle 3 | (Calculate total distance travelled by bee)](https://www.geeksforgeeks.org/puzzle-3-calculate-total-distance-travelled-by-bee/)
 ***
 </p></details>
-
-<details>
-<summary>Day 206</summary>
-<p>
+<details><summary>Day 206</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d196e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d196ls1.jpg)
@@ -1185,10 +1099,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 👨🏻‍💻⌨️ [Puzzle 2 | (Find ages of daughters)](https://www.geeksforgeeks.org/puzzle-2-find-ages-of-daughters/)
 ***
 </p></details>
-
-<details>
-<summary>Day 205</summary>
-<p>
+<details><summary>Day 205</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d195e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d195ls1.jpg)
@@ -1241,10 +1152,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 👨🏻‍💻⌨️ [Puzzle 1 | (How to Measure 45 minutes using two identical wires?)](https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/)
 ***
 </p></details>
-
-<details>
-<summary>Day 204</summary>
-<p>
+<details><summary>Day 204</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d194e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d194ls1.jpg)
@@ -1274,10 +1182,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [3.3 – What are you? Trader, Investor, or Both?](https://zerodha.com/varsity/chapter/classifying-your-market-activity/)
 ***
 </p></details>
-
-<details>
-<summary>Day 203</summary>
-<p>
+<details><summary>Day 203</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d193e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d193ls1.jpg)
@@ -1310,10 +1215,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 👨🏻‍💻⌨️ [8.4 Array Challenges | C++ Course](https://www.youtube.com/watch?v=eJcBH0xvG98&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=23)
 ***
 </p></details>
-
-<details>
-<summary>Day 202</summary>
-<p>
+<details><summary>Day 202</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d192e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d192ls1.jpg)
@@ -1337,13 +1239,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 💰📈 [Financial education ~ "BUY or RENT a House in 2021 | CA Rachana Ranade"](https://www.youtube.com/watch?v=hPTrtp098vg)
 - 💰📈 [Financial education ~ Module 7 - Markets and Taxation](https://zerodha.com/varsity/module/markets-and-taxation/)
   - 💰📈 [1. Introduction (Setting the Context)](https://zerodha.com/varsity/chapter/introduction-setting-the-context/)
-
 ***
 </p></details>
-
-<details>
-<summary>Day 201</summary>
-<p>
+<details><summary>Day 201</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d191e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d191ls1.jpg)
@@ -1371,26 +1269,12 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [13.4 How are positions settled?](https://zerodha.com/varsity/chapter/quick-note-on-physical-settlement/)
     - 💰📈 [13.5 Netted off positions(subcategory)](https://zerodha.com/varsity/chapter/quick-note-on-physical-settlement/)
     - 💰📈 [13.6 Margins](https://zerodha.com/varsity/chapter/quick-note-on-physical-settlement/)
-***
-</p></details>
-
-***
-</p></details>
-</p></details>
-
+</p></details></p></details></p></details>
 >“How much you can learn when you fail determines how far you will go into achieving your goals.”― Roy Bennett
+<details><summary>Day 151 - 201 ~ May 08, 2021 - June 26, 2021</summary><p>
 
-<details>
-  <summary>Day 151 - 201 ~ May 08, 2021 - June 26, 2021</summary>
-<p>
-
-<details>
-  <summary>Day 191 - 200 ~ June 17, 2021 - June 26, 2021</summary>
-<p>
-
-<details>
-<summary>Day 200</summary>
-<p>
+<details><summary>Day 191 - 200 ~ June 17, 2021 - June 26, 2021</summary><p>
+<details><summary>Day 200</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d190e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d190ls1.jpg)
@@ -1423,10 +1307,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 👨🏻‍💻⌨️ [8.3.3 Insertion Sort | Sorting Algorithms | C++ Course ](https://www.youtube.com/watch?v=3GC83dh4cf0&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=22)
 ***
 </p></details>
-
-<details>
-<summary>Day 199</summary>
-<p>
+<details><summary>Day 199</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d189e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d189ls1.jpg)
@@ -1460,10 +1341,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [11.7 – Hedging a stock Portfolio](https://zerodha.com/varsity/chapter/hedging-futures/)
 ***
 </p></details>
-
-<details>
-<summary>Day 198</summary>
-<p>
+<details><summary>Day 198</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d188e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d188ls1.jpg)
@@ -1497,10 +1375,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 👨🏻‍💻⌨️ [8.3.2 Bubble Sort | Sorting in C++ ](https://www.youtube.com/watch?v=xcPFUCh0jT0&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=21)
 ***
 </p></details>
-
-<details>
-<summary>Day 197</summary>
-<p>
+<details><summary>Day 197</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d187e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d187ls1.jpg)
@@ -1532,13 +1407,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
   - 👨🏻‍💻⌨️ [Apna College ~ C++ Tutorial | DataStructure & Algorithm ](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
     - 👨🏻‍💻⌨️ [8.1 Introduction to Arrays in C++](https://www.youtube.com/watch?v=PyTK_g1l8V8&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=18)
     - 👨🏻‍💻⌨️ [8.2 Searching in Arrays | Linear and Binary Search | C++ Course |](https://www.youtube.com/watch?v=13ocRMSJy5M&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=19)
-
 ***
 </p></details>
-
-<details>
-<summary>Day 196</summary>
-<p>
+<details><summary>Day 196</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d186e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d186ls1.jpg)
@@ -1567,13 +1438,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 👨🏻‍💻⌨️ Learn and Code
   - 👨🏻‍💻⌨️ [Apna College ~ C++ Tutorial | DataStructure & Algorithm ](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
     - 👨🏻‍💻⌨️ [7.1 Time Complexity | C++ Course](https://www.youtube.com/watch?v=rq_rwnveh8s&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=17)
-
 ***
 </p></details>
-
-<details>
-<summary>Day 195</summary>
-<p>
+<details><summary>Day 195</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d185e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d185ls1.jpg)
@@ -1606,13 +1473,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 👨🏻‍💻⌨️ [6.1 Functions in C++](https://www.youtube.com/watch?v=83KtncYgHYQ&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=14)
     - 👨🏻‍💻⌨️ [6.2 Functions Challenges | Lecture 6.2](https://www.youtube.com/watch?v=8vzk_JBKGcQ&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=15)
     - 👨🏻‍💻⌨️ [6.3 Advanced Questions on Functions](https://www.youtube.com/watch?v=lYnPK1svd-4&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=16)
-
 ***
 </p></details>
-
-<details>
-<summary>Day 194</summary>
-<p>
+<details><summary>Day 194</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d184e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d184ls1.jpg)
@@ -1633,10 +1496,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 👂🏻 [Watched a Youtube video "Gravitas Plus: A Chinese Colony in India's backyard | Colombo Port City Project | Palki Sharma Live"](https://youtu.be/d3-pT097aAg)
 ***
 </p></details>
-
-<details>
-<summary>Day 193</summary>
-<p>
+<details><summary>Day 193</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d183e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d183ls1.jpg)
@@ -1671,10 +1531,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 👨🏻‍💻⌨️ [5.2 How to reverse a number | Check if a number is Prime or Armstrong | # 5.2](https://www.youtube.com/watch?v=6TzUHrAXytM&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=13)
 ***
 </p></details>
-
-<details>
-<summary>Day 192</summary>
-<p>
+<details><summary>Day 192</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d182e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d182ls1.jpg)
@@ -1708,14 +1565,8 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
   - 👨🏻‍💻⌨️ [Apna College ~ C++ Tutorial | DataStructure & Algorithm ](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
     - 👨🏻‍💻⌨️ [4.1 Awesome Pattern Questions -1 ](https://www.youtube.com/watch?v=LfgAOZ1kKMw&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=10)
     - 👨🏻‍💻⌨️ [4.2 Advanced Pattern Questions in C++ | Lecture 4.2](https://www.youtube.com/watch?v=k9OlCJFy5yo&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=11)
-
-***
 </p></details>
-
-
-<details>
-<summary>Day 191</summary>
-<p>
+<details><summary>Day 191</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20181%20-%20200/d181e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20181%20-%20200/d181ls1.jpg)
@@ -1748,22 +1599,10 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 👨🏻‍💻⌨️ [3.1 Break and Continue statement in C++ Programming | Lecture 3.1](https://www.youtube.com/watch?v=Stf7KBiA1vs&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=7)
     - 👨🏻‍💻⌨️ [3.2 Switch-Case statement in C++ Programming | Lecture 3.2](https://www.youtube.com/watch?v=G80-j_xnE_8&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=8)
     - 👨🏻‍💻⌨️ [3.3 Operators in C++ Programming | 3.3](https://www.youtube.com/watch?v=JBgZxnAj4hg&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=9)
-
-***
-</p></details>
-
-***
-</p></details>
-
-
+</p></details></p></details>
 >"Stay afraid, but do it anyway. What's important is the action. You don't have to wait to be confident. Just do it and eventually the confidence will follow." - Carrie Fisher
-<details>
-  <summary>Day 181 - 190 ~ June 07, 2021 - June 16, 2021</summary>
-<p>
-
-<details>
-<summary>Day 190</summary>
-<p>
+<details><summary>Day 181 - 190 ~ June 07, 2021 - June 16, 2021</summary><p>
+<details><summary>Day 190</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d180e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d180ls1.jpg)
@@ -1802,11 +1641,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 
 ***
 </p></details>
-
-
-<details>
-<summary>Day 189</summary>
-<p>
+<details><summary>Day 189</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d179e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d179ls1.jpg)
@@ -1839,10 +1674,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 
 ***
 </p></details>
-
-<details>
-<summary>Day 188</summary>
-<p>
+<details><summary>Day 188</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d178e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d178ls1.jpg)
@@ -1874,10 +1706,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 
 ***
 </p></details>
-
-<details>
-<summary>Day 187</summary>
-<p>
+<details><summary>Day 187</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d177e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d177ls1.jpg)
@@ -1900,10 +1729,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
   - 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
 ***
 </p></details>
-
-<details>
-<summary>Day 186</summary>
-<p>
+<details><summary>Day 186</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d176e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d176ls1.jpg)
@@ -1931,10 +1757,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [2.3 – Before your first futures trade](https://zerodha.com/varsity/chapter/introducing-futures-contract/)
 ***
 </p></details>
-
-<details>
-<summary>Day 185</summary>
-<p>
+<details><summary>Day 185</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d175e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d175ls1.jpg)
@@ -1964,13 +1787,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [1.5– A quick note on settlement](https://zerodha.com/varsity/chapter/background-forwards-market/)
     - 💰📈 [1.6 – What about the risk?](https://zerodha.com/varsity/chapter/background-forwards-market/)
 - 🐱‍💻 [15 Days of Code | Day 15 | Python Warriors [Numpy]](https://www.youtube.com/watch?v=iGtQV6VDOng&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=16)
-   
 ***
 </p></details>
-
-<details>
-<summary>Day 184</summary>
-<p>
+<details><summary>Day 184</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d174e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d174ls1.jpg)
@@ -1999,13 +1818,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [16.4 – How many stocks in the portfolio?](https://zerodha.com/varsity/chapter/finale/)
     - 💰📈 [16.5 – Final Conclusion](https://zerodha.com/varsity/chapter/finale/)
 - 🐱‍💻 [15 Days of Code | Day 14 | Python Warriors [Web Scraping]](https://www.youtube.com/watch?v=EdpOH9p9Tq8&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=15)
-   
 ***
 </p></details>
-
-<details>
-<summary>Day 183</summary>
-<p>
+<details><summary>Day 183</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d173e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d173ls1.jpg)
@@ -2033,13 +1848,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [15.6 –Spotting buying opportunities](https://zerodha.com/varsity/chapter/equity-research-part-2/)
     - 💰📈 [15.7 – Conclusion](https://zerodha.com/varsity/chapter/equity-research-part-2/)
 - 🐱‍💻 [15 Days of Code | Day 13 | Python Warriors [Classes and Objects]](https://www.youtube.com/watch?v=187nSH-g8l0&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=14)
-   
 ***
 </p></details>
-
-<details>
-<summary>Day 182</summary>
-<p>
+<details><summary>Day 182</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d172e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d172ls1.jpg)
@@ -2067,13 +1878,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [15.3 – The Net Present Value (NPV)](https://zerodha.com/varsity/chapter/equity-research-part-2/)
     - 💰📈 [15.4 – The Share Price](https://zerodha.com/varsity/chapter/equity-research-part-2/)
 - 🐱‍💻 [15 Days of Code | Day 12 | Python Warriors [File Handling]](https://www.youtube.com/watch?v=tnValygNunI&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=14)
-   
 ***
 </p></details>
-
-<details>
-<summary>Day 181</summary>
-<p>
+<details><summary>Day 181</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d171e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d171ls1.jpg)
@@ -2103,22 +1910,11 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [14.3 – Time Value of Money (TMV)](https://zerodha.com/varsity/chapter/dcf-primer/)
     - 💰📈 [14.4 – The Net Present Value of cash flows](https://zerodha.com/varsity/chapter/dcf-primer/)
 - 🐱‍💻 [15 Days of Code | Day 11 | Python Warriors [Handling Errors]](https://www.youtube.com/watch?v=oXh6T8EoSYE&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=12)
-   
 ***
-</p></details>
-
-</p></details>
-
-
+</p></details></p></details>
 >“The Best Way To Get Started Is To Quit Talking And Begin Doing.” – Walt Disney
-
-<details>
-  <summary>Day 171 - 180 ~ May 28, 2021 - June 06, 2021</summary>
-<p>
-
-<details>
-<summary>Day 180</summary>
-<p>
+<details><summary>Day 171 - 180 ~ May 28, 2021 - June 06, 2021</summary><p>
+<details><summary>Day 180</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d170e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d170ls1.jpg)
@@ -2146,10 +1942,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [14.4 – The Net Present Value of cash flows](https://zerodha.com/varsity/chapter/dcf-primer/) 
 ***
 </p></details>
-
-<details>
-<summary>Day 179</summary>
-<p>
+<details><summary>Day 179</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d169e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d169ls1.jpg)
@@ -2172,13 +1965,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
   - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
   - 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
 - 🐱‍💻 [15 Days of Code | Day 10 | Python Warriors [LIST COMPREHENSIONS]](https://www.youtube.com/watch?v=aDMM8wfQbm4&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=11)
-
 ***
 </p></details>
-
-<details>
-<summary>Day 179</summary>
-<p>
+<details><summary>Day 179</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d169e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d169ls1.jpg)
@@ -2200,13 +1989,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
   - 📖 Read 5 pages in the book "Think and Grow Rich by Napoleon hill"
   - 💰📈📖 Financial education ~ Read 10 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
 - 🐱‍💻 [15 Days of Code | Day 10 | Python Warriors [LIST COMPREHENSIONS]](https://www.youtube.com/watch?v=aDMM8wfQbm4&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=11)
-
 ***
 </p></details>
-
-<details>
-<summary>Day 178</summary>
-<p>
+<details><summary>Day 178</summary><p>
 
 - ✔️ Elevate
   - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d168e1.jpg)
@@ -2247,10 +2032,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 
 ***
 </p></details>
-
-<details>
-<summary>Day 177</summary>
-<p>
+<details><summary>Day 177</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d167e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d167ls1.jpg)
@@ -2279,10 +2061,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 🐱‍💻 [15 Days of Code | Day 8 | Python Warriors [Conditions and Loops]](https://www.youtube.com/watch?v=j5gPB2cxlsc&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=9)
 ***
 </p></details>
-
-<details>
-<summary>Day 176</summary>
-<p>
+<details><summary>Day 176</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d166e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d166ls1.jpg)
@@ -2315,10 +2094,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - ➕➖ Solved 10 Questions(Aptitude~Numbers) ✖️➗ 
 ***
 </p></details>
-
-<details>
-<summary>Day 175</summary>
-<p>
+<details><summary>Day 175</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d165e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d165ls1.jpg)
@@ -2346,10 +2122,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 🏃 [Walking -> 5222 Steps ~ 3.3 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20161%20-%20180/d165walking.jpg)
 ***
 </p></details>
-
-<details>
-<summary>Day 174</summary>
-<p>
+<details><summary>Day 174</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d164e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d164ls1.jpg)
@@ -2382,11 +2155,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - ➕➖ Solved 10 Questions(Aptitude~Numbers) ✖️➗ 
 ***
 </p></details>
-
-
-<details>
-<summary>Day 173</summary>
-<p>
+<details><summary>Day 173</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d163e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d163ls1.jpg)
@@ -2407,10 +2176,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
   - 💰📈📖 Financial education ~ Read 9 pages in the book "HOW TO AVOID LOSS AND EARN CONSISTENTLY IN THE STOCK MARKET by PRASENJIT PAUL"
 ***
 </p></details>
-
-<details>
-<summary>Day 172</summary>
-<p>
+<details><summary>Day 172</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d162e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d162ls1.jpg)
@@ -2441,10 +2207,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - ➕➖ Solved 10 Questions(Aptitude~Numbers) ✖️➗ 
 ***
 </p></details>
-
-<details>
-<summary>Day 171</summary>
-<p>
+<details><summary>Day 171</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20161%20-%20180/d161e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20161%20-%20180/d161ls1.jpg)
@@ -2474,19 +2237,10 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 🐱‍💻 [15 Days of Code | Day 3 | Python Warrior](https://www.youtube.com/watch?v=ZvBOCE73b98&list=PL8nLQxtPbaSwp5HwQkVJmALBoS8A3NMAo&index=4)
 - ➕➖ Solved 10 Questions(Aptitude~Numbers) ✖️➗ 
 ***
-</p></details>
-
-</p></details>
-
+</p></details></p></details>
 >"If you start to think the problem is 'out there,' stop yourself. That thought is the problem." Stephen Covey
-
-<details>
-  <summary>Day 161 - 170 ~ May 18, 2021 - May 27, 2021</summary>
-<p>
-
-<details>
-<summary>Day 170</summary>
-<p>
+<details><summary>Day 161 - 170 ~ May 18, 2021 - May 27, 2021</summary><p>
+<details><summary>Day 170</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d160e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d160ls1.jpg)
@@ -2519,10 +2273,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - ➕➖ Solved 10 Questions(Aptitude~Numbers) ✖️➗ 
 ***
 </p></details>
-
-<details>
-<summary>Day 169</summary>
-<p>
+<details><summary>Day 169</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d159e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d159ls1.jpg)
@@ -2561,10 +2312,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - ➕➖ Solved 10 Questions(Aptitude~Numbers) ✖️➗ 
 ***
 </p></details>
-
-<details>
-<summary>Day 168</summary>
-<p>
+<details><summary>Day 168</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d158e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d158ls1.jpg)
@@ -2591,10 +2339,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [7.5 – Connecting the P&L and Balance Sheet](https://zerodha.com/varsity/chapter/understanding-balance-sheet-statement-part-2/)
 ***
 </p></details>
-
-<details>
-<summary>Day 167</summary>
-<p>
+<details><summary>Day 167</summary><p>
 
 - ✔️ Elevate
   - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d157e1.jpg)
@@ -2624,10 +2369,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [7.5 – Connecting the P&L and Balance Sheet](https://zerodha.com/varsity/chapter/understanding-balance-sheet-statement-part-2/)
 ***
 </p></details>
-
-<details>
-<summary>Day 166</summary>
-<p>
+<details><summary>Day 166</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d156e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d156ls1.jpg)
@@ -2654,10 +2396,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [6.5 – Current liabilities](https://zerodha.com/varsity/chapter/understanding-balance-sheet-statement-part-1/)
 ***
 </p></details>
-
-<details>
-<summary>Day 165</summary>
-<p>
+<details><summary>Day 165</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d155e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d155ls1.jpg)
@@ -2683,10 +2422,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [5.4 – Conclusion](https://zerodha.com/varsity/chapter/understanding-pl-statement-part2/)
 ***
 </p></details>
-
-<details>
-<summary>Day 164</summary>
-<p>
+<details><summary>Day 164</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d154e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d154ls1.jpg)
@@ -2712,10 +2448,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [4.3 – The Top Line of the company (Revenue)](https://zerodha.com/varsity/chapter/understanding-pl-statement-part1/)
 ***
 </p></details>
-
-<details>
-<summary>Day 163</summary>
-<p>
+<details><summary>Day 163</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d153e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d153ls1.jpg)
@@ -2741,10 +2474,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [3.4 – Schedules of Financial Statements](https://zerodha.com/varsity/chapter/read-annual-report-company/)
 ***
 </p></details>
-
-<details>
-<summary>Day 162</summary>
-<p>
+<details><summary>Day 162</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d152e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d152ls1.jpg)
@@ -2769,10 +2499,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [2.4 – Investible grade attributes? What does that mean?](https://zerodha.com/varsity/chapter/mindset-investor/)
 ***
 </p></details>
-
-<details>
-<summary>Day 161</summary>
-<p>
+<details><summary>Day 161</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d151e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d151ls1.jpg)
@@ -2797,19 +2524,10 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [1.3 – I’m happy with Technical Analysis, so why bother about Fundamental Analysis?](https://zerodha.com/varsity/chapter/introduction-fundamental-analysis/)
     - 💰📈 [1.4 – Tools of FA](https://zerodha.com/varsity/chapter/introduction-fundamental-analysis/)
 ***
-</p></details>
-
-</p></details>
-
+</p></details></p></details>
 >“You just can’t beat the person who won’t give up.” ―Babe Ruth
-
-<details>
-  <summary>Day 151 - 160 ~ May 08, 2021 - May 17, 2021</summary>
-<p>
-
-<details>
-<summary>Day 160</summary>
-<p>
+<details><summary>Day 151 - 160 ~ May 08, 2021 - May 17, 2021</summary><p>
+<details><summary>Day 160</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d150e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d150ls1.jpg)
@@ -2838,10 +2556,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [19.6 – The Scalper](https://zerodha.com/varsity/chapter/finale-helping-get-started/)
 ***
 </p></details>
-
-<details>
-<summary>Day 159</summary>
-<p>
+<details><summary>Day 159</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d149e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d149ls1.jpg)
@@ -2871,10 +2586,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [18.7 – What next?](https://zerodha.com/varsity/chapter/dow-theory-part-2/)
 ***
 </p></details>
-
-<details>
-<summary>Day 158</summary>
-<p>
+<details><summary>Day 158</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d148e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d148ls1.jpg)
@@ -2901,13 +2613,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [17.3 – The Dow Patterns](https://zerodha.com/varsity/chapter/dow-theory-part-1/)
     - 💰📈 [17.4 – The Double bottom and top formation](https://zerodha.com/varsity/chapter/dow-theory-part-1)
     - 💰📈 [17.5 – The triple top and bottom](https://zerodha.com/varsity/chapter/dow-theory-part-1/)
-
 ***
 </p></details>
-
-<details>
-<summary>Day 157</summary>
-<p>
+<details><summary>Day 157</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d147e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d147ls1.jpg)
@@ -2933,12 +2641,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [16.3 – How should you use the Fibonacci retracement levels?](https://zerodha.com/varsity/chapter/fibonacci-retracements/)
 ***
 </p></details>
-
-
-
-<details>
-<summary>Day 156</summary>
-<p>
+<details><summary>Day 156</summary><p>
 
 - ✔️ Elevate
   - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d146e1.jpg)
@@ -2969,10 +2672,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [15.4 – The Checklist](https://zerodha.com/varsity/chapter/indicators-part-2/)
 ***
 </p></details>
-
-<details>
-<summary>Day 155</summary>
-<p>
+<details><summary>Day 155</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d145e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d145ls1.jpg)
@@ -2998,10 +2698,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [14.2 – One last note](https://zerodha.com/varsity/chapter/indicators-part-1/)
 ***
 </p></details>
-
-<details>
-<summary>Day 154</summary>
-<p>
+<details><summary>Day 154</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d144e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d144ls1.jpg)
@@ -3028,10 +2725,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [13.4 – Moving average crossover system](https://zerodha.com/varsity/chapter/moving-averages/)
 ***
 </p></details>
-
-<details>
-<summary>Day 153</summary>
-<p>
+<details><summary>Day 153</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d143e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d143ls1.jpg)
@@ -3058,10 +2752,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [13.4 – Moving average crossover system](https://zerodha.com/varsity/chapter/moving-averages/)
 ***
 </p></details>
-
-<details>
-<summary>Day 152</summary>
-<p>
+<details><summary>Day 152</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d142e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d142ls1.jpg)
@@ -3082,10 +2773,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 👂🏻 [Watched a Youtube video "The Rise And Fall Of The Cruise Industry | Rise And Fall"](https://www.youtube.com/watch?v=U5Ncbs-bE8Q)
 ***
 </p></details>
-
-<details>
-<summary>Day 151</summary>
-<p>
+<details><summary>Day 151</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20141%20-%20160/d141e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20141%20-%20160/d141ls1.jpg)
@@ -3111,23 +2799,11 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [12.2 – The thought process behind the volume trend table](https://zerodha.com/varsity/chapter/volumes/)
     - 💰📈 [12.3 – Revisiting the checklist](https://zerodha.com/varsity/chapter/volumes/)
 ***
-</p></details>
-</p></details>
-</p></details>
-
+</p></details></p></details></p></details>
 >"Your life is in your hands. Every single circumstance in your life can change."
-
-<details>
-  <summary>Day 101 - 151 ~ March 19, 2021 -  May 07, 2021</summary>
-<p>
-
-<details>
-  <summary>Day 141 - 150 ~ April 28, 2021 -  May 07, 2021</summary>
-<p>
-
-<details>
-<summary>Day 150</summary>
-<p>
+<details><summary>Day 101 - 151 ~ March 19, 2021 -  May 07, 2021</summary><p>
+<details><summary>Day 141 - 150 ~ April 28, 2021 -  May 07, 2021</summary><p>
+<details><summary>Day 150</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20121%20-%20140/d140e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20121%20-%20140/d140ls1.jpg)
@@ -3155,10 +2831,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [12.3 – Revisiting the checklist](https://zerodha.com/varsity/chapter/volumes/)
 ***
 </p></details>
-
-<details>
-<summary>Day 149</summary>
-<p>
+<details><summary>Day 149</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20121%20-%20140/d139e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20121%20-%20140/d139ls1.jpg)
@@ -3188,10 +2861,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [11.5 – Optimization and checklist](https://zerodha.com/varsity/chapter/support-resistance/)
 ***
 </p></details>
-
-<details>
-<summary>Day 148</summary>
-<p>
+<details><summary>Day 148</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20121%20-%20140/d138e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20121%20-%20140/d138ls1.jpg)
@@ -3213,10 +2883,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 👂🏻 [Watched a Youtube video "Canadians get creative in solving food waste problem"](https://www.youtube.com/watch?v=fRovHP4eXyM)
 ***
 </p></details>
-
-<details>
-<summary>Day 147</summary>
-<p>
+<details><summary>Day 147</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20121%20-%20140/d137e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20121%20-%20140/d137ls1.jpg)
@@ -3236,13 +2903,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 👂🏻 [Watched a Youtube video "Nations continue to send aid as India fights a massive battle against coronavirus"](https://www.youtube.com/watch?v=DwEXSWO20YU)
 - 👂🏻 [Watched a Youtube video "Watch Master Ceramist Eric Landon Destroy His Pottery For Fun"](https://www.youtube.com/watch?v=YzxHipgaGZE)
 - 👂🏻 [Watched a Youtube video "Tech It Out: China to set a new speed record in ground transportation"](https://www.youtube.com/watch?v=OUFuGLqXU-E)
-
 ***
 </p></details>
-
-<details>
-<summary>Day 146</summary>
-<p>
+<details><summary>Day 146</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20121%20-%20140/d136e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20121%20-%20140/d136ls1.jpg)
@@ -3272,10 +2935,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [10.5 – What next?](https://zerodha.com/varsity/chapter/multiple-candlestick-patterns-part-3/)
 ***
 </p></details>
-
-<details>
-<summary>Day 145</summary>
-<p>
+<details><summary>Day 145</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20121%20-%20140/d135e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20121%20-%20140/d135ls1.jpg)
@@ -3306,11 +2966,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [10.5 – What next?](https://zerodha.com/varsity/chapter/multiple-candlestick-patterns-part-3/)
 ***
 </p></details>
-
-
-<details>
-<summary>Day 144</summary>
-<p>
+<details><summary>Day 144</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20121%20-%20140/d134e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20121%20-%20140/d134ls1.jpg)
@@ -3332,10 +2988,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 👂🏻 [Watched a Youtube video "He Dives Into Ovens to Bake Bread"](https://www.youtube.com/watch?v=jjcY5Rd4vzQ)
 ***
 </p></details>
-
-<details>
-<summary>Day 143</summary>
-<p>
+<details><summary>Day 143</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20121%20-%20140/d133e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20121%20-%20140/d133ls1.jpg)
@@ -3361,10 +3014,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [9.3 – The bearish harami](https://zerodha.com/varsity/chapter/multiple-candlestick-patterns-part-2/)
 ***
 </p></details>
-
-<details>
-<summary>Day 142</summary>
-<p>
+<details><summary>Day 142</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20121%20-%20140/d132e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20121%20-%20140/d132ls1.jpg)
@@ -3397,10 +3047,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [8.7 – A perspective on selecting a trade](https://zerodha.com/varsity/chapter/multiple-candlestick-patterns-part-1/)
 ***
 </p></details>
-
-<details>
-<summary>Day 141</summary>
-<p>
+<details><summary>Day 141</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20121%20-%20140/d131e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20121%20-%20140/d131ls1.jpg)
@@ -3432,18 +3079,10 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [7.5 – The shooting star](https://zerodha.com/varsity/chapter/single-candlestick-patterns-part-3/)
 - 🎨 [Tried half mandala art](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/art/d131art.jpg)
 ***
-</p></details>
-</p></details>
-
+</p></details></p></details>
 >"Just don't give up trying to do what you really want to do. Where there is love and inspiration, I don't think you can go wrong." - Ella Fitzgerald
-
-<details>
-  <summary>Day 131 - 140 ~ April 18, 2021 -  April 27, 2021</summary>
-<p>
-
-<details>
-<summary>Day 140</summary>
-<p>
+<details><summary>Day 131 - 140 ~ April 18, 2021 -  April 27, 2021</summary><p>
+<details></details><summary>Day 140</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20121%20-%20140/d130e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20121%20-%20140/d130ls1.jpg)
@@ -3472,10 +3111,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [6.4 – The Dojis](https://zerodha.com/varsity/chapter/single-candlestick-patterns-part-2/)
 ***
 </p></details>
-
-<details>
-<summary>Day 139</summary>
-<p>
+<details><summary>Day 139</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20121%20-%20140/d129e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20121%20-%20140/d129ls1.jpg)
@@ -3504,10 +3140,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [5.6 – The trade trap](https://zerodha.com/varsity/chapter/single-candlestick-patterns-part-1/)
 ***
 </p></details>
-
-<details>
-<summary>Day 138</summary>
-<p>
+<details><summary>Day 138</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20121%20-%20140/d128e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20121%20-%20140/d128ls1.jpg)
@@ -3536,10 +3169,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [4.3 – Few assumptions specific to candlesticks](https://zerodha.com/varsity/chapter/getting-started-candlesticks/)
 ***
 </p></details>
-
-<details>
-<summary>Day 137</summary>
-<p>
+<details><summary>Day 137</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20121%20-%20140/d127e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20121%20-%20140/d127ls1.jpg)
@@ -3568,13 +3198,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [3.4 – Candlestick Anatomy](https://zerodha.com/varsity/chapter/chart-types/)
     - 💰📈 [3.4 – Candlestick Anatomy](https://zerodha.com/varsity/chapter/chart-types/)
     - 💰📈 [3.5 – A note on time frames](https://zerodha.com/varsity/chapter/chart-types/)
-
 ***
 </p></details>
-
-<details>
-<summary>Day 136</summary>
-<p>
+<details><summary>Day 136</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20121%20-%20140/d126e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20121%20-%20140/d126ls1.jpg)
@@ -3602,13 +3228,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [2.2 – Application on asset types](https://zerodha.com/varsity/chapter/introducing-technical-analysis/)
     - 💰📈 [2.3 – Assumption in Technical Analysis](https://zerodha.com/varsity/chapter/introducing-technical-analysis/)
     - 💰📈 [2.4 – The Trade Summary](https://zerodha.com/varsity/chapter/introducing-technical-analysis/)
-
 ***
 </p></details>
-
-<details>
-<summary>Day 135</summary>
-<p>
+<details><summary>Day 135</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20121%20-%20140/d125e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20121%20-%20140/d125ls1.jpg)
@@ -3639,10 +3261,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [1.3 – Setting expectations](https://zerodha.com/varsity/chapter/background/)
 ***
 </p></details>
-
-<details>
-<summary>Day 134</summary>
-<p>
+<details><summary>Day 134</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20121%20-%20140/d124e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20121%20-%20140/d124ls1.jpg)
@@ -3669,13 +3288,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
   - 💰📈 [13.Getting started!](https://zerodha.com/varsity/chapter/getting-started/)
   - 💰📈 [14.Supplementary note – Rights, OFS, FPO](https://zerodha.com/varsity/chapter/supplementary-note-ipo-ofs-fpo/)
   - 💰📈 [15.Supplementary note – The 20 market depth or level 3 data](https://zerodha.com/varsity/chapter/supplementary-note-the-20-market-depth/)
-
 ***
 </p></details>
-
-<details>
-<summary>Day 133</summary>
-<p>
+<details><summary>Day 133</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20121%20-%20140/d123e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20121%20-%20140/d123ls1.jpg)
@@ -3706,13 +3321,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [12.5 – Purchasing Managers Index (PMI)](https://zerodha.com/varsity/chapter/key-events-and-their-impact-on-markets/)
     - 💰📈 [12.6 – Budget](https://zerodha.com/varsity/chapter/key-events-and-their-impact-on-markets/)
     - 💰📈 [12.7 – Corporate Earnings Announcement](https://zerodha.com/varsity/chapter/key-events-and-their-impact-on-markets/)
-
 ***
 </p></details>
-
-<details>
-<summary>Day 132</summary>
-<p>
+<details><summary>Day 132</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20121%20-%20140/d122e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20121%20-%20140/d122ls1.jpg)
@@ -3742,13 +3353,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [11.4 – Stock Split](https://zerodha.com/varsity/chapter/five-corporate-actions-and-its-impact-on-stock-prices/)
     - 💰📈 [11.5 – Rights Issue](https://zerodha.com/varsity/chapter/five-corporate-actions-and-its-impact-on-stock-prices/)
     - 💰📈 [11.6 – Buyback of shares](https://zerodha.com/varsity/chapter/five-corporate-actions-and-its-impact-on-stock-prices/)
-
 ***
 </p></details>
-
-<details>
-<summary>Day 131</summary>
-<p>
+<details><summary>Day 131</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20121%20-%20140/d121e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20121%20-%20140/d121ls1.jpg)
@@ -3775,18 +3382,10 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [10.2 – What happens when you buy a stock?](https://zerodha.com/varsity/chapter/clearing-and-settlement-process/)
     - 💰📈 [10.3 – What happens when you sell a stock?](https://zerodha.com/varsity/chapter/clearing-and-settlement-process/)
 ***
-</p></details>
-</p></details>
-
+</p></details></p></details>
 >“Success is the sum of small efforts repeated day in and day out.” - Robert Collier Author
-
-<details>
-  <summary>Day 121 - 130 ~ April 08, 2021 -  April 17, 2021</summary>
-<p>
-
-<details>
-<summary>Day 130</summary>
-<p>
+<details> <summary>Day 121 - 130 ~ April 08, 2021 -  April 17, 2021</summary><p>
+<details><summary>Day 130</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d120e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20101%20-%20120/d120ls1.jpg)
@@ -3814,10 +3413,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
   - 👨🏻‍💻☕ [Java - Object and Classes](https://www.tutorialspoint.com/java/java_object_classes.htm)
 ***
 </p></details>
-
-<details>
-<summary>Day 129</summary>
-<p>
+<details><summary>Day 129</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d119e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20101%20-%20120/d119ls1.jpg)
@@ -3839,10 +3435,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
   - 👨🏻‍💻☕ [Java - Basic Syntax](https://www.tutorialspoint.com/java/java_basic_syntax.htm)
 ***
 </p></details>
-
-<details>
-<summary>Day 128</summary>
-<p>
+<details><summary>Day 128</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d119e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20101%20-%20120/d119ls1.jpg)
@@ -3864,10 +3457,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
   - 👨🏻‍💻☕ [Java - Basic Syntax](https://www.tutorialspoint.com/java/java_basic_syntax.htm)
 ***
 </p></details>
-
-<details>
-<summary>Day 127</summary>
-<p>
+<details><summary>Day 127</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d117e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20101%20-%20120/d117ls1.jpg)
@@ -3901,10 +3491,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
   - 👨🏻‍💻☕ [Java - Environment Setup](https://www.tutorialspoint.com/java/java_environment_setup.htm)
 ***
 </p></details>
-
-<details>
-<summary>Day 126</summary>
-<p>
+<details><summary>Day 126</summary><p>
 
 - ✔️ Elevate
   - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d116e1.jpg)
@@ -3945,10 +3532,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
   - 👨🏻‍💻☕ [Why to Learn java Programming?](https://www.tutorialspoint.com/java/index.htm)
 ***
 </p></details>
-
-<details>
-<summary>Day 125</summary>
-<p>
+<details><summary>Day 125</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d115e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20101%20-%20120/d115ls1.jpg)
@@ -3964,13 +3548,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20101%20-%20120/d115leetcode.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
-
 ***
 </p></details>
-
-<details>
-<summary>Day 124</summary>
-<p>
+<details><summary>Day 124</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d114e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20101%20-%20120/d114ls1.jpg)
@@ -3992,10 +3572,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 🏃 Played cricket for 2 hours (Physical activity)
 ***
 </p></details>
-
-<details>
-<summary>Day 123</summary>
-<p>
+<details><summary>Day 123</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d113e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20101%20-%20120/d113ls1.jpg)
@@ -4023,10 +3600,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [3.5 NSCCL and ICCL](https://zerodha.com/varsity/chapter/financial-intermediaries/)
 ***
 </p></details>
-
-<details>
-<summary>Day 122</summary>
-<p>
+<details><summary>Day 122</summary><p>
 
 - ✔️ Elevate
   - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d112e1.jpg)
@@ -4059,10 +3633,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [2.3 The Regulator](https://zerodha.com/varsity/chapter/regulators/)
 ***
 </p></details>
-
-<details>
-<summary>Day 121</summary>
-<p>
+<details><summary>Day 121</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d111e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20101%20-%20120/d111ls1.jpg)
@@ -4086,17 +3657,10 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
   - 💰📈 [Read the book "One and a half stories" ~ While janki reads her daughter Tara a bedtime story, Tara learns about insurance and wonders if she can insure her favourite toys forever](https://drive.google.com/file/d/1M13fmD60oNkifXhs6hYPrvvEqrSrfvLL/view)
   - 💰📈 [Read the book "The cake shop" ~ Vidya has a tough task as she has to explain the stock markets to her 8-year-old angry son](https://drive.google.com/file/d/1Hj4BvNmGov5I8a9U4TiGxKc00sxXKXiS/view)
 ***
-</p></details>
-</p></details>
-
+</p></details></p></details>
 >“ Little by little becomes a lot.” Anonymous.
-<details>
-<summary>Day 111 - 120 ~ March29, 2021 - April 07, 2021</summary>
-<p>
-
-<details>
-<summary>Day 120</summary>
-<p>
+<details><summary>Day 111 - 120 ~ March29, 2021 - April 07, 2021</summary><p>
+<details><summary>Day 120</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d110e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20101%20-%20120/d110ls1.jpg)
@@ -4112,13 +3676,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20101%20-%20120/d110leetcode.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
 - 🏃 [Walking -> 12897 ~ 8.0 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20101%20-%20120/d110walking.jpg)
-
 ***
 </p></details>
-
-<details>
-<summary>Day 119</summary>
-<p>
+<details><summary>Day 119</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d109e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20101%20-%20120/d109ls1.jpg)
@@ -4140,13 +3700,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 👂🏻 [Watched a Youtube video "The Madhepura Electric Locomotive project"](https://www.youtube.com/watch?v=yyrZgl2nuW0)
 - 👂🏻 [Watched a Youtube video "How we make our highlighters? Faber-Castell"](https://www.youtube.com/watch?v=JQE2q-1bNZE)
 - 🏃 [Walking -> 11857 ~ 7.5 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20101%20-%20120/d109walking.jpg)
-
 ***
 </p></details>
-
-<details>
-<summary>Day 118</summary>
-<p>
+<details><summary>Day 118</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d108e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20101%20-%20120/d108ls1.jpg)
@@ -4161,13 +3717,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20101%20-%20120/d108leetcode.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
-
 ***
 </p></details>
-
-<details>
-<summary>Day 117</summary>
-<p>
+<details><summary>Day 117</summary><p>
 
 - ✔️ Elevate
   - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d107e1.jpg)
@@ -4187,13 +3739,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 👂🏻 [Watched a Youtube video "Why Elon Musk Built a School for His Kids"](https://www.youtube.com/watch?v=MFOEyqqGuEI)
 - 👂🏻 [Watched a Youtube video "How Singapore Uses Science to Stay Cool"](https://www.youtube.com/watch?v=PM101DvvG4Q)
 - 👂🏻 [Watched a Youtube video "How Toilet Paper Companies Dealt With The 845% Demand Spike | Big Business"](https://www.youtube.com/watch?v=KVcqbqpMfQY)
-
 ***
 </p></details>
-
-<details>
-<summary>Day 116</summary>
-<p>
+<details><summary>Day 116</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d106e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20101%20-%20120/d106ls1.jpg)
@@ -4211,13 +3759,9 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 📰 [Daily English News](https://qz.com/india/)
 - ✔️ Played Cricket for 2 hours (Physical activity)
 - 🏃 [Walking -> 9238 ~ 5.9 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20101%20-%20120/d106walking.jpg)
-
 ***
 </p></details>
-
-<details>
-<summary>Day 115</summary>
-<p>
+<details><summary>Day 115</summary><p>
 
 - ✔️ Elevate
   - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20101%20-%20120/d105e1.jpg)
@@ -4240,11 +3784,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 👂🏻 [Watched a Youtube video "This Zero-Waste Grocery Store Should Be Everywhere"](https://www.youtube.com/watch?v=M7ikhWfHQc8)
 ***
 </p></details>
-
-
-<details>
-<summary>Day 114</summary>
-<p>
+<details><summary>Day 114</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/243c2f53501d69f04db0ec8f979eb9e5e091a917/materials/images/elevate/Day%20101%20-%20120/d104e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/243c2f53501d69f04db0ec8f979eb9e5e091a917/materials/images/elevate/Day%20101%20-%20120/d104e1.jpg)
@@ -4266,10 +3806,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 👂🏻 [Watched a Youtube video "Why Japanese Melons Are So Expensive | So Expensive"](https://www.youtube.com/watch?v=2YntFbFRnvs)
 ***
 </p></details>
-
-<details>
-<summary>Day 113</summary>
-<p>
+<details><summary>Day 113</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/3bb78c2db98ad4dc2f0f27da716c2fafb46e9b10/materials/images/elevate/Day%20101%20-%20120/d103e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/3bb78c2db98ad4dc2f0f27da716c2fafb46e9b10/materials/images/lumosity/Day%20101%20-%20120/d103ls1.jpg)
@@ -4290,10 +3827,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 👂🏻 [Watched a Youtube video "Sneaky Ways Fast Food Restaurants Get You To Spend Money"](https://www.youtube.com/watch?v=VooHiweb1sw)
 ***
 </p></details>
-
-<details>
-<summary>Day 112</summary>
-<p>
+<details><summary>Day 112</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/035e685517cb993097419b634ea14a8d4ea99f16/materials/images/elevate/Day%20101%20-%20120/d102e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/035e685517cb993097419b634ea14a8d4ea99f16/materials/images/lumosity/Day%20101%20-%20120/d102ls1.jpg)
@@ -4311,10 +3845,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 🏃 [Walking -> 13010 ~ 8.0 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/cd8b7f37cfd010d0aa53adca6b082d660f0daf6e/materials/images/walking/Day%20101%20-%20120/d102walking.jpg)
 ***
 </p></details>
-
-<details>
-<summary>Day 111</summary>
-<p>
+<details><summary>Day 111</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/cd8b7f37cfd010d0aa53adca6b082d660f0daf6e/materials/images/elevate/Day%20101%20-%20120/d101e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/cd8b7f37cfd010d0aa53adca6b082d660f0daf6e/materials/images/lumosity/Day%20101%20-%20120/d101ls1.jpg)
@@ -4332,18 +3863,10 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 👂🏻 [Watched a Youtube video "What I Wish I Knew at 20"](https://www.youtube.com/watch?v=SyXIdJMbMBs)
 - 🏃 [Walking -> 3025 ~ 1.7 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/cd8b7f37cfd010d0aa53adca6b082d660f0daf6e/materials/images/walking/Day%20101%20-%20120/d101walking.jpg)
 ***
-</p></details>
-</p></details>
-
+</p></details></p></details>
 >"Try not to become a man of success. Rather become a man of value." - Albert Einstein
-
-<details>
-<summary>Day 101 - 110 ~ March 19, 2021 - March 28, 2021</summary>
-<p>
-
-<details>
-<summary>Day 110</summary>
-<p>
+<details><summary>Day 101 - 110 ~ March 19, 2021 - March 28, 2021</summary><p>
+<details><summary>Day 110</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2081%20-%20100/d100e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2081%20-%20100/d100ls1.jpg)
@@ -4363,10 +3886,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 🏃 Played cricket for 4 hours (Physical activity)
 ***
 </p></details>
-
-<details>
-<summary>Day 109</summary>
-<p>
+<details><summary>Day 109</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2081%20-%20100/d99e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2081%20-%20100/d99ls1.jpg)
@@ -4387,10 +3907,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 👂🏻 [Watched a Youtube video "Suez Canal blocked after huge container ship wedged across it - BBC News"](https://www.youtube.com/watch?v=C06Q4Mft0yQ)
 ***
 </p></details>
-
-<details>
-<summary>Day 108</summary>
-<p>
+<details><summary>Day 108</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2081%20-%20100/d98e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2081%20-%20100/d98ls1.jpg)
@@ -4407,10 +3924,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 👂🏻 [Watched a Youtube video "How the world's longest underwater tunnel was built - Alex Gendler"](https://www.youtube.com/watch?v=qNS2jj2w-GI)
 ***
 </p></details>
-
-<details>
-<summary>Day 107</summary>
-<p>
+<details><summary>Day 107</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2081%20-%20100/d97e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2081%20-%20100/d97ls1.jpg)
@@ -4428,10 +3942,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 👂🏻 [Watched a Youtube video "Working backward to solve problems - Maurice Ashley"](https://www.youtube.com/watch?v=v34NqCbAA1c)
 ***
 </p></details>
-
-<details>
-<summary>Day 106</summary>
-<p>
+<details><summary>Day 106</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2081%20-%20100/d96e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2081%20-%20100/d96ls1.jpg)
@@ -4451,10 +3962,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 👂🏻 [Watched a Youtube video "Linux Directories Explained in 100 Seconds"](https://www.youtube.com/watch?v=42iQKuQodW4)
 ***
 </p></details>  
-
-<details>
-<summary>Day 105</summary>
-<p>
+<details><summary>Day 105</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2081%20-%20100/d95e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2081%20-%20100/d95ls1.jpg)
@@ -4473,10 +3981,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 🏃 [Walking -> 16507 ~ 10.1 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2081%20-%20100/d95walking.jpg)
 ***
 </p></details>
-
-<details>
-<summary>Day 104</summary>
-<p>
+<details><summary>Day 104</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2081%20-%20100/d94e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2081%20-%20100/d94ls1.jpg)
@@ -4496,10 +4001,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 🏃 [Walking -> 11147 ~ 6.8 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2081%20-%20100/d94walking.jpg)
 ***
 </p></details>
-
-<details>
-<summary>Day 103</summary>
-<p>
+<details><summary>Day 103</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2081%20-%20100/d93e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2081%20-%20100/d93ls1.jpg)
@@ -4518,10 +4020,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 📰 [Daily English News](https://qz.com/india/)
 ***
 </p></details>
-
-<details>
-<summary>Day 102</summary>
-<p>
+<details><summary>Day 102</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2081%20-%20100/d92e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2081%20-%20100/d92ls1.jpg)
@@ -4544,10 +4043,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 📖 [Read 5th chapter in the book "The Monk Who Sold His Ferrari by Robin Sharma"]
 ***
 </p></details>
-
-<details>
-<summary>Day 101</summary>
-<p>
+<details><summary>Day 101</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2081%20-%20100/d91e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2081%20-%20100/d91ls1.jpg)
@@ -4564,23 +4060,11 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 📰 [Daily English News](https://qz.com/india/)
 - 🏃 [Walking -> 13233 ~ 8.1 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2081%20-%20100/d91walking.jpg)
 ***
-</p></details>
-</p></details>
-</p></details>
-
+</p></details></p></details></p></details>
 >“You always pass failure on the way to success.”- Mickey Rooney
-
-<details>
-  <summary>Day 51 - 100 ~ January 28, 2021 - March 18, 2021</summary>
-<p>
-
-<details>
-<summary>Day 91 - 100 ~ March 09, 2021 - March 18, 2021</summary>
-<p>
-
-<details>
-<summary>Day 100</summary>
-<p>
+<details><summary>Day 51 - 100 ~ January 28, 2021 - March 18, 2021</summary><p>
+<details><summary>Day 91 - 100 ~ March 09, 2021 - March 18, 2021</summary><p>
+<details><summary>Day 100</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2081%20-%20100/d90e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2081%20-%20100/d90ls1.jpg)
@@ -4597,10 +4081,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 🏃 [Walking -> 12225 ~ 7.8 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2081%20-%20100/d90walking.jpg)
 ***
 </p></details>
-
-<details>
-<summary>Day 99</summary>
-<p>
+<details><summary>Day 99</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2081%20-%20100/d89e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2081%20-%20100/d89ls1.jpg)
@@ -4616,10 +4097,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 📰 [Daily English News](https://qz.com/india/)
 ***
 </p></details>
-
-<details>
-<summary>Day 98</summary>
-<p>
+<details><summary>Day 98</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2081%20-%20100/d88e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2081%20-%20100/d88ls1.jpg)
@@ -4637,10 +4115,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 🏃 [Walking -> 9149 ~ 5.4 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2081%20-%20100/d88walking.jpg)
 ***
 </p></details>
-
-<details>
-<summary>Day 97</summary>
-<p>
+<details><summary>Day 97</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2081%20-%20100/d87e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2081%20-%20100/d87ls1.jpg)
@@ -4657,11 +4132,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 🏃 [Walking -> 9190 ~ 5.6 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2081%20-%20100/d87walking.jpg)
 ***
 </p></details>
-
-
-<details>
-<summary>Day 96</summary>
-<p>
+<details><summary>Day 96</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2081%20-%20100/d86e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2081%20-%20100/d86ls1.jpg)
@@ -4680,10 +4151,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 🏃 [Walking -> 16363 ~ 10.2 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2081%20-%20100/d86walking.jpg)
 ***
 </p></details>
-
-<details>
-<summary>Day 95</summary>
-<p>
+<details><summary>Day 95</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2081%20-%20100/d85e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2081%20-%20100/d85ls1.jpg)
@@ -4703,10 +4171,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 📰 [Daily English News](https://qz.com/india/)
 ***
 </p></details>
-
-<details>
-<summary>Day 94</summary>
-<p>
+<details><summary>Day 94</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2081%20-%20100/d84e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2081%20-%20100/d84ls1.jpg)
@@ -4725,10 +4190,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 👂🏻 [Watched a Youtube video "20 Simple But Effective Habits"](https://www.youtube.com/watch?v=LxOmofEFub4)
 ***
 </p></details>
-
-<details>
-<summary>Day 93</summary>
-<p>
+<details><summary>Day 93</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2081%20-%20100/d83e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2081%20-%20100/d83ls1.jpg)
@@ -4745,10 +4207,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 🏃 [Walking -> 10546 ~ 6.5 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2081%20-%20100/d83walking.jpg)
 ***
 </p></details>
-
-<details>
-<summary>Day 92</summary>
-<p>
+<details><summary>Day 92</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2081%20-%20100/d82e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2081%20-%20100/d82ls1.jpg)
@@ -4765,10 +4224,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 🏃 [Walking -> 13815 Steps ~ 8.5 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2081%20-%20100/d82walking.jpg)
 ***
 </p></details>
-
-<details>
-<summary>Day 91</summary>
-<p>
+<details><summary>Day 91</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2081%20-%20100/d81e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2081%20-%20100/d81ls1.jpg)
@@ -4785,18 +4241,10 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 🐱‍💻 [Completed 1 Question in cryptography for beginners in Try Hack me]
 - 🏃 [Walking -> 13283 Steps ~ 8.3 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2081%20-%20100/d81walking.jpg)
 ***
-</p></details>
-</p></details>
-
+</p></details></p></details>
 >"Coming together is a beginning; keeping together is progress; working together is success." -Edward Everett Hale
-
-<details>
-<summary>Day 81 - 90 ~ February 27, 2021 - March 08, 2021</summary>
-<p>
-
-<details>
-<summary>Day 90</summary>
-<p>
+<details><summary>Day 81 - 90 ~ February 27, 2021 - March 08, 2021</summary><p>
+<details><summary>Day 90</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2061%20-%2080/d80e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2061%20-%2080/d80ls1.jpg)
@@ -4813,10 +4261,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 🏃 [Walking -> 18536 Steps ~ 11.7 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2061%20-%2080/d80walking.jpg)
 ***
 </p></details>
-
-<details>
-<summary>Day 89</summary>
-<p>
+<details><summary>Day 89</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2061%20-%2080/d79e1.jpg)
 - 🏆 [Earned An Achievement in Elevate (Glossarist)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2061%20-%2080/d79e2.jpg)
@@ -4834,10 +4279,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 🐱‍💻 [Completed 1 Question in cryptography for beginners in TryHackme]
 ***
 </p></details>
-
-<details>
-<summary>Day 88</summary>
-<p>
+<details><summary>Day 88</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2061%20-%2080/d78e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2061%20-%2080/d78ls1.jpg)
@@ -4855,10 +4297,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 🐱‍💻 [Completed 1 Question in cryptography for beginners in TryHackme]
 ***
 </p></details>
-
-<details>
-<summary>Day 87</summary>
-<p>
+<details><summary>Day 87</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2061%20-%2080/d77e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2061%20-%2080/d77ls1.jpg)
@@ -4873,10 +4312,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 🐱‍💻 [Completed 1 Question in cryptography for beginners in TryHackme]
 ***
 </p></details>
-
-<details>
-<summary>Day 86</summary>
-<p>
+<details><summary>Day 86</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2061%20-%2080/d76e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2061%20-%2080/d76ls1.jpg)
@@ -4896,10 +4332,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 📰 [Daily English News](https://qz.com/india/)
 ***
 </p></details>
-
-<details>
-<summary>Day 85</summary>
-<p>
+<details><summary>Day 85</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2061%20-%2080/d75e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2061%20-%2080/d75ls1.jpg)
@@ -4921,10 +4354,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 📰 [Daily English News](https://qz.com/india/)
 ***
 </p></details>
-
-<details>
-<summary>Day 84</summary>
-<p>
+<details><summary>Day 84</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2061%20-%2080/d74e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2061%20-%2080/d74ls1.jpg)
@@ -4947,10 +4377,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 📰 [Daily English News](https://qz.com/india/)
 ***
 </p></details>
-
-<details>
-<summary>Day 83</summary>
-<p>
+<details><summary>Day 83</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2061%20-%2080/d73e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2061%20-%2080/d73ls1.jpg)
@@ -4967,10 +4394,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 🐱‍💻 [Completed 1 Question in cryptography for beginners in TryHackme]
 ***
 </p></details>
-
-<details>
-<summary>Day 82</summary>
-<p>
+<details><summary>Day 82</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2061%20-%2080/d72e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2061%20-%2080/d72ls1.jpg)
@@ -4987,10 +4411,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 🐱‍💻 [Completed 1 Question in cryptography for beginners in TryHackme]
 ***
 </p></details>
-
-<details>
-<summary>Day 81</summary>
-<p>
+<details><summary>Day 81</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2061%20-%2080/d71e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2061%20-%2080/d71ls1.jpg)
@@ -5006,18 +4427,10 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 🐱‍💻 Cyber Security
     - 🐱‍💻 [Completed 1 Question in cryptography for beginners in TryHackme]
 ***
-</p></details>
-</p></details>
-
+</p></details></p></details>
 >“You cannot dream yourself into a character; you must hammer and forge yourself one.” ―Henry David Thoreau
-
-<details>
-<summary>Day 71 - 80 ~ February 17, 2021 - February 26, 2021</summary>
-<p>
-
-<details>
-<summary>Day 80</summary>
-<p>
+<details><summary>Day 71 - 80 ~ February 17, 2021 - February 26, 2021</summary><p>
+<details><summary>Day 80</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2061%20-%2080/d70e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2061%20-%2080/d70ls1.jpg)
@@ -5034,10 +4447,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 🐱‍💻 [Completed 1 Question in cryptography for beginners in TryHackme]
 ***
 </p></details>
-
-<details>
-<summary>Day 79</summary>
-<p>
+<details><summary>Day 79</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2061%20-%2080/d69e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2061%20-%2080/d69ls1.jpg)
@@ -5054,10 +4464,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 🐱‍💻 [Completed 1 Question in cryptography for beginners in TryHackme]
 ***
 </p></details>
-
-<details>
-<summary>Day 78</summary>
-<p>
+<details><summary>Day 78</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2061%20-%2080/d68e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2061%20-%2080/d68ls1.jpg)
@@ -5073,10 +4480,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 🐱‍💻 [Completed 1 Question in nmap room in try hack me]
 ***
 </p></details>
-
-<details>
-<summary>Day 77</summary>
-<p>
+<details><summary>Day 77</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2061%20-%2080/d67e1.jpg)
 - 🏆 [New Achievement Training NonstopPlayer ~ Train for 3 hours](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2061%20-%2080/d67e2.jpg)
@@ -5093,10 +4497,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 🐱‍💻 [Completed 1 Question in nmap room in try hack me]
 ***
 </p></details>
-
-<details>
-<summary>Day 76</summary>
-<p>
+<details><summary>Day 76</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2061%20-%2080/d66e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2061%20-%2080/d66ls1.jpg)
@@ -5110,10 +4511,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 🐱‍💻 [Completed 1 Question in nmap room in try hack me]
 ***
 </p></details>
-
-<details>
-<summary>Day 75</summary>
-<p>
+<details><summary>Day 75</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2061%20-%2080/d65e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2061%20-%2080/d65ls1.jpg)
@@ -5131,10 +4529,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 🐱‍💻 [Completed 1 Question in nmap room in try hack me]
 ***
 </p></details>
-
-<details>
-<summary>Day 74</summary>
-<p>
+<details><summary>Day 74</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2061%20-%2080/d64e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2061%20-%2080/d64ls1.jpg)
@@ -5149,10 +4544,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 🐱‍💻 [Completed 1 Question in nmap room in try hack me]
 ***
 </p></details>
-
-<details>
-<summary>Day 73</summary>
-<p>
+<details><summary>Day 73</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2061%20-%2080/d63e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2061%20-%2080/d63ls1.jpg)
@@ -5167,10 +4559,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 🐱‍💻 [Completed 1 Question in nmap room in try hack me]
 ***
 </p></details>
-
-<details>
-<summary>Day 72</summary>
-<p>
+<details><summary>Day 72</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2061%20-%2080/d62e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2061%20-%2080/d62ls1.jpg)
@@ -5185,10 +4574,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 🐱‍💻 [Completed 1 Question in nmap room in try hack me]
 ***
 </p></details>
-
-<details>
-<summary>Day 71</summary>
-<p>
+<details><summary>Day 71</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2061%20-%2080/d61e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2061%20-%2080/d61ls1.jpg)
@@ -5203,20 +4589,11 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 🐱‍💻 Cyber Security
     - 🐱‍💻 [Completed 1 Question in nmap room in try hack me]
 ***
-</p></details>
-</p></details>
-
-
+</p></details></p></details>
 >“What is the difference between an obstacle and an opportunity? Our attitude toward it. Every opportunity has a difficult, and every difficulty has an opportunity.”
 – J. Sidlow Baxter
-
-<details>
-<summary>Day 61 - 70 ~ February 07, 2021 - February 16, 2021</summary>
-<p>
-
-<details>
-<summary>Day 70</summary>
-<p>
+<details><summary>Day 61 - 70 ~ February 07, 2021 - February 16, 2021</summary><p>
+<details><summary>Day 70</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2041%20-%2060/d60e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2041%20-%2060/d60ls1.jpg)
@@ -5232,10 +4609,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 🐱‍💻 Cyber Security
     - 🐱‍💻 [Completed 1 Question in nmap room in try hack me]
 </p></details>
-
-<details>
-<summary>Day 69</summary>
-<p>
+<details><summary>Day 69</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2041%20-%2060/d59e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2041%20-%2060/d59ls1.jpg)
@@ -5247,10 +4621,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 🐱‍💻 Cyber Security
     - 🐱‍💻 [Completed 1 Question in nmap room in try hack me]
 </p></details>
-
-<details>
-<summary>Day 68</summary>
-<p>
+<details><summary>Day 68</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2041%20-%2060/d58e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2041%20-%2060/d58ls1.jpg)
@@ -5262,10 +4633,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 🐱‍💻 Cyber Security
     - 🐱‍💻 [Completed 1 Question in nmap room in try hack me]
 </p></details>
-
-<details>
-<summary>Day 67</summary>
-<p>
+<details><summary>Day 67</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2041%20-%2060/d57e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2041%20-%2060/d57ls1.jpg)
@@ -5284,11 +4652,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 🐱‍💻 [Completed 1 Question in nmap room in try hack me]
 
 </p></details>
-
-<details>
-<summary>Day 66</summary>
-<p>
-
+<details><summary>Day 66</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2041%20-%2060/d56e1.jfif)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2041%20-%2060/d56ls1.jpg)
@@ -5306,10 +4670,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 🐱‍💻 [Completed 1 Question in nmap room in try hack me]
 
 </p></details>
-
-<details>
-<summary>Day 65</summary>
-<p>
+<details><summary>Day 65</summary><p>
 
 - ✔️ Elevate
   - ✔️ [Completed Daily Workout Problem](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2041%20-%2060/d55e1.jfif)
@@ -5334,10 +4695,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
      1 | [Array methods](https://javascript.info/array-methods)
 ***
 </p></details>
-
-<details>
-<summary>Day 64</summary>
-<p>
+<details><summary>Day 64</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2041%20-%2060/d54e1.jfif)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2041%20-%2060/d54ls1.jpg)
@@ -5359,10 +4717,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
      1 | [Arrays](https://javascript.info/array)
 ***
 </p></details>
-
-<details>
-<summary>Day 63</summary>
-<p>
+<details><summary>Day 63</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2041%20-%2060/d53e1.jfif)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2041%20-%2060/d53ls1.jpg)
@@ -5386,10 +4741,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
      3 | [Strings](https://javascript.info/string)
 ***
 </p></details>
-
-<details>
-<summary>Day 62</summary>
-<p>
+<details><summary>Day 62</summary><p>
 
 - ✔️ Elevate
   - 🏆 [Earned new achievement (Exacting Player ~ Finish 100 excellent games)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2041%20-%2060/d52e2.jpg)
@@ -5410,10 +4762,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 🐱‍💻 [Completed 1 Question in Text-fu Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2041%20-%2060/d52lx1.jpg)
 ***
 </p></details>
-
-<details>
-<summary>Day 61</summary>
-<p>
+<details><summary>Day 61</summary><p>
 
 - ✔️ Elevate
   - 🏆 [Earned new achievement (Student ~ Complete 5 lessons)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2041%20-%2060/d51e2.jpg)
@@ -5433,19 +4782,11 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 🐱‍💻 [Completed 1 Question in nmap room in try hack me]
     - 🐱‍💻 [Completed 1 Question in Text-fu Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2041%20-%2060/d51lx1.jpg)
 ***
-</p></details>
-</p></details>
-
+</p></details></p></details>
 >“Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough”
 ― Oprah Winfrey 
-
-<details>
-<summary>Day 51 - 60 ~ January 28, 2021 - February 06, 2021</summary>
-<p>
-
-<details>
-<summary>Day 60</summary>
-<p>
+<details><summary>Day 51 - 60 ~ January 28, 2021 - February 06, 2021</summary><p>
+<details><summary>Day 60</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2041%20-%2060/d50e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2041%20-%2060/d50ls1.jpg)
@@ -5465,10 +4806,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 🏃 Played cricket for 2 hours (Physical activity)
 ***
 </p></details>
-
-<details>
-<summary>Day 59</summary>
-<p>
+<details><summary>Day 59</summary><p>
 
 - ✔️ Elevate
   - ✔️ [Completed Daily Workout Problem](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2041%20-%2060/d49e1.jpeg)
@@ -5495,10 +4833,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
      2 | [Object to primitive conversion](https://javascript.info/object-toprimitive)
 ***
 </p></details>
-
-<details>
-<summary>Day 58</summary>
-<p>
+<details><summary>Day 58</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2041%20-%2060/d48e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2041%20-%2060/d48ls1.jpg)
@@ -5523,10 +4858,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
      3 | [Optional chaining '?.'](https://javascript.info/optional-chaining)
 ***
 </p></details>
-
-<details>
-<summary>Day 57</summary>
-<p>
+<details><summary>Day 57</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2041%20-%2060/d47e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2041%20-%2060/d47ls1.jpg)
@@ -5553,10 +4885,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 🐱‍💻 [Created simple port scanner using python](https://github.com/rohan-cce/simple-port-scanner-using-python/)   
 ***
 </p></details>
-
-<details>
-<summary>Day 56</summary>
-<p>
+<details><summary>Day 56</summary><p>
 
 - ✔️ Elevate
   - 🏆 [Reached Elite proficiency in maths](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2041%20-%2060/d46e2.jpeg)
@@ -5586,10 +4915,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 📖 Read And Understood (Page Number 163-173) in Data Structures and Algorithm made easy by Narasimha karumanchi
 ***
 </p></details>
-
-<details>
-<summary>Day 55</summary>
-<p>
+<details><summary>Day 55</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2041%20-%2060/d45e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2041%20-%2060/d45ls1.jpg)
@@ -5614,10 +4940,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 🐱‍💻 [Watched and Understood 2 videos(Advanced Strings, Dictionaries)in Introduction to Python Module of Practical Ethical Hacking by The Cyber Mentor]()
 ***
 </p></details>
-
-<details>
-<summary>Day 54</summary>
-<p>
+<details><summary>Day 54</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2041%20-%2060/d44e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2041%20-%2060/d44ls1.jpg)
@@ -5647,10 +4970,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 🏃 [Walking -> 8852 Steps ~ 5.49 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2041-60/d44walking.jpeg)
 ***
 </p></details>
-
-<details>
-<summary>Day 53</summary>
-<p>
+<details><summary>Day 53</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2041%20-%2060/d43e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2041%20-%2060/d43ls1.jpg)
@@ -5680,10 +5000,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 🎨[Tried 3d art](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/art/d43art.jpeg)
 ***
 </p></details>
-
-<details>
-<summary>Day 52</summary>
-<p>
+<details><summary>Day 52</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2041%20-%2060/d42e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2041%20-%2060/d42ls1.jpg)
@@ -5701,10 +5018,7 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 📖 [Attempted Random Aptitude Test In indiabix.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/aptitude/Day%2041%20-%2060/d42a1.jpg)
 ***
 </p></details>
-
-<details>
-<summary>Day 51</summary>
-<p>
+<details><summary>Day 51</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2041%20-%2060/d41e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2041%20-%2060/d41ls1.jpg)
@@ -5721,24 +5035,12 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 🐱‍💻 Completed 1 Question in Linux Fundamentals 3 room in try hack me
     - 🐱‍💻 [Completed 1 Question in Text-fu Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2041%20-%2060/d41lx1.jpg)
 ***
-</p></details>
-</p></details>
-</p></details>
-
+</p></details></p></details></p></details>
 >"If you're not making mistakes, then you're not doing anything. I'm positive that a doer makes mistakes."
 John Wooden - Author
-
-<details>
-  <summary>Day 01 - 50 ~ December 09, 2020 - January 27, 2021</summary>
-<p>
-
-<details>
-  <summary>Day 41 - 50 ~ January 18, 2021 - January 27, 2021</summary>
-<p>
-
-<details>
-<summary>Day 50</summary>
-<p>
+<details><summary>Day 01 - 50 ~ December 09, 2020 - January 27, 2021</summary><p>
+<details><summary>Day 41 - 50 ~ January 18, 2021 - January 27, 2021</summary><p>
+<details><summary>Day 50</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d40e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d40ls1.jpg)
@@ -5759,10 +5061,7 @@ John Wooden - Author
      2 | [Loops: while and for](https://javascript.info/while-for)  
 ***
 </p></details>
-
-<details>
-<summary>Day 49</summary>
-<p>
+<details><summary>Day 49</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d39e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d39ls1.jpg)
@@ -5790,10 +5089,7 @@ John Wooden - Author
   - 🏃 Played Cricket for 2 hours
 ***
 </p></details>
-
-<details>
-<summary>Day 48</summary>
-<p>
+<details><summary>Day 48</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d38e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d38ls1.jpg)
@@ -5820,10 +5116,7 @@ John Wooden - Author
 - 📖 Read And Understood (Page Number 101-107) in Data Structures and Algorithm made easy by Narasimha karumanchi
 ***
 </p></details>
-
-<details>
-<summary>Day 47</summary>
-<p>
+<details><summary>Day 47</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d37e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d37ls1.jpg)
@@ -5842,11 +5135,7 @@ John Wooden - Author
 
 ***
 </p></details>
-
-
-<details>
-<summary>Day 46</summary>
-<p>
+<details><summary>Day 46</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d36e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d36ls1.jpg)
@@ -5877,9 +5166,7 @@ John Wooden - Author
 ***
 </p></details>
 
-<details>
-<summary>Day 45</summary>
-<p>
+<details><summary>Day 45</summary><p>
 
 - ✔️ Elevate
   - ✔️ [Completed Daily Workout Problem](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d35e1.jpeg)
@@ -5905,10 +5192,7 @@ John Wooden - Author
      4 | [Variables](https://javascript.info/variables)
 ***
 </p></details>
-
-<details>
-<summary>Day 44</summary>
-<p>
+<details><summary>Day 44</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d34e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d34ls1.jpg)
@@ -5940,10 +5224,7 @@ John Wooden - Author
 - 🌐 [Created Comming Soon Webdesign using HTML CSS & Javascript](https://rohan-cce.github.io/coming-soon-website-design/#)
 ***
 </p></details>
-
-<details>
-<summary>Day 43</summary>
-<p>
+<details><summary>Day 43</summary><p>
 
 - ✔️ Elevate
   - ✔️ [Completed Daily Workout Problem](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d33e2.jpeg)
@@ -5971,10 +5252,7 @@ John Wooden - Author
 - 📖 Read And Understood (Page Number 87-91) in Data Structures and Algorithm made easy by Narasimha karumanchi
 ***
 </p></details>
-
-<details>
-<summary>Day 42</summary>
-<p>
+<details><summary>Day 42</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d32e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d32ls1.jpg)
@@ -6002,10 +5280,7 @@ John Wooden - Author
   - 📝 [10 JavaScript One-liners ](https://medium.com/dailyjs/10-javascript-oneliners-you-have-got-to-add-your-arsenal-as-a-developer-b733cbb973b2)
 ***
 </p></details>
-
-<details>
-<summary>Day 41</summary>
-<p>
+<details><summary>Day 41</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d31e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d31ls1.jpg)
@@ -6025,20 +5300,13 @@ John Wooden - Author
 - 📖 [Attempted Random Aptitude Test In indiabix.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/aptitude/Day%2021%20-%2040/d31a.jpg)
 - 🌐 [Created Text Typing Effect using Html & CSS](https://rohan-cce.github.io/Typing-text-effect-using-css/)
 ***
-</p></details>
-</p></details>
-
-
+</p></details></p></details>
 >“In every day, there are 1,440 minutes. That means we have 1,440 daily opportunities to make a
 positive impact.”
 Les Brown - Author
-<details>
-  <summary>Day 31 - 40 ~ January 8, 2021 - January 17, 2021</summary>
-<p>
+<details><summary>Day 31 - 40 ~ January 8, 2021 - January 17, 2021</summary><p>
 
-<details>
-<summary>Day 40</summary>
-<p>
+<details><summary>Day 40</summary><p>
 
 - ✔️ Elevate
   - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d30e1.jpeg)
@@ -6060,10 +5328,7 @@ Les Brown - Author
 - 🎨 [3D Steps art](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/art/d30art.jpeg)
 ***
 </p></details>
-
-<details>
-<summary>Day 39</summary>
-<p>
+<details><summary>Day 39</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d29e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d29ls1.jpg)
@@ -6088,10 +5353,7 @@ Les Brown - Author
 - 🌐 [Created Menu Item With Hover And Shiny Effects Using Html & Css](https://rohan-cce.github.io/Menu-Item-With-Hover-And-Shiny-Effects/)
 ***
 </p></details>
-
-<details>
-<summary>Day 38</summary>
-<p>
+<details><summary>Day 38</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d28e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d28ls1.jpg)
@@ -6115,10 +5377,7 @@ Les Brown - Author
 - ✔️ [Completed Q 121-138 CSS Exercise Questions in w3 schools](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/Day%2021%20-%2040/d28w3.jpg)
 ***
 </p></details>
-
-<details>
-<summary>Day 37</summary>
-<p>
+<details><summary>Day 37</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d27e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d27ls1.jpg)
@@ -6135,11 +5394,7 @@ Les Brown - Author
 - 🏃 [Walking -> 10838 Steps ~ 8.3 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2021-40/d27walking.jpeg)
 ***
 </p></details>
-
-
-<details>
-<summary>Day 36</summary>
-<p>
+<details><summary>Day 36</summary><p>
 
 - ✔️ Elevate
   - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d26e1.jpeg)
@@ -6173,10 +5428,7 @@ Les Brown - Author
 - ✔️ [Completed Q 103-120 CSS Exercise Questions in w3 schools](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/Day%2021%20-%2040/d26w3.jpg)
 ***
 </p></details>
-
-<details>
-<summary>Day 35</summary>
-<p>
+<details><summary>Day 35</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d25e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d25ls1.jpg)
@@ -6202,10 +5454,7 @@ Les Brown - Author
 - 🏃 [Walking -> 8523 Steps ~ 6.53km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2021-40/d25walking.jpeg)
 ***
 </p></details>
-
-<details>
-<summary>Day 34</summary>
-<p>
+<details><summary>Day 34</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d24e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d24ls1.jpg)
@@ -6223,10 +5472,7 @@ Les Brown - Author
 - 📖 [Attempted Random Aptitude Test In indiabix.com](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/aptitude/Day%2021%20-%2040/d24a1.jpg)
 ***
 </p></details>
-
-<details>
-<summary>Day 33</summary>
-<p>
+<details><summary>Day 33</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d23e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d23ls1.jpg)
@@ -6244,10 +5490,7 @@ Les Brown - Author
 
 ***
 </p></details>
-
-<details>
-<summary>Day 32</summary>
-<p>
+<details><summary>Day 32</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d22e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d22ls1.jpg)
@@ -6264,10 +5507,7 @@ Les Brown - Author
 
 ***
 </p></details>
-
-<details>
-<summary>Day 31</summary>
-<p>
+<details><summary>Day 31</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%2021%20-%2040/d21e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%2021%20-%2040/d21ls1.jpg)
@@ -6283,20 +5523,11 @@ Les Brown - Author
 - 🐱‍💻 [Completed 2 Questions in Command line Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2021%20-%2040/d21lx1.jpg)
 - 📝 Blogs Read
    - [A $1000 Bounty](https://gauravnarwani.com/a-1000-bounty/)
-
 ***
-</p></details>
-
-</p></details>
-
+</p></details></p></details>
 >“When you are enthusiastic about what you do, you feel this positive energy. It’s very simple.”😇 - Paulo Coelho
-<details>
-<summary>Day 21 - 30 ~ December 29, 2020 - January 7, 2021</summary>
-<p>
-
-<details>
-<summary>Day 30</summary>
-<p>
+<details><summary>Day 21 - 30 ~ December 29, 2020 - January 7, 2021</summary><p>
+<details><summary>Day 30</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d20e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d20ls1.jpg)
@@ -6317,10 +5548,7 @@ Les Brown - Author
       2 | [CSS Specificity](https://www.w3schools.com/css/css_specificity.asp)
 ***
 </p></details>
-
-<details>
-<summary>Day 29</summary>
-<p>
+<details><summary>Day 29</summary><p>
 
 - ✔️ Elevate
   - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d19e1.jpeg)
@@ -6349,10 +5577,7 @@ Les Brown - Author
   - 🌐 [Live Demo](https://codepen.io/rohan-cce/pen/KKgeMeN)
 ***
 </p></details>
-
-<details>
-<summary>Day 28</summary>
-<p>
+<details><summary>Day 28</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d18e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d18ls1.jpg)
@@ -6377,10 +5602,7 @@ Les Brown - Author
 - ✔️ [Completed 5 Questions in applied visual design in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%201%20-%2020/d18fcc.jpg)
 ***
 </p></details>
-
-<details>
-<summary>Day 27</summary>
-<p>
+<details><summary>Day 27</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d17e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d17ls1.jpg)
@@ -6412,12 +5634,7 @@ Les Brown - Author
   - ✔️ [Live Demo](https://codepen.io/rohan-cce/pen/XWjqrvg)
 ***
 </p></details>
-
-
-
-<details>
-<summary>Day 26</summary>
-<p>
+<details><summary>Day 26</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d16e1.jpeg)
 - ✔️ [Solved a Question from Community section in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%201%20-%2020/d16b1.jpg)
@@ -6432,10 +5649,7 @@ Les Brown - Author
 - 🐱‍💻 Solved 1 Question in TryHackMe 
 ***
 </p></details>
-
-<details>
-<summary>Day 25</summary>
-<p>
+<details><summary>Day 25</summary><p>
 
 - ✔️ Elevate
   - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d15e1.jpeg)
@@ -6463,11 +5677,7 @@ Les Brown - Author
 - ✔️ [Completed Q 39-61 CSS Exercise Questions in w3 schools](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/Day%201%20-%2020/d15w1.jpg)
 ***
 </p></details>
-
-
-<details>
-<summary>Day 24</summary>
-<p>
+<details><summary>Day 24</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d14e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d14ls1.png)
@@ -6488,11 +5698,7 @@ Les Brown - Author
 - 🐱‍💻 [Completed Tmux Room in Try Hack Me](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/thm/Day%201%20-%2020/d14t1.jpg)
 ***
 </p></details>
-
-
-<details>
-<summary>Day 23</summary>
-<p>
+<details><summary>Day 23</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d13e1.jpeg)
 - 🏆 [Earned An Achievement in Elevate (Accurate Player)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d13e2.jpeg)
@@ -6505,10 +5711,7 @@ Les Brown - Author
 - ✔️ Solved one question in tryhackme
 ***
 </p></details>
-
-<details>
-<summary>Day 22</summary>
-<p>
+<details><summary>Day 22</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d12e1.jpeg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d12ls1.png)
@@ -6544,10 +5747,7 @@ Les Brown - Author
 - ✔️ [Completed Q 39-61 CSS Exercise Questions in w3 schools](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/Day%201%20-%2020/d12w3.png)
 ***
 </p></details>
-
-<details>
-<summary>Day 21</summary>
-<p>
+<details><summary>Day 21</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d11e1.jpeg)
 - ✔️ [Solved a Problem in brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%201%20-%2020/d11b1.png)
@@ -6584,20 +5784,11 @@ Les Brown - Author
 - ✔️ [Completed Q 14-38 CSS Exercise Questions in w3 schools](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/Day%201%20-%2020/d11w3.png)
 - ✔️ [Completed 17 Questions in basic css in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%201%20-%2020/d11fcc.png)
 ***
-</p></details>
-</p></details>
-
-
+</p></details></p></details>
 >“Winning doesn’t always mean being first. Winning means you’re doing better than you’ve
 done before.”😇
-
-<details>
-<summary>Day 11 - 20 ~ December 19, 2020 - December 28 , 2020</summary>
-<p>
-
-<details>
-<summary>Day 20</summary>
-<p>
+<details><summary>Day 11 - 20 ~ December 19, 2020 - December 28 , 2020</summary><p>
+<details><summary>Day 20</summary><p>
 
 - ✔️ [Solved Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d10e1.jpeg)
 - ✔️ [Solved Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d10ls1.png)
@@ -6627,10 +5818,7 @@ done before.”😇
 [Completed 14% in basic css in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%201%20-%2020/d10fcc.png)
 ***
 </p></details>
-
-<details>
-<summary>Day 19</summary>
-<p>
+<details><summary>Day 19</summary><p>
 
 - ✔️  [Completed 10 questions in basic html and html5 challenge in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%201%20-%2020/d9fcc.png)
 - ✔️ [Solved Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d9e1.jpeg)
@@ -6651,10 +5839,7 @@ done before.”😇
 - ✔️ Solved Some Puzzles in chess.com
 ***
 </p></details>
-
-<details>
-<summary>Day 18</summary>
-<p>
+<details><summary>Day 18</summary><p>
 
 - ✔️ Played Cricket for 2 hours (Physical activity)
 - ✔️ [Solved Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d8e1.jpeg)
@@ -6672,10 +5857,7 @@ done before.”😇
 - ✔️ Solved one question in tryhackme
 ***
 </p></details>
-
-<details>
-<summary>Day 17</summary>
-<p>
+<details><summary>Day 17</summary><p>
 
 - ✔️ [Solved Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d7e1.jpeg)
 - ✔️ [Solved Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d7l1.png)
@@ -6694,10 +5876,7 @@ done before.”😇
       3 | [HTML Form Elements](https://www.w3schools.com/html/html_form_elements.asp)
 ***
 </p></details>
-
-<details>
-<summary>Day 16</summary>
-<p>
+<details><summary>Day 16</summary><p>
 
 - ✔️ [Solved Daily workout in elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%201%20-%2020/d6e1.jpeg)
 - ✔️ [Completed Daily workout in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%201%20-%2020/d6l1.png)
@@ -6718,10 +5897,7 @@ done before.”😇
 - ✔️ Solved Day 24 Advent of Cybersecurity in Tryhackme
 ***
 </p></details>
-
-<details>
-<summary>Day 15</summary>
-<p>
+<details><summary>Day 15</summary><p>
 
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Played cricket for 2 hours and badminton for 1 hour (Physical activity)
@@ -6748,11 +5924,7 @@ done before.”😇
 - ✔️ [Completed 69-72 questions in w3school html exercise](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/Day%201%20-%2020/d5w3.png)
 ***
 </p></details>
-
-
-<details>
-<summary>Day 14</summary>
-<p>
+<details><summary>Day 14</summary><p>
 
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ [Updated Tech Stack in github special readme profile](https://github.com/rohan-cce/rohan-cce/blob/master/README.md)
@@ -6774,10 +5946,7 @@ done before.”😇
 - ✔️ [Solved Number digits in brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%201%20-%2020/d4b1.png)
 ***
 </p></details>
-
-<details>
-<summary>Day 13</summary>
-<p>
+<details><summary>Day 13</summary><p>
 
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Solved 2 Questions in tmux room in Tryhackme
@@ -6811,10 +5980,7 @@ done before.”😇
 - ✔️ [Solved 5 Questions in brilliant.org](https://brilliant.org/profile/rohan-fxvqgm/about/)
 ***
 </p></details>
-
-<details>
-<summary>Day 12</summary>
-<p>
+<details><summary>Day 12</summary><p>
 
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Solved Day 20 Advent of Cybersecurity in Tryhackme
@@ -6829,17 +5995,13 @@ done before.”😇
       6 | [HTML Links](https://www.w3schools.com/html/html_links.asp)
       7 | [HTML Links - Different Colors](https://www.w3schools.com/html/html_links_colors.asp)
       8 | [HTML Links - Create Bookmarks](https://www.w3schools.com/html/html_links_bookmarks.asp)
-
 - ✔️Added in Github
     - [target attributes](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/website%20development/target%20attribute)
 - ✔️ [Completed 29-44 questions in w3school html exercise](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/Day%201%20-%2020/d2w3.png)
 - ✔️ [Completed 50% of basic html and html5 challenge in responsive web design certification by freecodecamp](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/freecodecamp/Day%201%20-%2020/d2fcc.png)
 ***
 </p></details>
-
-<details>
-<summary>Day 11</summary>
-<p>
+<details><summary>Day 11</summary><p>
 
 - ✔️ Played cricket for 3 hours(Physical activity)
 - ✔️ Solved 1 question in Tryhackme Basic Pentesting room
@@ -6859,25 +6021,15 @@ done before.”😇
       9 | [HTML Text Formatting](https://www.w3schools.com/html/html_formatting.asp)
       10 | [HTML Quotation and Citation Elements](https://www.w3schools.com/html/html_quotation_elements.asp)
       11 | [HTML Comments](https://www.w3schools.com/html/html_comments.asp)
-
 - ✔️ Added in github
     - [List of HTML formating elements](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/website%20development/html%20formating%20elements)
     - [List of HTML quotation and citiation](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/website%20development/html%20quotation%20and%20citiation)
 - ✔️ [Completed 1-29 questions in w3school html exercise](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/w3/Day%201%20-%2020/d1w3.jpg)
 ***
-</p></details>
-
-</p></details>
-
+</p></details></p></details>
 >“No one is perfect - that’s why pencils have erasers.”😇
-
-<details>
-  <summary>Day 01 - 10 ~ December 9, 2020 - December 18, 2020</summary>
-<p>
-
-<details>
-<summary>Day 10</summary>
-<p>
+<details><summary>Day 01 - 10 ~ December 9, 2020 - December 18, 2020</summary><p>
+<details><summary>Day 10</summary><p>
 
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Solved Day 17,18 Advent of cybersecurity in tryhackme
@@ -6900,10 +6052,7 @@ done before.”😇
           2 | [Web hosting service](https://en.wikipedia.org/wiki/Web_hosting_service)
 ***
 </p></details>
-
-<details>
-<summary>Day 9</summary>
-<p>
+<details><summary>Day 9</summary><p>
 
 - ✔️ Played cricket for 2 hours (Physical activity)
 - ✔️ Thought of making progress as a team ,Where all members learn and help each other to grow ,  Hence invited 
@@ -6939,10 +6088,7 @@ done before.”😇
 - ✔️ Studied Basic types of nmap scanning
 ***
 </p></details>
-
-<details>
-<summary>Day 8</summary>
-<p>
+<details><summary>Day 8</summary><p>
 
 - ✔️ Helped [Guru Vikram](https://github.com/GuruVikram02) To get started with Github Desktop & Vscode
 - ✔️ Helped [Sri Sanjana](https://github.com/Srisanjana0711) To get started with Github Desktop & Vscode
@@ -6956,10 +6102,7 @@ done before.”😇
 - ✔️ Solved Day 16  Advent of Cybersecurity 2 in Tryhackme
 ***
 </p></details>
-
-<details>
-<summary>Day 7</summary>
-<p>
+<details><summary>Day 7</summary><p>
 
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Solved Day 15 Advent of Cybersecurity 2 in Tryhackme
@@ -6967,10 +6110,7 @@ done before.”😇
 - ✔️ Helped [Bhuvanesh](https://github.com/N-BHUVANESH/) To get started with Github Desktop & Vscode
 ***
 </p></details>
-
-<details>
-<summary>Day 6</summary>
-<p>
+<details><summary>Day 6</summary><p>
 
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Completed 2 Questions in Linux Fundamentals Part 1 room in TryHackMe
@@ -6982,10 +6122,7 @@ done before.”😇
 - ✔️ Solved Day 14 Advent of Cybersecurity 2 in Tryhackme
 ***
 </p></details>
-
-<details>
-<summary>Day 5</summary>
-<p>
+<details><summary>Day 5</summary><p>
 
 - ✔️ Played cricket for 3 hours (Physical activity)
 - ✔️ Solved Daily Challenge Question in Skillrack
@@ -6996,10 +6133,7 @@ done before.”😇
 - ✔️ Solved Day 13 Advent of Cybersecurity 2 in Tryhackme
 ***
 </p></details>
-
-<details>
-<summary>Day 4</summary>
-<p>
+<details><summary>Day 4</summary><p>
 
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Solved 2 questions in Tryhackme Basic Pentesting room
@@ -7009,10 +6143,7 @@ done before.”😇
 - ✔️ [Solved Day 12 Advent of Cybersecurity 2 in Tryhackme](https://www.linkedin.com/posts/rohan-j-ba489b19b_tryhackme-adventofcyber2-activity-6743572665405177856-_GeN)
 ***
 </p></details>
-
-<details>
-<summary>Day 3</summary>
-<p>
+<details><summary>Day 3</summary><p>
 
 - ✔️ Mades some changes and Updated [To Do List Using Linked Lists](https://github.com/rohan-cce/Data-Structures-in-c/blob/main/todo_list_using_linkedlist.c)
 - ✔️ Solved Daily Challenge Question in Skillrack
@@ -7027,10 +6158,7 @@ done before.”😇
 - ✔️ Solved Day 11 Advent of Cybersecurity 2 in Tryhackme
 ***
 </p></details>
-
-<details>
-<summary>Day 2</summary>
-<p>
+<details><summary>Day 2</summary><p>
 
 - ✔️ Solved 2 questions in Tryhackme Basic Pentesting room
 - ✔️ Solved Daily Challenge Question in Skillrack
@@ -7043,10 +6171,7 @@ done before.”😇
 - ✔️ Read And Understood (Page Number 28-39) in Data Structures and Algorithm made easy by Narasimha karumanchi   
 *** 
 </p></details>
-
-<details>
-<summary>Day 1</summary>
-<p>
+<details><summary>Day 1</summary><p>
 
 - ✔️ Solved 2 questions in Tryhackme Basic Pentesting room
 - ✔️ Solved Daily Challenge Question in Skillrack
@@ -7061,6 +6186,4 @@ done before.”😇
 - ✔️ Watched and Understood Intro part of Practical Ethical Hacking by The Cyber Mentor
 - ✔️ Read And Understood (Page Number 16-27) in Data Structures and Algorithm made easy by Narasimha karumanchi
 ***
-</p></details>
-</p></details>
-</p></details>
+</p></details></p></details></p></details>
