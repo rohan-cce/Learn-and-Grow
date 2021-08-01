@@ -2,6 +2,7 @@
 Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 ***
 >“You do what you can for as long as you can, and when you finally can’t, you do the next best thing. You back up but you don’t give up.” ―Chuck Yeager
+***
 <details><summary>Day 201 - 250 ~ June 27, 2021 -  August 15, 2021</summary><p>
 <details><summary>Day 231 - 240 ~ July 27, 2021 - August 05, 2021</summary><p>
 <details><summary>Day 236</summary><p>
@@ -1270,9 +1271,11 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [13.5 Netted off positions(subcategory)](https://zerodha.com/varsity/chapter/quick-note-on-physical-settlement/)
     - 💰📈 [13.6 Margins](https://zerodha.com/varsity/chapter/quick-note-on-physical-settlement/)
 </p></details></p></details></p></details>
->“How much you can learn when you fail determines how far you will go into achieving your goals.”― Roy Bennett
-<details><summary>Day 151 - 201 ~ May 08, 2021 - June 26, 2021</summary><p>
 
+***
+>“How much you can learn when you fail determines how far you will go into achieving your goals.”― Roy Bennett
+***
+<details><summary>Day 151 - 201 ~ May 08, 2021 - June 26, 2021</summary><p>
 <details><summary>Day 191 - 200 ~ June 17, 2021 - June 26, 2021</summary><p>
 <details><summary>Day 200</summary><p>
 
@@ -2800,7 +2803,11 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 💰📈 [12.3 – Revisiting the checklist](https://zerodha.com/varsity/chapter/volumes/)
 ***
 </p></details></p></details></p></details>
+
+***
 >"Your life is in your hands. Every single circumstance in your life can change."
+***
+
 <details><summary>Day 101 - 151 ~ March 19, 2021 -  May 07, 2021</summary><p>
 <details><summary>Day 141 - 150 ~ April 28, 2021 -  May 07, 2021</summary><p>
 <details><summary>Day 150</summary><p>
@@ -4061,7 +4068,10 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
 - 🏃 [Walking -> 13233 ~ 8.1 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%2081%20-%20100/d91walking.jpg)
 ***
 </p></details></p></details></p></details>
+
+***
 >“You always pass failure on the way to success.”- Mickey Rooney
+***
 <details><summary>Day 51 - 100 ~ January 28, 2021 - March 18, 2021</summary><p>
 <details><summary>Day 91 - 100 ~ March 09, 2021 - March 18, 2021</summary><p>
 <details><summary>Day 100</summary><p>
@@ -5036,8 +5046,11 @@ Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
     - 🐱‍💻 [Completed 1 Question in Text-fu Lesson in linuxjourney](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/linux/Day%2041%20-%2060/d41lx1.jpg)
 ***
 </p></details></p></details></p></details>
+ 
+ ***
 >"If you're not making mistakes, then you're not doing anything. I'm positive that a doer makes mistakes."
 John Wooden - Author
+***
 <details><summary>Day 01 - 50 ~ December 09, 2020 - January 27, 2021</summary><p>
 <details><summary>Day 41 - 50 ~ January 18, 2021 - January 27, 2021</summary><p>
 <details><summary>Day 50</summary><p>
