@@ -1,10 +1,38 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 236 Days (09/12/2020 to 01/08/2021)
+Learning Progress Till Now -> 237 Days (09/12/2020 to 02/08/2021)
 
 >“You do what you can for as long as you can, and when you finally can’t, you do the next best thing. You back up but you don’t give up.” ―Chuck Yeager
 
 <details><summary>Day 201 - 250 ~ June 27, 2021 -  August 15, 2021</summary><p>
 <details><summary>Day 231 - 240 ~ July 27, 2021 - August 05, 2021</summary><p>
+<details><summary><u>Day 237</u></summary><p>
+
+- ✔️ Elevate
+  - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20221%20-%20240/d227e1.jpg)
+  - ✔️ [Reached New proficiency level in Reading(expert)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20221%20-%20240/d227e2.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20221%20-%20240/d227ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20221%20-%20240/d227b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d227chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d227chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d227chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d227chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d227h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20221%20-%20240/d227leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 🏃 [Walking -> 10671 Steps ~ 6.2 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20221%20-%20240/d227walking.jpg)
+- 👂🏻 [Watched a Youtube video "Historic eviction crisis looms over US | COVID-19 | Delta Variant"](https://www.youtube.com/watch?v=zLlm4jUYrOE)
+- 👂🏻 [Watched a Youtube video "What made Walmart the most powerful business Empire worth $559 Billion ? : Business case study"](https://www.youtube.com/watch?v=BxDmbGFABJw)
+- 👂🏻 [Watched a Youtube video "How Airbnb used Recession to become a 131 Billion Dollar Company?"](https://www.youtube.com/watch?v=YvA5RFhmLNA)
+- 💰📈 [Financial education ~ "Safe Investment Vs Risky Investment Options | Where to Invest Money"](https://www.youtube.com/watch?v=X748g7bWxaA)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [17. Arbitrage Funds](https://zerodha.com/varsity/chapter/arbitrage-funds/)
+    - 💰📈 [17.1 – Arbitrage](https://zerodha.com/varsity/chapter/arbitrage-funds/)
+    - 💰📈 [17.2 – The  Arbitrage Fund](https://zerodha.com/varsity/chapter/arbitrage-funds/)
+  </p></details>
 <details><summary>Day 236</summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20221%20-%20240/d226e1.jpg)
