@@ -1,11 +1,33 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 237 Days (09/12/2020 to 02/08/2021)
+Learning Progress Till Now -> 238 Days (09/12/2020 to 03/08/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 >“You do what you can for as long as you can, and when you finally can’t, you do the next best thing. You back up but you don’t give up.” ―Chuck Yeager
 
 <details><summary><u>Day 201 - 250 ~ June 27, 2021 -  August 15, 2021</u></summary><p>
 <details><summary><u>Day 231 - 240 ~ July 27, 2021 - August 05, 2021</u></summary><p>
+<details><summary><u>Day 238</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20221%20-%20240/d228e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20221%20-%20240/d228ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20221%20-%20240/d228b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d228chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d228chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d228chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d228chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d228h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20221%20-%20240/d228leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 🏃 [Walking -> 5077 Steps ~ 3.1 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20221%20-%20240/d228walking.jpg)
+- 👂🏻 [Watched a Youtube video "Chinese authorities to test all Wuhan residents amid COVID surge | WION Trending | English News"](https://www.youtube.com/watch?v=F0lH3KiiHgI)
+- 👂🏻 [Watched a Youtube video "India says has no plans to cut import duties after Tesla appeals to slash taxes | English News"](https://www.youtube.com/watch?v=Q7zKy48QMWE)
+- 👂🏻 [Watched a Youtube video "Ferrari shows no signs of stress even amid COVID pandemic, sticks to its 2021 target | English News"](https://www.youtube.com/watch?v=YBJumCClvWk)
+- 💰📈 [Financial education ~ "Spinning Top | Special Candle | Candles-Main strategy | Lesson 7"](https://www.youtube.com/watch?v=jfudCrvn4nM)
+</p></details>
 <details><summary><u>Day 237</u></summary><p>
 
 - ✔️ Elevate
