@@ -1,11 +1,41 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 238 Days (09/12/2020 to 03/08/2021)
+Learning Progress Till Now -> 239 Days (09/12/2020 to 04/08/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 >“You do what you can for as long as you can, and when you finally can’t, you do the next best thing. You back up but you don’t give up.” ―Chuck Yeager
 
 <details><summary><u>Day 201 - 250 ~ June 27, 2021 -  August 15, 2021</u></summary><p>
 <details><summary><u>Day 231 - 240 ~ July 27, 2021 - August 05, 2021</u></summary><p>
+<details><summary><u>Day 239</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20221%20-%20240/d229e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20221%20-%20240/d229ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20221%20-%20240/d229b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d229chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d229chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d229chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d229chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d229h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20221%20-%20240/d229leetcode.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Siberian heat wave might lead to deadly methane emissions"](https://www.youtube.com/watch?v=DJnqLqkRR0c)
+- 👂🏻 [Watched a Youtube video "Exclusive: Former Iranian President says India and not China is a better choice for Iran"](https://www.youtube.com/watch?v=QWiGDOtQfl0)
+- 💰📈 [Financial education ~ "Your 1st Step in Stock Market | Financial Education"](https://www.youtube.com/watch?v=xsAO_c_5sXk)
+- 💰📈 [Financial education ~ "These MISTAKES can steal your money | Personal Finance for beginners | Abhi and Niyu"](https://www.youtube.com/watch?v=lzdu3wwrvkQ)
+  - 💰📈 [18. Measuring Mutual fund Returns](https://zerodha.com/varsity/chapter/measuring-mutual-fund-returns/)
+    - 💰📈 [18.1 – Mutual Fund metrics](https://zerodha.com/varsity/chapter/measuring-mutual-fund-returns/)
+    - 💰📈 [18.2 – Measuring MF investment performance](https://zerodha.com/varsity/chapter/measuring-mutual-fund-returns/)
+    - 💰📈 [18.3 – XIRR and CAGR are the same](https://zerodha.com/varsity/chapter/measuring-mutual-fund-returns/)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)                       
+    - 👨🏻‍💻⌨️ [8.14 This Keyword in Java](https://www.youtube.com/watch?v=P5DOzTL3O_w&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=87)
+    - 👨🏻‍💻⌨️ [8.15 Anonymous Object in Java](https://www.youtube.com/watch?v=AmRjm4Cksmo&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=88)
+    - 👨🏻‍💻⌨️ [8.16 Abstraction in Java](https://www.youtube.com/watch?v=zZq_XDhU-rc&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=89)
+</p></details>
 <details><summary><u>Day 238</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20221%20-%20240/d228e1.jpg)
