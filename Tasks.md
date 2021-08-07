@@ -1,7 +1,33 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 241 Days (09/12/2020 to 06/08/2021)
+Learning Progress Till Now -> 242 Days (09/12/2020 to 07/08/2021)
 
+>“You do what you can for as long as you can, and when you finally can’t, you do the next best thing. You back up but you don’t give up.” ―Chuck Yeager
+
+<details><summary>Day 201 - 250 ~ June 27, 2021 -  August 15, 2021</summary><p>
 <details><summary><u>Day 241 - 250 ~ August 06, 2021 - August 15, 2021</u></summary><p>
+<details><summary><u>Day 242</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20221%20-%20240/d232e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20221%20-%20240/d232ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20221%20-%20240/d232b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d232chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d232chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d232chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d232chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d232h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20221%20-%20240/d232leetcode.jpg)
+- ✔️ Codechef
+  - ✔️ [Completed one problem in Codechef](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/codechef/Day%20221%20-%20240/d232codechef.jpg)
+- 📰 [Daily English News](https://qz.com/india/)
+- 👂🏻 [Watched a Youtube video "Watch: Over 150 NSG commandos conduct counter-terrorism drills in Madurai"](https://www.youtube.com/watch?v=Xr3rGvi5DFw)
+- 👂🏻 [Watched a Youtube video "Gravitas: Methane: A bigger threat than CO2?"](https://www.youtube.com/watch?v=et_xUiaog_U)
+- 💰📈 [Financial education ~ "ADVANTAGES OF LOAN | VALUE OF DEBT"](https://www.youtube.com/watch?v=RJWAaOzW3rM)
+- 💰📈 [Financial education ~ "HOW TO DRAW TRENDLINE || TECHNICAL ANALYSIS TAMIL || PRICE ACTION TRADING"](https://www.youtube.com/watch?v=eYO9FRBIarE)
+</p></details>
 <details><summary><u>Day 241</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20221%20-%20240/d231e1.jpg)
@@ -17,16 +43,14 @@ Learning Progress Till Now -> 241 Days (09/12/2020 to 06/08/2021)
   - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d231h6.jpg)
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20221%20-%20240/d231leetcode.jpg)
+- ✔️ Codechef
+  - ✔️ [Completed one problem in Codechef](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/codechef/Day%20221%20-%20240/d231codechef.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
 - 👂🏻 [Watched a Youtube video "Tensions between Israel, Iran escalate after tanker attack | English News | World News | WION"](https://www.youtube.com/watch?v=WXb-ujl4Y7I)
 - 👂🏻 [Watched a Youtube video "How Dubai Police catch lane change offenders"](https://www.youtube.com/watch?v=CJa44iB48kM)
 - 💰📈 [Financial education ~ "Exxaro Tiles & Windlas Biotech IPO review - Business, financials, IPO details | Upcoming IPO 2021"](https://www.youtube.com/watch?v=NLHE6VGNegM)
 </p></details>
 </p></details>
-
->“You do what you can for as long as you can, and when you finally can’t, you do the next best thing. You back up but you don’t give up.” ―Chuck Yeager
-
-<details><summary>Day 201 - 250 ~ June 27, 2021 -  August 15, 2021</summary><p>
 <details><summary>Day 231 - 240 ~ July 27, 2021 - August 05, 2021</summary><p>
 <details><summary><u>Day 240</u></summary><p>
 
