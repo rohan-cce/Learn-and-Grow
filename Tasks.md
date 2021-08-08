@@ -23,7 +23,7 @@ Learning Progress Till Now -> 243 Days (09/12/2020 to 08/08/2021)
 - ✔️ Codechef
   - ✔️ [Completed one problem in Codechef](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/codechef/Day%20221%20-%20240/d233codechef.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
-- 🏃 [Walking -> 11524 Steps ~ 5.7 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20221%20-%20240/d223walking.jpg)
+- 🏃 [Walking -> 11524 Steps ~ 5.8 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20221%20-%20240/d223walking.jpg)
 - 👂🏻 [Watched a Youtube video "Biggest Enemy of our Success - How to overcome Fear of losing ?"](https://www.youtube.com/watch?v=n0kikYKo3nA)
 - 👂🏻 [Watched a Youtube video "None of My Friends Supported Me - Ratan Tata Award Winning Speech | Ratan Tata And Ford Story"](https://www.youtube.com/watch?v=sX59j8nu1Ag)
 - 💰📈 [Financial education ~ "HOW TO DRAW SUPPORT & RESISTANCE || TECHNICAL ANALYSIS || PRICE ACTION TRADING || EP -02"](https://www.youtube.com/watch?v=D4Jr238fFRI)
