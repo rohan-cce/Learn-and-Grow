@@ -1,10 +1,44 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 244 Days (09/12/2020 to 09/08/2021)
+Learning Progress Till Now -> 245 Days (09/12/2020 to 10/08/2021)
 
 >“You do what you can for as long as you can, and when you finally can’t, you do the next best thing. You back up but you don’t give up.” ―Chuck Yeager
 
 <details><summary>Day 201 - 250 ~ June 27, 2021 -  August 15, 2021</summary><p>
 <details><summary><u>Day 241 - 250 ~ August 06, 2021 - August 15, 2021</u></summary><p>
+<details><summary><u>Day 245</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20221%20-%20240/d235e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20221%20-%20240/d235ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20221%20-%20240/d235b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d235chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d235chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d235chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d235chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d235h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20221%20-%20240/d235leetcode.jpg)
+- ✔️ Codechef
+  - ✔️ [Completed one problem in Codechef](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/codechef/Day%20221%20-%20240/d235codechef.jpg)
+- 📰 [Daily English News](https://qz.com/india/)  
+- 🏃 [Walking -> 6909 Steps ~ 3.9 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20221%20-%20240/d225walking.jpg)
+- 👂🏻 [Watched a Youtube video "Gravitas: Modi becomes 1st Indian PM to chair UNSC session, lays roadmap for maritime security"](https://www.youtube.com/watch?v=IJ6K8H55h3A)
+- 👂🏻 [Watched a Youtube video "Exploring China's Huge & Facinating Road Network | The Grand Tour"](https://www.youtube.com/watch?v=4-XDxCb92X4)
+- 👂🏻 [Watched a Youtube video "Atomic Habits Summary 📖 20 Lessons - James Clear"](https://www.youtube.com/watch?v=a2YEiDTLjvg)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [18. Measuring Mutual fund Returns](https://zerodha.com/varsity/chapter/measuring-mutual-fund-returns/)
+    - 💰📈 [18.1 – Mutual Fund metrics](https://zerodha.com/varsity/chapter/measuring-mutual-fund-returns/)
+    - 💰📈 [18.2 – Measuring MF investment performance](https://zerodha.com/varsity/chapter/measuring-mutual-fund-returns/)
+    - 💰📈 [18.3 – XIRR and CAGR are the same](https://zerodha.com/varsity/chapter/measuring-mutual-fund-returns/)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)                       
+    - 👨🏻‍💻⌨️ [8.14 This Keyword in Java](https://www.youtube.com/watch?v=P5DOzTL3O_w&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=87)
+    - 👨🏻‍💻⌨️ [8.15 Anonymous Object in Java](https://www.youtube.com/watch?v=AmRjm4Cksmo&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=88)
+    - 👨🏻‍💻⌨️ [8.16 Abstraction in Java](https://www.youtube.com/watch?v=zZq_XDhU-rc&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=89)
+    
+</p></details>
 <details><summary><u>Day 244</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20221%20-%20240/d234e1.jpg)
@@ -40,7 +74,7 @@ Learning Progress Till Now -> 244 Days (09/12/2020 to 09/08/2021)
 - ✔️ Codechef
   - ✔️ [Completed one problem in Codechef](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/codechef/Day%20221%20-%20240/d233codechef.jpg)
 - 📰 [Daily English News](https://qz.com/india/)
-- 🏃 [Walking -> 11524 Steps ~ 5.8 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20221%20-%20240/d223walking.jpg)
+- 🏃 [Walking -> 11524 Steps ~ 5.8 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20221%20-%20240/d233walking.jpg)
 - 👂🏻 [Watched a Youtube video "Biggest Enemy of our Success - How to overcome Fear of losing ?"](https://www.youtube.com/watch?v=n0kikYKo3nA)
 - 👂🏻 [Watched a Youtube video "None of My Friends Supported Me - Ratan Tata Award Winning Speech | Ratan Tata And Ford Story"](https://www.youtube.com/watch?v=sX59j8nu1Ag)
 - 💰📈 [Financial education ~ "HOW TO DRAW SUPPORT & RESISTANCE || TECHNICAL ANALYSIS || PRICE ACTION TRADING || EP -02"](https://www.youtube.com/watch?v=D4Jr238fFRI)
@@ -131,6 +165,7 @@ Learning Progress Till Now -> 244 Days (09/12/2020 to 09/08/2021)
 - 👂🏻 [Watched a Youtube video "Exclusive: Former Iranian President says India and not China is a better choice for Iran"](https://www.youtube.com/watch?v=QWiGDOtQfl0)
 - 💰📈 [Financial education ~ "Your 1st Step in Stock Market | Financial Education"](https://www.youtube.com/watch?v=xsAO_c_5sXk)
 - 💰📈 [Financial education ~ "These MISTAKES can steal your money | Personal Finance for beginners | Abhi and Niyu"](https://www.youtube.com/watch?v=lzdu3wwrvkQ)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
   - 💰📈 [18. Measuring Mutual fund Returns](https://zerodha.com/varsity/chapter/measuring-mutual-fund-returns/)
     - 💰📈 [18.1 – Mutual Fund metrics](https://zerodha.com/varsity/chapter/measuring-mutual-fund-returns/)
     - 💰📈 [18.2 – Measuring MF investment performance](https://zerodha.com/varsity/chapter/measuring-mutual-fund-returns/)
