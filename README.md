@@ -1,11 +1,37 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 246 Days (09/12/2020 to 11/08/2021)
+Learning Progress Till Now -> 247 Days (09/12/2020 to 12/08/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 >“You do what you can for as long as you can, and when you finally can’t, you do the next best thing. You back up but you don’t give up.” ―Chuck Yeager
 
 <details><summary><u>Day 201 - 250 ~ June 27, 2021 -  August 15, 2021</u></summary><p>
 <details><summary><u>Day 241 - 250 ~ August 06, 2021 - August 15, 2021</u></summary><p>
+<details><summary><u>Day 247</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20221%20-%20240/d237e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20221%20-%20240/d237ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20221%20-%20240/d237b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d237chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d237chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d237chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d237chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d237h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20221%20-%20240/d237leetcode.jpg)
+- 👂🏻 [Watched a Youtube video "Gravitas: Did China carry out a cyberattack on Israel?"](https://www.youtube.com/watch?v=hmhn_pLIYTY)
+- 👂🏻 [Watched a Youtube video "California becomes 1st state to require vaccination for all school staff | Latest English News"](https://www.youtube.com/watch?v=VVfM1lZmf2w)
+- 💰📈 [Financial education ~ "How to Analyze Stocks | Fundamental Analysis for Beginners"](https://www.youtube.com/watch?v=GymaDIRRXZQ)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [20. Mutual fund Expense Ratio, Direct, and Regular plans](https://zerodha.com/varsity/chapter/mutual-fund-expense-ratio-direct-and-regular-plans/)
+    - 💰📈 [20.1 – Expense Ratio](https://zerodha.com/varsity/chapter/mutual-fund-expense-ratio-direct-and-regular-plans/)
+    - 💰📈 [20.2 – Direct and Regular plans ](https://zerodha.com/varsity/chapter/mutual-fund-expense-ratio-direct-and-regular-plans/)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)                       
+    - 👨🏻‍💻⌨️ [8.18 Abstract Class in Java Example](https://www.youtube.com/watch?v=RcIsb9iFKH8&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=91)
+</p></details>
 <details><summary><u>Day 246</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20221%20-%20240/d236e1.jpg)
@@ -32,7 +58,6 @@ Learning Progress Till Now -> 246 Days (09/12/2020 to 11/08/2021)
 - 👨🏻‍💻⌨️ Learn and Code
   - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)                       
     - 👨🏻‍💻⌨️ [8.17 Abstract Class in Java Tutorial Theory](https://www.youtube.com/watch?v=TIPnQe2-iPE&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=89)
-    - 👨🏻‍💻⌨️ [8.18 Abstract Class in Java Example](https://www.youtube.com/watch?v=RcIsb9iFKH8&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=91)
 </p></details>
 <details><summary><u>Day 245</u></summary><p>
 
