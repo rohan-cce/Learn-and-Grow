@@ -1,10 +1,43 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 247 Days (09/12/2020 to 12/08/2021)
+Learning Progress Till Now -> 248 Days (09/12/2020 to 13/08/2021)
 
 >“You do what you can for as long as you can, and when you finally can’t, you do the next best thing. You back up but you don’t give up.” ―Chuck Yeager
 
 <details><summary>Day 201 - 250 ~ June 27, 2021 -  August 15, 2021</summary><p>
 <details><summary><u>Day 241 - 250 ~ August 06, 2021 - August 15, 2021</u></summary><p>
+<details><summary><u>Day 248</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20221%20-%20240/d238e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20221%20-%20240/d238ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20221%20-%20240/d238b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d238chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d238chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d238chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d238chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d238h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20221%20-%20240/d238leetcode.jpg)
+- ✔️ Codechef
+  - ✔️ [Completed one problem in Codechef](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/codechef/Day%20221%20-%20240/d235codechef.jpg)
+- 📑 Blogs Read
+  - 📑[The Scariest Things We Saw at Black Hat 2021](https://medium.com/pcmag-access/the-scariest-things-we-saw-at-black-hat-2021-5855d66a1404)
+  - 📑[Material UI vs Bootstrap: A Detailed Comparison](https://uxplanet.org/material-ui-vs-bootstrap-a-detailed-comparison-8fc9151db5ed)
+- 🧐What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🧐[An Introduction to Environment Variables and How to Use Them](https://medium.com/chingu/an-introduction-to-environment-variables-and-how-to-use-them-f602f66d15fa)
+- 👂🏻 [Watched a Youtube video "Gravitas: The developed world is dumping billions of COVID-19 shots in the dustbin"](https://www.youtube.com/watch?v=NaQ2qrXKdIE)
+- 👂🏻 [Watched a Youtube video "Health care system cripples in Florida as COVID cases surge | Latest English News | World"](https://youtu.be/vH6bgkr4oFs)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [21. Mutual Benchmarking](https://zerodha.com/varsity/chapter/mutual-benchmarking/)
+    - 💰📈 [21.1 – TER savings ](https://zerodha.com/varsity/chapter/mutual-benchmarking/)
+    - 💰📈 [21.2 – Benchmarking and TRI](https://zerodha.com/varsity/chapter/mutual-benchmarking/)
+    - 💰📈 [21.3 – Weights matter](https://zerodha.com/varsity/chapter/mutual-benchmarking/)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)                       
+    - 👨🏻‍💻⌨️ [8.20 What is Interface in java with example](https://www.youtube.com/watch?v=TMh91DIR-A0&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=91)
+</p></details>
 <details><summary><u>Day 247</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20221%20-%20240/d237e1.jpg)
@@ -74,8 +107,7 @@ Learning Progress Till Now -> 247 Days (09/12/2020 to 12/08/2021)
   - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d235h6.jpg)
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20221%20-%20240/d235leetcode.jpg)
-- ✔️ Codechef
-  - ✔️ [Completed one problem in Codechef](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/codechef/Day%20221%20-%20240/d235codechef.jpg)
+c
 - 📰 [Daily English News](https://qz.com/india/)  
 - 🏃 [Walking -> 6909 Steps ~ 3.9 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20221%20-%20240/d225walking.jpg)
 - 👂🏻 [Watched a Youtube video "Gravitas: Modi becomes 1st Indian PM to chair UNSC session, lays roadmap for maritime security"](https://www.youtube.com/watch?v=IJ6K8H55h3A)
