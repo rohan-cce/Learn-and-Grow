@@ -1,11 +1,39 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 249 Days (09/12/2020 to 14/08/2021)
+Learning Progress Till Now -> 250 Days (09/12/2020 to 15/08/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 >“You do what you can for as long as you can, and when you finally can’t, you do the next best thing. You back up but you don’t give up.” ―Chuck Yeager
 
 <details><summary><u>Day 201 - 250 ~ June 27, 2021 -  August 15, 2021</u></summary><p>
 <details><summary><u>Day 241 - 250 ~ August 06, 2021 - August 15, 2021</u></summary><p>
+<details><summary><u>Day 250</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20221%20-%20240/d240e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20221%20-%20240/d240ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20221%20-%20240/d240b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d240chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d240chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d240chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20221%20-%20240/d240chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank Java language challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d240h6.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20221%20-%20240/d240leetcode.jpg)
+- 🏃 [Walking ->  12700 Steps ~ 7.7 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20221%20-%20240/d225walking.jpg)
+- 👂🏻 [Watched a Youtube video "Taliban take Jalalabad, leaving Kabul as only major city in government control • FRANCE 24"](https://www.youtube.com/watch?v=IpxNlVo3KGo)
+- 💰📈 [Financial education ~ "Oyo Is Planning an IPO | Swiggy and Bounce’s EV Plans | India’s First Crypto Unicorn CoinDCX"](https://www.youtube.com/watch?v=ROFhVu7FmEM)
+- 💰📈 [Financial education ~ Attended a virtual event "Thrive : India@75 by Groww - Learn the art of becoming financially independent #LetsThrive"](https://www.youtube.com/watch?v=Dx1iuHWzIbQ)
+  - 💰📈 [TalkWhat - does financial independence mean for young Indians]()
+  - 💰📈 [Masterclass - How to invest in your 20s to be wealthy in your 30s]()
+  - 💰📈 [Masterclass - How to build a consistent compounder portfolio]()
+  - 💰📈 [Talk - 10 disruptions that’ll transform India’s economy in the next 10 years]()
+  - 💰📈 [Masterclass - Biggest money mistakes that most Indians make]()
+  - 💰📈 [Panel - How to get good returns from the stock market as a busy person]()
+  - 💰📈 [Fireside chat - What should investors look for in an internet business]()
+  - 💰📈 [Masterclass - How to make your money work for you?]()
+</p></details>
 <details><summary><u>Day 249</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20221%20-%20240/d239e1.jpg)
