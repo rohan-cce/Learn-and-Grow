@@ -1,6 +1,38 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 250 Days (09/12/2020 to 15/08/2021)
+Learning Progress Till Now -> 251 Days (09/12/2020 to 15/08/2021)
 
+<details><summary>Day 251 - 300 ~ August 16, 2021 - October 05, 2021</summary><p>
+<details><summary><u>Day 251 - 260 ~ August 16, 2021 - August 25, 2021</u></summary><p>
+<details><summary><u>Day 251</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20241%20-%20260/d241e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20241%20-%20260/d241ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20241%20-%20260/d241b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d241chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d241chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d241chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d241chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20241%20-%20260/d241leetcode.jpg)
+- 📑 Blogs Read
+  - 📑[Mozilla’s dying. Now what?](https://medium.litbelb.com/mozillas-dying-now-what-d549bf432270)
+- 👂🏻 [Watched a Youtube video "Taliban take control of Afghanistan's presidential capital Kabul | Ashraf Ghani | English News"](https://www.youtube.com/watch?v=chY79W5-EKM)
+- 👂🏻 [Watched a Youtube video "India: Prime Minister Modi announces $1.3 trillion national infrastructure plan"](https://www.youtube.com/watch?v=fgNFfYsDfp8)
+- 💰📈 [Finshots ~ "From 1947 to 2021"](https://finshots.in/archive/independence-day-special/)
+- 💰📈 [Financial education ~ "Fixing Target and Stop loss | How much percentage ? | Candles Main strategy | Chapter 9 |"](https://www.youtube.com/watch?v=scLILO7nGws) 
+- 💰📈 [Financial education ~ "Sectors in Focus in PM's Independence Day speech | CA Rachana Ranade"](https://www.youtube.com/watch?v=w4IyS_YUIFE)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [22. Mutual Fund Beta, SD, and Sharpe Ratio](https://zerodha.com/varsity/chapter/mutual-fund-risk-metrics/)
+    - 💰📈 [22.1 – Beta](https://zerodha.com/varsity/chapter/mutual-fund-risk-metrics/)
+    - 💰📈 [22.2 – Alpha](https://zerodha.com/varsity/chapter/mutual-fund-risk-metrics/)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)                       
+    - 👨🏻‍💻⌨️ [8.20 What is Interface in java with example](https://www.youtube.com/watch?v=TMh91DIR-A0&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=91)
+</p></details>
+</p></details>
+</p></details>
 >“You do what you can for as long as you can, and when you finally can’t, you do the next best thing. You back up but you don’t give up.” ―Chuck Yeager
 
 <details><summary>Day 201 - 250 ~ June 27, 2021 -  August 15, 2021</summary><p>
