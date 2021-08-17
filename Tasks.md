@@ -1,8 +1,40 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 251 Days (09/12/2020 to 15/08/2021)
+Learning Progress Till Now -> 252 Days (09/12/2020 to 17/08/2021)
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 05, 2021</summary><p>
 <details><summary><u>Day 251 - 260 ~ August 16, 2021 - August 25, 2021</u></summary><p>
+<details><summary><u>Day 252</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20241%20-%20260/d242e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20241%20-%20260/d242ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20241%20-%20260/d242b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d242chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d242chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d242chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d242chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20241%20-%20260/d242leetcode.jpg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 📑 Blogs Read
+  - 📑[6 UI Concepts That Will Make You a Front End Ninja](https://javascript.plainenglish.io/6-ui-concepts-that-makes-you-a-frontend-ninja-c6c0a29fa954)
+- 🧐 What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🧐[Why the Electric Car Movement Is Going to Ultimately Kill the Planet](https://vargasvoice.medium.com/why-the-electric-car-movement-is-going-to-ultimately-kill-the-planet-841c49f0104)
+- 👂🏻 [Watched a Youtube video "How technology is reshaping the future of wildfires"](https://www.youtube.com/watch?v=3YNEgYRc3b0)
+- 👂🏻 [Watched a Youtube video "Trump calls on Biden to resign over unfolding crisis in Afghanistan | Taliban captures Kabul | WION"](https://www.youtube.com/watch?v=3YNEgYRc3b0)
+- 👂🏻 [Watched a Youtube video "Kabul airport overwhelmed amid evacuations of Afghans after Taliban's siege in country | Afghanistan"](https://www.youtube.com/watch?v=Vbxxi8UGN6E)
+- 💰📈 [Finshots (financial news) ~ "A new mode of transport?"](https://finshots.in/archive/a-new-mode-of-transport/)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [23. Sortino and the Capture Ratios](https://zerodha.com/varsity/chapter/sortino-and-the-capture-ratios/)
+    - 💰📈 [23.1 – The Sortino’s Ratio](https://zerodha.com/varsity/chapter/sortino-and-the-capture-ratios/)
+    - 💰📈 [23.2 – Capture Ratios](https://zerodha.com/varsity/chapter/sortino-and-the-capture-ratios/)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)                       
+    - 👨🏻‍💻⌨️ [8.21 Interface in Java Tutorial with Example](https://www.youtube.com/watch?v=Ggjxn8Q9VuE&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=92)
+</p></details>
 <details><summary><u>Day 251</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20241%20-%20260/d241e1.jpg)
