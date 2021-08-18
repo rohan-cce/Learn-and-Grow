@@ -1,9 +1,43 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 252 Days (09/12/2020 to 17/08/2021)
+Learning Progress Till Now -> 253 Days (09/12/2020 to 18/08/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 05, 2021</summary><p>
 <details><summary><u>Day 251 - 260 ~ August 16, 2021 - August 25, 2021</u></summary><p>
+<details><summary><u>Day 253</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20241%20-%20260/d243e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20241%20-%20260/d243ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20241%20-%20260/d243b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d243chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d243chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d243chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d243chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20241%20-%20260/d243leetcode.jpg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 📑 Blogs Read
+  - 📑[Windows 11: The 7 New Features To Look For](https://pcpromag.medium.com/windows-11-the-7-new-features-to-look-for-848063ffc21c)
+- 🧐 What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🤨[Case study ~ "Understanding BITCOIN's REAL World Application : Venezuela Hyperinflation Case Study"](https://www.youtube.com/watch?v=eSA1-1iqLZA)
+- 🏃 [Walking ->  4541 Steps ~ 2.7 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20241%20-%20260/d243walking.jpg)
+- 👂🏻 [Watched a Youtube video "Afghanistan: How long will Kabul Airport be able to operate? | DW News"](https://www.youtube.com/watch?v=pkx4bDvbLZM)
+- 👂🏻 [Watched a Youtube video "Gravitas: Twitter's new design is giving people headache"](https://www.youtube.com/watch?v=aR2dGj86Trs)
+- 💰📈 [Finshots (financial news) ~ "ECONOMY - Are oil bonds to blame for the high fuel prices"](https://finshots.in/archive/understanding-the-oil-bonds-controversy/)
+- 💰📈 [Financial education ~ "Fundamentals of Stock Analysis | A step-by-step process to analyse stocks "](https://www.youtube.com/watch?v=iWBjHPFrwrM)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [24. How to analyse an Equity Mutual fund?](https://zerodha.com/varsity/chapter/how-to-analyse-an-equity-mutual-fund/)
+    - 💰📈 [24.1 – Recap](https://zerodha.com/varsity/chapter/how-to-analyse-an-equity-mutual-fund/)
+    - 💰📈 [24.2 – Hygiene check  ](https://zerodha.com/varsity/chapter/how-to-analyse-an-equity-mutual-fund/)
+    - 💰📈 [24.3 – Rolling returns check](https://zerodha.com/varsity/chapter/how-to-analyse-an-equity-mutual-fund/)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)                       
+    - 👨🏻‍💻⌨️ [8.22 Interface in Java 8 Default , Static Methods | New features](https://www.youtube.com/watch?v=4e_RsZWdiSc&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=93)
+</p></details>
 <details><summary><u>Day 252</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20241%20-%20260/d242e1.jpg)
