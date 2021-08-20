@@ -1,9 +1,40 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 254 Days (09/12/2020 to 19/08/2021)
+Learning Progress Till Now -> 255 Days (09/12/2020 to 20/08/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 05, 2021</summary><p>
 <details><summary><u>Day 251 - 260 ~ August 16, 2021 - August 25, 2021</u></summary><p>
+<details><summary><u>Day 255</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20241%20-%20260/d245e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20241%20-%20260/d245ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20241%20-%20260/d245b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d245chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d245chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d245chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d245chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20241%20-%20260/d245leetcode.jpg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 📑 Blogs Read
+  - 📑[20 Must-Have Applications for Linux — The Sec Master](https://thesecmasterblog.medium.com/20-must-have-applications-for-linux-the-sec-master-38c6f8e4dfcf)
+- 🧐 What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🤨[Case study ~ "Shocking Rat Experiment Teaches Powerful Life Lesson"](https://www.youtube.com/watch?v=0qCnTs06Fvw)
+- 🏃 [Walking -> 3305  Steps ~ 2.0 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20241%20-%20260/d245walking.jpg)
+- 👂🏻 [Watched a Youtube video "Climate change captured in images of California's 'life source' - BBC News"](https://www.youtube.com/watch?v=u0X5k9vlJxk)
+- 👂🏻 [Watched a Youtube video "EAM S Jaishankar speaks at UNSC, slams countries sponsoring terrorism | Latest Updates | WION"](https://www.youtube.com/watch?v=nsopoexu5TI)
+- 💰📈 [Finshots (financial news) ~ Is Ola finally paving the way for an electric scooter revolution?"]()
+- 💰📈 [Financial education ~ "HOW TO TRADE DOUBLE BOTTOM PATTERN || PRICE ACTION EXPLAINED EP-04"](https://www.youtube.com/watch?v=PIg3oG5w6EU)
+- 💰📈 [Financial education ~ "HOW TO TRADE DOUBLE TOP PATTERNS || PRICE ACTION EP - 05"](https://www.youtube.com/watch?v=HddB1Lbd1qo)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [24. How to analyse an Equity Mutual fund?](https://zerodha.com/varsity/chapter/how-to-analyse-an-equity-mutual-fund/)
+    - 💰📈 [24.4 – Risk – Return matrix check](https://zerodha.com/varsity/chapter/how-to-analyse-an-equity-mutual-fund/)
+    - 💰📈 [24.5 – Capture ratios](https://zerodha.com/varsity/chapter/how-to-analyse-an-equity-mutual-fund/)
+</p></details>
 <details><summary><u>Day 254</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20241%20-%20260/d244e1.jpg)
