@@ -1,8 +1,30 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 256 Days (09/12/2020 to 21/08/2021)
+Learning Progress Till Now -> 257 Days (09/12/2020 to 22/08/2021)
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 05, 2021</summary><p>
 <details><summary><u>Day 251 - 260 ~ August 16, 2021 - August 25, 2021</u></summary><p>
+<details><summary><u>Day 257</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate]()
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20241%20-%20260/d247ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20241%20-%20260/d247b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d247chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d247chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d247chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d247chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20241%20-%20260/d247leetcode.jpg)
+- 🧐 What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🤨[Case study ~ "Decoding BIG Bull's Business STRATEGY to enter Indian Aviation Market : Akasa Airlines Case study"](https://www.youtube.com/watch?v=RoD3kThcl6U  )
+  - 🤨[Case study ~ "Japan’s $64BN Gamble on Levitating Bullet Trains Explained"](https://www.youtube.com/watch?v=q_dzK9ykGyc)
+- 🏃 [Walking -> 17246  Steps ~ 11.5 km (Physical activity)]()
+- 👂🏻 [Watched a Youtube video "Big boost to India's vaccination programme, vaccine approved for over 12-year-olds | ZyCov-D | COVID"](https://www.youtube.com/watch?v=2tBUwovXcRA)
+- 👂🏻 [Watched a Youtube video "Lebanese Pound has devalued by 85% in the last year | Lebanese Economy | Latest English News | WION"](https://www.youtube.com/watch?v=QExt-QYBM_A)
+- 💰📈 [Finshots (financial news) ~ "Why isn't fuel under GST?"](https://finshots.in/archive/why-isnt-fuel-under-gst/)
+- 💰📈 [Financial education ~ "Human Psychology in Share Market"](https://www.youtube.com/watch?v=s8aPvdf7xjk)
+</p></details>
 <details><summary><u>Day 256</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20241%20-%20260/d246e1.jpg)
@@ -40,7 +62,7 @@ Learning Progress Till Now -> 256 Days (09/12/2020 to 21/08/2021)
 - 🏃 [Walking -> 3305  Steps ~ 2.0 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20241%20-%20260/d245walking.jpg)
 - 👂🏻 [Watched a Youtube video "Climate change captured in images of California's 'life source' - BBC News"](https://www.youtube.com/watch?v=u0X5k9vlJxk)
 - 👂🏻 [Watched a Youtube video "EAM S Jaishankar speaks at UNSC, slams countries sponsoring terrorism | Latest Updates | WION"](https://www.youtube.com/watch?v=nsopoexu5TI)
-- 💰📈 [Finshots (financial news) ~ Is Ola finally paving the way for an electric scooter revolution?"]()
+- 💰📈 [Finshots (financial news) ~ "Is Ola finally paving the way for an electric scooter revolution?"]()
 - 💰📈 [Financial education ~ "HOW TO TRADE DOUBLE BOTTOM PATTERN || PRICE ACTION EXPLAINED EP-04"](https://www.youtube.com/watch?v=PIg3oG5w6EU)
 - 💰📈 [Financial education ~ "HOW TO TRADE DOUBLE TOP PATTERNS || PRICE ACTION EP - 05"](https://www.youtube.com/watch?v=HddB1Lbd1qo)
 - 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
