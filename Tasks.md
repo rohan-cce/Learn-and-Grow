@@ -1,8 +1,39 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 257 Days (09/12/2020 to 22/08/2021)
+Learning Progress Till Now -> 258 Days (09/12/2020 to 23/08/2021)
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 05, 2021</summary><p>
 <details><summary><u>Day 251 - 260 ~ August 16, 2021 - August 25, 2021</u></summary><p>
+<details><summary><u>Day 258</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate]()
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20241%20-%20260/d248ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20241%20-%20260/d248b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d248chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d248chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d248chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d248chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20241%20-%20260/d248leetcode.jpg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 📑 Blogs Read
+  - 📑[The 1Password Disaster (And Two Brilliant 1Password Alternatives)](https://medium.com/macoclock/the-1password-disaster-and-two-brilliant-1password-alternatives-c9adc2d7ae44)
+- 🧐 What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🤨[Case study ~ "How to talk to anyone like a CEO  | Crucial conversations book | Communication Skills"](https://www.youtube.com/watch?v=OZvSuTA_bRY)
+- 👂🏻 [Watched a Youtube video "Heavy winds and rains could batter the US East Coast with the arrival of Hurricane Henri "](https://www.youtube.com/watch?v=SblbcfJrirU)
+- 👂🏻 [Watched a Youtube video "COVID-19: Anti-lockdown protests rock Australia"](https://www.youtube.com/watch?v=_i2Vr9-2UOA)
+- 💰📈 [Finshots (financial news) ~ "Eicher's moment of reckoning?"](https://finshots.in/archive/eichers-moment-of-reckoning/)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [25. How to analyze a debt mutual fund?](https://zerodha.com/varsity/chapter/how-to-analyze-a-debt-mutual-fund/)
+    - 💰📈 [25.1 – Confused Portfolio](https://zerodha.com/varsity/chapter/how-to-analyze-a-debt-mutual-fund/)
+    - 💰📈 [25.2 – Risk recap](https://zerodha.com/varsity/chapter/how-to-analyze-a-debt-mutual-fund/)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️ [Telusko ~ Java Tutorial](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)                       
+    - 👨🏻‍💻⌨️ [8.22 Interface in Java 8 Default , Static Methods | New features](https://www.youtube.com/watch?v=4e_RsZWdiSc&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&index=93)
+</p></details>
 <details><summary><u>Day 257</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate]()
