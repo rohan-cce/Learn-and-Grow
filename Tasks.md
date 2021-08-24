@@ -3,9 +3,40 @@ Learning Progress Till Now -> 258 Days (09/12/2020 to 23/08/2021)
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 05, 2021</summary><p>
 <details><summary><u>Day 251 - 260 ~ August 16, 2021 - August 25, 2021</u></summary><p>
+<details><summary><u>Day 259</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20241%20-%20260/d249e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20241%20-%20260/d249ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20241%20-%20260/d249b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d249chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d249chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d249chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d249chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank 10 days of javascript challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d249h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20241%20-%20260/d249leetcode.jpg)
+- 🏃 [Walking -> 5352 Steps ~ 3.2 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20241%20-%20260/d249walking.jpg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 📑 Blogs Read
+  - 📑[3 easy CSS tricks for responsive websites I use for every project](https://sjorswijsman.medium.com/3-easy-css-tricks-for-responsive-websites-i-use-in-every-project-68ec334a1522?source=explore---------2-58--------------------7be34532_b31d_4548_a789_a6b6d631ea20-------15)
+- 🧐 What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🤨[“If software engineering is in demand, why is it so hard to get a software engineering job?”](https://corgicorporation.medium.com/if-software-engineering-is-in-demand-why-is-it-so-hard-to-get-a-software-engineering-job-c043a964e463)
+- 👂🏻 [Watched a Youtube video "Gravitas: Want a healthier life? Rearrange your platter"](https://www.youtube.com/watch?v=Nv53cZsFUs4)
+- 👂🏻 [Watched a Youtube video "6th Generation Fighter Jets and the Future of Aerial Warfare"](https://www.youtube.com/watch?v=BOZG9n-cTyM)
+- 💰📈 [Finshots (financial news) ~ "A unique identifier for gold?"](https://finshots.in/archive/a-unique-identifier-for-gold/)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [25. How to analyze a debt mutual fund?](https://zerodha.com/varsity/chapter/how-to-analyze-a-debt-mutual-fund/)
+    - 💰📈 [25.3 – Portfolio check](https://zerodha.com/varsity/chapter/how-to-analyze-a-debt-mutual-fund/)
+    - 💰📈 [25.4 – Other checks](https://zerodha.com/varsity/chapter/how-to-analyze-a-debt-mutual-fund/)
+</p></details>
 <details><summary><u>Day 258</u></summary><p>
 
-- ✔️ [Completed Daily Workout Problem in Elevate]()
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20241%20-%20260/d248e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20241%20-%20260/d248ls1.jpg)
 - ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20241%20-%20260/d248b1.jpg)
 - ✔️ Chess.com 
@@ -14,6 +45,8 @@ Learning Progress Till Now -> 258 Days (09/12/2020 to 23/08/2021)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d248chs3.jpg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d248chs5.jpg)
 - ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank 10 days of javascript challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d248h7.jpg)
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20241%20-%20260/d248leetcode.jpg)
 - 📖📈 Book reading
@@ -36,7 +69,7 @@ Learning Progress Till Now -> 258 Days (09/12/2020 to 23/08/2021)
 </p></details>
 <details><summary><u>Day 257</u></summary><p>
 
-- ✔️ [Completed Daily Workout Problem in Elevate]()
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20241%20-%20260/d247e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20241%20-%20260/d247ls1.jpg)
 - ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20241%20-%20260/d247b1.jpg)
 - ✔️ Chess.com 
@@ -219,6 +252,7 @@ Learning Progress Till Now -> 258 Days (09/12/2020 to 23/08/2021)
 </p></details>
 </p></details>
 </p></details>
+
 >“You do what you can for as long as you can, and when you finally can’t, you do the next best thing. You back up but you don’t give up.” ―Chuck Yeager
 
 <details><summary>Day 201 - 250 ~ June 27, 2021 -  August 15, 2021</summary><p>
