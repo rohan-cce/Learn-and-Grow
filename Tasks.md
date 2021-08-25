@@ -1,8 +1,40 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 258 Days (09/12/2020 to 23/08/2021)
+Learning Progress Till Now -> 260 Days (09/12/2020 to 25/08/2021)
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 05, 2021</summary><p>
 <details><summary><u>Day 251 - 260 ~ August 16, 2021 - August 25, 2021</u></summary><p>
+<details><summary><u>Day 260</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20241%20-%20260/d250e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20241%20-%20260/d250ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20241%20-%20260/d250b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d250chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d250chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d250chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d250chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank 10 days of javascript challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d250h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20241%20-%20260/d250leetcode.jpg)
+- 🏃 [Walking -> 11856 Steps ~ 7.8 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20241%20-%20260/d250walking.jpg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 📑 Blogs Read
+  - 📑[UI cheat sheet: Spacing friendships](https://uxdesign.cc/ui-cheat-sheet-spacing-friendships-e37a6fccc407)
+- 🧐 What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🤨[Case study ~ "How Flipkart is beating Amazon using its Business STRATEGY ? : Indian Retail Wars Episode 1"](https://www.youtube.com/watch?v=l2BR48V5UFg)
+- 👂🏻 [Watched a Youtube video "21,600 people evacuated in last 24 hours: Pentagon | Afghanistan | Latest English news"](https://www.youtube.com/watch?v=4LJ5rL-wtOg)
+- 👂🏻 [Watched a Youtube video "'Always there' : AI chatbot comforting China's lonely millions"](https://www.youtube.com/watch?v=xH6I9AfdvNo)
+- 👂🏻 [Watched a Youtube video "Israel faces new surge of Coronavirus cases | COVID-19 Pandemic | Latest World News | WION"](https://www.youtube.com/watch?v=pb_ySHFEIyU)
+- 👂🏻 [Watched a Youtube video "Israeli PM planning first visit to meet Egypt's Sisi | Naftali Bennett to visit the White House"](https://www.youtube.com/watch?v=7jAC6ArV-5o)
+- 💰📈 [Finshots (financial news) ~ "POLICY - A 6 lakh crore monetization plan"](https://finshots.in/archive/a-6-lakh-crore-monetisation-plan/)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [25. How to analyze a debt mutual fund?](https://zerodha.com/varsity/chapter/how-to-analyze-a-debt-mutual-fund/)
+    - 💰📈 [25.4 – Other checks](https://zerodha.com/varsity/chapter/how-to-analyze-a-debt-mutual-fund/)
+</p></details>
 <details><summary><u>Day 259</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20241%20-%20260/d249e1.jpg)
