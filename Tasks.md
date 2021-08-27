@@ -1,9 +1,41 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 261 Days (09/12/2020 to 25/08/2021)
+Learning Progress Till Now -> 262 Days (09/12/2020 to 27/08/2021)
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 05, 2021</summary><p>
-
 <details><summary><u>Day 261 - 270 ~ August 26, 2021 - September 04, 2021</u></summary><p>
+<details><summary><u>Day 262</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20241%20-%20260/d252e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20241%20-%20260/d252ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20241%20-%20260/d252b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d252chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d252chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d252chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d252chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - 🏆 [Earned 2nd star in 10 days of javascript challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d252h4.jpg)
+  - ✔️ [Completed 1 Question in hackerrank 10 days of javascript challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d252h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20241%20-%20260/d252leetcode.jpg)
+- 🏃 [Walking -> 9510 Steps ~ 5.98 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20241%20-%20260/d250walking.jpg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 📑 Blogs Read
+  - 📑[23 Great Rules for Being a Productive Creative](https://forge.medium.com/23-great-rules-for-being-a-productive-creative-c2a52e58955f)
+- 🧐 What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🤨[Case study ~ "Why Dubai's Man-Made Islands Are Still Empty"](https://www.youtube.com/watch?v=riETCR7FnZE)
+- 👂🏻 [Watched a Youtube video "Panic, fear & the western apathy as twin blasts rock Kabul airport| Latest English News | WION World"](https://www.youtube.com/watch?v=YqloHOth0s8)
+- 👂🏻 [Watched a Youtube video "Biden reaffirms August 31 troop pullout deadline despite Kabul airport blast | Latest English News"](https://www.youtube.com/watch?v=aeadF5lSJBo)
+- 👂🏻 [Watched a Youtube video "Israeli Prime Minister Naftali Bennett's two day tour to US Capital | Latest World English News"](https://www.youtube.com/watch?v=7BShHKbGBX0)
+- 💰📈 [Finshots (financial news) ~ "ECONOMY - How does a country run out of water?"](https://finshots.in/archive/how-does-a-country-run-out-of-water/)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [26. The Mutual Fund Portfolio](https://zerodha.com/varsity/chapter/the-mutual-fund-portfolio/)
+    - 💰📈 [26.3 – Mutual Fund cheat sheet](https://zerodha.com/varsity/chapter/the-mutual-fund-portfolio/)
+    - 💰📈 [26.4 – Portfolio, by the method of elimination](https://zerodha.com/varsity/chapter/the-mutual-fund-portfolio/)
+</p></details>
 <details><summary><u>Day 261</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20241%20-%20260/d251e1.jpg)
