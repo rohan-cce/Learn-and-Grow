@@ -1,8 +1,42 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 263 Days (09/12/2020 to 28/08/2021)
+Learning Progress Till Now -> 264 Days (09/12/2020 to 29/08/2021)
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 05, 2021</summary><p>
 <details><summary><u>Day 261 - 270 ~ August 26, 2021 - September 04, 2021</u></summary><p>
+<details><summary><u>Day 264</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20241%20-%20260/d254e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20241%20-%20260/d254ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20241%20-%20260/d254b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d254chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d254chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d254chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d254chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank 10 days of javascript challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d254h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20241%20-%20260/d254leetcode.jpg)
+- 🏃 [Walking -> 10598 Steps ~ 7.04 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20241%20-%20260/d254walking.jpg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 🧐 What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🤨[Case study ~ "How India's Perfumers Recreate The Smell Of Rain On Earth | Still Standing"](https://www.youtube.com/watch?v=CkM0QI3c3Yk)
+- 👂🏻 [Watched a Youtube video "5 Habits that are Spoiling the Youth | Best Advice for Youth to be Successful"](https://www.youtube.com/watch?v=czaewY6EgeQ)
+- 💰📈 [Finshots (financial news) ~ "MARKETS - A mixed bag from Airtel"](https://finshots.in/markets/a-mixed-bag-from-airtel/)
+- 💰📈 [Financial education ~ "10 things about money that your college doesn't teach you - Raj Shamani | Groww Originals"](https://www.youtube.com/watch?v=QkyoGc3CaKo)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [28. Asset Allocation, An Introduction](https://zerodha.com/varsity/chapter/asset-allocation-an-introduction/)
+    - 💰📈 [28.1 – Asset Allocation, an Introduction](https://zerodha.com/varsity/chapter/asset-allocation-an-introduction/)
+    - 💰📈 [28.2 – Allocation](https://zerodha.com/varsity/chapter/asset-allocation-an-introduction/)
+    - 💰📈 [28.3 – Sequence Risk](https://zerodha.com/varsity/chapter/asset-allocation-an-introduction/)
+    - 💰📈 [28.4 – Diversification vs Diworsification](https://zerodha.com/varsity/chapter/asset-allocation-an-introduction/)
+    - 💰📈 [28.5 – Keeping it simple](https://zerodha.com/varsity/chapter/asset-allocation-an-introduction/)
+    - 💰📈 [28.6 -Risks to diversification](https://zerodha.com/varsity/chapter/asset-allocation-an-introduction/)
+
+</p></details>
 <details><summary><u>Day 263</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20241%20-%20260/d253e1.jpg)
