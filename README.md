@@ -1,9 +1,42 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 264 Days (09/12/2020 to 29/08/2021)
+Learning Progress Till Now -> 265 Days (09/12/2020 to 30/08/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 05, 2021</summary><p>
 <details><summary><u>Day 261 - 270 ~ August 26, 2021 - September 04, 2021</u></summary><p>
+<details><summary><u>Day 265</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20241%20-%20260/d255e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20241%20-%20260/d255ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20241%20-%20260/d255b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d255chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d255chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d255chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d255chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank 10 days of javascript challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d255h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20241%20-%20260/d254leetcode.jpg)
+- 🏃 [Walking -> 10598 Steps ~ 7.04 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20241%20-%20260/d255walking.jpg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 🧐 What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🤨[Case study ~ "How governments rob their citizens? #moneyheist in real life"](https://www.youtube.com/watch?v=kbhdLmMfkfA)
+- 👂🏻 [Watched a Youtube video "Farmers fear no export of their crops in Afghanistan | Afghan Crisis | Agriculture | World News"](https://www.youtube.com/watch?v=ZsSdNtx5OJg)
+- 💰📈 [Finshots (financial news) ~ "POLICY - Fixing the Urban Cooperative Banking system"](https://finshots.in/archive/fixing-the-urban-cooperative-banking-system/)
+- 💰📈 [Financial education ~ "Is the stock market in a bubble right now - Valuation Guru Aswath Damodaran | Viral reacts"](https://www.youtube.com/watch?v=Yw3JZkP84cs)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [29. Exchange-traded funds (ETF)](https://zerodha.com/varsity/chapter/exchange-traded-funds-etf/)
+    - 💰📈 [29.1 – Overview](https://zerodha.com/varsity/chapter/exchange-traded-funds-etf/)
+    - 💰📈 [29.2 – History of ETFs](https://zerodha.com/varsity/chapter/exchange-traded-funds-etf/)
+    - 💰📈 [29.3 – ETFs in India](https://zerodha.com/varsity/chapter/exchange-traded-funds-etf/)
+    - 💰📈 [29.4 – What is an ETF?](https://zerodha.com/varsity/chapter/exchange-traded-funds-etf/)
+    - 💰📈 [29.5 – How does an ETF work?](https://zerodha.com/varsity/chapter/exchange-traded-funds-etf/)
+
+</p></details>
 <details><summary><u>Day 264</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20241%20-%20260/d254e1.jpg)
