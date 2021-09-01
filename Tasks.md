@@ -1,8 +1,42 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 266 Days (09/12/2020 to 31/08/2021)
+Learning Progress Till Now -> 267 Days (09/12/2020 to 01/09/2021)
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 05, 2021</summary><p>
 <details><summary><u>Day 261 - 270 ~ August 26, 2021 - September 04, 2021</u></summary><p>
+<details><summary><u>Day 267</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20241%20-%20260/d257e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20241%20-%20260/d257ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20241%20-%20260/d257b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d257chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d257chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d257chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d257chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - 🏆 [Earned 3rd star in 10 days of javascript challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d257h4.jpg)
+  - ✔️ [Completed 1 Question in hackerrank 10 days of javascript challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d257h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20241%20-%20260/d257leetcode.jpg)
+- 🧐 What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🤨[Case study ~ "Decoding the Business Strategies to run an Airline business profitably: Southwest Airlines CaseStudy"](https://www.youtube.com/watch?v=ebxaYgw8Nfw)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 👂🏻 [Watched a Youtube video "Greenland's ice sheet receives rainfall for the first time in recorded history"](https://www.youtube.com/watch?v=jiB6d7XVnhY)
+- 👂🏻 [Watched a Youtube video "Gravitas: Pakistan pays the price for helping the Taliban"](https://www.youtube.com/watch?v=vPuvw3FH69g)
+- 👂🏻 [Watched a Youtube video "India conducts meeting with Taliban at Doha | Latest English News | World News | WION"](https://www.youtube.com/watch?v=YXnnTUizB24)
+- 💰📈 [Finshots (financial news) ~ "POLICY - The case of the disappearing camel"](https://finshots.in/archive/the-case-of-the-disappearing-camel/)
+- 💰📈 [Financial education ~ "Candle Failure | How to identify and correct it? | Candles-Main strategy"](https://www.youtube.com/watch?v=b97FS-VdQ-A)
+- 💰📈 [Financial education ~ Module 11 - Personal Finance (Part 1)](https://zerodha.com/varsity/module/personalfinance/)
+  - 💰📈 [30. Basics of Macro Economics](https://zerodha.com/varsity/chapter/basics-of-macro-economics/)
+    - 💰📈 [30.1 – Why macroeconomics?](https://zerodha.com/varsity/chapter/basics-of-macro-economics/)
+    - 💰📈 [30.2 – Gross Domestic Produce (GDP)](https://zerodha.com/varsity/chapter/basics-of-macro-economics/)
+    - 💰📈 [30.3 – GDP and Market cap](https://zerodha.com/varsity/chapter/basics-of-macro-economics/)
+    - 💰📈 [30.4 – India Inc](https://zerodha.com/varsity/chapter/basics-of-macro-economics/)
+
+</p></details>
 <details><summary><u>Day 266</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20241%20-%20260/d256e1.jpg)
@@ -19,9 +53,6 @@ Learning Progress Till Now -> 266 Days (09/12/2020 to 31/08/2021)
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20241%20-%20260/d256leetcode.jpg)
 - 🏃 [Walking -> 7852 Steps ~ 5.45 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20241%20-%20260/d256walking.jpg)
-- 📖📈 Book reading
-  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
-  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
 - 👂🏻 [Watched a Youtube video "US completes military withdrawal from Afghanistan after 20-year war| Biden to address on exit | News"](https://www.youtube.com/watch?v=oFDwxkKTYn0)
 - 👂🏻 [Watched a Youtube video "Gravitas: Thanks to America, Taliban now has an Air Force"](https://www.youtube.com/watch?v=f0Rmk8Cq_7c)
 - 💰📈 [Finshots (financial news) ~ "POLICY - Why did India invest up to $3Bn in Afghanistan"](https://finshots.in/archive/why-did-india-invest-up-to-3bn-in-afghanistan/)
