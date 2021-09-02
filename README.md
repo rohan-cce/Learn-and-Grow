@@ -1,9 +1,41 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 267 Days (09/12/2020 to 01/09/2021)
+Learning Progress Till Now -> 268 Days (09/12/2020 to 02/09/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 05, 2021</summary><p>
 <details><summary><u>Day 261 - 270 ~ August 26, 2021 - September 04, 2021</u></summary><p>
+<details><summary><u>Day 268</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20241%20-%20260/d258e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20241%20-%20260/d258ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20241%20-%20260/d258b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d258chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d258chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d258chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d258chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - 🏆 [Earned 3rd star in 10 days of javascript challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d258h4.jpg)
+  - ✔️ [Completed 1 Question in hackerrank 10 days of javascript challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d258h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20241%20-%20260/d258leetcode.jpg)
+- 🏃 [Walking -> 5135 Steps ~ 3.08 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20241%20-%20260/d258walking.jpg)
+- 🧐 What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🤨[Case study ~ "Indian economy grows by 20.1% in quarter 1 of current financial year"](https://www.youtube.com/watch?v=4YTKmA1PWWU)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 👂🏻 [Watched a Youtube video "Gravitas: Food crisis in Sri Lanka as Chinese debt mounts"](https://www.youtube.com/watch?v=odMsw8J3JHU)
+- 👂🏻 [Watched a Youtube video "Gravitas: China opens road-rail transport link to Indian Ocean"](https://www.youtube.com/watch?v=6jhFhlxRQXM)
+- 👂🏻 [Watched a Youtube video "WION Ground Report: While world fears Taliban, Afghans worry about inflation | English News | World"](https://www.youtube.com/watch?v=egVxqPsbTuA)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - The Chinese Blitzkrieg on its own companies"](https://finshots.in/archive/the-chinese-blitzkrieg-on-its-own-companies/)
+- 💰📈 [Financial education ~ Module 13 - Integrated Financial Modelling](https://zerodha.com/varsity/chapter/introduction-to-financial-modelling/)
+  - 💰📈 [1. Introduction to Financial Modelling](https://zerodha.com/varsity/chapter/introduction-to-financial-modelling/)
+  - 💰📈 [1.1 – Unusual approach](https://zerodha.com/varsity/chapter/introduction-to-financial-modelling/)
+  - 💰📈 [1.2 – What are you learning and why?](https://zerodha.com/varsity/chapter/introduction-to-financial-modelling/)
+
+</p></details>
 <details><summary><u>Day 267</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20241%20-%20260/d257e1.jpg)
@@ -24,7 +56,6 @@ Learning Progress Till Now -> 267 Days (09/12/2020 to 01/09/2021)
   - 🤨[Case study ~ "Decoding the Business Strategies to run an Airline business profitably: Southwest Airlines CaseStudy"](https://www.youtube.com/watch?v=ebxaYgw8Nfw)
 - 📖📈 Book reading
   - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
-  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
 - 👂🏻 [Watched a Youtube video "Greenland's ice sheet receives rainfall for the first time in recorded history"](https://www.youtube.com/watch?v=jiB6d7XVnhY)
 - 👂🏻 [Watched a Youtube video "Gravitas: Pakistan pays the price for helping the Taliban"](https://www.youtube.com/watch?v=vPuvw3FH69g)
 - 👂🏻 [Watched a Youtube video "India conducts meeting with Taliban at Doha | Latest English News | World News | WION"](https://www.youtube.com/watch?v=YXnnTUizB24)
@@ -56,7 +87,6 @@ Learning Progress Till Now -> 267 Days (09/12/2020 to 01/09/2021)
 - 🏃 [Walking -> 7852 Steps ~ 5.45 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20241%20-%20260/d256walking.jpg)
 - 📖📈 Book reading
   - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
-  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
 - 👂🏻 [Watched a Youtube video "US completes military withdrawal from Afghanistan after 20-year war| Biden to address on exit | News"](https://www.youtube.com/watch?v=oFDwxkKTYn0)
 - 👂🏻 [Watched a Youtube video "Gravitas: Thanks to America, Taliban now has an Air Force"](https://www.youtube.com/watch?v=f0Rmk8Cq_7c)
 - 💰📈 [Finshots (financial news) ~ "POLICY - Why did India invest up to $3Bn in Afghanistan"](https://finshots.in/archive/why-did-india-invest-up-to-3bn-in-afghanistan/)
@@ -118,7 +148,6 @@ Learning Progress Till Now -> 267 Days (09/12/2020 to 01/09/2021)
 - 🏃 [Walking -> 10598 Steps ~ 7.04 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20241%20-%20260/d254walking.jpg)
 - 📖📈 Book reading
   - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
-  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
 - 🧐 What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
   - 🤨[Case study ~ "How India's Perfumers Recreate The Smell Of Rain On Earth | Still Standing"](https://www.youtube.com/watch?v=CkM0QI3c3Yk)
 - 👂🏻 [Watched a Youtube video "5 Habits that are Spoiling the Youth | Best Advice for Youth to be Successful"](https://www.youtube.com/watch?v=czaewY6EgeQ)

@@ -1,8 +1,40 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 267 Days (09/12/2020 to 01/09/2021)
+Learning Progress Till Now -> 268 Days (09/12/2020 to 02/09/2021)
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 05, 2021</summary><p>
 <details><summary><u>Day 261 - 270 ~ August 26, 2021 - September 04, 2021</u></summary><p>
+<details><summary><u>Day 268</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20241%20-%20260/d258e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20241%20-%20260/d258ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20241%20-%20260/d258b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d258chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d258chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d258chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d258chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - 🏆 [Earned 3rd star in 10 days of javascript challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d258h4.jpg)
+  - ✔️ [Completed 1 Question in hackerrank 10 days of javascript challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d258h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20241%20-%20260/d258leetcode.jpg)
+- 🏃 [Walking -> 5135 Steps ~ 3.08 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20241%20-%20260/d258walking.jpg)
+- 🧐 What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🤨[Case study ~ "Indian economy grows by 20.1% in quarter 1 of current financial year"](https://www.youtube.com/watch?v=4YTKmA1PWWU)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 👂🏻 [Watched a Youtube video "Gravitas: Food crisis in Sri Lanka as Chinese debt mounts"](https://www.youtube.com/watch?v=odMsw8J3JHU)
+- 👂🏻 [Watched a Youtube video "Gravitas: China opens road-rail transport link to Indian Ocean"](https://www.youtube.com/watch?v=6jhFhlxRQXM)
+- 👂🏻 [Watched a Youtube video "WION Ground Report: While world fears Taliban, Afghans worry about inflation | English News | World"](https://www.youtube.com/watch?v=egVxqPsbTuA)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - The Chinese Blitzkrieg on its own companies"](https://finshots.in/archive/the-chinese-blitzkrieg-on-its-own-companies/)
+- 💰📈 [Financial education ~ Module 13 - Integrated Financial Modelling](https://zerodha.com/varsity/chapter/introduction-to-financial-modelling/)
+  - 💰📈 [1. Introduction to Financial Modelling](https://zerodha.com/varsity/chapter/introduction-to-financial-modelling/)
+  - 💰📈 [1.1 – Unusual approach](https://zerodha.com/varsity/chapter/introduction-to-financial-modelling/)
+  - 💰📈 [1.2 – What are you learning and why?](https://zerodha.com/varsity/chapter/introduction-to-financial-modelling/)
+
+</p></details>
 <details><summary><u>Day 267</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20241%20-%20260/d257e1.jpg)
