@@ -1,9 +1,39 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 269 Days (09/12/2020 to 03/09/2021)
+Learning Progress Till Now -> 270 Days (09/12/2020 to 04/09/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 05, 2021</summary><p>
 <details><summary><u>Day 261 - 270 ~ August 26, 2021 - September 04, 2021</u></summary><p>
+<details><summary><u>Day 270</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20241%20-%20260/d260e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20241%20-%20260/d260ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20241%20-%20260/d260b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d260chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d260chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d260chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20241%20-%20260/d260chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank 10 days of javascript challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20221%20-%20240/d260h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20241%20-%20260/d260leetcode.jpg)
+- 🏃 [Walking -> 4060 Steps ~ 2.4 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20241%20-%20260/d260walking.jpg)
+- 🧐 What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🤨[Case study ~ "How Azim Premji's Business STRATEGY made him a BILLIONAIRE? : Wipro Case Study](https://www.youtube.com/watch?v=m-jafTwDvzA)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 👂🏻 [Watched a Youtube video "Whatever India Builds - It builds big"](https://www.youtube.com/watch?v=1G2CCyY_Y_U)
+- 👂🏻 [Watched a Youtube video "How much to invest for a comfortable life? | How to Create your Financial plan Tamil | AE Finance 65"](https://www.youtube.com/watch?v=KE6ktnqDyPU)
+- 💰📈 [Finshots (financial news) ~ "ECONOMY - What does the GDP growth figure tell us?"](https://finshots.in/archive/gdp-growth-first-quarter/)
+- 💰📈 [Financial education ~ "how to trade Head and Shoulders pattern || price action series -07"](https://www.youtube.com/watch?v=GdfhxlT823E)
+- 💰📈 [Financial education ~ Module 13 - Integrated Financial Modelling](https://zerodha.com/varsity/chapter/introduction-to-financial-modelling/)
+  - 💰📈 [1. Introduction to Financial Modelling](https://zerodha.com/varsity/chapter/introduction-to-financial-modelling/)
+    - 💰📈 [1.3 – Tools of the craft](https://zerodha.com/varsity/chapter/introduction-to-financial-modelling/)
+
+</p></details>
 <details><summary><u>Day 269</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20241%20-%20260/d259e1.jpg)
@@ -50,8 +80,8 @@ Learning Progress Till Now -> 269 Days (09/12/2020 to 03/09/2021)
 - 💰📈 [Finshots (financial news) ~ "BUSINESS - The Chinese Blitzkrieg on its own companies"](https://finshots.in/archive/the-chinese-blitzkrieg-on-its-own-companies/)
 - 💰📈 [Financial education ~ Module 13 - Integrated Financial Modelling](https://zerodha.com/varsity/chapter/introduction-to-financial-modelling/)
   - 💰📈 [1. Introduction to Financial Modelling](https://zerodha.com/varsity/chapter/introduction-to-financial-modelling/)
-  - 💰📈 [1.1 – Unusual approach](https://zerodha.com/varsity/chapter/introduction-to-financial-modelling/)
-  - 💰📈 [1.2 – What are you learning and why?](https://zerodha.com/varsity/chapter/introduction-to-financial-modelling/)
+    - 💰📈 [1.1 – Unusual approach](https://zerodha.com/varsity/chapter/introduction-to-financial-modelling/)
+    - 💰📈 [1.2 – What are you learning and why?](https://zerodha.com/varsity/chapter/introduction-to-financial-modelling/)
 
 </p></details>
 <details><summary><u>Day 267</u></summary><p>
