@@ -1,8 +1,34 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 270 Days (09/12/2020 to 04/09/2021)
+Learning Progress Till Now -> 271 Days (09/12/2020 to 05/09/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 05, 2021</summary><p>
+<details><summary><u>Day 271 - 280 ~ September 05, 2021 - September 14, 2021</u></summary><p>
+<details><summary><u>Day 271</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20261%20-%20280/d261e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20261%20-%20280/d261ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20261%20-%20280/d261b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d261chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d261chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d261chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d261chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank 10 days of javascript challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20261%20-%20280/d261h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20261%20-%20280/d261leetcode.jpg)
+- 🏃 [Walking -> 4575 Steps ~ 2.79 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20261%20-%20280/d261leetcode.jpg)
+- 🧐 What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
+  - 🤨[Case study ~ "Why North Korea is the Hardest Country to Escape"](https://www.youtube.com/watch?v=OQ9zng2S810)
+- 👂🏻 [Watched a Youtube video "Major money exchange market opens in Afghanistan | Latest World English News | WION News"](https://www.youtube.com/watch?v=NUrd6gjQ8AA)
+- 👂🏻 [Watched a Youtube video "Heavy fighting in Panjshir valley- An hour from Kabul | Latest World English News | WION News"](https://www.youtube.com/watch?v=SgShR3viToQ)
+- 👂🏻 [Watched a Youtube video "UAE plane reaches Kabul with food and medical aid | Taliban | Afghanistan News | English News"](https://www.youtube.com/watch?v=tidJViulB-k)
+
+</p></details>
+</p></details>
+
 <details><summary><u>Day 261 - 270 ~ August 26, 2021 - September 04, 2021</u></summary><p>
 <details><summary><u>Day 270</u></summary><p>
 
@@ -22,9 +48,6 @@ Learning Progress Till Now -> 270 Days (09/12/2020 to 04/09/2021)
 - 🏃 [Walking -> 4060 Steps ~ 2.4 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20241%20-%20260/d260walking.jpg)
 - 🧐 What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
   - 🤨[Case study ~ "How Azim Premji's Business STRATEGY made him a BILLIONAIRE? : Wipro Case Study](https://www.youtube.com/watch?v=m-jafTwDvzA)
-- 📖📈 Book reading
-  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
-  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
 - 👂🏻 [Watched a Youtube video "Whatever India Builds - It builds big"](https://www.youtube.com/watch?v=1G2CCyY_Y_U)
 - 👂🏻 [Watched a Youtube video "How much to invest for a comfortable life? | How to Create your Financial plan Tamil | AE Finance 65"](https://www.youtube.com/watch?v=KE6ktnqDyPU)
 - 💰📈 [Finshots (financial news) ~ "ECONOMY - What does the GDP growth figure tell us?"](https://finshots.in/archive/gdp-growth-first-quarter/)
