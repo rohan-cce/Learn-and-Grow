@@ -1,9 +1,28 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 273 Days (09/12/2020 to 07/09/2021)
+Learning Progress Till Now -> 274 Days (09/12/2020 to 08/09/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 05, 2021</summary><p>
 <details><summary><u>Day 271 - 280 ~ September 05, 2021 - September 14, 2021</u></summary><p>
+<details><summary><u>Day 274</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20261%20-%20280/d264e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20261%20-%20280/d264ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20261%20-%20280/d264b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d264chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d264chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d264chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d264chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - 🏆 [Earned 4th star in 10 days of javascript challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20261%20-%20280/d264h4.jpg)
+  - ✔️ [Completed 1 Question in hackerrank 10 days of javascript challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20261%20-%20280/d264h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20261%20-%20280/d264leetcode.jpg)
+- 🏃 [Walking -> 7633 Steps ~ 4.58 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20261%20-%20280/d264walking.jpg)
+
+</p></details>
 <details><summary><u>Day 273</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20261%20-%20280/d263e1.jpg)
@@ -20,10 +39,6 @@ Learning Progress Till Now -> 273 Days (09/12/2020 to 07/09/2021)
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20261%20-%20280/d263leetcode.jpg)
 - 🏃 [Walking -> 5406 Steps ~ 3.13 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/84e453183d2ed28fa736050c6ce55f7849aa4a30/materials/images/walking/Day%20261%20-%20280/d263walking.jpg)
-- 📖📈 Book reading
-  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
-  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
-- 🧐 What?, How?, Where?, Why?, Who?, When? series ~ trying to learn how things work🤨
   - 🤨[Case study ~ "Singapore’s Bold Plan to Build the Farms of the Future"](https://www.youtube.com/watch?v=2ueVw83Plec)
 - 👂🏻 [Watched a Youtube video "Kuwait started transforming 'tyre graveyard ' into residential city | Tyre Recycling | English News"](https://www.youtube.com/watch?v=yJjHRK1MCbY)
 - 👂🏻 [Watched a Youtube video "US evacuates Americans from Afghanistan after troop withdrawal | English News | World | WION"](https://www.youtube.com/watch?v=e3RuKFcutZI)
