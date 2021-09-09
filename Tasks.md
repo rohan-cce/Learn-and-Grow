@@ -1,8 +1,22 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 274 Days (09/12/2020 to 08/09/2021)
+Learning Progress Till Now -> 275 Days (09/12/2020 to 09/09/2021)
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 05, 2021</summary><p>
 <details><summary><u>Day 271 - 280 ~ September 05, 2021 - September 14, 2021</u></summary><p>
+<details><summary><u>Day 275</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20261%20-%20280/d265e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20261%20-%20280/d265ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20261%20-%20280/d265b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d265chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d265chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d265chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d265chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- 🏃 [Walking -> 10587 Steps ~ 6.02 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20261%20-%20280/d265walking.jpg)
+
+</p></details>
 <details><summary><u>Day 274</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20261%20-%20280/d264e1.jpg)
