@@ -1,9 +1,33 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 281 Days (09/12/2020 to 15/09/2021)
+Learning Progress Till Now -> 282 Days (09/12/2020 to 16/09/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 05, 2021</summary><p>
 <details><summary><u>Day 281 - 290 ~ September 15, 2021 - September 24, 2021</u></summary><p>
+<details><summary><u>Day 282</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20261%20-%20280/d272e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20261%20-%20280/d272ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20261%20-%20280/d272b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d272chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d272chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d272chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d272chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank 10 days of javascript challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20261%20-%20280/d272h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20261%20-%20280/d272leetcode.jpg)
+- 👂🏻 [Watched a Youtube video "Gravitas: Indians say Good Morning, internet clogged"](https://www.youtube.com/watch?v=-RGGnqOl1Hk)
+- 👂🏻 [Watched a Youtube video "Gravitas: Facebook knew Instagram is toxic for teenagers"](https://www.youtube.com/watch?v=dUwJgcT2Zys)
+- 💰📈 [Finshots (financial news) ~ "ECONOMY - Understanding Sri Lanka's Economic Crisis"](https://finshots.in/archive/understanding-sri-lankas-economic-crisis/)
+- 💰📈 [Financial education ~ Module 13 - Integrated Financial Modelling](https://zerodha.com/varsity/chapter/introduction-to-financial-modelling/)
+  - 💰📈 [2. Excel workbook setup](https://zerodha.com/varsity/chapter/excel-workbook-setup/)
+    - 💰📈 [2.1 – Selecting a company](https://zerodha.com/varsity/chapter/excel-workbook-setup/)
+    - 💰📈 [2.2 – Reimagine data presentation](https://zerodha.com/varsity/chapter/excel-workbook-setup/)
+
+</p></details>
 <details><summary><u>Day 281</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20261%20-%20280/d271e1.jpg)
