@@ -1,24 +1,48 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 283 Days (09/12/2020 to 17/09/2021)
+Learning Progress Till Now -> 284 Days (09/12/2020 to 18/09/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 05, 2021</summary><p>
 <details><summary><u>Day 281 - 290 ~ September 15, 2021 - September 24, 2021</u></summary><p>
-<details><summary><u>Day 283</u></summary><p>
+<details><summary><u>Day 284</u></summary><p>
 
-- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20261%20-%20280/d278e1.jpg)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20261%20-%20280/d278ls1.jpg)
-- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20261%20-%20280/d278b1.jpg)
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20261%20-%20280/d274e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20261%20-%20280/d274ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20261%20-%20280/d274b1.jpg)
 - ✔️ Chess.com 
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d278chs1.jpg)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d278chs2.jpg)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d278chs3.jpg)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d278chs5.jpg)
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d274chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d274chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d274chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d274chs5.jpg)
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ Hackerrank
-  - ✔️ [Completed 1 Question in hackerrank 10 days of javascript challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20261%20-%20280/d278h7.jpg)
+  - ✔️ [Completed 1 Question in hackerrank 10 days of javascript challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20261%20-%20280/d274h7.jpg)
 - ✔️ LeetCode
-  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20261%20-%20280/d278leetcode.jpg)
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20261%20-%20280/d274leetcode.jpg)
+- 🤨[Case study ~ "How did Toyota beat FORD & GM using its GENIUS Supply Chain Model?"](https://www.youtube.com/watch?v=0wVAPXswE6E)
+- 👂🏻 [Watched a Youtube video "With $3.5 Billion, India To Develop "No. 1 Automobile Manufacturing Hub" 🔥 By 2025"](https://www.youtube.com/watch?v=ThSbvn8dkWk)
+- 👂🏻 [Watched a Youtube video "Gravitas: A world without passwords?"](https://www.youtube.com/watch?v=R90TT3phBb0)
+- 💰📈 [Finshots (financial news) ~ "MARKETS - Reviewing ITC once again"](https://finshots.in/markets/reviewing-itc-once-again/)
+- 💰📈 [Financial education ~ Module 13 - Integrated Financial Modelling](https://zerodha.com/varsity/chapter/introduction-to-financial-modelling/)
+  - 💰📈 [2. Excel workbook setup](https://zerodha.com/varsity/chapter/excel-workbook-setup/)
+    - 💰📈 [2.3 – Set up your excel sheet](https://zerodha.com/varsity/chapter/excel-workbook-setup/)
+
+</p></details>
+<details><summary><u>Day 283</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20261%20-%20280/d273e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20261%20-%20280/d273ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20261%20-%20280/d273b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d273chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d273chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d273chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d273chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ Hackerrank
+  - ✔️ [Completed 1 Question in hackerrank 10 days of javascript challenge](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/hackerrank/Day%20261%20-%20280/d273h7.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20261%20-%20280/d273leetcode.jpg)
 - 👂🏻 [Watched a Youtube video "Gravitas: Will offices go extinct in a post-pandemic world?"](https://www.youtube.com/watch?v=hbdehQZBgPM)
 - 👂🏻 [Watched a Youtube video "Gravitas: What does AUKUS mean for India?"](https://www.youtube.com/watch?v=oPlIrfIU9ec)
 - 👂🏻 [Watched a Youtube video "Gravitas: Taiwan faces "severe threats" from China"](https://www.youtube.com/watch?v=4PTN_SJhZho)
