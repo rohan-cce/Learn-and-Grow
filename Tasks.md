@@ -1,8 +1,29 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 284 Days (09/12/2020 to 18/09/2021)
+Learning Progress Till Now -> 285 Days (09/12/2020 to 19/09/2021)
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 05, 2021</summary><p>
 <details><summary><u>Day 281 - 290 ~ September 15, 2021 - September 24, 2021</u></summary><p>
+<details><summary><u>Day 285</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20261%20-%20280/d275e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20261%20-%20280/d275ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20261%20-%20280/d275b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d275chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d275chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d275chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d275chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20261%20-%20280/d275leetcode.jpg)
+- 🏃 [Walking -> 10071 Steps ~ 5.85 (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20261%20-%20280/d275walking.jpg)
+- 🤨[Case study ~ "Is Apple losing its innovative streak?"](https://www.youtube.com/watch?v=leW8lIq6sp8)
+- 👂🏻 [Watched a Youtube video "German Chancellor, Angela Merkel steps down after serving 16 years as head of Germany's govt | WION"](https://www.youtube.com/watch?v=URvQOFzKJsw)
+- 👂🏻 [Watched a Youtube video "Lebanon is in the midst of an energy crises | Latest World English News | WION News"](https://www.youtube.com/watch?v=boi1vagZjuk)
+- 👂🏻 [Watched a Youtube video "Gravitas: Is a global financial crisis brewing in China?"](https://www.youtube.com/watch?v=oGWXJ-0PHp0)
+- 💰📈 [Finshots (financial news) ~ "INFOGRAPHIC - How long did Indian companies take to reach a $100B market cap?"](https://finshots.in/infographic/how-long-did-indian-companies-take-to-reach-a-100b-market-cap/)
+
+</p></details>
 <details><summary><u>Day 284</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20261%20-%20280/d274e1.jpg)
