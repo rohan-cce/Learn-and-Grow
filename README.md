@@ -1,9 +1,32 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 285 Days (09/12/2020 to 19/09/2021)
+Learning Progress Till Now -> 286 Days (09/12/2020 to 20/09/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 05, 2021</summary><p>
 <details><summary><u>Day 281 - 290 ~ September 15, 2021 - September 24, 2021</u></summary><p>
+<details><summary><u>Day 286</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20261%20-%20280/d276e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20261%20-%20280/d276ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20261%20-%20280/d276b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d276chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d276chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d276chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d276chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20261%20-%20280/d276leetcode.jpg)
+- 🏃 [Walking -> 10188 Steps ~ 5.71 (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20261%20-%20280/d276walking.jpg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 🤨[Case study ~ "Artificial skin that changes colours like a chameleon created by South Korean scientists"](https://www.youtube.com/watch?v=soMhGMmki8M)
+- 👂🏻 [Watched a Youtube video "Israeli agents killed Iran’s top nuclear scientist, Mohsen Fakhrizadeh: Report"](https://www.youtube.com/watch?v=O5SBLKF7Exc)
+- 💰📈 [Finshots (financial news) ~ "ECONOMY - Is Modern Monetary Theory the answer to everything"](https://finshots.in/archive/is-modern-monetary-theory-the-answer-to-everything/)
+- 💰📈 [Financial education ~ "How I am preparing for the NEXT BIG CRASH!"](https://www.youtube.com/watch?v=irtdoP3YqCk)
+
+</p></details>
 <details><summary><u>Day 285</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20261%20-%20280/d275e1.jpg)
