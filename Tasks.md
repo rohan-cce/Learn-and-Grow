@@ -1,8 +1,30 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 286 Days (09/12/2020 to 20/09/2021)
+Learning Progress Till Now -> 287 Days (09/12/2020 to 21/09/2021)
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 05, 2021</summary><p>
 <details><summary><u>Day 281 - 290 ~ September 15, 2021 - September 24, 2021</u></summary><p>
+<details><summary><u>Day 287</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20261%20-%20280/d277e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20261%20-%20280/d277ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20261%20-%20280/d277b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d277chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d277chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d277chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d277chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20261%20-%20280/d277leetcode.jpg)
+- 🏃 [Walking -> 6941 Steps ~ 3.45 (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20261%20-%20280/d277walking.jpg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
+- 🤨[Case study ~ "Life under Taliban rule one month on - BBC News"](https://www.youtube.com/watch?v=nbxZjNWEqaU)
+- 👂🏻 [Watched a Youtube video "Gravitas US Edition: Pakistan's gameplan at United Nations General Assembly"](https://www.youtube.com/watch?v=UvQ9pyUh8mc)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - What you should know about the Chinese Evergrande Crisi"](https://finshots.in/archive/what-is-the-evergrande-crisis/)
+
+</p></details>
 <details><summary><u>Day 286</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20261%20-%20280/d276e1.jpg)
