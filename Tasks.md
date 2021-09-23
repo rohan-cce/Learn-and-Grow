@@ -1,8 +1,31 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 288 Days (09/12/2020 to 22/09/2021)
+Learning Progress Till Now -> 289 Days (09/12/2020 to 23/09/2021)
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 05, 2021</summary><p>
 <details><summary><u>Day 281 - 290 ~ September 15, 2021 - September 24, 2021</u></summary><p>
+<details><summary><u>Day 289</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20261%20-%20280/d279e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20261%20-%20280/d279ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20261%20-%20280/d279b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d279chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d279chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d279chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d279chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20261%20-%20280/d279leetcode.jpg)
+- 🏃 [Walking -> 8272 Steps ~ 5.07 (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20261%20-%20280/d279walking.jpg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+- 🤨[Case study ~ "Dhirubhai Ambani vs Bear Cartel | Stock Market Concepts EXPLAINED"](https://www.youtube.com/watch?v=ODBJz87boBQ)
+- 👂🏻 [Watched a Youtube video "Gravitas US Edition: Are world leaders ignoring an impending financial pandemic?"](https://www.youtube.com/watch?v=gAqEkIasyXA)
+- 👂🏻 [Watched a Youtube video "Gravitas US Edition | British arrogance: Indian vaccine certificates rejected"](https://www.youtube.com/watch?v=gh8L92ApltI)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Understanding the Zee-Sony Marriage"](https://finshots.in/archive/understanding-the-zee-sony-marriage/)
+- 💰📈 [Financial education ~ "Watch: Nitin Gadkari clarifies on Chinese investment in Indian highway projects"](https://www.youtube.com/watch?v=uQ1MjoeCtvA)
+
+</p></details>
 <details><summary><u>Day 288</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20261%20-%20280/d278e1.jpg)
@@ -19,7 +42,6 @@ Learning Progress Till Now -> 288 Days (09/12/2020 to 22/09/2021)
 - 🏃 [Walking -> 7826 Steps ~ 4.6 (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20261%20-%20280/d278walking.jpg)
 - 📖📈 Book reading
   - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
-  - 👨🏻‍💻⌨️ Read 3 pages in the book "Penetration Testing with Kali Linux By Offensive Security"
 - 🤨[Case study ~ "Henry Ford's Business STRATEGY made FORD a billion company : Business Case study"](https://www.youtube.com/watch?v=8mef_bxijJk)
 - 👂🏻 [Watched a Youtube video "Gravitas US Edition: India seizes $2.7 billion of heroin from Afghanistan in Gujarat"](https://www.youtube.com/watch?v=ef1_S4Fo8Zk)
 - 👂🏻 [Watched a Youtube video "Gravitas US Edition | Black Lives Matter Movement: A WION Ground Report"](https://www.youtube.com/watch?v=mdAoKirRTiA)
