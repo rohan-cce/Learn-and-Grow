@@ -1,9 +1,30 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 289 Days (09/12/2020 to 23/09/2021)
+Learning Progress Till Now -> 290 Days (09/12/2020 to 24/09/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 05, 2021</summary><p>
 <details><summary><u>Day 281 - 290 ~ September 15, 2021 - September 24, 2021</u></summary><p>
+<details><summary><u>Day 290</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20261%20-%20280/d280e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20261%20-%20280/d280ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20261%20-%20280/d280b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d280chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d280chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d280chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20261%20-%20280/d280chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20261%20-%20280/d280leetcode.jpg)
+- 🏃 [Walking -> 8022 Steps ~ 5.01 (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20261%20-%20280/d280walking.jpg)
+- 🤨[Case study ~ "From Chennai To Nasdaq - The Story Of Freshworks & Girish Mathrubootham"](https://youtu.be/8EYQUb6Fwm0)
+- 👂🏻 [Watched a Youtube video "Indian Prime Minister Narendra Modi visits United States | WION USA Direct"](https://www.youtube.com/watch?v=FBFA47Bb7kw)
+- 👂🏻 [Watched a Youtube video "PM Narendra Modi thanks US for extending help during second Covid wave | WION-USA Direct"](https://www.youtube.com/watch?v=61YMpbTJ9Y8)
+- 👂🏻 [Watched a Youtube video "Israel, Jordan cooperate on climate change | Climate Crisis | English News | World News | WION"](https://www.youtube.com/watch?v=GxzwNCmZbok)
+- 💰📈 [Finshots (financial news) ~ "CAPITAL MARKETS - Is the Iron Ore rally over?"](https://finshots.in/archive/is-the-iron-ore-rally-over/)
+
+</p></details>
 <details><summary><u>Day 289</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20261%20-%20280/d279e1.jpg)
