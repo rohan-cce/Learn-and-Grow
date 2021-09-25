@@ -1,7 +1,32 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 290 Days (09/12/2020 to 24/09/2021)
+Learning Progress Till Now -> 291 Days (09/12/2020 to 25/09/2021)
 
-<details><summary>Day 251 - 300 ~ August 16, 2021 - October 05, 2021</summary><p>
+<details><summary>Day 251 - 300 ~ August 16, 2021 - October 04, 2021</summary><p>
+<details><summary><u>Day 291 - 300 ~ September 25, 2021 - October 04, 2021</u></summary><p>
+<details><summary><u>Day 291</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20281%20-%20300/d281e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20281%20-%20300/d281ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20281%20-%20300/d281b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d281chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d281chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d281chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d281chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20281%20-%20300/d281leetcode.jpg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+- 🤨[Case study ~ "Is Elon Musk Failing TESLA ? : Understanding Tesla's challenges, A Business Case Study"](https://www.youtube.com/watch?v=VV9ofSn3LzE)
+- 👂🏻 [Watched a Youtube video "India exercise Right to Reply at UN General Assembly | WION USA Direct | WION News"](https://www.youtube.com/watch?v=Iao3723odSY)
+- 👂🏻 [Watched a Youtube video "Indo-pacific, strengthening ties, no AUKUS mention- Here are key takeaways from QUAD Summit 2021"](https://www.youtube.com/watch?v=OCbDfAcfOKc)
+- 👂🏻 [Watched a Youtube video "Cards no longer have this feature! RBI Action !!"](https://www.youtube.com/watch?v=PwhGaM1Mr1c)
+- 💰📈 [Finshots (financial news) ~ "MARKETS - The Real Estate Rally"](https://finshots.in/markets/the-real-estate-rally/)
+- 💰📈 [Financial education ~ "What if Zerodha or Upstox Runs Away? What will happen to your Money & Shares in Demat Account?"](https://www.youtube.com/watch?v=OJm4KjrYZR8)
+
+</p></details>
+</p></details>
 <details><summary><u>Day 281 - 290 ~ September 15, 2021 - September 24, 2021</u></summary><p>
 <details><summary><u>Day 290</u></summary><p>
 
