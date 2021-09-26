@@ -1,8 +1,31 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 291 Days (09/12/2020 to 25/09/2021)
+Learning Progress Till Now -> 292 Days (09/12/2020 to 26/09/2021)
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 04, 2021</summary><p>
 <details><summary><u>Day 291 - 300 ~ September 25, 2021 - October 04, 2021</u></summary><p>
+<details><summary><u>Day 292</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20281%20-%20300/d282e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20281%20-%20300/d282ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20281%20-%20300/d282b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d282chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d282chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d282chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d282chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20281%20-%20300/d282leetcode.jpg)
+- 🏃 [Walking -> 5360 Steps ~ 4.6 (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20281%20-%20300/d282walking.jpg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+- 🤨[Case study ~ "The Inside Story of the Ship That Broke Global Trade"](https://www.youtube.com/watch?v=iVJ94tM7pNA)
+- 👂🏻 [Watched a Youtube video "Gravitas US Edition: Decoding Imran Khan's UNGA speech"](https://www.youtube.com/watch?v=Nvo2RAys6HY)
+- 👂🏻 [Watched a Youtube video "Gravitas US Edition Live | PM Modi at UNGA: The 6 big takeaways | India's bid for global leadership"](https://www.youtube.com/watch?v=kFY6g1LeMUs)
+- 💰📈 [Finshots (financial news) ~ "MARKETS - Understanding the Sugar industry"](https://finshots.in/markets/understanding-sugar-industry/)
+- 💰📈 [Financial education ~ "The Hidden Secrets of Bitcoin | Introducing Cryptocurrency"](https://www.youtube.com/watch?v=PVqHhIUwno4)
+
+</p></details>
 <details><summary><u>Day 291</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20281%20-%20300/d281e1.jpg)
