@@ -1,9 +1,31 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 292 Days (09/12/2020 to 26/09/2021)
+Learning Progress Till Now -> 293 Days (09/12/2020 to 27/09/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 04, 2021</summary><p>
 <details><summary><u>Day 291 - 300 ~ September 25, 2021 - October 04, 2021</u></summary><p>
+<details><summary><u>Day 293</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20281%20-%20300/d283e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20281%20-%20300/d283ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20281%20-%20300/d283b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d283chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d283chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d283chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d283chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20281%20-%20300/d283leetcode.jpg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+- 🤨[Case study ~ "What is a Bad Bank? | Banking Stocks to Watch | CA Rachana Ranade"](https://www.youtube.com/watch?v=M8fctJCSvdA)
+- 👂🏻 [Watched a Youtube video "Opposition leaders slam the government over the rising fuel crisis in UK | English News"](https://www.youtube.com/watch?v=HGioXyXhsrY)
+- 👂🏻 [Watched a Youtube video "Belarus foreign minister speaks to WION on India-Belarus relations | WION"](https://www.youtube.com/watch?v=FkqdSgG6AG4)
+- 💰📈 [Finshots (financial news) ~ "POLICY - Are we running out of power"](https://finshots.in/archive/are-we-running-out-of-power/)
+- 💰📈 [Financial education ~ "HOW TO TRADE FLAG PATTERN || FLAG PATTERN TRADING STRATEGY"](https://www.youtube.com/watch?v=UuPCCbS-rPI)
+
+</p></details>
 <details><summary><u>Day 292</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20281%20-%20300/d282e1.jpg)
