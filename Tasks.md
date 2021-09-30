@@ -1,8 +1,30 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 295 Days (09/12/2020 to 29/09/2021)
+Learning Progress Till Now -> 296 Days (09/12/2020 to 30/09/2021)
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 04, 2021</summary><p>
 <details><summary><u>Day 291 - 300 ~ September 25, 2021 - October 04, 2021</u></summary><p>
+<details><summary><u>Day 296</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20281%20-%20300/d286e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20281%20-%20300/d286ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20281%20-%20300/d286b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d286chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d286chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d286chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d286chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20281%20-%20300/d286leetcode.jpg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+- 🤨[Case study ~ "Gravitas: 42 countries owe $385 billion to China"](https://www.youtube.com/watch?v=GAmaGkMfkmQ)
+- 👂🏻 [Watched a Youtube video "Gravitas: How China is stoking tensions at the border again"](https://www.youtube.com/watch?v=HeFUHegJLs8)
+- 👂🏻 [Watched a Youtube video "Gravitas: Will America run out of money?"](https://www.youtube.com/watch?v=1XsBROE79zI)
+- 💰📈 [Finshots (financial news) ~ "CAPITAL MARKETS - The growing might of proxy advisory firms"](https://finshots.in/archive/proxy-advisory-firms-vs-corporate/)
+- 💰📈 [Financial education ~ "40 lakh employees will suffer due to this PF rule "](https://www.youtube.com/watch?v=Qxx_FKNljko)
+
+</p></details>
 <details><summary><u>Day 295</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20281%20-%20300/d285e1.jpg)
