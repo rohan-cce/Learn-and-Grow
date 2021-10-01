@@ -1,5 +1,5 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 296 Days (09/12/2020 to 30/09/2021)
+Learning Progress Till Now -> 297 Days (09/12/2020 to 01/10/2021)
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 04, 2021</summary><p>
 <details><summary><u>Day 291 - 300 ~ September 25, 2021 - October 04, 2021</u></summary><p>
