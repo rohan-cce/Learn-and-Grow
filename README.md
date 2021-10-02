@@ -1,9 +1,32 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 297 Days (09/12/2020 to 01/10/2021)
+Learning Progress Till Now -> 298 Days (09/12/2020 to 02/10/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 04, 2021</summary><p>
 <details><summary><u>Day 291 - 300 ~ September 25, 2021 - October 04, 2021</u></summary><p>
+<details><summary><u>Day 298</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20281%20-%20300/d288e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20281%20-%20300/d288ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20281%20-%20300/d288b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d288chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d288chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d288chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d288chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20281%20-%20300/d288leetcode.jpg)
+- 🏃 [Walking -> 9280 Steps ~ 6.2 (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20281%20-%20300/d287walking.jpg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+- 🤨[Case study ~ "How Dmart's BUSINESS STRATEGY made Radhakishan Damani the Retail King of India?: Business Case study"](https://www.youtube.com/watch?v=B5txS_lC1yY)
+- 👂🏻 [Watched a Youtube video "Future of Kabul airport at stake, Taliban urges countries to resume flight operations | WION News"](https://www.youtube.com/watch?v=eAKTzf-0hNM)
+- 👂🏻 [Watched a Youtube video "Taiwan: 38 Chinese jets violate airspace | WION English News | Latest English News"](https://www.youtube.com/watch?v=RfAaczfw97Q)
+- 💰📈 [Finshots (financial news) ~ "POLICY - Is the US government running out of money?"](https://finshots.in/archive/is-the-us-government-running-out-of-money/)
+- 💰📈 [Financial education ~ "Eurozone accelerated to 3.4 per cent, inflation hits 13-year high | WION"](https://www.youtube.com/watch?v=nUQyGB58RAE)
+
+</p></details>
 <details><summary><u>Day 297</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20281%20-%20300/d287e1.jpg)
