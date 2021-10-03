@@ -1,8 +1,30 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 298 Days (09/12/2020 to 02/10/2021)
+Learning Progress Till Now -> 299 Days (09/12/2020 to 03/10/2021)
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 04, 2021</summary><p>
 <details><summary><u>Day 291 - 300 ~ September 25, 2021 - October 04, 2021</u></summary><p>
+<details><summary><u>Day 299</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20281%20-%20300/d289e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20281%20-%20300/d289ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20281%20-%20300/d289b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d289chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d289chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d289chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d289chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20281%20-%20300/d289leetcode.jpg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+- 👂🏻 [Watched a Youtube video "'Indo Pacific has a lot of opportunity for growth, says Colombian VP while speaking to WION"](https://www.youtube.com/watch?v=KTPybM8wjwU)
+- 👂🏻 [Watched a Youtube video "'I got two doses of Covishield from India', says 76th UNGA President Abdulla Shahid |WION News |WION"](https://www.youtube.com/watch?v=ZW0zDsDBL3k)
+- 👂🏻 [Watched a Youtube video "Craftsman uses calligraphy on Kashmiri silk carpets, demand increases | Latest World News |WION"](https://www.youtube.com/watch?v=rPF1qUxzVWc)
+- 💰📈 [Finshots (financial news) ~ "CAPITAL MARKETS - Does your fund manager have skin in the game?"](https://finshots.in/archive/does-your-fund-manager-have-skin-in-the-game/)
+- 💰📈 [Financial education ~ "Where to invest? | Best Mutual Funds (2021 & 2022)"](https://www.youtube.com/watch?v=CW-iEVN8zyk)
+
+</p></details>
 <details><summary><u>Day 298</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20281%20-%20300/d288e1.jpg)
