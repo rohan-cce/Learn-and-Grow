@@ -1,5 +1,32 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 300 Days (09/12/2020 to 04/10/2021)
+Learning Progress Till Now -> 301 Days (09/12/2020 to 05/10/2021)
+
+<details><summary>Day 251 - 300 ~ August 16, 2021 - October 04, 2021</summary><p>
+<details><summary><u>Day 301 - 310 ~ October 05, 2021 -  October 14, 2021</u></summary><p>
+<details><summary><u>Day 301</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20281%20-%20300/d291e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20281%20-%20300/d291ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20281%20-%20300/d291b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d291chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d291chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d291chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d291chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20281%20-%20300/d291leetcode.jpg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+- 🤨[Case study ~ "Gravitas: How the rich and powerful hide their wealth"](https://www.youtube.com/watch?v=ntwFddrs__c)
+- 👂🏻 [Watched a Youtube video "56 Chinese planes in Taiwan airspace | WION English News | Latest News"](https://www.youtube.com/watch?v=RsE1IxSqwHk)
+- 👂🏻 [Watched a Youtube video "Gravitas: Xi Jinping's 'crackdown on everything'"](https://www.youtube.com/watch?v=Bw7nL5gVKEU)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Understanding the Pandora Papers"](https://finshots.in/archive/understanding-the-pandora-papers/)
+- 💰📈 [Financial education ~ "How to be Financially Independent & Retire Early | Make A lot of Money Fast Plan"](https://www.youtube.com/watch?v=m-D4rbLiZLo)
+
+</p></details>
+</p></details>
+</p></details>
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 04, 2021</summary><p>
 <details><summary><u>Day 291 - 300 ~ September 25, 2021 - October 04, 2021</u></summary><p>
