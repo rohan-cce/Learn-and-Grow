@@ -1,8 +1,31 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 301 Days (09/12/2020 to 05/10/2021)
+Learning Progress Till Now -> 302 Days (09/12/2020 to 06/10/2021)
 
-<details><summary>Day 251 - 300 ~ August 16, 2021 - October 04, 2021</summary><p>
+<details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
 <details><summary><u>Day 301 - 310 ~ October 05, 2021 -  October 14, 2021</u></summary><p>
+<details><summary><u>Day 302</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20281%20-%20300/d292e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20281%20-%20300/d292ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20281%20-%20300/d292b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d292chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d292chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d292chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d292chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20281%20-%20300/d292leetcode.jpg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+- 🤨[Case study ~ "How Microsoft KILLS its Competition Silently?: Business Strategy Case Study"](https://www.youtube.com/watch?v=I9p5K2Ke2MA)
+- 👂🏻 [Watched a Youtube video "US company partners with Bhutan in world's crypto revolution |Latest World English News |WION"](https://www.youtube.com/watch?v=jBhRjnvD6XI)
+- 👂🏻 [Watched a Youtube video "Gravitas: 56 Chinese Jets invade Taiwan's airspace"](https://www.youtube.com/watch?v=FJH3Hq2A62I)
+- 👂🏻 [Watched a Youtube video "Alpine glaciers in Kashmir are melting at an alarming rate"](https://www.youtube.com/watch?v=t7nSe-d8u00)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - What is happening to Facebook?"](https://finshots.in/archive/what-is-happening-to-facebook/)
+- 💰📈 [Financial education ~ "Pandora Papers Leak: Biggest Ever Expose on Black Money "](https://www.youtube.com/watch?v=wBjjudRgxS0)
+
+</p></details>
 <details><summary><u>Day 301</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20281%20-%20300/d291e1.jpg)
