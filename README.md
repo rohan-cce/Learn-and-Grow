@@ -1,8 +1,28 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 302 Days (09/12/2020 to 06/10/2021)
+Learning Progress Till Now -> 303 Days (09/12/2020 to 07/10/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
 <details><summary><u>Day 301 - 310 ~ October 05, 2021 -  October 14, 2021</u></summary><p>
+<details><summary><u>Day 303</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20281%20-%20300/d293e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20281%20-%20300/d293ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20281%20-%20300/d293b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d293chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d293chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d293chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d293chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+- 🤨[Case study ~ "One product, Two MRPs? #shorts"](https://www.youtube.com/watch?v=qmvc8GW7l2E)
+- 👂🏻 [Watched a Youtube video "Gravitas: Crashing drones, rising debt: China's rough patch"](https://www.youtube.com/watch?v=t4oxAvMZpZw)
+- 👂🏻 [Watched a Youtube video "Gravitas: China's new debt trap: Karachi port"](https://www.youtube.com/watch?v=ZEivtiIiIow)
+- 💰📈 [Finshots (financial news) ~ "ECONOMY - Is a viral economics paper going to change our view of inflation forever?"](https://finshots.in/archive/is-a-viral-economics-paper-going-to-change-our-view-of-inflation-forever/)
+- 💰📈 [Financial education ~ "Basics of Share for Beginners Explained"](https://www.youtube.com/watch?v=by9_zHQzeZk)
+
+</p></details>
 <details><summary><u>Day 302</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20281%20-%20300/d292e1.jpg)
@@ -50,6 +70,8 @@ Learning Progress Till Now -> 302 Days (09/12/2020 to 06/10/2021)
 </p></details>
 </p></details>
 </p></details>
+
+>"Coming together is a beginning; keeping together is progress; working together is success." - Edward Everett Hale
 
 <details><summary>Day 251 - 300 ~ August 16, 2021 - October 04, 2021</summary><p>
 <details><summary><u>Day 291 - 300 ~ September 25, 2021 - October 04, 2021</u></summary><p>
