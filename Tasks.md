@@ -1,8 +1,30 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 303 Days (09/12/2020 to 07/10/2021)
+Learning Progress Till Now -> 304 Days (09/12/2020 to 08/10/2021)
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
 <details><summary><u>Day 301 - 310 ~ October 05, 2021 -  October 14, 2021</u></summary><p>
+<details><summary><u>Day 304</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20281%20-%20300/d294e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20281%20-%20300/d294ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20281%20-%20300/d294b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d294chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d294chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d294chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d294chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20281%20-%20300/d294leetcode.jpg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+- 🤨[Case study ~ "What If We Pave Plastic Trash Into New Roads? | World Wide Waste"](https://www.youtube.com/watch?v=iFcPqXxAUWM)
+- 👂🏻 [Watched a Youtube video "Parts of India to face power outages owing to coal shortage crisis | Power Plants | English News"](https://www.youtube.com/watch?v=PZBl6FrrUwk)
+- 👂🏻 [Watched a Youtube video "After Modi govt's tit-for-tat, UK accepts India's vaccine certificate, removes quarantine rule"](https://www.youtube.com/watch?v=cG3CtKZFA_k)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Revisiting OYO before its IPO"](https://finshots.in/archive/revisiting-oyo-before-its-ipo/)
+- 💰📈 [Financial education ~ "CREDIT CARDS and BAD FINANCIAL HABITS | Why you should NOT USE credit cards?"](https://www.youtube.com/watch?v=TbWQ7ZC1JEc)
+
+</p></details>
 <details><summary><u>Day 303</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20281%20-%20300/d293e1.jpg)
