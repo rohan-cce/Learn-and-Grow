@@ -1,10 +1,33 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 304 Days (09/12/2020 to 08/10/2021)
+Learning Progress Till Now -> 305 Days (09/12/2020 to 09/10/2021)
 
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
 <details><summary><u>Day 301 - 310 ~ October 05, 2021 -  October 14, 2021</u></summary><p>
+<details><summary><u>Day 305</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20281%20-%20300/d295e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20281%20-%20300/d295ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20281%20-%20300/d295b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d295chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d295chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d295chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d295chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20281%20-%20300/d295leetcode.jpg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+- 🤨[Case study ~ "Thailand builds massive floating hydro-solar farm"](https://www.youtube.com/watch?v=VVo16WlZBqc)
+- 👂🏻 [Watched a Youtube video "Gravitas: Air India sold to Tata Group for 18,000 crore"](https://www.youtube.com/watch?v=NiHZUFLwEv0)
+- 👂🏻 [Watched a Youtube video "Gravitas: What are American soldiers doing in Taiwan?"](https://www.youtube.com/watch?v=q6B5H3vlyHM)
+- 💰📈 [Finshots (financial news) ~ "MARKETS - Powering on"](https://finshots.in/markets/powering-on/)
+- 👨🏻‍💻⌨️ Learn and Code
+  - 👨🏻‍💻⌨️["Blockchain Development Tamil Lesson 2 - Basics - Crypto Tamil"](https://www.youtube.com/watch?v=ods26s0Vj4A)
+
+</p></details>
 <details><summary><u>Day 304</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20281%20-%20300/d294e1.jpg)
