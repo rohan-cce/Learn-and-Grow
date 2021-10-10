@@ -1,8 +1,31 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 305 Days (09/12/2020 to 09/10/2021)
+Learning Progress Till Now -> 306 Days (09/12/2020 to 10/10/2021)
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
 <details><summary><u>Day 301 - 310 ~ October 05, 2021 -  October 14, 2021</u></summary><p>
+<details><summary><u>Day 306</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20281%20-%20300/d296e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20281%20-%20300/d296ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20281%20-%20300/d296b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d296chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d296chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d296chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d296chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20281%20-%20300/d296leetcode.jpg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+- 🤨[Case study ~ "USA, China is not even close, India No. 1 in the world"](https://www.youtube.com/watch?v=mIaPlxMUm5I)
+- 🤨[Case study ~ "How did Haldiram Build a 5000cr business empire? : Business case study"](https://www.youtube.com/watch?v=Z7P-t_yc8gE)
+- 👂🏻 [Watched a Youtube video "Air India : Tata's longest fight for favourite child😊🙏"](https://www.youtube.com/watch?v=IAyeZ4XAIAw)
+- 👂🏻 [Watched a Youtube video "Denmark PM Prime Minister Mette Frederiksen arrives in Delhi |Latest World English News |WION"](https://www.youtube.com/watch?v=DPdF-GALqPY)
+- 💰📈 [Finshots (financial news) ~ "MARKETS - Powering on"](https://finshots.in/markets/powering-on/)
+- 💰📈 [Financial education ~ "RBI Monetary Policy | Stocks in News"](https://ww.youtube.com/watch?v=gmhy7GP3rnE)
+
+</p></details>
 <details><summary><u>Day 305</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20281%20-%20300/d295e1.jpg)
