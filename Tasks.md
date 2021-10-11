@@ -1,8 +1,31 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 306 Days (09/12/2020 to 10/10/2021)
+Learning Progress Till Now -> 307 Days (09/12/2020 to 11/10/2021)
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
 <details><summary><u>Day 301 - 310 ~ October 05, 2021 -  October 14, 2021</u></summary><p>
+<details><summary><u>Day 307</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20281%20-%20300/d297e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20281%20-%20300/d297ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20281%20-%20300/d297b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d297chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d297chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d297chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d297chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20281%20-%20300/d297leetcode.jpg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+- 🤨[Case study ~ "The most advanced road marking machines"](The most advanced road marking machines)
+- 👂🏻 [Watched a Youtube video "Taiwan President Tsai: Taiwan will not bow to pressure from Beijing |Latest World News |WION"](https://www.youtube.com/watch?v=mfqKu7iyjgU)
+- 👂🏻 [Watched a Youtube video "Delhi CM Arvind Kejriwal writes to PM Modi as city braces for power cuts"](https://www.youtube.com/watch?v=XXHYlH89rdI)
+- 👂🏻 [Watched a Youtube video "Mukesh Ambani enters in world’s exclusive $100 bn club, joins Elon Musk, Jeff Bezos in elite list"](https://www.youtube.com/watch?v=j6HwLYZ4Yes)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - When a credit rating agency gives India the thumbs-up"](https://finshots.in/archive/when-a-credit-rating-agency-gives-india-the-thumbs-up/)
+- 💰📈 [Financial education ~ TECHNICAL indicators | CANDLESTICK PATTERN for beginners"](https://www.youtube.com/watch?v=t9UPE8CDuFs)
+
+</p></details>
 <details><summary><u>Day 306</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20281%20-%20300/d296e1.jpg)
