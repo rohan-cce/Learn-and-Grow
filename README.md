@@ -1,10 +1,33 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 307 Days (09/12/2020 to 11/10/2021)
+Learning Progress Till Now -> 308 Days (09/12/2020 to 12/10/2021)
 
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
 <details><summary><u>Day 301 - 310 ~ October 05, 2021 -  October 14, 2021</u></summary><p>
+<details><summary><u>Day 308</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20281%20-%20300/d298e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20281%20-%20300/d298ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20281%20-%20300/d298b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d298chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d298chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d298chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d298chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20281%20-%20300/d298leetcode.jpg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+- 🤨[Case study ~ "Indian is the Largest Software Exporter but We don't like our Products"](https://www.youtube.com/watch?v=NabCdLiWzAA)
+- 👂🏻 [Watched a Youtube video "The power crisis forced China to surrender, and stop punishing Australian coal"](https://www.youtube.com/watch?v=D7vi0_w3MRk)
+- 👂🏻 [Watched a Youtube video "China’s high-speed railways collapse into a debt trap | china economy fallout"](https://www.youtube.com/watch?v=bO-C71bnOLs)
+- 👂🏻 [Watched a Youtube video "Adani Ports blacklists Pakistan, Iran, Afghanistan after Rs 21,000 crore drug seizure at Mundra port"](https://www.youtube.com/watch?v=JnymI-DhViE)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Finshots Special — The Maharajah goes back to Tata"](https://finshots.in/archive/finshots-special-the-maharajah-goes-back-to-tata/)
+- 💰📈 [Financial education ~ "Technology that made UPI reality #Shorts"](https://www.youtube.com/watch?v=zyVrxNv2z8U)
+
+</p></details>
 <details><summary><u>Day 307</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20281%20-%20300/d297e1.jpg)
