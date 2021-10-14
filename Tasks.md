@@ -1,8 +1,30 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 309 Days (09/12/2020 to 13/10/2021)
+Learning Progress Till Now -> 309 Days (09/12/2020 to 14/10/2021)
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
 <details><summary><u>Day 301 - 310 ~ October 05, 2021 -  October 14, 2021</u></summary><p>
+<details><summary><u>Day 310</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20281%20-%20300/d30e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20281%20-%20300/d30ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20281%20-%20300/d300b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d300chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d30chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d300chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20281%20-%20300/d300chs5.jpg)
+- ✔️ Solved Daily Challenge Question in Skillrack
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20281%20-%20300/d300leetcode.jpg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+- 🤨[Case study ~ "Auction Strategy #Shorts"](https://www.youtube.com/watch?v=x5VgiPS2nTc)
+- 👂🏻 [Watched a Youtube video "US commitment to Taiwan is" rock solid" against threat posed by China: Pentagon"](https://www.youtube.com/watch?v=iAaJ415zSLQ)
+- 👂🏻 [Watched a Youtube video "China issues grave warning to Taiwan | English News | World News | WION"](https://www.youtube.com/watch?v=t1VTUdjdQ54)
+- 👂🏻 [Watched a Youtube video "Gravitas: China is preparing 4 military campaigns to take Taiwan"](https://www.youtube.com/watch?v=ibkvqRNcq5g)
+- 💰📈 [Finshots (financial news) ~ "ECONOMY - Why Joshua Angrist and Guido Imbens won the Nobel Prize in economics"](https://finshots.in/archive/why-joshua-angrist-and-guido-imbens-won-the-nobel-prize/)
+
+</p></details>
 <details><summary><u>Day 309</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20281%20-%20300/d299e1.jpg)
@@ -16,7 +38,7 @@ Learning Progress Till Now -> 309 Days (09/12/2020 to 13/10/2021)
 - ✔️ Solved Daily Challenge Question in Skillrack
 - ✔️ LeetCode
   - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20281%20-%20300/d299leetcode.jpg)
-- 🏃 [Walking -> 9280 Steps ~ 6.2 (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20281%20-%20300/d299walking.jpg)
+- 🏃 [Walking -> 5755 Steps ~ 3.43 (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20281%20-%20300/d299walking.jpg)
 - 📖📈 Book reading
   - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
 - 🤨[Case study ~ "Why is Mukesh Ambani's Reliance Partnering with 7-Eleven Store chain? : Business strategy case study"](https://www.youtube.com/watch?v=3KkHTHZckEY)
