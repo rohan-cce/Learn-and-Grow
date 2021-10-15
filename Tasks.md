@@ -1,7 +1,33 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 309 Days (09/12/2020 to 14/10/2021)
+Learning Progress Till Now -> 311 Days (09/12/2020 to 15/10/2021)
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
+<details><summary><u>Day 311 - 320 ~ October 15, 2021 -  October 24, 2021</u></summary><p>
+<details><summary><u>Day 311</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20301%20-%20320/d301e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20301%20-%20320/d301ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20301%20-%20320/d301b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d301chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d301chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d301chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d301chs5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20301%20-%20320/d301leetcode.jpg)
+- 🏃 [Walking -> 9388 Steps ~ 5.6 (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/Day%20301%20-%20320/d301walking.jpg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+- 🤨[Case study ~ "Floor tiles convert footsteps into electricity"](https://www.youtube.com/watch?v=ubED6NyNhGE)
+- 🤨[Case study ~ "What if India had 'Zero' Tax? #shorts"](https://www.youtube.com/watch?v=aSsguC9p9ts)
+- 👂🏻 [Watched a Youtube video "Taiwan: Changing weather pattern creates disaster for tea plantations | Latest News Updates | WION"](https://www.youtube.com/watch?v=lohGOF4JmSA)
+- 👂🏻 [Watched a Youtube video "J&K: Hybrid terrorists engage in normal jobs | Kashmir News | World News | WION"](https://www.youtube.com/watch?v=OliTu0Hrc4Q)
+- 💰📈 [Financial education ~ "Share Market | Investors Vs Speculators"](https://www.youtube.com/watch?v=1TLqYb9WYUI)
+- 💰📈 [Financial education ~ "A different way of looking at PE Ratio #shorts"](https://www.youtube.com/watch?v=TtH6sbxf7Vw)
+
+</p></details>
+</p></details>
+
 <details><summary><u>Day 301 - 310 ~ October 05, 2021 -  October 14, 2021</u></summary><p>
 <details><summary><u>Day 310</u></summary><p>
 
