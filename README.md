@@ -1,9 +1,30 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 311 Days (09/12/2020 to 15/10/2021)
+Learning Progress Till Now -> 312 Days (09/12/2020 to 16/10/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
 <details><summary><u>Day 311 - 320 ~ October 15, 2021 -  October 24, 2021</u></summary><p>
+<details><summary><u>Day 312</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20301%20-%20320/d302e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20301%20-%20320/d302ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20301%20-%20320/d302b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d302chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d302chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d302chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d302chs5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20301%20-%20320/d302leetcode.jpg)
+- 📖📈 Book reading
+  - 📖 Read 3 pages in the book "Rich Dad Poor Dad by Robert Kiyosaki"
+- 🤨[Case study ~ "How ITC's Business STRATEGY revolutionised Indian Agriculture? : Business case study"](https://www.youtube.com/watch?v=DzZCVqrtXYw)
+- 👂🏻 [Watched a Youtube video "Gravitas: 8,000 people in Canadian city don't have drinking water"](https://www.youtube.com/watch?v=9S9wA11ChmU)
+- 👂🏻 [Watched a Youtube video "Gravitas: Chip Shortage upends Global Tech Industry"](https://www.youtube.com/watch?v=rvSVQuo2XTI)
+- 💰📈 [Finshots (financial news) ~ "MARKETS - Are IT companies back on solid footing?"](https://finshots.in/markets/are-it-companies-back-on-solid-footing/)
+- 💰📈 [Financial education ~ "Can a company handle it's debt? #shorts"](https://www.youtube.com/watch?v=_183gUxml-E)
+
+</p></details>
 <details><summary><u>Day 311</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20301%20-%20320/d301e1.jpg)
