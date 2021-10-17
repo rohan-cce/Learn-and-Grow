@@ -1,8 +1,27 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 312 Days (09/12/2020 to 16/10/2021)
+Learning Progress Till Now -> 313 Days (09/12/2020 to 17/10/2021)
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
 <details><summary><u>Day 311 - 320 ~ October 15, 2021 -  October 24, 2021</u></summary><p>
+<details><summary><u>Day 313</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20301%20-%20320/d303e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20301%20-%20320/d303ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20301%20-%20320/d303b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d303chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d303chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d303chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d303chs5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20301%20-%20320/d303leetcode.jpg)
+- 🤨[Case study ~ "Malabar Exercise 2021: WION on board USS Carl Vinson"](https://www.youtube.com/watch?v=wn6PJdXsiEk)
+- 👂🏻 [Watched a Youtube video "Tense faceoff during Russian-Chinese war games in sea of Japan | US Navy Destroyer | Naval Exercise"](https://www.youtube.com/watch?v=_CYqAavYTis)
+- 👂🏻 [Watched a Youtube video "China boosting military presence around Taiwan | World News | WION"](https://www.youtube.com/watch?v=FN1Gym51vc4)
+- 💰📈 [Financial education ~ "ROCE Explained #Shorts"](https://www.youtube.com/watch?v=D7rtq5K9nwo)
+- 💰📈 [Financial education ~ "TAXATION For Cryptocurrency Investing & Trading in India!"](https://www.youtube.com/watch?v=icaoTRXGDdI)
+
+</p></details>
 <details><summary><u>Day 312</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20301%20-%20320/d302e1.jpg)
