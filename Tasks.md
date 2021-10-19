@@ -1,8 +1,28 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 314 Days (09/12/2020 to 18/10/2021)
+Learning Progress Till Now -> 315 Days (09/12/2020 to 19/10/2021)
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
 <details><summary><u>Day 311 - 320 ~ October 15, 2021 -  October 24, 2021</u></summary><p>
+<details><summary><u>Day 315</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20301%20-%20320/d305ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20301%20-%20320/d305b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d305chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d305chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d305chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d305chs5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20301%20-%20320/d305leetcode.jpg)
+- 🤨[Case study ~ "The steps to making pencils"](https://www.youtube.com/watch?v=L_fqUIVkeU0)
+- 👂🏻 [Watched a Youtube video "Gravitas: Why India needs to begin vaccinating Children"](https://www.youtube.com/watch?v=SdzwfEqAFKE)
+- 👂🏻 [Watched a Youtube video "Indian External Affairs Minister S Jaishankar visits Israel, holds meet with Naftali Bennett govt"](https://www.youtube.com/watch?v=OKdg6FUjDFI)
+- 👂🏻 [Watched a Youtube video "Sri lanka asks for 500 million dollar loan from India | Fuel Crisis | Crude Oil"](https://www.youtube.com/watch?v=RDY11jQlguw)
+- 💰📈 [Finshots (financial news) ~ "POLICY - Will cutting fossil fuels hurt India’s food security?"](https://finshots.in/archive/will-cutting-fossil-fuels-hurt-indias-food-security/)
+- 💰📈 [Financial education ~ "Paying 31 lakhs for a 15 lakh Car🔥🥴"](https://www.youtube.com/watch?v=DiMOXHFaqL8)
+- 💰📈 [Financial education ~ "Free Complete Candlestick Patterns Course | Episode 1 | All Single Candlesticks | Technical Analysis"](https://www.youtube.com/watch?v=EVlQgmirnCg)
+
+</p></details>
 <details><summary><u>Day 314</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20301%20-%20320/d304ls1.jpg)
