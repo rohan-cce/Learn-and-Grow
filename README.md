@@ -1,9 +1,26 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 316 Days (09/12/2020 to 20/10/2021)
+Learning Progress Till Now -> 317 Days (09/12/2020 to 21/10/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
 <details><summary><u>Day 311 - 320 ~ October 15, 2021 -  October 24, 2021</u></summary><p>
+<details><summary><u>Day 317</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20301%20-%20320/d307e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20301%20-%20320/d307ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20301%20-%20320/d307b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d307chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d307chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d307chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d307chs5.jpg)
+- 🤨[Case study ~ "Ever grande is going down but not without warning investors around the world"](https://www.youtube.com/watch?v=9yj-JHqGgD8)
+- 👂🏻 [Watched a Youtube video "Facebook plans to change its name | Tech news | WION latest news"](https://www.youtube.com/watch?v=lkRH1UtFC98)
+- 👂🏻 [Watched a Youtube video "Facebook fined USD 70 million for breaching order in Giphy deal | Tech news | WION"](https://www.youtube.com/watch?v=SW7HR4cIDIA)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Amazon and the Copycat playbook"](https://finshots.in/archive/amazon-and-the-copycat-playbook/)
+- 💰📈 [Financial education ~ "All 2 Candlestick Patterns | Free Complete #CandlestickPatterns Course"](https://www.youtube.com/watch?v=_zpOuUopkUU)
+
+</p></details>
 <details><summary><u>Day 316</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20301%20-%20320/d306e1.jpg)
