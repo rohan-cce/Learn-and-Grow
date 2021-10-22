@@ -1,8 +1,28 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 317 Days (09/12/2020 to 21/10/2021)
+Learning Progress Till Now -> 318 Days (09/12/2020 to 22/10/2021)
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
 <details><summary><u>Day 311 - 320 ~ October 15, 2021 -  October 24, 2021</u></summary><p>
+<details><summary><u>Day 318</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20301%20-%20320/d308e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20301%20-%20320/d308ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20301%20-%20320/d308b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d308chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d308chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d308chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d308chs5.jpg)
+- 🤨[Case study ~ "How NIKE uses CONTROVERSY to Market itself & make Billions? (Business STRATEGY Case Study)"](https://www.youtube.com/watch?v=6DEOW9ZQ2BI)
+- 🤨[Case study ~ "China's Race for AI Supremacy"](https://www.youtube.com/watch?v=zbzcZr_Nadc)
+- 👂🏻 [Watched a Youtube video "Tesla urges India to cut import taxes on electric vehicles | Auto news | WION latest updates"](https://www.youtube.com/watch?v=68TrTweXyn4)
+- 👂🏻 [Watched a Youtube video "Gravitas: Can climate change damage our kidneys?"](https://www.youtube.com/watch?v=yIqO_tooAs4)
+- 👂🏻 [Watched a Youtube video "Sri Lanka receives toxic chemicals from China, will sue Chinese company | WION News"](https://www.youtube.com/watch?v=N6b4ypXWa0c)
+- 💰📈 [Finshots (financial news) ~ "POLICY - How to annoy the Chinese government?"](https://finshots.in/archive/how-to-annoy-the-chinese-government/)
+- 💰📈 [Financial education ~ "EPS (Earning per share) explained #shorts"](https://www.youtube.com/watch?v=CND03JyzBHQ)
+- 💰📈 [Financial education ~ "Complete Financial Planning for your 20s! | Investing for Beginners 2021"](https://www.youtube.com/watch?v=yNaN5kYTNLY&t=1s)
+
+</p></details>
 <details><summary><u>Day 317</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20301%20-%20320/d307e1.jpg)
