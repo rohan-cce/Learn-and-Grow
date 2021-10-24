@@ -1,8 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 319 Days (09/12/2020 to 23/10/2021)
+Learning Progress Till Now -> 320 Days (09/12/2020 to 24/10/2021)
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
 <details><summary><u>Day 311 - 320 ~ October 15, 2021 -  October 24, 2021</u></summary><p>
+<details><summary><u>Day 320</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20301%20-%20320/d310e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20301%20-%20320/d310ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20301%20-%20320/d310b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d310chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d310chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d310chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d310chs5.jpg)
+- 🤨[Case study ~ "As Merkel fades away, Europe is setting some new rules for China"](https://www.youtube.com/watch?v=s9W498a1KdM)
+- 👂🏻 [Watched a Youtube video "Home Minister Amit Shah chairs security review meeting on 1st day of his 3-day J&K visit |India News"](https://www.youtube.com/watch?v=N27ph_HwHSw)
+- 💰📈 [Finshots (financial news) ~ "POLICY - India’s retirement planning needs a boost"](https://finshots.in/archive/indias-retirement-planning-needs-a-boost/)
+- 💰📈 [Financial education ~ "What to do if the company does not give term insurance"](https://www.youtube.com/watch?v=Xw6GjJbwG1U)
+
+</p></details>
 <details><summary><u>Day 319</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20301%20-%20320/d309e1.jpg)
