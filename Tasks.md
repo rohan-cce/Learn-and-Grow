@@ -1,8 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 322 Days (09/12/2020 to 26/10/2021)
+Learning Progress Till Now -> 323 Days (09/12/2020 to 27/10/2021)
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
 <details><summary><u>Day 321 - 330 ~ October 25, 2021 -  November 04, 2021</u></summary><p>
+<details><summary><u>Day 323</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20301%20-%20320/d313e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20301%20-%20320/d313ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20301%20-%20320/d313b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d313chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d313chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d313chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d313chs5.jpg)
+- 🤨[Case study ~ "IKEA :How to grow sales by 200% using Pricing STRATEGIES?: Business Case Study"](https://www.youtube.com/watch?v=glHQPkrcf8A)
+- 🤨[Case study ~ "How Indian Public Company defeated Biggest MNCs #shorts"](https://www.youtube.com/watch?v=x0BYivp7LnQ)
+- 👂🏻 [Watched a Youtube video "Gravitas: China moves 100 rocket launchers to India border"](https://www.youtube.com/watch?v=_G8tztoO9_Y)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - The wild wild west of crypto advertising"](https://finshots.in/archive/the-wild-wild-west-of-crypto-advertising/)
+- 💰📈 [Financial education ~ "₹10 Lakh Insurance Free with Debit Card #shorts"](https://www.youtube.com/watch?v=YMXWsdRohas)
+</p></details>
 <details><summary><u>Day 322</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20301%20-%20320/d312e1.jpg)
