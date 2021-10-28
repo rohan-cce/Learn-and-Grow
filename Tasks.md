@@ -1,8 +1,23 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 323 Days (09/12/2020 to 27/10/2021)
+Learning Progress Till Now -> 324 Days (09/12/2020 to 28/10/2021)
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
 <details><summary><u>Day 321 - 330 ~ October 25, 2021 -  November 04, 2021</u></summary><p>
+<details><summary><u>Day 324</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20301%20-%20320/d314e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20301%20-%20320/d314ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20301%20-%20320/d314b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d314chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d314chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d314chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d314chs5.jpg)
+- 👂🏻 [Watched a Youtube video "Gravitas: Is WHO delaying approval for COVAXIN?"](https://www.youtube.com/watch?v=Cr0Y0Op2dy8)
+- 👂🏻 [Watched a Youtube video "Gravitas: Sri Lanka sets up task force to formulate a Uniform Law"](https://www.youtube.com/watch?v=Cueil-C-Qf8)
+- 💰📈 [Finshots (financial news) ~ "CAPITAL MARKETS - RBI’s crusade against IPO financing"](https://finshots.in/archive/rbis-crusade-against-ipo-financing/)
+
+</p></details>
 <details><summary><u>Day 323</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20301%20-%20320/d313e1.jpg)
