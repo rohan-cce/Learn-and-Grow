@@ -1,8 +1,27 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 325 Days (09/12/2020 to 29/10/2021)
+Learning Progress Till Now -> 326 Days (09/12/2020 to 30/10/2021)
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
 <details><summary><u>Day 321 - 330 ~ October 25, 2021 -  November 04, 2021</u></summary><p>
+<details><summary><u>Day 326</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20301%20-%20320/d316e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20301%20-%20320/d316ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20301%20-%20320/d316b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d316chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d316chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d316chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d316chs5.jpg)
+- 🤨[Case study ~ "How Gautam Adani became India’s 2nd largest airport operator from out of nowhere. Bisbo"](https://www.youtube.com/watch?v=qHBDng-nvFo)
+- 🤨[Case study ~ "How TATA STEEL became the GREATEST Company in INDIAN History? | Business Case Study Ep2 Tata Series"](https://www.youtube.com/watch?v=er752AxyziE)
+- 👂🏻 [Watched a Youtube video "WION in an exclusive conversation with India's G20 Sherpa Piyush Goyal | WION"](https://www.youtube.com/watch?v=Qux_OTbYv3o)
+- 👂🏻 [Watched a Youtube video "US' economy registers growth of only 2 per cent in the third quarter | World Business Watch"](https://www.youtube.com/watch?v=UdQw4TyOf4Y)
+- 👂🏻 [Watched a Youtube video "Chinese embassy blacklists Sri Lanka's People's bank | WION English News"](https://www.youtube.com/watch?v=Vb4IJq279vM)
+- 💰📈 [Finshots (financial news) ~ "MARKETS - Asian Paints bites the price-hike bullet"](https://finshots.in/markets/asian-paints-bites-the-price-hike-bullet/)
+- 💰📈 [Financial education ~ "Hidden features of Debit Card #shorts"](https://www.youtube.com/watch?v=g81luQ3Y3dU)
+
+</p></details>
 <details><summary><u>Day 325</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20301%20-%20320/d315e1.jpg)
