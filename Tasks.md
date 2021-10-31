@@ -1,8 +1,23 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 326 Days (09/12/2020 to 30/10/2021)
+Learning Progress Till Now -> 327 Days (09/12/2020 to 31/10/2021)
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
 <details><summary><u>Day 321 - 330 ~ October 25, 2021 -  November 04, 2021</u></summary><p>
+<details><summary><u>Day 327</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20301%20-%20320/d317e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20301%20-%20320/d317ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20301%20-%20320/d317b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d317chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d317chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d317chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d317chs5.jpg)
+- 🤨[Case study ~ "Why Green Cardamom Is So Expensive | So Expensive"](https://www.youtube.com/watch?v=fXOaWevi6f8)
+- 🤨[Case study ~ "Aquaponic farms in shipping containers: The future of food? | Challengers by Freethink"](https://www.youtube.com/watch?v=IVPDfnH39sg)
+- 💰📈 [Financial education ~ "Meaning of 'Limited" in Pvt Ltd #Shorts"](https://www.youtube.com/watch?v=C6-9misoRYQ)
+
+</p></details>
 <details><summary><u>Day 326</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20301%20-%20320/d316e1.jpg)
