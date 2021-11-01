@@ -1,8 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 327 Days (09/12/2020 to 31/10/2021)
+Learning Progress Till Now -> 328 Days (09/12/2020 to 01/11/2021)
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
 <details><summary><u>Day 321 - 330 ~ October 25, 2021 -  November 04, 2021</u></summary><p>
+<details><summary><u>Day 328</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20301%20-%20320/d318e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20301%20-%20320/d318ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20301%20-%20320/d318b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d318chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d318chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d318chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d318chs5.jpg)
+- 🤨[Case study ~ "Park your car easily and efficiently with these high-tech solutions. 🚗 #shorts"](https://www.youtube.com/watch?v=Z87jppwk1_I&list=TLGGDXDB_Voet_swMTExMjAyMQ)
+- 🤨[Case study ~ "How engineers build different bridges"](https://www.youtube.com/watch?v=DtpckvIBrqo&list=TLGGDXDB_Voet_swMTExMjAyMQ)
+- 👂🏻 [Watched a Youtube video "Global leaders to reiterate pledge on climate in Glasglow | UK | Latest World English News | WION"](https://www.youtube.com/watch?v=R3YjTqEg4z0)
+- 💰📈 [Finshots (financial news) ~ "POLICY - Fighting for climate justice"](https://finshots.in/archive/fighting-for-climate-justice/)
+- 💰📈 [Financial education ~ "US and EU end long standing dispute over steel and aluminum tariff| Latest World English News | WION"](https://www.youtube.com/watch?v=4yF8DTIE18c)
+
+</p></details>
 <details><summary><u>Day 327</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20301%20-%20320/d317e1.jpg)
