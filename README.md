@@ -1,9 +1,26 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 328 Days (09/12/2020 to 01/11/2021)
+Learning Progress Till Now -> 329 Days (09/12/2020 to 02/11/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
 <details><summary><u>Day 321 - 330 ~ October 25, 2021 -  November 04, 2021</u></summary><p>
+<details><summary><u>Day 329</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20301%20-%20320/d319e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20301%20-%20320/d319ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20301%20-%20320/d319b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d319chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d319chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d319chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d319chs5.jpg)
+- 🤨[Case study ~ "6 steps to take a Decision when you are confused | 6 Thinking Hats Summary tamil |almost everything"](https://www.youtube.com/watch?v=q3IXEdmicME)
+- 👂🏻 [Watched a Youtube video "India to achieve net-zero emissions by 2070, says PM Modi at COP26 summit| Latest World English News"](https://www.youtube.com/watch?v=ENziDW361o4)
+- 👂🏻 [Watched a Youtube video "Gravitas: Is Pakistan headed towards another coup?"](https://www.youtube.com/watch?v=v9_xNlc4dD0)
+- 💰📈 [Finshots (financial news) ~ "CAPITAL MARKETS - The curious case of IRCTC"](https://finshots.in/archive/the-curious-case-of-irctc/)
+- 💰📈 [Financial education ~ "Policy Bazaar IPO Review | CA Rachana Ranade"](https://www.youtube.com/watch?v=m9bhKSLFNaM)
+
+</p></details>
 <details><summary><u>Day 328</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20301%20-%20320/d318e1.jpg)
