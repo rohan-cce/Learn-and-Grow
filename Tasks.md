@@ -1,8 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 329 Days (09/12/2020 to 02/11/2021)
+Learning Progress Till Now -> 330 Days (09/12/2020 to 03/11/2021)
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
 <details><summary><u>Day 321 - 330 ~ October 25, 2021 -  November 04, 2021</u></summary><p>
+<details><summary><u>Day 330</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20301%20-%20320/d320e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20301%20-%20320/d320ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20301%20-%20320/d320b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d320chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d320chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d320chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20301%20-%20320/d320chs5.jpg)
+- 🤨[Case study ~ "How did Nykaa BEAT Amazon & Flipkart in e-Commerce War? : Business case study"]()
+- 👂🏻 [Watched a Youtube video "Joe Biden's social spending plan in trouble, moderate democratic senators want major changes| WION"](https://www.youtube.com/watch?v=LH4cL1G4zpU)
+- 👂🏻 [Watched a Youtube video "China orders coal mines to 'produce as much as possible' | World's largest coal producer & consumer"](https://www.youtube.com/watch?v=J-bXAsDwgmA)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Understanding cartels and the competition commission of India"](https://finshots.in/archive/understanding-cartels-and-the-competition-commission-of-india/)
+- 💰📈 [Financial education ~ "Democrat Manchin calls Biden's $1.75 trillion spending proposal a "shell game" | Latest English News"](https://www.youtube.com/watch?v=VMAL-8j5tfI)
+
+</p></details>
 <details><summary><u>Day 329</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20301%20-%20320/d319e1.jpg)
