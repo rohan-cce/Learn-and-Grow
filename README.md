@@ -1,9 +1,27 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 330 Days (09/12/2020 to 03/11/2021)
+Learning Progress Till Now -> 331 Days (09/12/2020 to 04/11/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
-<details><summary><u>Day 321 - 330 ~ October 25, 2021 -  November 04, 2021</u></summary><p>
+<details><summary><u>Day 321 - 330 ~ November 04, 2021 - November 14, 2021</u></summary><p>
+<details><summary><u>Day 331</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d321e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20321%20-%20340/d321ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20321%20-%20340/d321b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d321chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d322chs1.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d323chs1.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d321chs5.jpg)
+- 🤨[Case study ~ "China Builds World's Largest Dam | 10-Year Engineering Project"](https://www.youtube.com/watch?v=vScCDXnoWqY)
+- 👂🏻 [Watched a Youtube video "WION Ground Report: An on-board look at India’s first-ever indigenous aircraft carrier, INS Vikrant"](https://www.youtube.com/watch?v=4LcqI7RAoeI)
+- 💰📈 [Finshots (financial news) ~ "ECONOMY - Happy Diwali"](https://finshots.in/archive/happy-diwali/)
+- 💰📈 [Financial education ~ "5 best books to read in Stock investing & personal finance | Books to read for beginners"](https://www.youtube.com/watch?v=dxledVtSAt4)
+
+</p></details>
+</p></details>
+<details><summary><u>Day 321 - 330 ~ October 25, 2021 -  November 03, 2021</u></summary><p>
 <details><summary><u>Day 330</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20301%20-%20320/d320e1.jpg)
