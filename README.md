@@ -1,9 +1,26 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 331 Days (09/12/2020 to 04/11/2021)
+Learning Progress Till Now -> 332 Days (09/12/2020 to 05/11/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
 <details><summary><u>Day 321 - 330 ~ November 04, 2021 - November 14, 2021</u></summary><p>
+<details><summary><u>Day 332</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d322e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20321%20-%20340/d322ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20321%20-%20340/d322b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d322chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d322chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d322chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d322chs5.jpg)
+- 🤨[Case study ~ "How UPI has changed Indian economy | How UPI works explained"](https://www.youtube.com/watch?v=RyOk6zLmLZM)
+- 👂🏻 [Watched a Youtube video "Iran claims it stopped US from seizing oil tanker in Sea of Oman | Latest World English News | WION"](https://www.youtube.com/watch?v=HFL7PZ7FsAs)
+- 👂🏻 [Watched a Youtube video "Fibre optic, beefed up infra: China’s ‘actions’ to press territorial claims with India exposed"](https://www.youtube.com/watch?v=bifzL0dF0Pw)
+- 💰📈 [Finshots (financial news) ~ "POLICY - Can Elon Musk end world hunger?"](https://finshots.in/archive/can-elon-musk-end-world-hunger/)
+- 💰📈 [Financial education ~ "₹6,710,00,00,00,000 npa"](https://youtu.be/iQCfU8Pn6Xk)
+
+</p></details>
 <details><summary><u>Day 331</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d321e1.jpg)
@@ -11,8 +28,8 @@ Learning Progress Till Now -> 331 Days (09/12/2020 to 04/11/2021)
 - ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20321%20-%20340/d321b1.jpg)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d321chs1.jpg)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d322chs1.jpg)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d323chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d321chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d321chs3.jpg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d321chs5.jpg)
 - 🤨[Case study ~ "China Builds World's Largest Dam | 10-Year Engineering Project"](https://www.youtube.com/watch?v=vScCDXnoWqY)
 - 👂🏻 [Watched a Youtube video "WION Ground Report: An on-board look at India’s first-ever indigenous aircraft carrier, INS Vikrant"](https://www.youtube.com/watch?v=4LcqI7RAoeI)
