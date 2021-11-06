@@ -1,9 +1,27 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 332 Days (09/12/2020 to 05/11/2021)
+Learning Progress Till Now -> 333 Days (09/12/2020 to 06/11/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
 <details><summary><u>Day 321 - 330 ~ November 04, 2021 - November 14, 2021</u></summary><p>
+<details><summary><u>Day 333</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d323e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20321%20-%20340/d323ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20321%20-%20340/d323b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d323chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d323chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d323chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d323chs5.jpg)
+- 🤨[Case study ~ "Mexico’s deadly Coca-Cola addiction | Unreported World"](https://www.youtube.com/watch?v=hqnUohxXV0I)
+
+- 👂🏻 [Watched a Youtube video "Gravitas: Taiwan gets the backing of an alliance of democracies"](https://www.youtube.com/watch?v=F_yaenJP1HU)
+- 👂🏻 [Watched a Youtube video "Gravitas: Panic buying in China"](https://www.youtube.com/watch?v=ZexfWkTEK0w) 
+- 💰📈 [Finshots (financial news) ~ "MARKETS - Unpacking the Paytm IPO"](https://finshots.in/markets/unpacking-the-paytm-ipo/)
+- 💰📈 [Financial education ~ "RBI brings another payment simplification #Shorts"](https://www.youtube.com/watch?v=mhPJDnuCZFg)
+
+</p></details>
 <details><summary><u>Day 332</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d322e1.jpg)
