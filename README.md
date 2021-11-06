@@ -1,9 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 333 Days (09/12/2020 to 06/11/2021)
+Learning Progress Till Now -> 334 Days (09/12/2020 to 07/11/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
 <details><summary><u>Day 321 - 330 ~ November 04, 2021 - November 14, 2021</u></summary><p>
+<details><summary><u>Day 334</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d324e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20321%20-%20340/d324ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20321%20-%20340/d324b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d324chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d324chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d324chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d324chs5.jpg)
+- 🤨[Case study ~ "This BUSINESS STRATEGY turned Wow Momo into a 1000Cr company? : Business strategy case study"](https://www.youtube.com/watch?v=K7uvd1Muc80)
+- 👂🏻 [Watched a Youtube video "New US Intelligence report suggests plenty of concerns for Biden administration | America | WION"](https://www.youtube.com/watch?v=_VT-1B6v7zY)
+- 👂🏻 [Watched a Youtube video "Held British trawler sails free from French port | International News | France| | United Kindom"](https://www.youtube.com/watch?v=TvxPDw3os5s) 
+- 💰📈 [Financial education ~ "Advice for Students before Investing In Bitcoin & Cryptocurrency? | Investment in #Bitcoin"](https://www.youtube.com/watch?v=7xoBCb8YUas)
+
+</p></details>
 <details><summary><u>Day 333</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d323e1.jpg)
@@ -15,7 +31,6 @@ Learning Progress Till Now -> 333 Days (09/12/2020 to 06/11/2021)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d323chs3.jpg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d323chs5.jpg)
 - 🤨[Case study ~ "Mexico’s deadly Coca-Cola addiction | Unreported World"](https://www.youtube.com/watch?v=hqnUohxXV0I)
-
 - 👂🏻 [Watched a Youtube video "Gravitas: Taiwan gets the backing of an alliance of democracies"](https://www.youtube.com/watch?v=F_yaenJP1HU)
 - 👂🏻 [Watched a Youtube video "Gravitas: Panic buying in China"](https://www.youtube.com/watch?v=ZexfWkTEK0w) 
 - 💰📈 [Finshots (financial news) ~ "MARKETS - Unpacking the Paytm IPO"](https://finshots.in/markets/unpacking-the-paytm-ipo/)
