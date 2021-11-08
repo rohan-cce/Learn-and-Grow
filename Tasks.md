@@ -1,8 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 334 Days (09/12/2020 to 07/11/2021)
+Learning Progress Till Now -> 335 Days (09/12/2020 to 08/11/2021)
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
-<details><summary><u>Day 321 - 330 ~ November 04, 2021 - November 14, 2021</u></summary><p>
+<details><summary><u>Day 331 - 340 ~ November 04, 2021 - November 14, 2021</u></summary><p>
+<details><summary><u>Day 335</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d325e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20321%20-%20340/d325ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20321%20-%20340/d325b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d325chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d325chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d325chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d325chs5.jpg)
+- 🤨[Case study ~ "Gravitas Plus: Is lab food the future?"](https://www.youtube.com/watch?v=VZZjS2tPRjo)
+- 👂🏻 [Watched a Youtube video "Sri Lankan bishops urge govt to abandon 'one country, one law' concept | Gotbaya Rajapaksa | WION"](https://www.youtube.com/watch?v=2TdP5-kG7Po)
+- 👂🏻 [Watched a Youtube video "Violent unrest over Iraq's election results spirals into a crisis | Latest English News | World News"](https://www.youtube.com/watch?v=L43-Zwdso34)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Will Reliance’s new JioPhone be the “Next” disruptor?"](https://finshots.in/archive/will-reliances-new-jiophone-be-the-next-disruptor/)
+- 💰📈 [Financial education ~ "Learning IPO analysis from @Convey by FinnovationZ ft Policy Bazaar IPO"](https://www.youtube.com/watch?v=EHsh44y0ky8)
+
+</p></details>
 <details><summary><u>Day 334</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d324e1.jpg)
