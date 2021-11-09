@@ -1,8 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 335 Days (09/12/2020 to 08/11/2021)
+Learning Progress Till Now -> 336 Days (09/12/2020 to 09/11/2021)
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
 <details><summary><u>Day 331 - 340 ~ November 04, 2021 - November 14, 2021</u></summary><p>
+<details><summary><u>Day 336</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d326e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20321%20-%20340/d326ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20321%20-%20340/d326b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d326chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d326chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d326chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d326chs5.jpg)
+- 🤨[Case study ~ "How Are Highways Designed?"](https://www.youtube.com/watch?v=9XIjqdk69O4)
+- 👂🏻 [Watched a Youtube video "Sri Lankan justice minister Ali Sabry submits resignation over presidential task force | WION News"](https://www.youtube.com/watch?v=aZOMjPMNps4)
+- 👂🏻 [Watched a Youtube video "Gravitas | Haqqanis "fail" in their attempt to takeover Afghan Cricket Board"](https://www.youtube.com/watch?v=ShPLugHUQTk)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - How to lose $500 million using algorithms?"](https://finshots.in/archive/how-to-lose-500-million-using-algorithms/)
+- 💰📈 [Financial education ~ "Why Cryptoization Scares the IMF (Part II)"](https://www.youtube.com/watch?v=_PJIlianiJg)
+
+</p></details>
 <details><summary><u>Day 335</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d325e1.jpg)
