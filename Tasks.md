@@ -1,8 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 336 Days (09/12/2020 to 09/11/2021)
+Learning Progress Till Now -> 337 Days (09/12/2020 to 10/11/2021)
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
 <details><summary><u>Day 331 - 340 ~ November 04, 2021 - November 14, 2021</u></summary><p>
+<details><summary><u>Day 337</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d37e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20321%20-%20340/d37ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20321%20-%20340/d327b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d327chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d37chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d327chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d327chs5.jpg)
+- 🤨[Case study ~ "How small tugboats move massive ships"](https://www.youtube.com/watch?v=N2QyLxBJDzQ)
+- 👂🏻 [Watched a Youtube video "Covid waste is polluting oceans; Discarded masks, PPE kits, gloves end up at seashores| WION Climate"](https://www.youtube.com/watch?v=_1AgPgzG6-c)
+- 👂🏻 [Watched a Youtube video "Afghanistan security dialogue in New Delhi, Indian NSA Ajit Doval to chair meet | WION"](https://www.youtube.com/watch?v=PF1KoPR1Wu0)
+- 💰📈 [Finshots (financial news) ~ "ECONOMY - How come “cash is king” even with digital payments roaring?"](https://finshots.in/archive/how-come-cash-is-king-even-with-digital-payments-roaring/)
+- 💰📈 [Financial education ~ "Dark Side of Credit Card #Short"](https://www.youtube.com/watch?v=5J1INeIkcEw)
+
+</p></details>
 <details><summary><u>Day 336</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d326e1.jpg)
