@@ -1,8 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 339 Days (09/12/2020 to 12/11/2021)
+Learning Progress Till Now -> 340 Days (09/12/2020 to 13/11/2021)
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
 <details><summary><u>Day 331 - 340 ~ November 04, 2021 - November 14, 2021</u></summary><p>
+<details><summary><u>Day 340</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d330e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20321%20-%20340/d330ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20321%20-%20340/d330b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d330chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d330chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d330chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d330chs5.jpg)
+- 🤨[Case study ~ "Apple is trying to KILL Facebook? : Trillion Dollar Tech war (Business case study)"](https://www.youtube.com/watch?v=tDfWwZlJE7Y)
+- 👂🏻 [Watched a Youtube video "Gravitas: Why migrants are a tricky issue around the World"](https://www.youtube.com/watch?v=8Mc-B25MCH4)
+- 💰📈 [Finshots (financial news) ~ "MARKETS - Why is DMart opening bigger and bigger stores?"](https://finshots.in/markets/why-is-dmart-opening-bigger-and-bigger-stores/)
+- 💰📈 [Financial education ~ "How are bond prices determined? #Shorts"](https://www.youtube.com/watch?v=Z5rL65lCNYs)
+
+</p></details>
 <details><summary><u>Day 339</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d329e1.jpg)
