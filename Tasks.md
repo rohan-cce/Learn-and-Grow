@@ -1,8 +1,29 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 340 Days (09/12/2020 to 13/11/2021)
+Learning Progress Till Now -> 341 Days (09/12/2020 to 14/11/2021)
 
-<details><summary>Day 301 - 350 ~ October 05, 2021 - November 24, 2021</summary><p>
-<details><summary><u>Day 331 - 340 ~ November 04, 2021 - November 14, 2021</u></summary><p>
+<details><summary>Day 301 - 350 ~ October 05, 2021 - November 23, 2021</summary><p>
+<details><summary><u>Day 341 - 350 ~ November 14, 2021 - November 23, 2021</u></summary><p>
+<details><summary><u>Day 341</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d331e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20321%20-%20340/d331ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20321%20-%20340/d331b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d331chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d331chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d331chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d331chs5.jpg)
+- 🤨[Case study ~ "No Cost EMI - A Scam ? #Shorts"](https://www.youtube.com/watch?v=_H5CarWAZFY)
+- 👂🏻 [Watched a Youtube video "The Ocean Cleanup begins cleaning the Great Pacific Garbage Patch"](https://www.youtube.com/watch?v=tLcnJEMnlTs)
+- 👂🏻 [Watched a Youtube video "Turkey: Lira depreciation gained pace in last 2 months | WION World News | Latest English News"](https://www.youtube.com/watch?v=PlMHuMjJ8yo)
+- 👂🏻 [Watched a Youtube video "Gravitas | Taking BrahMos to China border: Narrow roads an obstacle?"](https://www.youtube.com/watch?v=5v1YqywxgCA)
+- 💰📈 [Finshots (financial news) ~ "INFOGRAPHIC - Top tax-paying companies in India"](https://finshots.in/infographic/top-tax-paying-companies-in-india/)
+- 💰📈 [Financial education ~ "Top 10 Financial Concepts You Must Know | CA Rachana Ranade"](https://www.youtube.com/watch?v=WN9Mks1s4tM)
+
+</p></details>
+</p></details>
+
+<details><summary><u>Day 331 - 340 ~ November 04, 2021 - November 13, 2021</u></summary><p>
 <details><summary><u>Day 340</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d330e1.jpg)
