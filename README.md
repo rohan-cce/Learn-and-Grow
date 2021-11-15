@@ -1,9 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 341 Days (09/12/2020 to 14/11/2021)
+Learning Progress Till Now -> 342 Days (09/12/2020 to 15/11/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 23, 2021</summary><p>
 <details><summary><u>Day 341 - 350 ~ November 14, 2021 - November 23, 2021</u></summary><p>
+<details><summary><u>Day 342</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d332e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20321%20-%20340/d332ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20321%20-%20340/d332b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d332chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d332chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d332chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d332chs5.jpg)
+- 🤨[Case study ~ "One sun one world one grid: India's solar vision | WION Wideangle"](https://www.youtube.com/watch?v=tKrM-rtXgDY)
+- 👂🏻 [Watched a Youtube video "Europe continues to remain the new epicentre of COVID -19 | Pandemic | World News | English News"](https://www.youtube.com/watch?v=yAq4fh8pk5o)
+- 💰📈 [Finshots (financial news) ~ "POLICY - Is India’s informal economy 20% or 50% of its GDP?"](https://finshots.in/archive/is-indias-informal-economy-20-or-50-of-its-gdp/)
+- 💰📈 [Financial education ~ "Save Extra 1 Lakh on Home Loan! #Short"](https://www.youtube.com/watch?v=RzqPIa4wosE)
+
+</p></details>
 <details><summary><u>Day 341</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d331e1.jpg)
