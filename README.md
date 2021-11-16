@@ -1,9 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 342 Days (09/12/2020 to 15/11/2021)
+Learning Progress Till Now -> 343 Days (09/12/2020 to 16/11/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 23, 2021</summary><p>
 <details><summary><u>Day 341 - 350 ~ November 14, 2021 - November 23, 2021</u></summary><p>
+<details><summary><u>Day 343</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d333e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20321%20-%20340/d333ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20321%20-%20340/d333b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d333chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d333chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d333chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d333chs5.jpg)
+- 🤨[Case study ~ "3D printing helps us build structures faster and cheaper"](https://www.youtube.com/watch?v=R2DU9YNp7oA)
+- 👂🏻 [Watched a Youtube video "Gravitas: India criticised over coal at COP26, Climate injustice is the real villain"](https://www.youtube.com/watch?v=RzsT7EU9D6Q)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Understanding Live Commerce](https://finshots.in/archive/understanding-live-commerce/)
+- 💰📈 [Financial education ~ "Our Responsibility towards the Underprivileged #Short"](https://www.youtube.com/watch?v=OGO9RveqMgw)
+
+</p></details>  
 <details><summary><u>Day 342</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d332e1.jpg)
