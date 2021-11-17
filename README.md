@@ -1,9 +1,26 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 343 Days (09/12/2020 to 16/11/2021)
+Learning Progress Till Now -> 344 Days (09/12/2020 to 17/11/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 23, 2021</summary><p>
 <details><summary><u>Day 341 - 350 ~ November 14, 2021 - November 23, 2021</u></summary><p>
+<details><summary><u>Day 344</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d334e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20321%20-%20340/d334ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20321%20-%20340/d334b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d334chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d334chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d334chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d334chs5.jpg)
+- 🤨[Case study ~ "Jio Mart can KILL Dmart? : The most EPIC Retail War of India (Business Case study)"](https://www.youtube.com/watch?v=pZNDUy3DuC4)
+- 👂🏻 [Watched a Youtube video "Gravitas: Why has Macron changed the French Flag?"](https://www.youtube.com/watch?v=TpqxokaAq9A)
+- 👂🏻 [Watched a Youtube video "Energy ministers call for investment in hydrocarbons | WION Climate Tracker"](https://www.youtube.com/watch?v=5eID3gwYGiU)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Tata, Hakuna Matata and Shitcoins"](https://finshots.in/archive/tata-hakuna-matata-and-shitcoins/)
+- 💰📈 [Financial education ~ "What to do when your US stock broker runs away? #Shorts"](https://www.youtube.com/watch?v=VDM41zkQtn4)
+
+</p></details>
 <details><summary><u>Day 343</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d333e1.jpg)
