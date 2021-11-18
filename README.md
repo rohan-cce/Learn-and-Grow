@@ -1,9 +1,26 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 344 Days (09/12/2020 to 17/11/2021)
+Learning Progress Till Now -> 345 Days (09/12/2020 to 18/11/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 23, 2021</summary><p>
 <details><summary><u>Day 341 - 350 ~ November 14, 2021 - November 23, 2021</u></summary><p>
+<details><summary><u>Day 345</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d335e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20321%20-%20340/d335ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20321%20-%20340/d335b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d335chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d335chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d335chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d335chs5.jpg)
+- 🤨[Case study ~ "Gravitas: Why the world must boycott 2022 Winter Olympics"](https://www.youtube.com/watch?v=wIWNjGtaZb0)
+- 👂🏻 [Watched a Youtube video "Gravitas: 3 companies. 2 Covid-19 vaccines. $34 Billion in profits"](https://www.youtube.com/watch?v=GD3KaRss2Fg)
+- 👂🏻 [Watched a Youtube video "Gravitas: The Maldives slams 'India Out' campaign"](https://www.youtube.com/watch?v=5tzgF56KsSw)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Why is there still a semiconductor shortage?"](https://finshots.in/archive/why-is-there-still-a-semiconductor-shortage/)
+- 💰📈 [Financial education ~ "The dark secrets of NFO [New Fund Offer] #Shorts"](https://www.youtube.com/watch?v=ranXy4pjLgI)
+
+</p></details>
 <details><summary><u>Day 344</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d334e1.jpg)
@@ -14,6 +31,8 @@ Learning Progress Till Now -> 344 Days (09/12/2020 to 17/11/2021)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d334chs2.jpg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d334chs3.jpg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d334chs5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20321%20-%20340/d334leetcode.jpg)
 - 🤨[Case study ~ "Jio Mart can KILL Dmart? : The most EPIC Retail War of India (Business Case study)"](https://www.youtube.com/watch?v=pZNDUy3DuC4)
 - 👂🏻 [Watched a Youtube video "Gravitas: Why has Macron changed the French Flag?"](https://www.youtube.com/watch?v=TpqxokaAq9A)
 - 👂🏻 [Watched a Youtube video "Energy ministers call for investment in hydrocarbons | WION Climate Tracker"](https://www.youtube.com/watch?v=5eID3gwYGiU)
