@@ -1,9 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 346 Days (09/12/2020 to 19/11/2021)
+Learning Progress Till Now -> 347 Days (09/12/2020 to 20/11/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 23, 2021</summary><p>
 <details><summary><u>Day 341 - 350 ~ November 14, 2021 - November 23, 2021</u></summary><p>
+<details><summary><u>Day 347</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d337e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20321%20-%20340/d337ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20321%20-%20340/d337b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d337chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d337chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d337chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d337chs5.jpg)
+- 🤨[Case study ~ "Is Zomato racing to Profitability? : Hyperpure Business Case Study "](https://www.youtubepp.com/watch?v=-NtB3rf8paE)
+- 👂🏻 [Watched a Youtube video "The interesting multi-role fighter | The Gripen"](https://www.youtube.com/watch?v=vCY-0WTkU-s)
+- 💰📈 [Finshots (financial news) ~ "MARKETS - Sigachi Industries’ record-breaking IPO pop"](https://finshots.in/markets/sigachi-industries-record-breaking-ipo-pop/)
+- 💰📈 [Financial education ~ "Take advantage of loss in stock market #Shorts"](https://www.youtube.com/watch?v=CL8EAQAXRDw)
+
+</p></details>
 <details><summary><u>Day 346</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d336e1.jpg)
@@ -17,7 +33,7 @@ Learning Progress Till Now -> 346 Days (09/12/2020 to 19/11/2021)
 - 🤨[Case study ~ "Bionics are the future of prosthetics"](https://www.youtube.com/watch?v=lrUropp9o6c)
 - 👂🏻 [Watched a Youtube video "US to step up efforts to tackle plastic waste as it continues to devastate marine life | World News"](https://www.youtube.com/watch?v=ZcDGixYSZpc)
 - 💰📈 [Finshots (financial news) ~ "BUSINESS - Crypto geeks are trying to buy the US Constitution"](https://finshots.in/archive/crypto-geeks-are-trying-to-buy-the-us-constitution/)
-- 💰📈 [Financial education ~ " PM Narendra Modi warns of Bitcoins risk to younger generations | World News"]( PM Narendra Modi warns of Bitcoins risk to younger generations | World News)
+- 💰📈 [Financial education ~ " PM Narendra Modi warns of Bitcoins risk to younger generations | World News"](https://www.youtube.com/watch?v=DQ3oj1hEDWI)
 
 </p></details>
 <details><summary><u>Day 345</u></summary><p>
