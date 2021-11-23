@@ -1,9 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 349 Days (09/12/2020 to 22/11/2021)
+Learning Progress Till Now -> 350 Days (09/12/2020 to 23/11/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 23, 2021</summary><p>
 <details><summary><u>Day 341 - 350 ~ November 14, 2021 - November 23, 2021</u></summary><p>
+<details><summary><u>Day 350</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d340e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20321%20-%20340/d340ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20321%20-%20340/d340b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d340chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d340chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d340chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d340chs5.jpg)
+- 🤨[Case study ~ "Guinness World Record by Indian Army's BRO; Nitin Gadkari praises agency for highest motorable road"](https://www.youtube.com/watch?v=FQpF3WpijPQ)
+- 👂🏻 [Watched a Youtube video "Gravitas: Why is UK hiding the Mountbatten papers?"](https://youtu.be/IdI1YYJoH9k)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - How Covid is changing the Indian Life Insurance industry?"](https://finshots.in/archive/how-covid-is-changing-the-indian-life-insurance-industry/)
+- 💰📈 [Financial education ~ "Hidden secrets of IFSC"](https://www.youtube.com/watch?v=8l9lqb6ESbY)
+</p></details>
 <details><summary><u>Day 349</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20321%20-%20340/d339e1.jpg)
