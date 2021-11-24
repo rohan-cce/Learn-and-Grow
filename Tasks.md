@@ -1,5 +1,26 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 350 Days (09/12/2020 to 23/11/2021)
+Learning Progress Till Now -> 351 Days (09/12/2020 to 24/11/2021)
+
+<details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
+<details><summary><u>Day 351 - 360 ~ November 24, 2021 - December 03, 2021</u></summary><p>
+<details><summary><u>Day 351</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d341e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20341%20-%20360/d341ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20341%20-%20360/d341b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d341chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d341chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d341chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d341chs5.jpg)
+- 🤨[Case study ~ "How to be a LEGENDARY LEADER during CRISIS? : The STARBUCKS story (Howard Schultz)"](https://www.youtube.com/watch?v=vvzpciKoU5g)
+- 👂🏻 [Watched a Youtube video "What is Web 3 0?"](https://www.youtube.com/watch?v=2uYuWiICCM0)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - The death of conglomerates?"](https://finshots.in/archive/the-death-of-conglomerates/)
+- 💰📈 [Financial education ~ "Home Loan vs Education Loan #Shorts"](https://www.youtube.com/watch?v=vvSIWH4Ei6E)
+
+</p></details>
+</p></details>
+</p></details>
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 23, 2021</summary><p>
 <details><summary><u>Day 341 - 350 ~ November 14, 2021 - November 23, 2021</u></summary><p>
@@ -13,6 +34,8 @@ Learning Progress Till Now -> 350 Days (09/12/2020 to 23/11/2021)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d340chs2.jpg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d340chs3.jpg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20321%20-%20340/d340chs5.jpg)
+- ✔️ LeetCode
+  - ✔️ Completed 3 problems in leetcode
 - 🤨[Case study ~ "Guinness World Record by Indian Army's BRO; Nitin Gadkari praises agency for highest motorable road"](https://www.youtube.com/watch?v=FQpF3WpijPQ)
 - 👂🏻 [Watched a Youtube video "Gravitas: Why is UK hiding the Mountbatten papers?"](https://youtu.be/IdI1YYJoH9k)
 - 💰📈 [Finshots (financial news) ~ "BUSINESS - How Covid is changing the Indian Life Insurance industry?"](https://finshots.in/archive/how-covid-is-changing-the-indian-life-insurance-industry/)
