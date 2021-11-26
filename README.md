@@ -1,9 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 352 Days (09/12/2020 to 25/11/2021)
+Learning Progress Till Now -> 353 Days (09/12/2020 to 26/11/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 351 - 360 ~ November 24, 2021 - December 03, 2021</u></summary><p>
+<details><summary><u>Day 353</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d343e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20341%20-%20360/d343ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20341%20-%20360/d343b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d343chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d343chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d343chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d343chs5.jpg)
+- 🤨[Case study ~ "Illegal miners are vacuuming Amazon riverbed for gold | WION Climate Tracker | English News"](https://www.youtube.com/watch?v=p-Bh1PwTkaE)
+- 👂🏻 [Watched a Youtube video "Report: Water crisis will impact Iraq's growth and jobs | English News | WION Climate Tracker"](https://www.youtube.com/watch?v=-jo79d8hlLs)
+- 💰📈 [Finshots (financial news) ~ "ECONOMY - A frontal assault on OPEC?"](https://finshots.in/archive/a-frontal-assault-on-opec/)
+- 💰📈 [Financial education ~ "#LLAShorts Netflix is costlier than what you think! #Shorts"](https://www.youtube.com/watch?v=xoSvKQHTTE0)
+
+</p></details>
 <details><summary><u>Day 352</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d342e1.jpg)
