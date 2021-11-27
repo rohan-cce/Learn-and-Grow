@@ -1,8 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 353 Days (09/12/2020 to 26/11/2021)
+Learning Progress Till Now -> 354 Days (09/12/2020 to 27/11/2021)
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 351 - 360 ~ November 24, 2021 - December 03, 2021</u></summary><p>
+<details><summary><u>Day 354</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d344e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20341%20-%20360/d344ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20341%20-%20360/d344b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d344chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d344chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d344chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d344chs5.jpg)
+- 🤨[Case study ~ "How KERALA's MARKETING STRATEGY changed Indian Tourism FOREVER? : Tourism Case Study"](https://www.youtube.com/watch?v=8tBuAM0XHmY)
+- 👂🏻 [Watched a Youtube video "La Palma volcano: New lava flow threatens village | Military scientists monitor eruption | Spain"](https://www.youtube.com/watch?v=yWG0R5mQf3c)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - What does India eat for breakfast?"](https://finshots.in/archive/what-does-india-eat-for-breakfast/)
+- 💰📈 [Financial education ~ "Experts: Supply chain issues and online sales to impact retail in US | WION-VOA Co-Production | News"](https://www.youtube.com/watch?v=4xEpN3bjc38)
+
+</p></details>
 <details><summary><u>Day 353</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d343e1.jpg)
