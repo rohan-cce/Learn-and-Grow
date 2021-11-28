@@ -1,8 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 354 Days (09/12/2020 to 27/11/2021)
+Learning Progress Till Now -> 355 Days (09/12/2020 to 28/11/2021)
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 351 - 360 ~ November 24, 2021 - December 03, 2021</u></summary><p>
+<details><summary><u>Day 355</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d345e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20341%20-%20360/d345ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20341%20-%20360/d345b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d345chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d345chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d345chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d345chs5.jpg)
+- 🤨[Case study ~ "Taiwan: A force for good and the spirit of resilience"](https://www.youtube.com/watch?v=fax8RpfvRYw)
+- 👂🏻 [Watched a Youtube video "South Africa researches on development of continent-grown Messenger RNA vaccine | COVID Variant"](https://www.youtube.com/watch?v=Y8ER4zqIUWM)
+- 💰📈 [Finshots (financial news) ~ "WEEKLY - Personal Finance 101"](https://finshots.in/archive/personal-finance-101/)
+- 💰📈 [Financial education ~ "India Banning Crypto | Private vs Public Coins | Action vs Motive"](https://www.youtube.com/watch?v=ZUxaPtxeLXs)
+
+</p></details>
 <details><summary><u>Day 354</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d344e1.jpg)
