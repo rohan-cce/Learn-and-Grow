@@ -1,9 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 356 Days (09/12/2020 to 29/11/2021)
+Learning Progress Till Now -> 357 Days (09/12/2020 to 30/11/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 351 - 360 ~ November 24, 2021 - December 03, 2021</u></summary><p>
+<details><summary><u>Day 357</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d347e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20341%20-%20360/d347ls1.jpeg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20341%20-%20360/d347b1.jpeg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d347chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d347chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d347chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d347chs5.jpg)
+- 🤨[Case study ~ "6 Things You Must Do Before Age 25"](https://www.youtube.com/watch?v=e02JaO5qz_Q)
+- 👂🏻 [Watched a Youtube video "Gravitas: WHO skips 'XI' & 'NU', names new variant 'Omicron' | How deadly is the new variant?"](https://www.youtube.com/watch?v=YwMs9ZSxqps)
+- 💰📈 [Finshots (financial news) ~ "ECONOMY - The march of the pricey tomatoes"](https://finshots.in/archive/the-march-of-the-pricey-tomatoes/)
+- 💰📈 [Financial education ~ "Tax on gifting stocks? #Shorts"](https://www.youtube.com/watch?v=ubN3Rs4CiHc)
+
+</p></details>
 <details><summary><u>Day 356</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d346e1.jpg)
