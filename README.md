@@ -1,9 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 357 Days (09/12/2020 to 30/11/2021)
+Learning Progress Till Now -> 358 Days (09/12/2020 to 01/12/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 351 - 360 ~ November 24, 2021 - December 03, 2021</u></summary><p>
+<details><summary><u>Day 358</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d348e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20341%20-%20360/d348ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20341%20-%20360/d348b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d348chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d348chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d348chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d348chs5.jpg)
+- 🤨[Case study ~ "Barbados is re-born as a republic after 396 years| Breaking the shackles of colonial past| WION News"](https://www.youtube.com/watch?v=IYw_uLiK9qo)
+- 👂🏻 [Watched a Youtube video "Gravitas: Indian-origin techie Parag Agrawal becomes Twitter CEO"](https://www.youtube.com/watch?v=K37cElKncI8)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - The Payment Network Wars"](https://finshots.in/archive/why-does-visa-dislike-rupay/)
+- 💰📈 [Financial education ~ "e-Shram Card | Registration | Benefits | Online Apply"](https://www.youtube.com/watch?v=UmLUqVaJN2w)
+
+</p></details>
 <details><summary><u>Day 357</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d347e1.jpeg)
