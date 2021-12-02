@@ -1,9 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 358 Days (09/12/2020 to 01/12/2021)
+Learning Progress Till Now -> 359 Days (09/12/2020 to 02/12/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 351 - 360 ~ November 24, 2021 - December 03, 2021</u></summary><p>
+<details><summary><u>Day 359</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d349e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20341%20-%20360/d349ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20341%20-%20360/d349b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d349chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d349chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d349chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d349chs5.jpg)
+- 🤨[Case study ~ "The Future of Insurance in INDIA : Shared value model (Using business case studies)"](https://www.youtube.com/watch?v=K-ZPmQZn9eY)
+- 👂🏻 [Watched a Youtube video "Gravitas: Visa is unhappy about India's backing to Rupay"](https://www.youtube.com/watch?v=0jSrvvS9PnQ)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Why big business in banking is still a big no for RBI?"](https://finshots.in/archive/why-big-business-in-banking-is-still-a-big-no-for-rbi/)
+- 💰📈 [Financial education ~ "Why do we fail to make money? #ad #Shorts"](https://www.youtube.com/watch?v=vRn1JvIlzH8)
+
+</p></details>
 <details><summary><u>Day 358</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d348e1.jpg)
