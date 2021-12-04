@@ -1,7 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 360 Days (09/12/2020 to 03/12/2021)
+Learning Progress Till Now -> 361 Days (09/12/2020 to 04/12/2021)
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
+<details><summary><u>Day 361 - 370 ~ December 04, 2021 - December 13, 2021</u></summary><p>
+<details><summary><u>Day 361</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d351e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20341%20-%20360/d351ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20341%20-%20360/d351b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d351chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d351chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d351chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d351chs5.jpg)
+- 🤨[Case study ~ "The GREAT INDIAN SPORTS WAR : Puma vs Adidas vs Nike"](https://www.youtube.com/watch?v=yxC9kgS8lnQ)
+- 👂🏻 [Watched a Youtube video "Garbage crisis fuels ecological concerns in Ukraine | Lack of functioning waste management system"](https://www.youtube.com/watch?v=tmkGIlQOO28)
+- 💰📈 [Finshots (financial news) ~ "MARKETS - The inglorious fall of Reliance Capitals"](https://finshots.in/markets/the-inglorious-fall-of-reliance-capital/)
+- 💰📈 [Financial education ~ "REITS"](https://www.youtube.com/watch?v=XCIKwZjvfOQ)
+
+</p></details>
+</p></details>
 <details><summary><u>Day 351 - 360 ~ November 24, 2021 - December 03, 2021</u></summary><p>
 <details><summary><u>Day 360</u></summary><p>
 
@@ -13,6 +31,8 @@ Learning Progress Till Now -> 360 Days (09/12/2020 to 03/12/2021)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d350chs2.jpg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d350chs3.jpg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d350chs5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20341%20-%20360/d350leetcode.jpg)
 - 🤨[Case study ~ "PayTM’s Party IPO. How an overvalued stock crashed the market. Bisbo"](https://www.youtube.com/watch?v=T2iCnEZm4b8)
 - 👂🏻 [Watched a Youtube video "Electric vehicles' cost burden beyond limits: Stellantis | Automobile | Technology | World news"](https://www.youtube.com/watch?v=VPJizb5zsoU)
 - 💰📈 [Finshots (financial news) ~ "BUSINESS - How to finance a film in the crypto eras"](https://finshots.in/archive/how-to-finance-a-film-in-the-crypto-era/)
