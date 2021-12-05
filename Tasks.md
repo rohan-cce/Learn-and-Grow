@@ -1,8 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 361 Days (09/12/2020 to 04/12/2021)
+Learning Progress Till Now -> 362 Days (09/12/2020 to 05/12/2021)
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 361 - 370 ~ December 04, 2021 - December 13, 2021</u></summary><p>
+<details><summary><u>Day 362</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d352e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20341%20-%20360/d352ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20341%20-%20360/d352b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d352chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d352chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d352chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d352chs5.jpg)
+- 🤨[Case study ~ "Story of Nykaa’s Nayika: How Falguni Nayar Built a $13 Billion Startup in India"](https://www.youtube.com/watch?v=a_kDGR-5vlE)
+- 👂🏻 [Watched a Youtube video "A new language learning device | Tech It Out"](https://www.youtube.com/watch?v=U8H48wcLiXs)
+- 💰📈 [Finshots (financial news) ~ "WEEKLY - Choose the budgeting hack that works for YOU!"](https://finshots.in/archive/choose-the-budgeting-hack-that-works-for-you/)
+- 💰📈 [Financial education ~ "CoinDCX Planning India’s First Crypto IPO | Snapdeal IPO | 2 New Unicorns: Slice & Curefit"](https://www.youtube.com/watch?v=_H6w3Pt64f4)
+
+</p></details>
 <details><summary><u>Day 361</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d351e1.jpg)
