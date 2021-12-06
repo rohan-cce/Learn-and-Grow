@@ -1,9 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 362 Days (09/12/2020 to 05/12/2021)
+Learning Progress Till Now -> 363 Days (09/12/2020 to 06/12/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 361 - 370 ~ December 04, 2021 - December 13, 2021</u></summary><p>
+<details><summary><u>Day 363</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d353e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20341%20-%20360/d353ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20341%20-%20360/d353b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d353chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d353chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d353chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d353chs5.jpg)
+- 🤨[Case study ~ "Why CEOs Think University Degrees are Becoming Irrelevant"](https://www.youtube.com/watch?v=XCjj97LVI5I)
+- 👂🏻 [Watched a Youtube video "Vladimir Putin's visit to India a boost for bilateral ties | WION | World News | English News Update"](https://www.youtube.com/watch?v=XbzCZDkUV50)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - How Lay's lost its potatoes?"](https://finshots.in/archive/how-lays-lost-its-potatoes/)
+- 💰📈 [Financial education ~ "30% Loss in SGB?"](https://www.youtube.com/watch?v=qq-Bo_74hak)
+</p></details>
 <details><summary><u>Day 362</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d352e1.jpg)
