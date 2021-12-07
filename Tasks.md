@@ -1,8 +1,23 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 363 Days (09/12/2020 to 06/12/2021)
+Learning Progress Till Now -> 364 Days (09/12/2020 to 07/12/2021)
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 361 - 370 ~ December 04, 2021 - December 13, 2021</u></summary><p>
+<details><summary><u>Day 364</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d354e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20341%20-%20360/d354ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20341%20-%20360/d354b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d354chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d354chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d354chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d354chs5.jpg)
+- 🤨[Case study ~ "Do you know why tires are black?"](https://www.youtube.com/watch?v=84OQN5bqEe4)
+- 👂🏻 [Watched a Youtube video "Indian PM Modi hosts Russian President Vladimir Putin in New Delhi | 21st India-Russia annual summit"](https://www.youtube.com/watch?v=-71vwmhG25c)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - How Lay's lost its potatoes"](https://finshots.in/archive/how-lays-lost-its-potatoes/)
+- 💰📈 [Financial education ~ "What if Broker Runs Away"](https://www.youtube.com/watch?v=euWB-HSy3dw)
+</p></details>
 <details><summary><u>Day 363</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d353e1.jpg)
@@ -13,6 +28,8 @@ Learning Progress Till Now -> 363 Days (09/12/2020 to 06/12/2021)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d353chs2.jpg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d353chs3.jpg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d353chs5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed one problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20341%20-%20360/d353leetcode.jpg)
 - 🤨[Case study ~ "Why CEOs Think University Degrees are Becoming Irrelevant"](https://www.youtube.com/watch?v=XCjj97LVI5I)
 - 👂🏻 [Watched a Youtube video "Vladimir Putin's visit to India a boost for bilateral ties | WION | World News | English News Update"](https://www.youtube.com/watch?v=XbzCZDkUV50)
 - 💰📈 [Finshots (financial news) ~ "BUSINESS - How Lay's lost its potatoes?"](https://finshots.in/archive/how-lays-lost-its-potatoes/)
