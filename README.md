@@ -1,9 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 364 Days (09/12/2020 to 07/12/2021)
+Learning Progress Till Now -> 365 Days (09/12/2020 to 08/12/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 361 - 370 ~ December 04, 2021 - December 13, 2021</u></summary><p>
+<details><summary><u>Day 365</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d355e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20341%20-%20360/d355ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20341%20-%20360/d355b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d355chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d355chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d355chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d355chs5.jpg)
+- 🤨[Case study ~ "How Asian Paints Built MONOPOLY in the Indian market? : Indian Monopolies EP 1"](https://www.youtube.com/watch?v=jGT6ob8hV6M)
+- 👂🏻 [Watched a Youtube video "Gravitas: UAE scraps 5-day work week, weekend to begin after Friday noon"](https://www.youtube.com/watch?v=KpF9ATSA8bI)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - The cost of a private jet boom"](https://finshots.in/archive/the-cost-of-a-private-jet-boom/)
+- 💰📈 [Financial education ~ "SGB is not tax free"](https://www.youtube.com/watch?v=wQy-4sDN4JY)
+</p></details>
 <details><summary><u>Day 364</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d354e1.jpg)
@@ -14,9 +29,11 @@ Learning Progress Till Now -> 364 Days (09/12/2020 to 07/12/2021)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d354chs2.jpg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d354chs3.jpg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d354chs5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed 4 problems in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20341%20-%20360/d354leetcode.jpg)
 - 🤨[Case study ~ "Do you know why tires are black?"](https://www.youtube.com/watch?v=84OQN5bqEe4)
 - 👂🏻 [Watched a Youtube video "Indian PM Modi hosts Russian President Vladimir Putin in New Delhi | 21st India-Russia annual summit"](https://www.youtube.com/watch?v=-71vwmhG25c)
-- 💰📈 [Finshots (financial news) ~ "BUSINESS - How Lay's lost its potatoes"](https://finshots.in/archive/how-lays-lost-its-potatoes/)
+- 💰📈 [Finshots (financial news) ~ "POLICY - Will you get vaccinated if you can win a smartphone?"](https://finshots.in/archive/will-you-get-vaccinated-if-you-can-win-a-smartphone/)
 - 💰📈 [Financial education ~ "What if Broker Runs Away"](https://www.youtube.com/watch?v=euWB-HSy3dw)
 </p></details>
 <details><summary><u>Day 363</u></summary><p>
