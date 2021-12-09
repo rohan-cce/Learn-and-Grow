@@ -1,5 +1,5 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 365 Days (09/12/2020 to 08/12/2021)
+Learning Progress Till Now -> 366 Days (09/12/2020 to 09/12/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
@@ -14,6 +14,8 @@ Learning Progress Till Now -> 365 Days (09/12/2020 to 08/12/2021)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d355chs2.jpg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d355chs3.jpg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d355chs5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed 6 problems in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20341%20-%20360/d355leetcode.jpg)
 - 🤨[Case study ~ "How Asian Paints Built MONOPOLY in the Indian market? : Indian Monopolies EP 1"](https://www.youtube.com/watch?v=jGT6ob8hV6M)
 - 👂🏻 [Watched a Youtube video "Gravitas: UAE scraps 5-day work week, weekend to begin after Friday noon"](https://www.youtube.com/watch?v=KpF9ATSA8bI)
 - 💰📈 [Finshots (financial news) ~ "BUSINESS - The cost of a private jet boom"](https://finshots.in/archive/the-cost-of-a-private-jet-boom/)

@@ -1,8 +1,23 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 365 Days (09/12/2020 to 08/12/2021)
+Learning Progress Till Now -> 366 Days (09/12/2020 to 09/12/2021)
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 361 - 370 ~ December 04, 2021 - December 13, 2021</u></summary><p>
+<details><summary><u>Day 366</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d356e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20341%20-%20360/d356ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20341%20-%20360/d356b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d356chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d356chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d356chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d356chs5.jpg)
+- 🤨[Case study ~ "How Spotify Killed Apple Music ? | How Spotify Destroys Competition ? | Business Case Study"](https://www.youtube.com/watch?v=L3bJ1cRTvic)
+- 👂🏻 [Watched a Youtube video "Gravitas: The Pandemic didn't impact Global Arms Industry"](https://www.youtube.com/watch?v=aD_xOYjMxns)
+- 💰📈 [Finshots (financial news) ~ "POLICY - What did the RBI do with interest rates yesterday?"](https://finshots.in/archive/the-rbi-keeps-interest-rates-unchanged/)
+- 💰📈 [Financial education ~ "True logic of MICR Code #Shorts"](https://www.youtube.com/watch?v=1LbXAQnL42s)
+</p></details>
 <details><summary><u>Day 365</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d355e1.jpg)
@@ -13,6 +28,8 @@ Learning Progress Till Now -> 365 Days (09/12/2020 to 08/12/2021)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d355chs2.jpg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d355chs3.jpg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d355chs5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed 6 problems in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20341%20-%20360/d355leetcode.jpg)
 - 🤨[Case study ~ "How Asian Paints Built MONOPOLY in the Indian market? : Indian Monopolies EP 1"](https://www.youtube.com/watch?v=jGT6ob8hV6M)
 - 👂🏻 [Watched a Youtube video "Gravitas: UAE scraps 5-day work week, weekend to begin after Friday noon"](https://www.youtube.com/watch?v=KpF9ATSA8bI)
 - 💰📈 [Finshots (financial news) ~ "BUSINESS - The cost of a private jet boom"](https://finshots.in/archive/the-cost-of-a-private-jet-boom/)
