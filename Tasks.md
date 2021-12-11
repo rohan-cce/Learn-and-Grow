@@ -1,5 +1,5 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 367 Days (09/12/2020 to 10/12/2021)
+Learning Progress Till Now -> 368 Days (09/12/2020 to 11/12/2021)
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 361 - 370 ~ December 04, 2021 - December 13, 2021</u></summary><p>
@@ -12,7 +12,7 @@ Learning Progress Till Now -> 367 Days (09/12/2020 to 10/12/2021)
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d357chs1.jpg)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d357chs2.jpg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d357chs3.jpg)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d356chs5.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d357chs5.jpg)
 - 🤨[Case study ~ "How do trains switch the tracks?"](https://www.youtube.com/watch?v=KQDSsAc3mV0)
 - 👂🏻 [Watched a Youtube video "Israel completes Gaza border fence which includes underground barrier with sensors | World News"](https://www.youtube.com/watch?v=ykcLRJH66Ts)
 - 💰📈 [Finshots (financial news) ~ "POLICY - What did the RBI do with interest rates yesterday?"](https://finshots.in/archive/the-rbi-keeps-interest-rates-unchanged/)

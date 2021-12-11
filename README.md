@@ -1,9 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 367 Days (09/12/2020 to 10/12/2021)
+Learning Progress Till Now -> 368 Days (09/12/2020 to 11/12/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 361 - 370 ~ December 04, 2021 - December 13, 2021</u></summary><p>
+<details><summary><u>Day 368</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d358e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20341%20-%20360/d358ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20341%20-%20360/d358b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d358chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d358chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d358chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d358chs5.jpg)
+- 🤨[Case study ~ "How MAGGI's GENIUS Marketing Strategy made it a Market Leader?: Nestle Business Case Study"](https://www.youtube.com/watch?v=r5OCFaXqS5I)
+- 👂🏻 [Watched a Youtube video "Gravitas: American stores are running out of 'cream cheese'"](https://www.youtube.com/watch?v=z85zwy9FC3Y)
+- 💰📈 [Finshots (financial news) ~ "MARKETS - Following MapmyIndia’s journey to its IPO"](https://finshots.in/markets/following-mapmyindias-journey-to-its-ipo/)
+- 💰📈 [Financial education ~ "The real truth of ZERO Brokerage"](https://www.youtube.com/watch?v=YKitShk6Sb4)
+</p></details>
 <details><summary><u>Day 367</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d357e1.jpg)
@@ -13,7 +28,7 @@ Learning Progress Till Now -> 367 Days (09/12/2020 to 10/12/2021)
   - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d357chs1.jpg)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d357chs2.jpg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d357chs3.jpg)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d356chs5.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d357chs5.jpg)
 - 🤨[Case study ~ "How do trains switch the tracks?"](https://www.youtube.com/watch?v=KQDSsAc3mV0)
 - 👂🏻 [Watched a Youtube video "Israel completes Gaza border fence which includes underground barrier with sensors | World News"](https://www.youtube.com/watch?v=ykcLRJH66Ts)
 - 💰📈 [Finshots (financial news) ~ "POLICY - What did the RBI do with interest rates yesterday?"](https://finshots.in/archive/the-rbi-keeps-interest-rates-unchanged/)
