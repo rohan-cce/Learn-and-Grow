@@ -1,9 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 368 Days (09/12/2020 to 11/12/2021)
+Learning Progress Till Now -> 369 Days (09/12/2020 to 12/12/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 361 - 370 ~ December 04, 2021 - December 13, 2021</u></summary><p>
+<details><summary><u>Day 369</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d359e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20341%20-%20360/d359ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20341%20-%20360/d359b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d359chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d359chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d359chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d359chs5.jpg)
+- 🤨[Case study ~ "The surprising engineering of glass"](https://www.youtube.com/watch?v=8Fv85jR59X0)
+- 👂🏻 [Watched a Youtube video "Overflowing of river Arga causes flooding in Spain | European Countries | Latest English News"](https://www.youtube.com/watch?v=1_yrFYoAqck)
+- 💰📈 [Finshots (financial news) ~ "WEEKLY - Using your CREDIT card to budget?"](https://finshots.in/archive/budgeting-using-credit-card/)
+- 💰📈 [Financial education ~ "ETF vs Index Funds vs Mutual Funds - Should we invest in Active Funds or Passive Funds?"](https://www.youtube.com/watch?v=Nrn3-G8IUSQ)
+</p></details>
 <details><summary><u>Day 368</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d358e1.jpg)
