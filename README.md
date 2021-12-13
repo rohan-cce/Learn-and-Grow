@@ -1,9 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 369 Days (09/12/2020 to 12/12/2021)
+Learning Progress Till Now -> 370 Days (09/12/2020 to 13/12/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 361 - 370 ~ December 04, 2021 - December 13, 2021</u></summary><p>
+<details><summary><u>Day 370</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d360e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20341%20-%20360/d360ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20341%20-%20360/d360b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d360chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d360chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d360chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20341%20-%20360/d360chs5.jpg)
+- 🤨[Case study ~ "A Simple Trick To Become Consistent"](https://www.youtube.com/watch?v=eva4EwkAYNs)
+- 👂🏻 [Watched a Youtube video "Emmanuel Macron: France is more beautiful with Caledonia in it |"](https://www.youtube.com/watch?v=kOmmNxjcYMg)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Watch out Algo traders"](https://finshots.in/archive/watch-out-algo-traders/)
+- 💰📈 [Financial education ~ "Rupay Card INSURANCE"](https://www.youtube.com/watch?v=tyICioZsf4I)
+</p></details>  
 <details><summary><u>Day 369</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20341%20-%20360/d359e1.jpg)
