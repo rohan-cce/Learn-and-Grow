@@ -1,7 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 370 Days (09/12/2020 to 13/12/2021)
+Learning Progress Till Now -> 371 Days (09/12/2020 to 14/12/2021)
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
+<details><summary><u>Day 371 - 380 ~ December 14, 2021 - December 23, 2021</u></summary><p>
+<details><summary><u>Day 371</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20361%20-%20380/d361e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20361%20-%20380/d361ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20361%20-%20380/d361b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d361chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d361chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d361chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d361chs5.jpg)
+- 🤨[Case study ~ "The dangerous task of ejecting from a fighter jet"](https://youtu.be/SzKKNrQ53tI)
+- 👂🏻 [Watched a Youtube video "The dangerous task of ejecting from a fighter jet"](https://www.youtube.com/watch?v=SzKKNrQ53tI)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Why are Indian banks partnering with non-banks?"](https://finshots.in/archive/why-are-indian-banks-partnering-with-non-banks/)
+- 💰📈 [Financial education ~ "IRR: Best way to calculate SIP returns | IRR vs XIRR vs CAGR"](https://www.youtube.com/watch?v=p3L8Wrnv43Y)
+</p></details> 
+</p></details>  
 <details><summary><u>Day 361 - 370 ~ December 04, 2021 - December 13, 2021</u></summary><p>
 <details><summary><u>Day 370</u></summary><p>
 
