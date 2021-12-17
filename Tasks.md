@@ -1,8 +1,23 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 373 Days (09/12/2020 to 16/12/2021)
+Learning Progress Till Now -> 374 Days (09/12/2020 to 17/12/2021)
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 371 - 380 ~ December 14, 2021 - December 23, 2021</u></summary><p>
+<details><summary><u>Day 374</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20361%20-%20380/d364e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20361%20-%20380/d364ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20361%20-%20380/d364b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d364chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d364chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d364chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d364chs5.jpg)
+- 🤨[Case study ~ "How Facebook Will Control Your Life Using Metaverse ? | Meta Business Case study"](https://www.youtube.com/watch?v=LJ_OlMk5SYE)
+- 👂🏻 [Watched a Youtube video "World's first SMS is up for auction, expected to sell for $200,000 | English News"](https://www.youtube.com/watch?v=2x-oxkiLN9c)
+- 💰📈 [Finshots (financial news) ~ "INFOGRAPHIC - Comparing brand valuations of top insurance companies globally"](https://finshots.in/infographic/comparing-brand-valuations-of-top-insurance-companies-globally/)
+- 💰📈 [Financial education ~ "7% of PPF Better than 11% of Mutual Funds. HOW? #shorts"](https://www.youtube.com/watch?v=Zv6Gto6ubsM)
+</p></details>
 <details><summary><u>Day 373</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20361%20-%20380/d363e1.jpg)
