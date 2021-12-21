@@ -1,8 +1,42 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 377 Days (09/12/2020 to 20/12/2021)
+Learning Progress Till Now -> 378 Days (09/12/2020 to 21/12/2021)
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 371 - 380 ~ December 14, 2021 - December 23, 2021</u></summary><p>
+<details><summary><u>Day 378</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20361%20-%20380/d368e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20361%20-%20380/d368ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20361%20-%20380/d368b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d368chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d368chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d368chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d368chs5.jpg)
+- 🤨[Case study ~ "How Myntra Destroyed Flipkart in Fashion E-commerce ? Myntra Business Case Study"](https://www.youtube.com/watch?v=AK4bxh-2G0Y)
+- 👂🏻 [Watched a Youtube video "35,000 financial services jobs to leave United Kingdom | Britain | EU | Brexit | Capital Markets"](https://www.youtube.com/watch?v=MTysKXexwDM)
+- 💰📈 [Finshots (financial news) ~ "ECONOMY - What is the Inflation data really telling us?"](https://finshots.in/archive/will-we-have-high-inflation-in-2022/)
+- 💰📈 [Financial education ~ "Share price is misleading! "](https://www.youtube.com/watch?v=PevQ-X-OTXM)
+
+</p></details>
+<details><summary><u>Day 377</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20361%20-%20380/d367e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20361%20-%20380/d367ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20361%20-%20380/d367b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d367chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d367chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d367chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d367chs5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed two problems in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/Day%20361%20-%20380/d367leetcode.jpg)
+- 🤨[Case study ~ "How DELL KILLED the IBM MONOPOLY? : Dell vs IBM Case Study"](https://www.youtube.com/watch?v=tI9fRLNmNkY)
+- 👂🏻 [Watched a Youtube video "Russia cannot dictate NATO on regional security: Germany | Ukraine | Eastern Europe | World News"](https://www.youtube.com/watch?v=CMm3mpfzTgw)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - India's mega semiconductor push"](https://finshots.in/archive/indias-mega-semiconductor-push/)
+- 💰📈 [Financial education ~ "The Investor Who Saved Marvel From Bankruptcy"](https://www.youtube.com/watch?v=cs7aPqw38j0)
+
+</p></details>
 <details><summary><u>Day 376</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20361%20-%20380/d366e1.jpg)
