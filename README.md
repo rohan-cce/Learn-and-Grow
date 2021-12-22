@@ -1,9 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 378 Days (09/12/2020 to 21/12/2021)
+Learning Progress Till Now -> 379 Days (09/12/2020 to 22/12/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 371 - 380 ~ December 14, 2021 - December 23, 2021</u></summary><p>
+<details><summary><u>Day 379</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20361%20-%20380/d369e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20361%20-%20380/d369ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20361%20-%20380/d369b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d369chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d369chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d369chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d369chs5.jpg)
+- 👂🏻 [Watched a Youtube video "Gravitas: India passes bill to link Aadhaar with Voter IDs"](https://www.youtube.com/watch?v=NhlMCr5TNxo)
+- 💰📈 [Finshots (financial news) ~ "POLICY - Can SEBI contain inflation?"](https://finshots.in/archive/can-sebi-contain-inflation/)
+- 💰📈 [Financial education ~ "Gravitas: Is Indian Rupee "Asia's worst-performing currency"?"](https://www.youtube.com/watch?v=Wz-LIFVHzfw)
+
+</p></details>
 <details><summary><u>Day 378</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20361%20-%20380/d368e1.jpg)
