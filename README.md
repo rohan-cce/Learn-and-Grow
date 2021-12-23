@@ -1,9 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 379 Days (09/12/2020 to 22/12/2021)
+Learning Progress Till Now -> 380 Days (09/12/2020 to 23/12/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 371 - 380 ~ December 14, 2021 - December 23, 2021</u></summary><p>
+<details><summary><u>Day 380</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20361%20-%20380/d370e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20361%20-%20380/d370ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20361%20-%20380/d370b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d370chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d370chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d370chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d370chs5.jpg)
+- 🤨[Case study ~ "-Scientists in Germany have come up with a virus protection wall | World Latest English News | WION"](https://www.youtube.com/watch?v=_VTuPSNBfl0)
+- 👂🏻 [Watched a Youtube video "China was stealing drones and cruise missiles from Israel, got caught red-handed"](https://www.youtube.com/watch?v=zHq19rBZ0lQ)
+- 💰📈 [Finshots (financial news) ~ "POLICY - Why your favourite app is asking you to re-enter your card details"](https://www.youtube.com/watch?v=TpU7V98AE_Y)
+- 💰📈 [Financial education ~ "Gravitas: How Vaccine Makers could profit from boosters and variants"](https://www.youtube.com/watch?v=6ucuOvJOO0I)
+
+</p></details>
 <details><summary><u>Day 379</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20361%20-%20380/d369e1.jpg)
