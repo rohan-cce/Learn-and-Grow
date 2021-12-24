@@ -1,7 +1,26 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 380 Days (09/12/2020 to 23/12/2021)
+Learning Progress Till Now -> 381 Days (09/12/2020 to 24/12/2021)
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
+<details><summary><u>Day 381 - 390 ~ December 24, 2021 - January 02, 2022</u></summary><p>
+<details><summary><u>Day 381</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20361%20-%20380/d371e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20361%20-%20380/d371ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20361%20-%20380/d371b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d371chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d371chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d371chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d371chs5.jpg)
+- 🤨[Case study ~ "Gravitas: How China could be driving up global inflation"](https://www.youtube.com/watch?v=Yp3fdj5FBPc)
+- 👂🏻 [Watched a Youtube video "Belgium to shut down all of its nuclear reactors by 2025 to invest in new nuclear technology | WION"](https://www.youtube.com/watch?v=0JAEtlCuorU)
+- 💰📈 [Finshots (financial news) ~ "POLICY - The great Indian sugar dispute"](https://finshots.in/archive/the-great-indian-sugar-dispute/)
+- 💰📈 [Financial education ~ "Gravitas: India becomes 3rd top country hosting unicorns"](https://www.youtube.com/watch?v=k6JXhSNkua0)
+
+</p></details>
+</p></details>
+
 <details><summary><u>Day 371 - 380 ~ December 14, 2021 - December 23, 2021</u></summary><p>
 <details><summary><u>Day 380</u></summary><p>
 
