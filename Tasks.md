@@ -1,8 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 381 Days (09/12/2020 to 24/12/2021)
+Learning Progress Till Now -> 382 Days (09/12/2020 to 25/12/2021)
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 381 - 390 ~ December 24, 2021 - January 02, 2022</u></summary><p>
+<details><summary><u>Day 382</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20361%20-%20380/d372e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20361%20-%20380/d372ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20361%20-%20380/d372b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d372chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d372chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d372chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d372chs5.jpg)
+- 🤨[Case study ~ "Taiwan's stock market is soaring at the tragic expense of China"](https://www.youtube.com/watch?v=Lv6A-tJubjw)
+- 👂🏻 [Watched a Youtube video "Gravitas: Why are the Chinese boycotting Walmart"](https://www.youtube.com/watch?v=3l8L11CXOMo)
+- 💰📈 [Finshots (financial news) ~ "MARKETS - Will the “bubble” finally pop in 2022?"](https://finshots.in/markets/will-the-bubble-finally-pop-in-2022/)
+- 💰📈 [Financial education ~ "Why JIO has a ₹1 Prepaid Plan 😮 #Shorts"](https://www.youtube.com/watch?v=7d-cXfavKEk)
+
+</p></details>
 <details><summary><u>Day 381</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20361%20-%20380/d371e1.jpg)
