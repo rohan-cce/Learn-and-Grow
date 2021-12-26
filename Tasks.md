@@ -1,8 +1,23 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 382 Days (09/12/2020 to 25/12/2021)
+Learning Progress Till Now -> 383 Days (09/12/2020 to 26/12/2021)
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 381 - 390 ~ December 24, 2021 - January 02, 2022</u></summary><p>
+<details><summary><u>Day 383</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20361%20-%20380/d373e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20361%20-%20380/d373ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20361%20-%20380/d373b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d373chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d373chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d373chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d373chs5.jpg)
+- 🤨[Case study ~ "How INDIGO AIRLINES became a MONOPOLY in Indian Aviation business : Monopoly series EP 3"](https://www.youtube.com/watch?v=7QOLDRY_Uk4)
+- 👂🏻 [Watched a Youtube video "Gravitas Plus: The Great Indian Brain Drain"](https://www.youtube.com/watch?v=xkkcmXIPxGw)
+- 💰📈 [Finshots (financial news) ~ "WEEKLY - ’Tis the season for shopping now and paying later?"](https://finshots.in/archive/buy-now-pay-later/)
+- 💰📈 [Financial education ~ "How Gaming became a $180,000,000,000 Industry? | Evolution of Gaming Part 1: Esports Case Study"](https://www.youtube.com/watch?v=vkrBQCQLQG0)
+</p></details>
 <details><summary><u>Day 382</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20361%20-%20380/d372e1.jpg)
