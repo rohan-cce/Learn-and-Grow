@@ -1,9 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 383 Days (09/12/2020 to 26  /12/2021)
+Learning Progress Till Now -> 384 Days (09/12/2020 to 27/12/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 381 - 390 ~ December 24, 2021 - January 02, 2022</u></summary><p>
+<details><summary><u>Day 384</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20361%20-%20380/d374e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20361%20-%20380/d374ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20361%20-%20380/d374b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d374chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d374chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d374chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d374chs5.jpg)
+- 🤨[Case study ~ "Gravitas Plus | Central Asia: New Global Turf War"](https://www.youtube.com/watch?v=8uZUWFxeRo0)
+- 👂🏻 [Watched a Youtube video "Indian Prime Minister Narendra Modi addresses the nation | Mega campaign to begin for booster doses"](https://www.youtube.com/watch?v=c1eF8KxznFs)
+- 💰📈 [Finshots (financial news) ~ "A BIT OF EVERYTHING - Finshots Recap - The best scam stories from 2021"](https://finshots.in/archive/finshots-recap-the-best-scam-stories-from-2021/)
+- 💰📈 [Financial education ~ "Printing Money is not the solution! #Shorts"](https://www.youtube.com/watch?v=23AqgtZYZS4)
+</p></details>
 <details><summary><u>Day 383</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20361%20-%20380/d373e1.jpg)
