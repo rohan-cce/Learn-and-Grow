@@ -1,5 +1,5 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 384 Days (09/12/2020 to 27/12/2021)
+Learning Progress Till Now -> 385 Days (09/12/2020 to 28/12/2021)
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 381 - 390 ~ December 24, 2021 - January 02, 2022</u></summary><p>
