@@ -1,9 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 386 Days (09/12/2020 to 29/12/2021)
+Learning Progress Till Now -> 387 Days (09/12/2020 to 30/12/2021)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 381 - 390 ~ December 24, 2021 - January 02, 2022</u></summary><p>
+<details><summary><u>Day 387</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20361%20-%20380/d377e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20361%20-%20380/d377ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20361%20-%20380/d377b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d377chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d377chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d377chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d377chs5.jpg)
+- 🤨[Case study ~ "Will we see more space tourists in 2022? | Latest World English News"](https://www.youtube.com/watch?v=6hZXZG9QsfA)
+- 👂🏻 [Watched a Youtube video "Most transmissible Covid-19 variant has the world on its toes | Latest World English News"](https://www.youtube.com/watch?v=6hZXZG9QsfA)
+- 💰📈 [Finshots (financial news) ~ "A BIT OF EVERYTHING - Finshots Recap - The best stories on policymaking from 2021"](https://finshots.in/archive/untitled-132/)
+- 💰📈 [Financial education ~ "Skimpflation #Shorts"](https://www.youtube.com/watch?v=Hlt-Kyyxk98)
+</p></details>
 <details><summary><u>Day 386</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20361%20-%20380/d376e1.jpg)
