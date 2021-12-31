@@ -1,8 +1,23 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 387 Days (09/12/2020 to 30/12/2021)
+Learning Progress Till Now -> 388 Days (09/12/2020 to 31/12/2021)
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 381 - 390 ~ December 24, 2021 - January 02, 2022</u></summary><p>
+<details><summary><u>Day 388</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20361%20-%20380/d378e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20361%20-%20380/d378ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20361%20-%20380/d378b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d378chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d378chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d378chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d378chs5.jpg)
+- 🤨[Case study ~ "Smart Glasses | Do they mean the end for smartphones"](https://www.youtube.com/watch?v=V_7rLOeG8E4)
+- 👂🏻 [Watched a Youtube video "Gravitas: China deploys "Robot Soldiers" along the border with India"](http://youtube.com/watch?v=afPbga9ooX4)
+- 💰📈 [Finshots (financial news) ~ "A BIT OF EVERYTHING - Finshots Recap - The best stories on cryptos and the metaverse from 2021"](https://finshots.in/archive/finshots-recap-the-best-stories-on-cyrptos-and-the-metaverse-from-2021/)
+- 💰📈 [Financial education ~ "sip "](https://www.youtube.com/watch?v=vd6lTbUUBo4)
+</p></details>
 <details><summary><u>Day 387</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20361%20-%20380/d377e1.jpg)
