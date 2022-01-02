@@ -1,9 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 389 Days (09/12/2020 to 01/01/2022)
+Learning Progress Till Now -> 390 Days (09/12/2020 to 02/01/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 381 - 390 ~ December 24, 2021 - January 02, 2022</u></summary><p>
+<details><summary><u>Day 390</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20361%20-%20380/d380e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/Day%20361%20-%20380/d380ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/Day%20361%20-%20380/d380b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d380chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d380chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d380chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/Day%20361%20-%20380/d380chs5.jpg)
+- 🤨[Case study ~ "Mensa's GENIUS E-Commerce strategy that made it the fastest unicorn in Indian BUSINESS HISTORY"](https://www.youtube.com/watch?v=upoKb50FiC4)
+- 👂🏻 [Watched a Youtube video "Germany extends ban on Saudi arms export by one year | World Latest English News | Top News | WION"](https://www.youtube.com/watch?v=wQuDJ6-A_-Y)
+- 💰📈 [Finshots (financial news) ~ "INFOGRAPHIC - What's the state-wise health insurance coverage in India?"](https://finshots.in/infographic/whats-the-state-wise-health-insurance-coverage-in-india/)
+- 💰📈 [Financial education ~ "Don't trust dividends! #Shorts"](https://www.youtube.com/watch?v=ns5mBhC6kU4)
+</p></details>
 <details><summary><u>Day 389</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/elevate/Day%20361%20-%20380/d379e1.jpg)
