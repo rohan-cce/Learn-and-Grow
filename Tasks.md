@@ -1,7 +1,28 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 390 Days (09/12/2020 to 02/01/2022)
+Learning Progress Till Now -> 391 Days (09/12/2020 to 03/01/2022)
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
+<details><summary><u>Day 391 - 400 ~ January 03, 2022 - January 12, 2022</u></summary><p>
+<details><summary><u>Day 391</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d381chs1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d381ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d381b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d381chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d381chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d381chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d381chs5.jpg)
+- 📑 Blogs Read
+  - 📑[INVESTING - Five Most Important Investment Decisions of Life](https://medium.com/illumination-curated/five-most-important-investment-decisions-of-life-d74253a9a517)
+- 🤨[Case study ~ "Food shortages feared in the UK as new Brexit custom rules for goods from EU taking effect | WION"](https://www.youtube.com/watch?v=hC6VOab11m4)
+- 👂🏻 [Watched a Youtube video "Trade pact between United States, China expires | Latest English News | World News | WION"](https://www.youtube.com/watch?v=v8ik-vydRn4)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - The end of LIBOR"](https://finshots.in/archive/the-end-of-libor/)
+- 💰📈 [Financial education ~ "EPS increases BUT Profit DOES NOT? #Shorts"](https://www.youtube.com/watch?v=8Z9ZycXCH8k)
+
+</p></details>
+</p></details>
+
 <details><summary><u>Day 381 - 390 ~ December 24, 2021 - January 02, 2022</u></summary><p>
 <details><summary><u>Day 390</u></summary><p>
 
