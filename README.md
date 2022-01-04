@@ -1,9 +1,30 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 391 Days (09/12/2020 to 03/01/2022)
+Learning Progress Till Now -> 392 Days (09/12/2020 to 04/01/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 391 - 400 ~ January 03, 2022 - January 12, 2022</u></summary><p>
+<details><summary><u>Day 392</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d382chs1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d382ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d382b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d382chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d382chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d382chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d382chs5.jpg)
+- 📑 Blogs Read
+  - 📑[Are You Saving Too Much Money?](https://dariusforoux.medium.com/are-you-saving-too-much-money-4fa8b0784340)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+- 🏃 [Walking -> 10269 Steps ~ 4.63 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/from%20day%20381/d382walking.jpg)
+- 🤨[Case study ~ "Gravitas: Paneer is trending on social media. Here is why"](https://www.youtube.com/watch?v=uvhF37C9RG4)
+- 👂🏻 [Watched a Youtube video "Sri Lanka grapples with high inflation, will the island nation go for an IMF bailout? | World News"](https://www.youtube.com/watch?v=cYKHxUvLWTU)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - When Distributors revolt"](https://finshots.in/archive/when-distributors-revolt/)
+- 💰📈 [Financial education ~ "Dividend = Loss"](https://www.youtube.com/watch?v=APbWnHAmx6Q)
+
+</p></details>
 <details><summary><u>Day 391</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d381chs1.jpg)
@@ -16,6 +37,10 @@ Learning Progress Till Now -> 391 Days (09/12/2020 to 03/01/2022)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d381chs5.jpg)
 - 📑 Blogs Read
   - 📑[INVESTING - Five Most Important Investment Decisions of Life](https://medium.com/illumination-curated/five-most-important-investment-decisions-of-life-d74253a9a517)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+- ✔️ LeetCode
+  - ✔️ [Completed 6 problems in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d391leetcode.jpg)
 - 🤨[Case study ~ "Food shortages feared in the UK as new Brexit custom rules for goods from EU taking effect | WION"](https://www.youtube.com/watch?v=hC6VOab11m4)
 - 👂🏻 [Watched a Youtube video "Trade pact between United States, China expires | Latest English News | World News | WION"](https://www.youtube.com/watch?v=v8ik-vydRn4)
 - 💰📈 [Finshots (financial news) ~ "BUSINESS - The end of LIBOR"](https://finshots.in/archive/the-end-of-libor/)
