@@ -1,8 +1,30 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 393 Days (09/12/2020 to 05/01/2022)
+Learning Progress Till Now -> 394 Days (09/12/2020 to 06/01/2022)
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 391 - 400 ~ January 03, 2022 - January 12, 2022</u></summary><p>
+<details><summary><u>Day 394</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d384chs1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d384ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d384b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d384chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d384chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d384chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d384chs5.jpg)
+- 📑 Blogs Read
+  - 📑[Model Mutual Fund Portfolio for Working/ Salaried People — Holy Grail Part III](https://medium.com/coinmonks/model-mutual-fund-portfolio-for-working-salaried-people-holy-grail-part-iii-d65ef6306488)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+- ✔️ LeetCode
+  - ✔️ [Completed 1 problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d394leetcode.jpg)
+- 🤨[Case study ~ "Indian Government's MASTERPLAN to take control of the SEMICONDUCTOR CRISIS by beating China"](https://www.youtube.com/watch?v=cQotN8sAhSM)
+- 👂🏻 [Watched a Youtube video "Gravitas: Plant-based meat is taking over menus globally"](https://www.youtube.com/watch?v=uyXoJTj4vrQ)
+- 💰📈 [Finshots (financial news) ~ "POLICY - No internet, No cash, No problem"](https://finshots.in/archive/no-internet-no-cash-no-problem/)
+- 💰📈 [Financial education ~ "Mistakes while Buying Term Insurance Plan | Reality of Term Life Insurance Policy"](https://www.youtube.com/watch?v=UffI1w7a4G0)
+
+</p></details>
 <details><summary><u>Day 393</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d383chs1.jpg)
@@ -17,6 +39,8 @@ Learning Progress Till Now -> 393 Days (09/12/2020 to 05/01/2022)
   - 📑[Model Mutual Fund Portfolio](https://medium.com/coinmonks/model-mutual-fund-portfolio-holy-grail-part-ii-589197325167)
 - 📖📈 Book reading
   - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+- ✔️ LeetCode
+  - ✔️ [Completed 1 problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d393leetcode.jpg)
 - 🤨[Case study ~ "How to Cancel Traffic Police Challan? | Know Your Legal Rights | Traffic Rules to Avoid Challan"](https://www.youtube.com/watch?v=fbKWuaQdUOc)
 - 👂🏻 [Watched a Youtube video "Gravitas: Your Blackberry phones will stop working today"](https://www.youtube.com/watch?v=SMVMBnSn0nw)
 - 💰📈 [Finshots (financial news) ~ "BUSINESS - How Tesla beat the chip shortage"](https://finshots.in/archive/how-tesla-beat-the-chip-shortage/)
