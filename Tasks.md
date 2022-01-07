@@ -1,8 +1,28 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 394 Days (09/12/2020 to 06/01/2022)
+Learning Progress Till Now -> 395 Days (09/12/2020 to 07/01/2022)
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 391 - 400 ~ January 03, 2022 - January 12, 2022</u></summary><p>
+<details><summary><u>Day 395</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d385chs1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d385ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d385b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d385chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d385chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d385chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d385chs5.jpg)
+- 📑 Blogs Read
+  - 📑[This 26-Year-Old Dropout Is Already Running a $4 Billion Company](https://entrepreneurshandbook.co/this-26-year-old-dropout-is-already-running-a-4-billion-company-ed3dd913c641)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+- 🤨[Case study ~ "Caught in the middle #Shorts"](https://www.youtube.com/watch?v=QiP4oVVatIo)
+- 👂🏻 [Watched a Youtube video "Does 5G pose a threat to airline safety? | Flights | 5G Frequencies | World Latest English News"](https://www.youtube.com/watch?v=ZDn_RZVwFO4)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - The rise and fall of Theranos!"](https://finshots.in/archive/the-rise-and-fall-of-theranos/)
+- 💰📈 [Financial education ~ "You don't know this about PPF #Shorts"](https://www.youtube.com/watch?v=oGOG8dX95UU)
+
+</p></details>
 <details><summary><u>Day 394</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d384chs1.jpg)
@@ -17,8 +37,6 @@ Learning Progress Till Now -> 394 Days (09/12/2020 to 06/01/2022)
   - 📑[Model Mutual Fund Portfolio for Working/ Salaried People — Holy Grail Part III](https://medium.com/coinmonks/model-mutual-fund-portfolio-for-working-salaried-people-holy-grail-part-iii-d65ef6306488)
 - 📖📈 Book reading
   - 📖 Read 1 page in the book "365 Days With Self-Discipline"
-- ✔️ LeetCode
-  - ✔️ [Completed 1 problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d394leetcode.jpg)
 - 🤨[Case study ~ "Indian Government's MASTERPLAN to take control of the SEMICONDUCTOR CRISIS by beating China"](https://www.youtube.com/watch?v=cQotN8sAhSM)
 - 👂🏻 [Watched a Youtube video "Gravitas: Plant-based meat is taking over menus globally"](https://www.youtube.com/watch?v=uyXoJTj4vrQ)
 - 💰📈 [Finshots (financial news) ~ "POLICY - No internet, No cash, No problem"](https://finshots.in/archive/no-internet-no-cash-no-problem/)
