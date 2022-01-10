@@ -1,8 +1,31 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 397 Days (09/12/2020 to 09/01/2022)
+Learning Progress Till Now -> 398 Days (09/12/2020 to 10/01/2022)
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 391 - 400 ~ January 03, 2022 - January 12, 2022</u></summary><p>
+<details><summary><u>Day 398</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d388chs1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d388ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d388b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d388chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d388chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d388chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d388chs5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed 1 problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d398leetcode.jpg)
+- 📑 Blogs Read
+  - 📑[What if You Could Turn Your Biggest Competitor Into Your Competitive Advantage](https://medium.com/swlh/what-if-you-could-turn-your-biggest-competitor-into-your-competitive-advantage-8be5f4dd930)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 2 page in the book "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness" by Morgon Housel
+- 🤨[Case study ~ "Gravitas Plus: How Big Pharma pushes dangerous drugs and reaps profits"](https://www.youtube.com/watch?v=XCciAJJMt9Q)
+- 👂🏻 [Watched a Youtube video "India's first indegenous made aircraft carrier IAC Vikrant sets sail in third phase of trials"](https://www.youtube.com/watch?v=jZapN_FO-nE)
+- 💰📈 [Finshots (financial news) ~ "Google vs Indian News Media — The Battle Begins"](https://finshots.in/archive/news-publishers-attack-google/)
+- 💰📈 [Financial education ~ "Is Apple bigger than India #Short"](https://www.youtube.com/watch?v=6Gz1csM0IlE)
+
+</p></details>
 <details><summary><u>Day 397</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d387chs1.jpg)
