@@ -1,8 +1,29 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 401 Days (09/12/2020 to 13/01/2022)
+Learning Progress Till Now -> 402 Days (09/12/2020 to 14/01/2022)
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 04,2022</summary><p>
 <details><summary><u>Day 401 - Day 410 ~ January 13, 2022 - January 22, 2022</u></summary><p>
+<details><summary><u>Day 402</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d392chs1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d392ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d392b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d392chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d392chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d392chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d392chs5.jpg)
+- 📑 Blogs Read
+  - 📑[I Analyzed What 250 Millionaires Do for a Living — Here Are the Results](https://entrepreneurshandbook.co/i-analyzed-what-250-millionaires-do-for-a-living-here-are-the-results-65ae8a784f65)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 5 page in the book "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness" by Morgon Housel
+- 🤨[Case study ~ "How This Electricity-Free Fridge Saved An Indian Ceramics Factory | Big Business"](https://www.youtube.com/watch?v=WPYzV64dUuU)
+- 👂🏻 [Watched a Youtube video "Gravitas: Tesla in India? Musk cites roadblocks"](https://www.youtube.com/watch?v=SIJMV9qlXTY)
+- 💰📈 [Finshots (financial news) ~ "POLICY - The Final Piece in the 5G puzzle"](https://finshots.in/archive/the-final-piece-in-the-5g-puzzle/)
+- 💰📈 [Financial education ~ "Calculated the Returns | Gold vs Digital Gold vs SGB vs ETF"](https://www.youtube.com/watch?v=UcXeVBMbC_E)
+
+</p></details>
 <details><summary><u>Day 401</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d391chs1.jpg)
