@@ -18,7 +18,6 @@ Learning Progress Till Now -> 402 Days (09/12/2020 to 14/01/2022)
   - 📑[I Analyzed What 250 Millionaires Do for a Living — Here Are the Results](https://entrepreneurshandbook.co/i-analyzed-what-250-millionaires-do-for-a-living-here-are-the-results-65ae8a784f65)
 - 📖📈 Book reading
   - 📖 Read 1 page in the book "365 Days With Self-Discipline"
-  - 📖 Read 5 page in the book "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness" by Morgon Housel
 - 🤨[Case study ~ "How This Electricity-Free Fridge Saved An Indian Ceramics Factory | Big Business"](https://www.youtube.com/watch?v=WPYzV64dUuU)
 - 👂🏻 [Watched a Youtube video "Gravitas: Tesla in India? Musk cites roadblocks"](https://www.youtube.com/watch?v=SIJMV9qlXTY)
 - 💰📈 [Finshots (financial news) ~ "POLICY - The Final Piece in the 5G puzzle"](https://finshots.in/archive/the-final-piece-in-the-5g-puzzle/)
@@ -39,7 +38,6 @@ Learning Progress Till Now -> 402 Days (09/12/2020 to 14/01/2022)
   - 📑[Electric Cars Are Weirdly Skeuomorphic](https://onezero.medium.com/electric-cars-are-weirdly-skeuomorphic-421bf6c03f0f)
 - 📖📈 Book reading
   - 📖 Read 1 page in the book "365 Days With Self-Discipline"
-  - 📖 Read 5 page in the book "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness" by Morgon Housel
 - 🤨[Case study ~ "SEZ - What's the benefit for India? #Shorts"](https://finshots.in/archive/the-indian-government-owns-vi/)
 - 👂🏻 [Watched a Youtube video "IIT Madras in the South Indian city of Chennai is witnessing the highest ever job placement offers"](https://www.youtube.com/watch?v=YW0dSHHOxzY)
 - 💰📈 [Finshots (financial news) ~ "BUSINESS - The Indian government owns Vi"](https://finshots.in/archive/the-indian-government-owns-vi/)
@@ -49,6 +47,7 @@ Learning Progress Till Now -> 402 Days (09/12/2020 to 14/01/2022)
 </p></details>
 </p></details>
 
+>"Problems are not stop signs, they are guidelines. Robert Schuller"
 
 <details><summary>Day 351 - 400 ~ November 24, 2021 - January 12, 2022</summary><p>
 <details><summary><u>Day 391 - 400 ~ January 03, 2022 - January 12, 2022</u></summary><p>
@@ -66,7 +65,6 @@ Learning Progress Till Now -> 402 Days (09/12/2020 to 14/01/2022)
   - 📑[How To Build a Passive Income with PancakeSwap](https://medium.com/coinmonks/how-to-build-a-passive-income-with-pancakeswap-9afaeabac234)
 - 📖📈 Book reading
   - 📖 Read 1 page in the book "365 Days With Self-Discipline"
-  - 📖 Read 5 page in the book "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness" by Morgon Housel
 - 🤨[Case study ~ "How JOCKEY's STRATEGY made it a MULTIBAGGER with 14,000% returns? | Page Industries Case Study"](https://www.youtube.com/watch?v=M9L72ssQAmU)
 - 👂🏻 [Watched a Youtube video "Gravitas: Pig's heart transplanted into a human"](https://www.youtube.com/watch?v=SxvxUdPeH7k)
 - 💰📈 [Finshots (financial news) ~ "BUSINESS - Google’s tiny radars"](https://finshots.in/archive/googles-tiny-radars/)
@@ -916,6 +914,8 @@ Learning Progress Till Now -> 402 Days (09/12/2020 to 14/01/2022)
 </p></details>
 </p></details>
 </p></details>
+
+>"Staying positive doesn’t mean you have to be happy all the time. It means that even on the hard days you know better ones are coming."
 
 <details><summary>Day 301 - 350 ~ October 05, 2021 - November 23, 2021</summary><p>
 <details><summary><u>Day 341 - 350 ~ November 14, 2021 - November 23, 2021</u></summary><p>
