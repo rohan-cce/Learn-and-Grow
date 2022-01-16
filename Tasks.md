@@ -1,8 +1,29 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 403 Days (09/12/2020 to 15/01/2022)
+Learning Progress Till Now -> 404 Days (09/12/2020 to 16/01/2022)
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 04,2022</summary><p>
 <details><summary><u>Day 401 - Day 410 ~ January 13, 2022 - January 22, 2022</u></summary><p>
+<details><summary><u>Day 404</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d394chs1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d394ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d394b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d394chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d394chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d394chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d394chs5.jpg)
+- 📑 Blogs Read
+  - 📑[Lonely? So Many Are. Here’s What to Do](https://elemental.medium.com/lonely-heres-what-to-do-e82f5262518f)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 5 page in the book "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness" by Morgon Housel
+- 🤨[Case study ~ "How iPhone is Killing Apple? What is Tim Cook's STRATEGY to fix it? : Business case study"](https://www.youtube.com/watch?v=C2tjnJOy7Hw)
+- 👂🏻 [Watched a Youtube video "Tonga Underwater Volcano Eruption: Full extent of the damage remains unclear | Felt around the world"](https://www.youtube.com/watch?v=kPK8XqycK9g)
+- 💰📈 [Finshots (financial news) ~ "A BIT OF EVERYTHING - Finshots Money Resolution #2: Budget + You = BFF"](https://finshots.in/archive/finshots-money-resolution-2-budget-you-bff/)
+- 💰📈 [Financial education ~ "Companies do this all the time #Shorts"](https://www.youtube.com/watch?v=dJfpO-YO3tc)
+
+</p></details>
 <details><summary><u>Day 403</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d393chs1.jpg)
@@ -17,7 +38,6 @@ Learning Progress Till Now -> 403 Days (09/12/2020 to 15/01/2022)
   - 📑[All You Need to Know About DeFi Flash Loans](https://medium.com/coinmonks/all-you-need-to-know-about-defi-flash-loans-ca0ff4592d90)
 - 📖📈 Book reading
   - 📖 Read 1 page in the book "365 Days With Self-Discipline"
-  - 📖 Read 5 page in the book "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness" by Morgon Housel
 - 🤨[Case study ~ "Will India get a CAATSA waiver after purchasing the S-400 air defense missile system from Russia?"](https://www.youtube.com/watch?v=j-_kewEer1I)
 - 👂🏻 [Watched a Youtube video "Gravitas: The Philippines to buy India’s BrahMos missile"](https://www.youtube.com/watch?v=HUXtDxsaOUM)
 - 💰📈 [Finshots (financial news) ~ "INFOGRAPHIC - Which are India's top export destinations?"](https://finshots.in/infographic/which-are-indias-top-export-destinations/)
@@ -123,7 +143,7 @@ Learning Progress Till Now -> 403 Days (09/12/2020 to 15/01/2022)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d388chs3.jpg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d388chs5.jpg)
 - ✔️ LeetCode
-  - ✔️ [Completed 1 problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d398leetcode.jpg)
+  - ✔️ [Completed 1 problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d388leetcode.jpg)
 - 📑 Blogs Read
   - 📑[What if You Could Turn Your Biggest Competitor Into Your Competitive Advantage](https://medium.com/swlh/what-if-you-could-turn-your-biggest-competitor-into-your-competitive-advantage-8be5f4dd930)
 - 📖📈 Book reading
@@ -146,7 +166,7 @@ Learning Progress Till Now -> 403 Days (09/12/2020 to 15/01/2022)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d387chs3.jpg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d387chs5.jpg)
 - ✔️ LeetCode
-  - ✔️ [Completed 1 problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d397leetcode.jpg)
+  - ✔️ [Completed 1 problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d387leetcode.jpg)
 - 📑 Blogs Read
   - 📑[5 Reasons to Become Blockchain Developer in 2022](https://medium.com/coinmonks/5-reasons-to-become-blockchain-developer-in-2022-e5e7148bcd83)
 - 📖📈 Book reading
@@ -169,7 +189,7 @@ Learning Progress Till Now -> 403 Days (09/12/2020 to 15/01/2022)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d386chs3.jpg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d386chs5.jpg)
 - ✔️ LeetCode
-  - ✔️ [Completed 1 problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d396leetcode.jpg)
+  - ✔️ [Completed 1 problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d386leetcode.jpg)
 - 📑 Blogs Read
   - 📑[How Airbnb Supports Co-Hosting](https://medium.com/airbnb-engineering/how-airbnb-supports-co-hosting-edfb11d88575)
 - 📖📈 Book reading
@@ -196,7 +216,7 @@ Learning Progress Till Now -> 403 Days (09/12/2020 to 15/01/2022)
 - 📖📈 Book reading
   - 📖 Read 1 page in the book "365 Days With Self-Discipline"
 - ✔️ LeetCode
-  - ✔️ [Completed 1 problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d395leetcode.jpg)
+  - ✔️ [Completed 1 problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d385leetcode.jpg)
 - 🤨[Case study ~ "Caught in the middle #Shorts"](https://www.youtube.com/watch?v=QiP4oVVatIo)
 - 👂🏻 [Watched a Youtube video "Does 5G pose a threat to airline safety? | Flights | 5G Frequencies | World Latest English News"](https://www.youtube.com/watch?v=ZDn_RZVwFO4)
 - 💰📈 [Finshots (financial news) ~ "BUSINESS - The rise and fall of Theranos!"](https://finshots.in/archive/the-rise-and-fall-of-theranos/)
@@ -238,7 +258,7 @@ Learning Progress Till Now -> 403 Days (09/12/2020 to 15/01/2022)
 - 📖📈 Book reading
   - 📖 Read 1 page in the book "365 Days With Self-Discipline"
 - ✔️ LeetCode
-  - ✔️ [Completed 1 problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d393leetcode.jpg)
+  - ✔️ [Completed 1 problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d383leetcode.jpg)
 - 🤨[Case study ~ "How to Cancel Traffic Police Challan? | Know Your Legal Rights | Traffic Rules to Avoid Challan"](https://www.youtube.com/watch?v=fbKWuaQdUOc)
 - 👂🏻 [Watched a Youtube video "Gravitas: Your Blackberry phones will stop working today"](https://www.youtube.com/watch?v=SMVMBnSn0nw)
 - 💰📈 [Finshots (financial news) ~ "BUSINESS - How Tesla beat the chip shortage"](https://finshots.in/archive/how-tesla-beat-the-chip-shortage/)
@@ -261,7 +281,7 @@ Learning Progress Till Now -> 403 Days (09/12/2020 to 15/01/2022)
   - 📖 Read 1 page in the book "365 Days With Self-Discipline"
 - 🏃 [Walking -> 10269 Steps ~ 4.63 km (Physical activity)](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/walking/from%20day%20381/d382walking.jpg)
 - ✔️ LeetCode
-  - ✔️ [Completed 1 problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d392leetcode.jpg)
+  - ✔️ [Completed 1 problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d382leetcode.jpg)
 - 🤨[Case study ~ "Gravitas: Paneer is trending on social media. Here is why"](https://www.youtube.com/watch?v=uvhF37C9RG4)
 - 👂🏻 [Watched a Youtube video "Sri Lanka grapples with high inflation, will the island nation go for an IMF bailout? | World News"](https://www.youtube.com/watch?v=cYKHxUvLWTU)
 - 💰📈 [Finshots (financial news) ~ "BUSINESS - When Distributors revolt"](https://finshots.in/archive/when-distributors-revolt/)
@@ -283,7 +303,7 @@ Learning Progress Till Now -> 403 Days (09/12/2020 to 15/01/2022)
 - 📖📈 Book reading
   - 📖 Read 1 page in the book "365 Days With Self-Discipline"
 - ✔️ LeetCode
-  - ✔️ [Completed 6 problems in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d391leetcode.jpg)
+  - ✔️ [Completed 6 problems in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d381leetcode.jpg)
 - 🤨[Case study ~ "Food shortages feared in the UK as new Brexit custom rules for goods from EU taking effect | WION"](https://www.youtube.com/watch?v=hC6VOab11m4)
 - 👂🏻 [Watched a Youtube video "Trade pact between United States, China expires | Latest English News | World News | WION"](https://www.youtube.com/watch?v=v8ik-vydRn4)
 - 💰📈 [Finshots (financial news) ~ "BUSINESS - The end of LIBOR"](https://finshots.in/archive/the-end-of-libor/)
