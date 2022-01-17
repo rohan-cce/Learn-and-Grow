@@ -1,9 +1,30 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 404 Days (09/12/2020 to 16/01/2022)
+Learning Progress Till Now -> 405 Days (09/12/2020 to 17/01/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 04,2022</summary><p>
 <details><summary><u>Day 401 - Day 410 ~ January 13, 2022 - January 22, 2022</u></summary><p>
+<details><summary><u>Day 405</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d395chs1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d395ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d395b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d395chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d395chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d395chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d395chs5.jpg)
+- 📑 Blogs Read
+  - 📑[5 Noble Questions That’ll Help Defend Your Time](https://medium.com/swlh/5-noble-questions-thatll-help-defend-your-time-e56fa31c4dd5)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 6 page in the book "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness" by Morgon Housel
+- 🤨[Case study ~ "All-electric plane sets 3 new world records](https://www.youtube.com/watch?v=kviG5HzIFVI)
+- 👂🏻 [Watched a Youtube video "Opening up for our sector is a priority: Dr S Somanath, Chairman, ISRO | Space News | India"](https://www.youtube.com/watch?v=ggAT0FWbSxM)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - The biggest deal in gaming, ever"](https://finshots.in/archive/take-two-acquired-zynga/)
+- 💰📈 [Financial education ~ "50% tax on cars #Shorts"](https://www.youtube.com/watch?v=zymFrs0Bx5Q)
+
+</p></details>
 <details><summary><u>Day 404</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d394chs1.jpg)
