@@ -1,8 +1,29 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 405 Days (09/12/2020 to 17/01/2022)
+Learning Progress Till Now -> 406 Days (09/12/2020 to 18/01/2022)
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 04,2022</summary><p>
 <details><summary><u>Day 401 - Day 410 ~ January 13, 2022 - January 22, 2022</u></summary><p>
+<details><summary><u>Day 406</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d396chs1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d396ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d396b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d396chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d396chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d396chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d396chs5.jpg)
+- 📑 Blogs Read
+  - 📑[How Your Emotions Decide Your Fate](https://elemental.medium.com/how-your-emotions-decide-your-fate-55cebdad708d)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 6 page in the book "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness" by Morgon Housel
+- 🤨[Case study ~ "India to make first unit of Russia-made S-400 missile defence system operational from April | WION"](https://www.youtube.com/watch?v=TP3ZlMw-btE)
+- 👂🏻 [Watched a Youtube video "Gravitas: Indian states woo Elon Musk"](https://www.youtube.com/watch?v=smlE1sJj-Zo)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Thrasio is locking horns with its Indian clones"](https://finshots.in/archive/thrasio-is-locking-horns-with-its-indian-clones/)
+- 💰📈 [Financial education ~ "Stop paying Carry Bag Charges? #Shorts"](https://www.youtube.com/watch?v=6cp5Mokcpy0)
+
+</p></details>
 <details><summary><u>Day 405</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d395chs1.jpg)
