@@ -1,8 +1,29 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 407 Days (09/12/2020 to 19/01/2022)
+Learning Progress Till Now -> 408 Days (09/12/2020 to 20/01/2022)
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 04,2022</summary><p>
 <details><summary><u>Day 401 - Day 410 ~ January 13, 2022 - January 22, 2022</u></summary><p>
+<details><summary><u>Day 408</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d398chs1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d398ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d398b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d398chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d398chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d398chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d398chs5.jpg)
+- 📑 Blogs Read
+  - 📑[Why haven’t we seen hyperinflation?](https://medium.com/coinmonks/why-havent-we-seen-hyperinflation-881785060584)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 6 page in the book "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness" by Morgon Housel
+- 🤨[Case study ~ "Gravitas: Group of scientists oppose dimming the sun's rays"](https://www.youtube.com/watch?v=5RGAKZAhhYQ)
+- 👂🏻 [Watched a Youtube video "Major airlines scramble to rejig schedules amid US 5G rollout| How serious is the threat to flights?"](https://www.youtube.com/watch?v=AVexkcoHNRw)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Ola isn’t off to an Electric start"](https://finshots.in/archive/ola-isnt-off-to-an-electric-start/)
+- 💰📈 [Financial education ~ "Why Netflix is funding Amazon Prime Videos #Shorts"](https://www.youtube.com/watch?v=VEBOCbJF8uM)
+
+</p></details>
 <details><summary><u>Day 407</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d397chs1.jpg)
