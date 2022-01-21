@@ -1,9 +1,30 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 408 Days (09/12/2020 to 20/01/2022)
+Learning Progress Till Now -> 409 Days (09/12/2020 to 21/01/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 04,2022</summary><p>
 <details><summary><u>Day 401 - Day 410 ~ January 13, 2022 - January 22, 2022</u></summary><p>
+<details><summary><u>Day 409</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d399chs1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d399ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d399b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d399chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d399chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d399chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d399chs5.jpg)
+- 📑 Blogs Read
+  - 📑[Before You Chase Your Passions, Chase Reality With A 9–5 Job](https://medium.com/swlh/before-you-chase-your-passions-chase-reality-with-a-9-5-job-635a499f6418)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 6 page in the book "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness" by Morgon Housel
+- 🤨[Case study ~ "Russian cosmonauts embark on lengthy spacewalk to outfit lab module to space station | WION Shorts"](https://www.youtube.com/watch?v=UNsznrLRASo)
+- 👂🏻 [Watched a Youtube video "Major international airlines restore flight to US after 5G confusion | Latest English News | WION"](https://www.youtube.com/watch?v=mKh3z3rrP5A)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Microsoft's $68 billion acquisition"](https://finshots.in/archive/the-best-deal-in-gaming-just-got-better/)
+- 💰📈 [Financial education ~ "How to invest in this revolutionary tech?"](https://www.youtube.com/watch?v=dy-ISjr1Wgk)
+
+</p></details>
 <details><summary><u>Day 408</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d398chs1.jpg)
@@ -14,6 +35,8 @@ Learning Progress Till Now -> 408 Days (09/12/2020 to 20/01/2022)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d398chs2.jpg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d398chs3.jpg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d398chs5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed 1 problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d398leetcode.jpg)
 - 📑 Blogs Read
   - 📑[Why haven’t we seen hyperinflation?](https://medium.com/coinmonks/why-havent-we-seen-hyperinflation-881785060584)
 - 📖📈 Book reading
