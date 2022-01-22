@@ -1,9 +1,30 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 409 Days (09/12/2020 to 21/01/2022)
+Learning Progress Till Now -> 410 Days (09/12/2020 to 22/01/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 04,2022</summary><p>
 <details><summary><u>Day 401 - Day 410 ~ January 13, 2022 - January 22, 2022</u></summary><p>
+<details><summary><u>Day 410</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d400chs1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d400ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d400b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d400chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d400chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d400chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d400chs5.jpg)
+- 📑 Blogs Read
+  - 📑[Cardano Will Be Unpurchaseable. NO ONE Will Be Able To Buy ADA After THIS!](https://medium.com/coinmonks/cardano-will-be-unpurchaseable-no-one-will-be-able-to-buy-ada-after-this-1c9d4f0db438)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 6 page in the book "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness" by Morgon Housel
+- 🤨[Case study ~ "Gravitas | Insider trading: US senators making millions"](https://www.youtube.com/watch?v=85_gYhc_gJw)
+- 👂🏻 [Watched a Youtube video "Austria becomes first European country to make Covid-19 vaccination mandatory for adults| World News"](https://www.youtube.com/watch?v=85_gYhc_gJw)
+- 💰📈 [Finshots (financial news) ~ "MARKETS - What’s brewing at Café Coffee Day?"](https://finshots.in/markets/whats-brewing-at-cafe-coffee-day/)
+- 💰📈 [Financial education ~ "How to Claim HRA without Rent? #Shorts"](https://www.youtube.com/watch?v=0MZyqeld_UI)
+
+</p></details>
 <details><summary><u>Day 409</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d399chs1.jpg)
