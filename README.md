@@ -1,8 +1,28 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 410 Days (09/12/2020 to 22/01/2022)
+Learning Progress Till Now -> 411 Days (09/12/2020 to 23/01/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 04,2022</summary><p>
+<details><summary><u>Day 411 - Day 420 ~ January 23, 2022 - February 01, 2022</u></summary><p>
+<details><summary><u>Day 411</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d401chs1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d401ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d401b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d401chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d401chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d401chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d401chs5.jpg)
+- 📑 Blogs Read
+  - 📑[Nine Requests of Your Time to Say “No” to in 2022](https://medium.com/swlh/nine-requests-of-your-time-to-say-no-to-in-2022-d7708fce4e4b)
+- 🤨[Case study ~ "How does CRED make money? #Shorts"](https://www.youtube.com/watch?v=T32SDoEdw3Q)
+- 👂🏻 [Watched a Youtube video "Madras High Court to government: Can social media firms be treated as accused in criminal cases?"](https://www.youtube.com/watch?v=FEV33cPfDIE)
+- 💰📈 [Finshots (financial news) ~ "A BIT OF EVERYTHING - Finshots Money Resolution #3 - Breaking the income barrier"](https://finshots.in/archive/finshots-money-resolution-3-breaking-the-income-barrier/)
+- 💰📈 [Financial education ~ "Investing in Mutual Funds? Don't make these 5 blunders | Money-Minded Mandeep"](https://www.youtube.com/watch?v=Uf7-g6agJxk)
+
+</p></details>
+</p></details>
 <details><summary><u>Day 401 - Day 410 ~ January 13, 2022 - January 22, 2022</u></summary><p>
 <details><summary><u>Day 410</u></summary><p>
 
@@ -14,6 +34,8 @@ Learning Progress Till Now -> 410 Days (09/12/2020 to 22/01/2022)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d400chs2.jpg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d400chs3.jpg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d400chs5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed 2 problems in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d400leetcode.jpg)
 - 📑 Blogs Read
   - 📑[Cardano Will Be Unpurchaseable. NO ONE Will Be Able To Buy ADA After THIS!](https://medium.com/coinmonks/cardano-will-be-unpurchaseable-no-one-will-be-able-to-buy-ada-after-this-1c9d4f0db438)
 - 📖📈 Book reading
