@@ -1,9 +1,27 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 411 Days (09/12/2020 to 23/01/2022)
+Learning Progress Till Now -> 412 Days (09/12/2020 to 24/01/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 04,2022</summary><p>
 <details><summary><u>Day 411 - Day 420 ~ January 23, 2022 - February 01, 2022</u></summary><p>
+<details><summary><u>Day 412</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d402chs1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d402ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d402b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d402chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d402chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d402chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d402chs5.jpg)
+- 📑 Blogs Read
+  - 📑[5 Things You Need to Know About yearn.finance (YFI)](https://medium.com/coinmonks/5-things-you-need-to-know-about-yearn-finance-yfi-56017b2bcccd)
+- 🤨[Case study ~ "Is reinfection easier with some variants? "](https://www.youtube.com/watch?v=tucUlusvnu8)
+- 👂🏻 [Watched a Youtube video "New Zealand distributes life-saving supplies to disaster-hit Tonga | Volcanic Eruption | WION"](https://www.youtube.com/watch?v=0BsprjBU4Uk)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - The Netflix crash"](https://finshots.in/archive/the-netflix-crash/)
+- 💰📈 [Financial education ~ "This bank is not safe #Shorts"](https://www.youtube.com/watch?v=15TVhu-IN9w)
+
+</p></details>
 <details><summary><u>Day 411</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d401chs1.jpg)
@@ -14,6 +32,8 @@ Learning Progress Till Now -> 411 Days (09/12/2020 to 23/01/2022)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d401chs2.jpg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d401chs3.jpg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d401chs5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed 3 problems in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d401leetcode.jpg)
 - 📑 Blogs Read
   - 📑[Nine Requests of Your Time to Say “No” to in 2022](https://medium.com/swlh/nine-requests-of-your-time-to-say-no-to-in-2022-d7708fce4e4b)
 - 🤨[Case study ~ "How does CRED make money? #Shorts"](https://www.youtube.com/watch?v=T32SDoEdw3Q)
