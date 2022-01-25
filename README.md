@@ -1,9 +1,27 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 412 Days (09/12/2020 to 24/01/2022)
+Learning Progress Till Now -> 413 Days (09/12/2020 to 25/01/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 04,2022</summary><p>
 <details><summary><u>Day 411 - Day 420 ~ January 23, 2022 - February 01, 2022</u></summary><p>
+<details><summary><u>Day 413</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d403chs1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d403ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d403b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d403chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d403chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d403chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d403chs5.jpg)
+- 📑 Blogs Read
+  - 📑[3 Traits You Need to Develop to Be a Successful First-Time Founder](https://entrepreneurshandbook.co/3-traits-you-need-to-develop-to-be-a-successful-first-time-founder-17d2056b5575)
+- 🤨[Case study ~ "Part of history flying again: restored WWII Spitfire up for auction"](https://www.youtube.com/watch?v=cvnOcRD19Oo)
+- 👂🏻 [Watched a Youtube video "Things you must know before entering in your 30s"](https://www.youtube.com/watch?v=FyUfbl5Qv0E)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - A Finshots special on how 5G caused mass flight cancellation in the US"](https://finshots.in/archive/how-5g-caused-mass-flight-cancellation-in-the-us/)
+- 💰📈 [Financial education ~ "Buy Vs Rent, What's better? #Shorts"](https://www.youtube.com/watch?v=InsZvpkMDKQ)
+
+</p></details>
 <details><summary><u>Day 412</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d402chs1.jpg)
