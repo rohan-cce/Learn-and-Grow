@@ -1,9 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 414 Days (09/12/2020 to 26/01/2022)
+Learning Progress Till Now -> 415 Days (09/12/2020 to 27/01/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 04,2022</summary><p>
 <details><summary><u>Day 411 - Day 420 ~ January 23, 2022 - February 01, 2022</u></summary><p>
+<details><summary><u>Day 415</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d405chs1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d405ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d405b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d405chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d405chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d405chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d405chs5.jpg)
+- 🤨[Case study ~ "The Cleanest Cities Of India | Ep-6 | Kumbakonam uses its plastic waste as fuel in cement factories"](https://www.youtube.com/watch?v=XKYOb7U7FgM)
+- 👂🏻 [Watched a Youtube video "US issues Level-3 travel advisory for its citizens considering travelling to India | English News"](https://www.youtube.com/watch?v=sreaZwqYH_o)
+- 💰📈 [Finshots (financial news) ~ "ECONOMY - What is the Union Budget and how is it made?"](https://finshots.in/archive/what-is-the-union-budget/)
+- 💰📈 [Financial education ~ "Why are these everywhere? #Shorts"](https://www.youtube.com/watch?v=VZh8jId_2s8)
+
+</p></details>
 <details><summary><u>Day 414</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d404chs1.jpg)
@@ -14,6 +30,7 @@ Learning Progress Till Now -> 414 Days (09/12/2020 to 26/01/2022)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d404chs2.jpg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d404chs3.jpg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d404chs5.jpg)
+- ✔️ [Completed 13 problems in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d404leetcode.jpg)
 - 📑 Blogs Read
   - 📑[Will e-RUPI finish corruption? ](https://www.youtube.com/watch?v=mPwhhaGEitc)
 - 🤨[Case study ~ "Pubg's Genius Strategy: How to Design Addictive Products to make 2.8 Billion Dollars?"](https://www.youtube.com/watch?v=_5cXtYpYmdQ)
