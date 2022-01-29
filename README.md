@@ -1,9 +1,30 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 416 Days (09/12/2020 to 28/01/2022)
+Learning Progress Till Now -> 417 Days (09/12/2020 to 29/01/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 04,2022</summary><p>
 <details><summary><u>Day 411 - Day 420 ~ January 23, 2022 - February 01, 2022</u></summary><p>
+<details><summary><u>Day 417</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d407chs1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d407ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d407b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d407chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d407chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d407chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d407chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 3 pages in the book "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness" by Morgon Housel
+- 📑 Blogs Read
+  - 📑 [What is Blockchain? How Does It Work? Simple Explained](https://medium.com/coinmonks/what-is-blockchain-how-does-it-work-simple-explained-16000acb3a47)
+- 🤨[Case study ~ "How Aman Gupta's MARKETING STRATEGY turned Boat into a 1500CR Company : Business case study"](https://www.youtube.com/watch?v=31UVvKEYO6k)
+- 👂🏻 [Watched a Youtube video "India & Israel to mark 30 years of diplomatic ties | Israel's Foreign Minister speaks to WION"](https://www.youtube.com/watch?v=R-GzHu0ui2c)
+- 💰📈 [Finshots (financial news) ~ "MARKETS - The US Fed is spooking the stock markets. Again!"](https://finshots.in/markets/the-us-fed-is-spooking-the-stock-markets-again/)
+- 💰📈 [Financial education ~ "7 Investment Rules For Youngsters | Master Mind Maddy"](https://www.youtube.com/watch?v=wWQtK4xME9c)
+
+</p></details>
 <details><summary><u>Day 416</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d406chs1.jpg)
