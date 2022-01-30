@@ -1,8 +1,31 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 416 Days (09/12/2020 to 29/01/2022)
+Learning Progress Till Now -> 418 Days (09/12/2020 to 30/01/2022)
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 04,2022</summary><p>
 <details><summary><u>Day 411 - Day 420 ~ January 23, 2022 - February 01, 2022</u></summary><p>
+<details><summary><u>Day 418</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d408chs1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d408ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d408b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d408chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d408chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d408chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d408chs5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Solved 2 problems in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d408leetcode.jpg)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 3 pages in the book "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness" by Morgon Housel
+- 📑 Blogs Read
+  - 📑 [Nearly all NFT’s created with OpenSea’s Free Minting Tool are Fake](https://medium.com/@nturkewitz_56674/nearly-all-nfts-created-with-opensea-s-free-minting-tool-are-fake-2beb24c798fe)
+- 🤨[Case study ~ "Who Saved Royal Enfield From Bankruptcy ? | Fall & Rise of Royal Enfield | Business Case Study"](https://www.youtube.com/watch?v=zLFpaMMxL3w)
+- 👂🏻 [Watched a Youtube video "Dark Truth Of Parle G Biscuits 🔥 | Why Parle G is Still Sold For Rs.5 ? | Business Case Study"](https://www.youtube.com/watch?v=emRr3pYNc-c)
+- 💰📈 [Finshots (financial news) ~ "A BIT OF EVERYTHING - Finshots Money Resolution #4 - Axe your tax"](https://finshots.in/archive/finshots-money-resolution-4-axe-your-tax/)
+- 💰📈 [Financial education ~ "Aman Gupta's boAt files for Rs 2000 Cr IPO | boat IPO details | boat latest news | Upcoming IPO 2022"](https://www.youtube.com/watch?v=6hQGOjRJUh4)
+
+</p></details>
 <details><summary><u>Day 417</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d407chs1.jpg)
@@ -13,6 +36,8 @@ Learning Progress Till Now -> 416 Days (09/12/2020 to 29/01/2022)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d407chs2.jpg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d407chs3.jpg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d407chs5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Completed 1 problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d407leetcode.jpg)
 - 📖📈 Book reading
   - 📖 Read 1 page in the book "365 Days With Self-Discipline"
   - 📖 Read 3 pages in the book "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness" by Morgon Housel
