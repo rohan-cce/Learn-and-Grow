@@ -1,9 +1,27 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 418 Days (09/12/2020 to 30/01/2022)
+Learning Progress Till Now -> 419 Days (09/12/2020 to 31/01/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 04,2022</summary><p>
 <details><summary><u>Day 411 - Day 420 ~ January 23, 2022 - February 01, 2022</u></summary><p>
+<details><summary><u>Day 419</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d409chs1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d409ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d409b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d409chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d409chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d409chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d409chs5.jpg)
+- 📑 Blogs Read
+  - 📑 [Government Default is Inevitable](https://medium.com/coinmonks/government-default-is-inevitable-15380824872d)
+- 🤨[Case study ~ "30 years of India, Israel ties: PM Naftali Bennett shares heartfelt message"](https://www.youtube.com/watch?v=dSaUKN9fgUI)
+- 👂🏻 [Watched a Youtube video "North Korea test-fires its longest-range missile since 2017 | Seventh missile test this month"](https://www.youtube.com/watch?v=ZU4p0QcPvoU)
+- 💰📈 [Finshots (financial news) ~ "INFOGRAPHIC - Which cities have the highest venture capital funding?"](https://finshots.in/infographic/cities-with-highest-venture-capital-funding/)
+- 💰📈 [Financial education ~ "Do you have a house? #Shorts"](https://www.youtube.com/watch?v=QvJeqCjp5IA)
+
+</p></details>
 <details><summary><u>Day 418</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d408chs1.jpg)
