@@ -1,9 +1,30 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 419 Days (09/12/2020 to 31/01/2022)
+Learning Progress Till Now -> 420 Days (09/12/2020 to 01/02/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 04,2022</summary><p>
 <details><summary><u>Day 411 - Day 420 ~ January 23, 2022 - February 01, 2022</u></summary><p>
+<details><summary><u>Day 420</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d410chs1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d410ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d410b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d410chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d410chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d410chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d410chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 📑 Blogs Read
+  - 📑 [80% of Your Success is Determined By 20% of Your Skills](https://entrepreneurshandbook.co/better-skills-better-life-80-of-your-success-is-determined-by-20-of-your-skills-5230468a34f6)
+- 🤨[Case study ~ "Are EVs really better than conventional cars? #Shorts"](https://www.youtube.com/watch?v=Y9UjeZBOirE)
+- 👂🏻 [Watched a Youtube video "BREAKING - CRYPTO BILL NOT INCLUDED IN BILL LIST FOR BUDGET SESSION || 31.01.2022"](https://www.youtube.com/watch?v=BLYdhF6OhgM)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - No country for international funds"](https://finshots.in/archive/no-country-for-international-funds/)
+- 💰📈 [Financial education ~ "India: FM Nirmala Sitharaman to table annual budget in Parliament today| Union Budget 2022 Live News"](https://www.youtube.com/watch?v=hZ3aVK01bR8)
+
+</p></details>
 <details><summary><u>Day 419</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d409chs1.jpg)
