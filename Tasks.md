@@ -1,8 +1,31 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 423 Days (09/12/2020 to 04/02/2022)
+Learning Progress Till Now -> 424 Days (09/12/2020 to 05/02/2022)
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 04,2022</summary><p>
 <details><summary><u>Day 421 - Day 430 ~ February 02, 2022 - February 11, 2022</u></summary><p>
+<details><summary><u>Day 424</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d414e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d414ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d414b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d414chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d414chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d414chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d414chs5.jpg)
+- ✔️ LeetCode
+  - ✔️ [Solved 2 problems in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d414leetcode.jpg)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 📑 Blogs Read
+  - 📑 [Why Your Brain Needs Boundaries](https://elemental.medium.com/why-your-brain-needs-boundaries-9be48b8e343)
+- 🤨[Case study ~ "How Ashneer Grover's GENIUS STRATEGY turned Bharatpe into a $2.8 Billion company?"](https://www.youtube.com/watch?v=j7vhuQ_GzvQ)
+- 👂🏻 [Watched a Youtube video "Meta's shares plummet 26% after Facebook reports a decline in daily active users | World News | WION"](https://www.youtube.com/watch?v=cE9gjCoH9us)
+- 💰📈 [Finshots (financial news) ~ "MARKETS - What floats the BoAt?"](https://finshots.in/markets/what-floats-the-boat/)
+- 💰📈 [Financial education ~ "How to NOT save tax #Shorts"](https://www.youtube.com/watch?v=PsYVWTkR-q0)
+
+</p></details>
 <details><summary><u>Day 423</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d413e1.jpg)
