@@ -1,8 +1,29 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 426 Days (09/12/2020 to 07/02/2022)
+Learning Progress Till Now -> 427 Days (09/12/2020 to 08/02/2022)
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 04,2022</summary><p>
 <details><summary><u>Day 421 - Day 430 ~ February 02, 2022 - February 11, 2022</u></summary><p>
+<details><summary><u>Day 427</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d417e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d417ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d417b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d417chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d417chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d417chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d417chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 📑 Blogs Read
+  - 📑 [3 Reasons You Need to Stop Asking People What They Think About Your Startup Idea](https://entrepreneurshandbook.co/3-reasons-you-need-to-stop-asking-people-what-they-think-about-your-startup-idea-9d2858765fc2  )
+- 🤨[Case study ~ "Australia is using drones to fight against deforestation and global warming | WION Climate Tracker"](https://www.youtube.com/watch?v=eRxn5If4I2E)
+- 👂🏻 [Watched a Youtube video "Shipping route cloud over Blue Whale colony in Sri Lanka | WION Climate Tracker | World English News"](https://www.youtube.com/watch?v=QVfO2ms9TyQ)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Shark Tank, a fintech founder, and a banking licence"](https://finshots.in/archive/shark-tank-a-fintech-founder-and-a-banking-licence/)
+- 💰📈 [Financial education ~ "6 LinkedIn Hacks for Career Growth #Shorts"](https://www.youtube.com/watch?v=xYI3szfmBkU)
+
+</p></details>
 <details><summary><u>Day 426</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d416e1.jpg)
