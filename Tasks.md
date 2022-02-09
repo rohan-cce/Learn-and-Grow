@@ -1,8 +1,29 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 427 Days (09/12/2020 to 08/02/2022)
+Learning Progress Till Now -> 428 Days (09/12/2020 to 09/02/2022)
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 04,2022</summary><p>
 <details><summary><u>Day 421 - Day 430 ~ February 02, 2022 - February 11, 2022</u></summary><p>
+<details><summary><u>Day 428</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d418e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d418ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d418b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d418chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d418chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d418chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d418chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 📑 Blogs Read
+  - 📑 [How the Doubly Linked List will fix unsolvable problems in video games and the entire world](https://andreas-papathanasis.medium.com/how-the-doubly-linked-list-will-fix-unsolvable-problems-in-video-games-and-the-entire-world-399d0f59431e)
+- 🤨[Case study ~ "How FINTECH founders are planning to DOMINATE the Indian Bond Market? : Wint Wealth Case Study"](https://www.youtube.com/watch?v=Paux1v1E2pY)
+- 👂🏻 [Watched a Youtube video "Trouble continues for Sri Lanka's finance sector as forex fall by 24% | Latest World English News"](https://www.youtube.com/watch?v=HGiKllavFZc)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Will short videos save Meta?"](https://finshots.in/archive/will-short-videos-save-meta/)
+- 💰📈 [Financial education ~ "How to Select Mutual Funds in 2022"](https://www.youtube.com/watch?v=sFunQzRqAYc)
+
+</p></details>
 <details><summary><u>Day 427</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d417e1.jpg)
