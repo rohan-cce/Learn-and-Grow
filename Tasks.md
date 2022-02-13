@@ -1,8 +1,28 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 431 Days (09/12/2020 to 12/02/2022)
+Learning Progress Till Now -> 432 Days (09/12/2020 to 13/02/2022)
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 04,2022</summary><p>
 <details><summary><u>Day 431 - Day 440 ~ February 12, 2022 - February 21, 2022</u></summary><p>
+<details><summary><u>Day 432</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d422e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d422ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d422b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d422chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d422chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d422chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d422chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 📑 Blogs Read
+  - 📑 [https://finshots.in/markets/why-did-stove-kraft-get-burnt](https://medium.com/candid-conversations/3-things-people-who-are-good-with-money-never-buy-2a4ce644c051)
+- 🤨[Case study ~ "How Peyush Bansal's STRATEGY turned Lenskart into a 2.5 Billion Dollar Company? :Business Case Study"](https://www.youtube.com/watch?v=v-DAP6oU0dk)
+- 👂🏻 [Watched a Youtube video "Farmers in Colombia expect flower exports to surge this year | World Latest English News | WION"](https://www.youtube.com/watch?v=afu4-C39Tfo)
+- 💰📈 [Finshots (financial news) ~ "MARKETS - Why did Stove Kraft get burnt?"](https://finshots.in/markets/why-did-stove-kraft-get-burnt/)
+- 💰📈 [Financial education ~ "Tax Laga Laga, Tax Laga #Shorts"](https://www.youtube.com/watch?v=pV5dWz2mXXU)
+</p></details>
 <details><summary><u>Day 431</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d421e1.jpg)
