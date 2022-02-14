@@ -1,9 +1,29 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 432 Days (09/12/2020 to 13/02/2022)
+Learning Progress Till Now -> 433 Days (09/12/2020 to 14/02/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 04,2022</summary><p>
 <details><summary><u>Day 431 - Day 440 ~ February 12, 2022 - February 21, 2022</u></summary><p>
+<details><summary><u>Day 433</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d423e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d423ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d423b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d423chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d423chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d423chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d423chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 📑 Blogs Read
+  - 📑 [Mutual Funds (MF) — Mutually Beneficial ????](https://medium.com/coinmonks/mutual-funds-mf-mutually-beneficial-ea4ab31e08a0)
+- 🤨[Case study ~ "Bookstores fear washout in Iran as publishers are running out of cash | World English News | WION"](https://www.youtube.com/watch?v=1wb1-a7AEEk)
+- 👂🏻 [Watched a Youtube video "Canada prepares to open key bridge after 17 days of truckers protest | Covid-19 News | World news"](https://www.youtube.com/watch?v=o16JCa1g-0M)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - What to make of India's drone import ban?"](https://finshots.in/archive/what-to-make-of-indias-drone-import-ban/)
+- 💰📈 [Financial education ~ "McD is not a burger company! #Shorts"](https://www.youtube.com/watch?v=HPeWXcZ9s7w)
+</p></details>
 <details><summary><u>Day 432</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d422e1.jpg)
@@ -14,6 +34,8 @@ Learning Progress Till Now -> 432 Days (09/12/2020 to 13/02/2022)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d422chs2.jpg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d422chs3.jpg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d422chs5.jpg)
+✔️ LeetCode
+  - ✔️ [Solved 1 problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d422leetcode.jpg)
 - 📖📈 Book reading
   - 📖 Read 1 page in the book "365 Days With Self-Discipline"
   - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
