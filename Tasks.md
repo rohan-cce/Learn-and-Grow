@@ -1,8 +1,28 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 433 Days (09/12/2020 to 14/02/2022)
+Learning Progress Till Now -> 434 Days (09/12/2020 to 15/02/2022)
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 04,2022</summary><p>
 <details><summary><u>Day 431 - Day 440 ~ February 12, 2022 - February 21, 2022</u></summary><p>
+<details><summary><u>Day 434</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d424e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d424ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d424b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d424chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d424chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d424chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d424chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 📑 Blogs Read
+  - 📑 [A Metaverse ETF Worth Keeping an Eye On](https://medium.datadriveninvestor.com/a-metaverse-etf-worth-keeping-an-eye-on-dc22142f6c55)
+- 🤨[Case study ~ "Why U.S. Freight Trains Are So Much Better Than Passenger Rail"](https://www.youtube.com/watch?v=Q79BHfxfaSI)
+- 👂🏻 [Watched a Youtube video "Gravitas | LIC IPO: All you need to know"](https://www.youtube.com/watch?v=uGL7kqBUUuY)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Zomato is betting on “Eating Now & Paying Later”"](https://finshots.in/archive/zomato-is-betting-on-eating-now-paying-later/)
+- 💰📈 [Financial education ~ "The most expensive flower in the world #Shorts"](https://www.youtube.com/watch?v=gntn1tTCoIA)
+</p></details>
 <details><summary><u>Day 433</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d423e1.jpg)
