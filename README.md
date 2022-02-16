@@ -1,9 +1,29 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 434 Days (09/12/2020 to 15/02/2022)
+Learning Progress Till Now -> 435 Days (09/12/2020 to 16/02/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 04,2022</summary><p>
 <details><summary><u>Day 431 - Day 440 ~ February 12, 2022 - February 21, 2022</u></summary><p>
+<details><summary><u>Day 435</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d425e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d425ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d425b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d425chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d425chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d425chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d425chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 📑 Blogs Read
+  - 📑 [5 Websites that will double your Passive Income in 2022!](https://medium.com/illumination/5-websites-that-will-double-your-passive-income-in-2022-7b1ddd241ebb)
+- 🤨[Case study ~ "Artificial Intelligence vs. Humans"](https://www.youtube.com/watch?v=gEFeocvl8aU)
+- 👂🏻 [Watched a Youtube video "PM Justin Trudeau invokes emergency powers, rules out military in Canada| Latest English News | WION"](https://www.youtube.com/watch?v=Qt5dKvWMWUE)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - The beginning of the Satellite Wars"](https://finshots.in/archive/satellite-wars/)
+- 💰📈 [Financial education ~ "The Underwear Index #Shorts"](https://www.youtube.com/watch?v=Q76TdNXztnU)
+</p></details>
 <details><summary><u>Day 434</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d424e1.jpg)
