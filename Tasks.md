@@ -1,8 +1,28 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 435 Days (09/12/2020 to 16/02/2022)
+Learning Progress Till Now -> 436 Days (09/12/2020 to 17/02/2022)
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 04,2022</summary><p>
 <details><summary><u>Day 431 - Day 440 ~ February 12, 2022 - February 21, 2022</u></summary><p>
+<details><summary><u>Day 436</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d426e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d426ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d426b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d426chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d426chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d426chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d426chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 📑 Blogs Read
+  - 📑 [5 Proven Ways To Communicate Better If You Are An Introvert 🗣️](https://www.youtube.com/watch?v=TYZVfJbyiUo)
+- 🤨[Case study ~ "How Mankind's GENIUS STRATEGY turned Preganews into a Market Leader?: Business Case study"](https://www.youtube.com/watch?v=jRRpGLy0TBg)
+- 👂🏻 [Watched a Youtube video "Africa: Researchers tracing tusk DNA of Elephants to reveal trafficking networks"](https://www.youtube.com/watch?v=Mi-vQYIynoY)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Your lock screen is worth a whopping $2 billion!"](https://finshots.in/archive/your-lock-screen-is-worth-a-whopping-2-billion/)
+- 💰📈 [Financial education ~ "Musical Stock Market | Read the RESEARCH"](https://www.youtube.com/watch?v=Mj7pU7yY95o)
+</p></details>
 <details><summary><u>Day 435</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d425e1.jpg)
