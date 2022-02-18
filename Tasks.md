@@ -1,8 +1,28 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 436 Days (09/12/2020 to 17/02/2022)
+Learning Progress Till Now -> 437 Days (09/12/2020 to 18/02/2022)
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 04,2022</summary><p>
 <details><summary><u>Day 431 - Day 440 ~ February 12, 2022 - February 21, 2022</u></summary><p>
+<details><summary><u>Day 437</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d427e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d427ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d427b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d427chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d427chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d427chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d427chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 📑 Blogs Read
+  - 📑 [The Quickest & Cheapest Way To Stop Climate Change](https://medium.com/predict/the-quickest-cheapest-way-to-stop-climate-change-5fd7d0550fa6)
+- 🤨[Case study ~ "Gravitas | CIA Vs KGB: How it is playing out in the Ukraine crisis"](https://www.youtube.com/watch?v=CZ7d-0XlEHc)
+- 👂🏻 [Watched a Youtube video "Gravitas: Nepal's ruling coalition on the 'brink of breakdown'"](https://www.youtube.com/watch?v=8FUZMYzQIPE)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - You can now stay in Disneyland… forever"](https://finshots.in/archive/you-can-now-stay-in-disneyland-forever/)
+- 💰📈 [Financial education ~ "color tax"](https://www.youtube.com/watch?v=QDfeCS1buBg)
+</p></details>
 <details><summary><u>Day 436</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d426e1.jpg)
