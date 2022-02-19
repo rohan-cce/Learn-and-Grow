@@ -1,9 +1,29 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 437 Days (09/12/2020 to 18/02/2022)
+Learning Progress Till Now -> 438 Days (09/12/2020 to 19/02/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 04,2022</summary><p>
 <details><summary><u>Day 431 - Day 440 ~ February 12, 2022 - February 21, 2022</u></summary><p>
+<details><summary><u>Day 438</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d428e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d428ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d428b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d428chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d428chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d428chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d428chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 📑 Blogs Read
+  - 📑 [Know Your Cake Before You Eat It — Dividend Investing](https://medium.datadriveninvestor.com/know-your-cake-before-you-eat-it-dividend-investing-786f11e05cf6)
+- 🤨[Case study ~ "How Pidilite's STRATEGY made it a GOLDMINE stock giving 14,000% returns? : Business Case Study"](https://www.youtube.com/watch?v=cbTEAeteaI8)
+- 👂🏻 [Watched a Youtube video "Gravitas: Iran nuclear deal 'closer than ever'"](https://www.youtube.com/watch?v=Y4S-6Jeux8I)
+- 💰📈 [Finshots (financial news) ~ "MARKETS - The LIC IPO - Explained"](https://finshots.in/markets/the-lic-ipo-explained/)
+- 💰📈 [Financial education ~ "The power of RTI | A superpower for Mango People #Shorts"](https://www.youtube.com/watch?v=dmHNMJ70tUs)
+</p></details>
 <details><summary><u>Day 437</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d427e1.jpg)
