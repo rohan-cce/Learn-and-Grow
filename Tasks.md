@@ -1,8 +1,28 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 438 Days (09/12/2020 to 19/02/2022)
+Learning Progress Till Now -> 439 Days (09/12/2020 to 20/02/2022)
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 04,2022</summary><p>
 <details><summary><u>Day 431 - Day 440 ~ February 12, 2022 - February 21, 2022</u></summary><p>
+<details><summary><u>Day 439</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d429e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d429ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d429b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d429chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d429chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d429chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d429chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 📑 Blogs Read
+  - 📑 [Pi Network The Biggest Scam On The Crypto Market…](https://blog.cryptostars.is/pi-network-the-biggest-scam-on-the-crypto-market-dfd64767063d)
+- 🤨[Case study ~ "Top 10 Fun Facts about LIC | CA Rachana Ranade"](https://www.youtube.com/watch?v=Xb7JHHdPPXY)
+- 👂🏻 [Watched a Youtube video "Israel fires missiles at Hezbollah drone after it enters Israel's airspace | World English News"](https://www.youtube.com/watch?v=ccJRt9HTgY8)
+- 💰📈 [Finshots (financial news) ~ "INFOGRAPHIC - Which cities have the highest venture capital funding??"](https://finshots.in/infographic/cities-with-highest-venture-capital-funding/)
+- 💰📈 [Financial education ~ "Investing vs Loan Repayment EXPLAINED"](https://www.youtube.com/watch?v=ZLoeS3npdi0)
+</p></details>
 <details><summary><u>Day 438</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d428e1.jpg)
