@@ -1,8 +1,28 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 439 Days (09/12/2020 to 20/02/2022)
+Learning Progress Till Now -> 440 Days (09/12/2020 to 21/02/2022)
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 04,2022</summary><p>
 <details><summary><u>Day 431 - Day 440 ~ February 12, 2022 - February 21, 2022</u></summary><p>
+<details><summary><u>Day 440</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d430e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d430ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d430b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d430chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d430chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d430chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d430chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 📑 Blogs Read
+  - 📑 [Why Is Nobody Talking About This Passive Income Method?](https://medium.com/swlh/why-is-nobody-talking-about-this-passive-income-method-85791d5350fc)
+- 🤨[Case study ~ "Can Tejas become India's next biggest defence export to the world?"](https://www.youtube.com/watch?v=f6PK8hL1ciI)
+- 👂🏻 [Watched a Youtube video "Financial Independence in 1 minute"](https://www.youtube.com/watch?v=cOap-VC-wRQ)
+- 💰📈 [Finshots (financial news) ~ "INFOGRAPHIC - Who dominates the debit cards market in India?"](https://finshots.in/infographic/who-dominates-the-debit-cards-market-in-india/)
+- 💰📈 [Financial education ~ "Are Small Finance Banks Safe? #Shorts"](https://www.youtube.com/watch?v=EQ2KWx9q8Hs)
+</p></details>
 <details><summary><u>Day 439</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d429e1.jpg)
