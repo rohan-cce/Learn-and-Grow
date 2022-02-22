@@ -1,7 +1,30 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 440 Days (09/12/2020 to 21/02/2022)
+Learning Progress Till Now -> 441 Days (09/12/2020 to 22/02/2022)
 
-<details><summary>Day 400 - 450 ~ January 13, 2022 - March 04,2022</summary><p>
+<details><summary>Day 400 - 450 ~ January 13, 2022 - March 03,2022</summary><p>
+<details><summary><u>Day 441 - Day 450 ~ February 22, 2022 - March 03, 2022</u></summary><p>
+<details><summary><u>Day 441</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d431e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d431ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d431b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d431chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d431chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d431chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d431chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 📑 Blogs Read
+  - 📑 [What is the Price of Life (Insurance)??](https://medium.com/coinmonks/what-is-the-price-of-life-insurance-124aeddf7a4c)
+- 🤨[Case study ~ "How Drones are planting flowers in Australia?"](https://www.youtube.com/watch?v=kCfDFelQXDo)
+- 👂🏻 [Watched a Youtube video "Pakistan eyes citizens' gold to boost foreign exchange reserves | Business News | WION"](https://www.youtube.com/watch?v=bXA-l8v8mAE)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Understanding India’s Green Hydrogen Policy"](https://finshots.in/archive/understanding-indias-green-hydrogen-policy/)
+- 💰📈 [Financial education ~ "Are Payments Banks Safe? #Shorts"](https://www.youtube.com/watch?v=G6SP8u1bCRs)
+</p></details>
+</p></details>
+
 <details><summary><u>Day 431 - Day 440 ~ February 12, 2022 - February 21, 2022</u></summary><p>
 <details><summary><u>Day 440</u></summary><p>
 
