@@ -1,9 +1,29 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 441 Days (09/12/2020 to 22/02/2022)
+Learning Progress Till Now -> 442 Days (09/12/2020 to 23/02/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 03,2022</summary><p>
 <details><summary><u>Day 441 - Day 450 ~ February 22, 2022 - March 03, 2022</u></summary><p>
+<details><summary><u>Day 442</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d432e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d432ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d432b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d432chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d432chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d432chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d432chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 📑 Blogs Read
+  - 📑 [7 Destructive Money Habits You Need To Quit ASAP](https://medium.com/wealthwise/7-destructive-money-habits-you-need-to-quit-asap-55fd0f393467)
+- 🤨[Case study ~ "How India's MASTERSTROKE with Rupay is killing VISA and is changing India? : Business Case Study"](https://www.youtube.com/watch?v=B_AY4a3_-GQ)
+- 👂🏻 [Watched a Youtube video "sends a convoy of 50 trucks carrying wheat to war-torn Afghanistan via Pakistan | English News"](https://www.youtube.com/watch?v=DTe1bl2blvQIndia)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - China's Atmanirbhar Problem"](https://finshots.in/archive/atmanirbhar-china/)
+- 💰📈 [Financial education ~ "How to pick Bonds, and who should not invest? @Wint Wealth"](https://www.youtube.com/watch?v=f0LgQFZgAAU)
+</p></details>
 <details><summary><u>Day 441</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d431e1.jpg)
