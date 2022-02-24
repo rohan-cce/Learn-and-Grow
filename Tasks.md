@@ -1,8 +1,28 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 442 Days (09/12/2020 to 23/02/2022)
+Learning Progress Till Now -> 443 Days (09/12/2020 to 24/02/2022)
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 03,2022</summary><p>
 <details><summary><u>Day 441 - Day 450 ~ February 22, 2022 - March 03, 2022</u></summary><p>
+<details><summary><u>Day 443</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d433e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d433ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d433b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d433chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d433chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d433chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d433chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 📑 Blogs Read
+  - 📑 [7 Lessons from Portfolios of Financially Independent](https://wire.insiderfinance.io/7-lessons-from-portfolios-of-financially-free-c28ad954ce0c)
+- 🤨[Case study ~ "Human Hair Mats Clean Oil Spills. Why Don't Big Companies Use Them? | World Wide Waste"](https://www.youtube.com/watch?v=k8fsVzyj-PA)
+- 👂🏻 [Watched a Youtube video "Gravitas: 4,000 luxury cars worth $401 million destroyed in Cargo mishap"](https://www.youtube.com/watch?v=d-hXIHwdR3E)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - When a "Yogi" ran NSE"](https://finshots.in/archive/how-a-yogi-controlled-nse/)
+- 💰📈 [Financial education ~ "Is it allowed to have multiple Demat Accounts? #Shorts"](https://www.youtube.com/watch?v=IcDFmGCfbO8)
+</p></details>
 <details><summary><u>Day 442</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d432e1.jpg)
