@@ -1,9 +1,29 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 443 Days (09/12/2020 to 24/02/2022)
+Learning Progress Till Now -> 444 Days (09/12/2020 to 25/02/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 03,2022</summary><p>
 <details><summary><u>Day 441 - Day 450 ~ February 22, 2022 - March 03, 2022</u></summary><p>
+<details><summary><u>Day 444</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d434e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d434ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d434b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d434chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d434chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d434chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d434chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 📑 Blogs Read
+  - 📑 [What is CRED’s Business model?](https://medium.com/@singhpranjal4444/what-is-creds-business-model-92109ca28fad)
+- 🤨[Case study ~ "Why is "C" Type Cable so popular? | Unnoticed2.0 | Ep#26"](https://www.youtube.com/watch?v=uUBpiJtlPXU)
+- 👂🏻 [Watched a Youtube video "Russia's invasion of Ukraine: War has returned to Europe | DW News"](https://www.youtube.com/watch?v=YtqAQIOfpWY)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Beware, there could be fake loans in your name"](https://finshots.in/archive/beware-there-could-be-fake-loans-in-your-name/)
+- 💰📈 [Financial education ~ "Why does Microsoft allow Piracy? #Shorts"](https://www.youtube.com/watch?v=zuL8l0Yh0G0)
+</p></details>
 <details><summary><u>Day 443</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d433e1.jpg)
