@@ -1,8 +1,28 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 445 Days (09/12/2020 to 26/02/2022)
+Learning Progress Till Now -> 446 Days (09/12/2020 to 27/02/2022)
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 03,2022</summary><p>
 <details><summary><u>Day 441 - Day 450 ~ February 22, 2022 - March 03, 2022</u></summary><p>
+<details><summary><u>Day 446</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d436e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d436ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d436b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d436chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d436chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d436chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d436chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 📑 Blogs Read
+  - 📑 [If You Have These 6 Traits, People Will See You as a Leader (Regardless of Your Position)](https://medium.com/@PaulPetrone1/if-you-have-these-6-traits-people-will-see-you-as-a-leader-regardless-of-your-position-c51dc18ad084)
+- 🤨[Case study ~ "Comparison of Gripen Vs Tejas Mk1 Light Fighter Jet #India #Sweden"](https://www.youtube.com/watch?v=g54aMleDP0o)
+- 👂🏻 [Watched a Youtube video "BrahMos supersonic cruise missile successfully test-fired; Boost to India's naval power"](https://www.youtube.com/watch?v=JNxcve5J1U0)
+- 💰📈 [Finshots (financial news) ~ "INFOGRAPHIC - Who are the leading stock brokers in India?"](https://finshots.in/infographic/who-are-the-leading-stock-brokers-in-india/)
+- 💰📈 [Financial education ~ "Explained in 1 Minute - Kya Chit Funds sahi hai? #Shorts"](https://www.youtube.com/watch?v=KIQflnSYvTM)
+</p></details>
 <details><summary><u>Day 445</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d435e1.jpg)
