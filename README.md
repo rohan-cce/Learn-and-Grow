@@ -1,9 +1,29 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 446 Days (09/12/2020 to 27/02/2022)
+Learning Progress Till Now -> 447 Days (09/12/2020 to 28/02/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 03,2022</summary><p>
 <details><summary><u>Day 441 - Day 450 ~ February 22, 2022 - March 03, 2022</u></summary><p>
+<details><summary><u>Day 447</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d437e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d437ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d437b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d437chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d437chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d437chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d437chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 📑 Blogs Read
+  - 📑 [NFTs Aren’t As Stupid As You Think](https://onezero.medium.com/nfts-arent-as-stupid-as-you-think-bffab89697e3)
+- 🤨[Case study ~ "Belarus' Nuclear threat to the West: Will deploy Nuclear weapons if Poland & Lithuania do it | WION"](https://www.youtube.com/watch?v=oEFY-qSn2X8)
+- 👂🏻 [Watched a Youtube video "India working with Ukraine neighbours to evacuate its nationals from Ukraine amid Russian invasion"](https://www.youtube.com/watch?v=CiZusPjMHxY)
+- 💰📈 [Finshots (financial news) ~ "INFOGRAPHIC - Insurance penetration by Country, 2020"](https://finshots.in/infographic/which-countries-have-the-highest-life-insurance-penetration/)
+- 💰📈 [Financial education ~ "Craziest Marketing Of Ratan TaTa's Company #shorts1"](https://www.youtube.com/watch?v=zP1U_00GB8U)
+</p></details>
 <details><summary><u>Day 446</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d436e1.jpg)
