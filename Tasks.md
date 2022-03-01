@@ -1,8 +1,28 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 447 Days (09/12/2020 to 28/02/2022)
+Learning Progress Till Now -> 448 Days (09/12/2020 to 01/03/2022)
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 03,2022</summary><p>
 <details><summary><u>Day 441 - Day 450 ~ February 22, 2022 - March 03, 2022</u></summary><p>
+<details><summary><u>Day 448</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d438e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d438ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d438b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d438chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d438chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d438chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d438chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 📑 Blogs Read
+  - 📑 [Work on the 5-9 Until the 9-5 Becomes a Side Hustle](https://entrepreneurshandbook.co/work-on-the-5-9-until-the-9-5-becomes-a-side-hustle-6d52b8e8f562)
+- 🤨[Case study ~ "How chocolate is made in a factory"](https://www.youtube.com/watch?v=OMXopEcKrwE)
+- 👂🏻 [Watched a Youtube video "Russia-Ukraine crisis: First UNGA session in 40 years | Latest World English News | WION"](https://www.youtube.com/watch?v=J71zO1NlQ4U)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Why is Russia being cut off from SWIFT"](https://finshots.in/archive/why-is-russia-being-cut-off-from-swift/)
+- 💰📈 [Financial education ~ "Impact on Investors of Russia and Ukraine War💥"](https://www.youtube.com/watch?v=wME1uy4C5jM)
+</p></details>
 <details><summary><u>Day 447</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d437e1.jpg)
@@ -16,6 +36,8 @@ Learning Progress Till Now -> 447 Days (09/12/2020 to 28/02/2022)
 - 📖📈 Book reading
   - 📖 Read 1 page in the book "365 Days With Self-Discipline"
   - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+✔️ LeetCode
+  - ✔️ [Solved 1 problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d437leetcode.jpg)
 - 📑 Blogs Read
   - 📑 [NFTs Aren’t As Stupid As You Think](https://onezero.medium.com/nfts-arent-as-stupid-as-you-think-bffab89697e3)
 - 🤨[Case study ~ "Belarus' Nuclear threat to the West: Will deploy Nuclear weapons if Poland & Lithuania do it | WION"](https://www.youtube.com/watch?v=oEFY-qSn2X8)
@@ -36,6 +58,8 @@ Learning Progress Till Now -> 447 Days (09/12/2020 to 28/02/2022)
 - 📖📈 Book reading
   - 📖 Read 1 page in the book "365 Days With Self-Discipline"
   - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+✔️ LeetCode
+  - ✔️ [Solved 1 problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d436leetcode.jpg)
 - 📑 Blogs Read
   - 📑 [If You Have These 6 Traits, People Will See You as a Leader (Regardless of Your Position)](https://medium.com/@PaulPetrone1/if-you-have-these-6-traits-people-will-see-you-as-a-leader-regardless-of-your-position-c51dc18ad084)
 - 🤨[Case study ~ "Comparison of Gripen Vs Tejas Mk1 Light Fighter Jet #India #Sweden"](https://www.youtube.com/watch?v=g54aMleDP0o)
