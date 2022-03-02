@@ -1,8 +1,28 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 448 Days (09/12/2020 to 01/03/2022)
+Learning Progress Till Now -> 449 Days (09/12/2020 to 02/03/2022)
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 03,2022</summary><p>
 <details><summary><u>Day 441 - Day 450 ~ February 22, 2022 - March 03, 2022</u></summary><p>
+<details><summary><u>Day 449</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d439e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d439ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d439b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d439chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d439chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d439chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d439chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 📑 Blogs Read
+  - 📑 [3 Simple Questions to Kick Start Your Motivation For Your Side Hustle](https://medium.com/swlh/3-simple-questions-to-kick-start-your-motivation-for-your-side-hustle-b3785c50cf00)
+- 🤨[Case study ~ "How data science is changing the world of sports"](https://www.youtube.com/watch?v=8be9t8gdeu4)
+- 👂🏻 [Watched a Youtube video "Why Tokyo Is Insanely Well Designed"](https://www.youtube.com/watch?v=zysL_lkdtys)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Will the Sensex hit 1,00,000?"](https://finshots.in/archive/will-the-sensex-hit-1-00-000/)
+- 💰📈 [Financial education ~ "Family save Tax #2 #Shorts"](https://www.youtube.com/watch?v=A7ktzY8ptHY)
+</p></details>
 <details><summary><u>Day 448</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d438e1.jpg)
