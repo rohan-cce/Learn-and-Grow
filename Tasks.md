@@ -1,8 +1,28 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 449 Days (09/12/2020 to 02/03/2022)
+Learning Progress Till Now -> 450 Days (09/12/2020 to 03/03/2022)
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 03,2022</summary><p>
 <details><summary><u>Day 441 - Day 450 ~ February 22, 2022 - March 03, 2022</u></summary><p>
+<details><summary><u>Day 450</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d440e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d440ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d440b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d440chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d440chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d440chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d440chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 📑 Blogs Read
+  - 📑 [How I Make $5 A Day By Effortlessly Surfing The Web](https://harrysedgwick.medium.com/how-i-make-5-a-day-by-effortlessly-surfing-the-web-330a6230914)
+- 🤨[Case study ~ "Gravitas: Is the West feeding Russia's war machine?"](https://www.youtube.com/watch?v=SrmHdELTQrA)
+- 👂🏻 [Watched a Youtube video ~ "Gravitas: Gaffes, Hits & Misses: Decoding Biden's State Of The Union Address"](https://www.youtube.com/watch?v=Gmr5-dWKMII)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Why is Singapore’s government annoyed with India?"](https://finshots.in/archive/why-is-singapores-government-annoyed-with-india/)
+- 💰📈 [Financial education ~ "Work from parental home |  Family Save Tax #3 | How to save tax"](https://www.youtube.com/watch?v=yV_Q4qVenoE)
+</p></details>
 <details><summary><u>Day 449</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d439e1.jpg)
