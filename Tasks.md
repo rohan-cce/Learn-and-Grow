@@ -1,5 +1,30 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 450 Days (09/12/2020 to 03/03/2022)
+Learning Progress Till Now -> 451 Days (09/12/2020 to 04/03/2022)
+<details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
+<details><summary><u>Day 451 - Day 460 ~ March 04, 2022 - March 13, 2022</u></summary><p>
+<details><summary><u>Day 451</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d441e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d441ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d441b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d441chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d441chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d441chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d441chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 📑 Blogs Read
+  - 📑 [3 Life-Changing Tips I Learnt To Read Books 2X Faster](https://medium.com/@bibiana.lim/3-life-changing-tips-i-learnt-to-read-books-2x-faster-6603e684815a)
+- 🤨[Case study ~ "US interest rate hike likely in March: Powell testified before US Congress | World English News"](https://www.youtube.com/watch?v=vRwAhwjwCMk)
+- 👂🏻 [Watched a Youtube video ~ "India ramps up evacuation efforts: IAF's C-17 aircraft airlifts Indians from Romania | English News"](https://www.youtube.com/watch?v=yzUEE8f2PZg)
+- 💰📈 [Finshots (financial news) ~ "POLICY - The climate change report everybody should read"](https://finshots.in/archive/an-explainer-on-the-ipcc-report/)
+- 💰📈 [Financial education ~ "⚠ Planning to invest in US stocks? Watch this first ⚠"](https://www.youtube.com/watch?v=pg4ky9pV-dQ)
+</p></details>
+</p></details>
+</p></details>
+
 
 <details><summary>Day 400 - 450 ~ January 13, 2022 - March 03,2022</summary><p>
 <details><summary><u>Day 441 - Day 450 ~ February 22, 2022 - March 03, 2022</u></summary><p>
