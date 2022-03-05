@@ -1,7 +1,27 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 451 Days (09/12/2020 to 04/03/2022)
+Learning Progress Till Now -> 452 Days (09/12/2020 to 05/03/2022)
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
 <details><summary><u>Day 451 - Day 460 ~ March 04, 2022 - March 13, 2022</u></summary><p>
+<details><summary><u>Day 452</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d442e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d442ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d442b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d442chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d442chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d442chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d442chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 📑 Blogs Read
+  - 📑 []()
+- 🤨[Case study ~ "How LIC's Agents Changed India FOREVER turning it into a 22 Lakh Crore Company ? : LIC Case Study"](https://www.youtube.com/watch?v=dVtnSPZn6BU)
+- 👂🏻 [Watched a Youtube video ~ "Russia space workers remove flags of US, UK, Japan from Soyuz rocket; Retain India's Tricolour"](https://www.youtube.com/watch?v=j2Y-GMBRV54)
+- 💰📈 [Finshots (financial news) ~ "POLICY - War Bonds to the Rescue"](https://finshots.in/archive/war-bonds-to-the-rescue/)
+- 💰📈 [Financial education ~ "Explained in 1 Minute - Is HUL Hindustani?"](https://www.youtube.com/watch?v=E_1AByy0sHI)
+</p></details>
 <details><summary><u>Day 451</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d441e1.jpg)
