@@ -1,7 +1,27 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 452 Days (09/12/2020 to 05/03/2022)
+Learning Progress Till Now -> 453 Days (09/12/2020 to 06/03/2022)
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
 <details><summary><u>Day 451 - Day 460 ~ March 04, 2022 - March 13, 2022</u></summary><p>
+<details><summary><u>Day 453</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d443e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d443ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d443b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d443chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d443chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d443chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d443chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 📑 Blogs Read
+  - 📑 [5 Problems of Fiat Currency](https://medium.com/coinmonks/5-problems-of-fiat-currency-6b4859203f49)
+- 🤨[Case study ~ "Why Do Planes Fly So High? |#shorts |Tamil | LMES"](https://www.youtube.com/watch?v=0HAWrdlN5HA)
+- 👂🏻 [Watched a Youtube video ~ "Fake News' debate simmers in Russia: Facebook, Twitter blocked "](https://www.youtube.com/watch?v=ooS4pJwjYTM)
+- 💰📈 [Finshots (financial news) ~ "MARKETS - Is the fight for Future Retail finally coming to an end?"](https://finshots.in/markets/is-the-fight-for-future-retail-finally-coming-to-an-end/)
+- 💰📈 [Financial education ~ "Zomato/Swiggy padega mehenga"](https://www.youtube.com/watch?v=wCzwR-ZogMs)
+</p></details>
 <details><summary><u>Day 452</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d442e1.jpg)
@@ -12,11 +32,13 @@ Learning Progress Till Now -> 452 Days (09/12/2020 to 05/03/2022)
   - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d442chs2.jpg)
   - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d442chs3.jpg)
   - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d442chs5.jpg)
+✔️ LeetCode
+  - ✔️ [Solved 1 problem in leet code](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/leetcode/From%20day%20381/d442leetcode.jpg)
 - 📖📈 Book reading
   - 📖 Read 1 page in the book "365 Days With Self-Discipline"
   - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
 - 📑 Blogs Read
-  - 📑 []()
+  - 📑 [5 Steps For Financial Independence](https://randerson112358.medium.com/5-steps-for-financial-independence-c8db180825eb)
 - 🤨[Case study ~ "How LIC's Agents Changed India FOREVER turning it into a 22 Lakh Crore Company ? : LIC Case Study"](https://www.youtube.com/watch?v=dVtnSPZn6BU)
 - 👂🏻 [Watched a Youtube video ~ "Russia space workers remove flags of US, UK, Japan from Soyuz rocket; Retain India's Tricolour"](https://www.youtube.com/watch?v=j2Y-GMBRV54)
 - 💰📈 [Finshots (financial news) ~ "POLICY - War Bonds to the Rescue"](https://finshots.in/archive/war-bonds-to-the-rescue/)
