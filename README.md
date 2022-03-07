@@ -1,9 +1,29 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 453 Days (09/12/2020 to 06/03/2022)
+Learning Progress Till Now -> 454 Days (09/12/2020 to 07/03/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
 <details><summary><u>Day 451 - Day 460 ~ March 04, 2022 - March 13, 2022</u></summary><p>
+<details><summary><u>Day 454</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d444e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d444ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d444b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d444chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d444chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d444chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d444chs5.jpg) 
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 📑 Blogs Read
+  - 📑 [How to Choose Insurance Policy? — What Should I Know About My Insurance?](https://medium.com/coinmonks/how-to-choose-insurance-policy-what-should-i-know-about-my-insurance-372dfbc971ed)
+- 🤨[Case study ~ "Gravitas Plus: Did NATO push Ukraine into war?"](https://www.youtube.com/watch?v=TzgPJeYZaOU)
+- 👂🏻 [Watched a Youtube video ~ "Visa, Mastercard halt operations in Russia over Ukraine invasion | Russia-Ukraine Conflict | WION"](https://www.youtube.com/watch?v=mZhs1Vnbx4g)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Who is Ayci — the man who almost became Air India’s CEO?"](https://finshots.in/archive/who-is-ayci-the-man-who-almost-became-air-indias-ceo/)
+- 💰📈 [Financial education ~ "Insurance ads are illegal? #Shorts?"](https://www.youtube.com/watch?v=g9RTYOwua5E)
+</p></details>
 <details><summary><u>Day 453</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d443e1.jpg)
