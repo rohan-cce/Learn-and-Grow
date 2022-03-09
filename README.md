@@ -1,9 +1,29 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 455 Days (09/12/2020 to 08/03/2022)
+Learning Progress Till Now -> 456 Days (09/12/2020 to 09/03/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
 <details><summary><u>Day 451 - Day 460 ~ March 04, 2022 - March 13, 2022</u></summary><p>
+<details><summary><u>Day 456</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d446e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d446ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d446b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d446chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d446chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d446chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d446chs5.jpg) 
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 📑 Blogs Read
+  - 📑 [50/30/20 Rule How it Changed My Life](https://medium.com/financial-independence-retire-early/50-30-20-rule-how-it-changed-my-life-4d9cd09b97a5?source=explore---------26-98--------------------2cd988ed_7c62_4e40_a981_31e020451996-------15---)
+- 🤨[Case study ~ "Gravitas: Will Europe still bankroll Russia's Ukraine invasion?"](https://www.youtube.com/watch?v=QcKeeWJLC-o)
+- 👂🏻 [Watched a Youtube video ~ "Joe Biden's mission to tame oil prices"](https://www.youtube.com/watch?v=p5mERacX1_4)
+- 💰📈 [Finshots (financial news) ~ "POLICY - How the current financial warfare may be creating a new world order"](https://finshots.in/archive/will-the-wests-financial-warfare-create-a-new-world-order/)
+- 💰📈 [Financial education ~ "How Supermarkets Fool Us? #Shorts"](https://www.youtube.com/watch?v=RXkh9jTudn0)
+</p></details>
 <details><summary><u>Day 455</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d445e1.jpg)
