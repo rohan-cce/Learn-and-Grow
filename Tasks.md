@@ -1,6 +1,28 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 460 Days (09/12/2020 to 13/03/2022)
+Learning Progress Till Now -> 461 Days (09/12/2020 to 14/03/2022)
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
+<details><summary><u>Day 461 - Day 470 ~ March 14, 2022 - March 23, 2022</u></summary><p>
+<details><summary><u>Day 461</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d451e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d451ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d451b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d451chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d451chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d451chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d451chs5.jpg) 
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 🤨[Case study ~ "The interesting engineering behind your Car Window!"](https://www.youtube.com/watch?v=Yl40Uj8kCWU)
+- 👂🏻 [Watched a Youtube video ~ "India accidently fires missile into Pakistan, latter seeks joint probe | World News | WION"](https://www.youtube.com/watch?v=hHnFmxAD0Rc)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Is BlinkIt going to make it"](https://finshots.in/archive/is-blinkit-going-to-make-it/)
+- 💰📈 [Financial education ~ "11 Transactions on IT Department Radar ! #Shorts"](https://www.youtube.com/watch?v=puxu4JNaY-0)
+</p></details>
+</p></details>
+
+
 <details><summary><u>Day 451 - Day 460 ~ March 04, 2022 - March 13, 2022</u></summary><p>
 <details><summary><u>Day 460</u></summary><p>
 
