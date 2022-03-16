@@ -1,9 +1,27 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 462 Days (09/12/2020 to 15/03/2022)
+Learning Progress Till Now -> 463 Days (09/12/2020 to 16/03/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
 <details><summary><u>Day 461 - Day 470 ~ March 14, 2022 - March 23, 2022</u></summary><p>
+<details><summary><u>Day 463</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d453e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d453ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d453b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d453chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d453chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d453chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d453chs5.jpg) 
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 🤨[Case study ~ "Cleaning Robots | How do they work?"](https://www.youtube.com/watch?v=hoY2YxLGV98)
+- 👂🏻 [Watched a Youtube video ~ "WION Climate summit: Are electric vehicles greener? Benefits of electric cars on the environment"](https://www.youtube.com/watch?v=TwTWhmNHtWk)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Can games change Vi’s fortunes?"](https://finshots.in/archive/can-games-change-vis-fortunes/)
+- 💰📈 [Financial education ~ "5 Weird Insurances which people actually take #Shorts"](https://www.youtube.com/watch?v=b04dBEVnh-Q)
+</p></details>
 <details><summary><u>Day 462</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d452e1.jpg)
