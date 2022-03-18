@@ -1,7 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 464 Days (09/12/2020 to 17/03/2022)
+Learning Progress Till Now -> 465 Days (09/12/2020 to 18/03/2022)
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
 <details><summary><u>Day 461 - Day 470 ~ March 14, 2022 - March 23, 2022</u></summary><p>
+<details><summary><u>Day 465</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d455e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d455ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d455b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d455chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d455chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d455chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d455chs5.jpg) 
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 🤨[Case study ~ "Rise in cases of diabetes, possible link of covid-19 pandemic lifestyle?"]()
+- 👂🏻 [Watched a Youtube video ~ "BMW to prioritise EVs amid Ukraine crisis, cuts 2022 profit margin forecast "](https://www.youtube.com/watch?v=d6s2detmpgI)
+- 💰📈 [Finshots (financial news) ~ "ECONOMY - Will Ukraine get a no-fly zone?"](https://finshots.in/archive/will-ukraine-get-a-no-fly-zone/)
+- 💰📈 [Financial education ~ "How BNPL Startups Are Disrupting India’s Lending Space, for Better or Worse"](https://www.youtube.com/watch?v=Q_OeJh53zFI)
+</p></details>
 <details><summary><u>Day 464</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d454e1.jpg)
