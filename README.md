@@ -1,9 +1,27 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 465 Days (09/12/2020 to 18/03/2022)
+Learning Progress Till Now -> 466 Days (09/12/2020 to 19/03/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
 <details><summary><u>Day 461 - Day 470 ~ March 14, 2022 - March 23, 2022</u></summary><p>
+<details><summary><u>Day 466</u></summary><p>
+
+- ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d456e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d456ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d456b1.jpg)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d456chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d456chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d456chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d456chs5.jpg) 
+- 📖📈 Book reading
+  - 📖 Read 1 page in the book "365 Days With Self-Discipline"
+  - 📖 Read 1 page in the book "LET’S TALK MONEY by monika halan"
+- 🤨[Case study ~ "How Dolo-650 became the go-to fever drug during the pandemic"](https://www.youtube.com/watch?v=tmjzSBiOoYs)
+- 👂🏻 [Watched a Youtube video ~ "The Railway Reshaping The World’s Most Polluted City"](https://www.youtube.com/watch?v=tc355CBeeX0)
+- 💰📈 [Finshots (financial news) ~ "FINSHOTS MONEY - Finshots Money Resolution #8 - What’s your investing strategy?"](https://finshots.in/archive/finshots-money-resolution-8-whats-your-investing-strategy/)
+- 💰📈 [Financial education ~ "Is this the Right time to buy Gold"](https://www.youtube.com/watch?v=it-Lopraoek)
+</p></details>
 <details><summary><u>Day 465</u></summary><p>
 
 - ✔️ [Completed  Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d455e1.jpg)
