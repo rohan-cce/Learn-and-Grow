@@ -1,7 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 468 Days (09/12/2020 to 21/03/2022)
+Learning Progress Till Now -> 469 Days (09/12/2020 to 22/03/2022)
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
 <details><summary><u>Day 461 - Day 470 ~ March 14, 2022 - March 23, 2022</u></summary><p>
+<details><summary><u>Day 469</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d459e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d459ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d459b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d459chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d459chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d459chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d459chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear"
+- 🤨[Case study ~ "Worst Mistake of Kodak #shorts"](https://www.youtube.com/watch?v=5k_9HOyyNuA)
+- 👂🏻 [Watched a Youtube video ~ "Gravitas: Israel's PM Naftali Bennett to visit India"](https://www.youtube.com/watch?v=-g0fGSJlBa8)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Is everything rotten in the startup ecosystem?"](https://finshots.in/archive/the-startup-rot/)
+- 💰📈 [Financial education ~ "The Interstellar Trade #Shorts"](https://www.youtube.com/watch?v=6CY6AFw7p5I)
+</p></details>
 <details><summary><u>Day 468</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d458e1.jpg)
