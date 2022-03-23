@@ -1,9 +1,26 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 469 Days (09/12/2020 to 22/03/2022)
+Learning Progress Till Now -> 470 Days (09/12/2020 to 23/03/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
 <details><summary><u>Day 461 - Day 470 ~ March 14, 2022 - March 23, 2022</u></summary><p>
+<details><summary><u>Day 470</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d460e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d460ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d460b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d460chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d460chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d460chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d460chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear"
+- 🤨[Case study ~ "How HAVELLS gave a 70,000% returns and became a GOLDMINE stock for its investors : Case Study?"](https://www.youtube.com/watch?v=WWpSZY1RAAM)
+- 👂🏻 [Watched a Youtube video ~ "Air quality worsens, smog rebounds after covid-19 related dip | World English News | WION"](https://www.youtube.com/watch?v=W3BIUsDjMtI)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Zomato is breaking the Domino's Barrier"](https://finshots.in/archive/zomato-is-breaking-the-dominos-barrier/)
+- 💰📈 [Financial education ~ "Triple Price #Shorts"](https://www.youtube.com/watch?v=_5NcMCdyybU)
+</p></details>
 <details><summary><u>Day 469</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d459e1.jpg)
