@@ -1,9 +1,26 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 470 Days (09/12/2020 to 23/03/2022)
+Learning Progress Till Now -> 471 Days (09/12/2020 to 24/03/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
 <details><summary><u>Day 461 - Day 470 ~ March 14, 2022 - March 23, 2022</u></summary><p>
+<details><summary><u>Day 471</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d461e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d461ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d461b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d461chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d461chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d461chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d461chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear"
+- 🤨[Case study ~ "Sri Lanka's growing economic crisis; no exam papers and shuttered embassies | World English News"](https://www.youtube.com/watch?v=yFTmA2rCL44)
+- 👂🏻 [Watched a Youtube video ~ "Boost to air power as India successfully test-fires BrahMos supersonic cruise missile"](https://www.youtube.com/watch?v=4OY_zLZikCQ)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Can India become a wheat exporting superpower"](https://finshots.in/archive/can-india-become-a-wheat-exporting-superpower/)
+- 💰📈 [Financial education ~ "My 3 investment mistakes that will save you #shorts"](https://www.youtube.com/watch?v=5DPMnl-R5Uk)
+</p></details>
 <details><summary><u>Day 470</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d460e1.jpg)
