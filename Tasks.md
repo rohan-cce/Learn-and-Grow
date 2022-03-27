@@ -1,6 +1,23 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 473 Days (09/12/2020 to 26/03/2022)
+Learning Progress Till Now -> 474 Days (09/12/2020 to 27/03/2022)
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
+<details><summary><u>Day 474</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d464e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d464ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d464b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d464chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d464chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d464chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d464chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear"
+- 🤨[Case study ~ "India's USD 15 Billion Bullet train project"](https://www.youtube.com/watch?v=Qb-R0UHbMTU)
+- 👂🏻 [Watched a Youtube video ~ "Tech giant YouTube forced to unblock WION after global outrage"](https://www.youtube.com/watch?v=WQ7vy2JxH0U)
+- 💰📈 [Finshots (financial news) ~ "INFOGRAPHIC - Military spending by country, 2021"](https://finshots.in/infographic/military-spending-by-country-2021/)
+- 💰📈 [Financial education ~ "Income Share Agreement | ISA"](https://www.youtube.com/watch?v=Khh4PgjCozU)
+</p></details>
 <details><summary><u>Day 473</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d463e1.jpg)
