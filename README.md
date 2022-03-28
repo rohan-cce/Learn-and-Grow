@@ -1,9 +1,26 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 474 Days (09/12/2020 to 27/03/2022)
+Learning Progress Till Now -> 475 Days (09/12/2020 to 28/03/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
 <details><summary><u>Day 461 - Day 470 ~ March 14, 2022 - March 23, 2022</u></summary><p>
+<details><summary><u>Day 475</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d465e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d465ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d465b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d465chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d465chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d465chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d465chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear"
+- 🤨[Case study ~ "Earth Hour 2022: How did it go?"](https://www.youtube.com/watch?v=x2W8J-4YbUs)
+- 👂🏻 [Watched a Youtube video ~ "Mass testing for people in Shanghai amid partial lockdown | Pandemic | World News | WION"](https://www.youtube.com/watch?v=Dcqm9NWFRhc)   
+- 💰📈 [Finshots (financial news) ~ "ECONOMY - Understanding Human Smuggling and Economic Incentives"](https://finshots.in/archive/human-smuggling/)
+- 💰📈 [Financial education ~ "Why 3 Square in QR code? #LLAShorts"](https://www.youtube.com/watch?v=d4Sq6t0r5k8)
+</p></details>
 <details><summary><u>Day 474</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d464e1.jpg)
