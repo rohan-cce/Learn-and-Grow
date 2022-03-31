@@ -1,8 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 477 Days (09/12/2020 to 30/03/2022)
+Learning Progress Till Now -> 478 Days (09/12/2020 to 31/03/2022)
 
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
 <details><summary><u>Day 471 - Day 480 ~ March 24, 2022 - April 02, 2022</u></summary><p>
+<details><summary><u>Day 478</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d468e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d468ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d468b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d468chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d468chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d468chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d468chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear"
+- 🤨[Case study ~ "Inside Eco-Ark, A High-Tech Fish Farm In Singapore"](https://www.youtube.com/watch?v=RY82Oypgvic)
+- 👂🏻 [Watched a Youtube video ~ "Gravitas: Why global investors are dumping Chinese stocks"](https://www.youtube.com/watch?v=pbibMbcha2s)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Why is SEBI unhappy with Ruchi Soya?"](https://finshots.in/archive/why-is-sebi-unhappy-with-ruchi-soya/)
+- 💰📈 [Financial education ~ "Why do fraudsters escape to London? #LLAShorts 211"](https://www.youtube.com/watch?v=V1wuS2245Gw)
+</p></details>
 <details><summary><u>Day 477</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d467e1.jpg)
