@@ -1,8 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 478 Days (09/12/2020 to 31/03/2022)
+Learning Progress Till Now -> 479 Days (09/12/2020 to 01/04/2022)
 
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
 <details><summary><u>Day 471 - Day 480 ~ March 24, 2022 - April 02, 2022</u></summary><p>
+<details><summary><u>Day 479</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d469e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d469ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d469b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d469chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d469chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d469chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d469chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear"
+- 🤨[Case study ~ "How QUAD partners U.S & Australia cautioned India ahead of Russian Foreign Minister’s visit"](https://www.youtube.com/watch?v=sNg9buE7HHYa)
+- 👂🏻 [Watched a Youtube video ~ "Sergey Lavrov to meet PM Modi, Russia turns to India for support amid global isolation | World News"](https://www.youtube.com/watch?v=VWEjmmDhzpc)
+- 💰📈 [Finshots (financial news) ~ "ECONOMY - What is the endgame for Sri Lanka?"](https://finshots.in/archive/endgame-srilanka/)
+- 💰📈 [Financial education ~ "Don't Invest in Property before checking 10 DOCUMENTS ft. @Legal SHOTS | Real Estate"](https://www.youtube.com/watch?v=Zhxp1BGgBn8)
+</p></details>
 <details><summary><u>Day 478</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d468e1.jpg)
