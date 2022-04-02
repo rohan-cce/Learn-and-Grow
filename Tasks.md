@@ -1,8 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 479 Days (09/12/2020 to 01/04/2022)
+Learning Progress Till Now -> 480 Days (09/12/2020 to 02/04/2022)
 
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
 <details><summary><u>Day 471 - Day 480 ~ March 24, 2022 - April 02, 2022</u></summary><p>
+<details><summary><u>Day 480</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d470e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d470ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d470b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d470chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d470chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d470chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d470chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear"
+- 🤨[Case study ~ "How did IPL's GENIUS Business Model make it a MONEY MACHINE FOR India? : IPL Business case study"](https://www.youtube.com/watch?v=iLY_5DMndWY)
+- 👂🏻 [Watched a Youtube video ~ "Gravitas: How does the Rupee-Rouble system work?"](https://www.youtube.com/watch?v=gx9-dMH86_4)
+- 💰📈 [Finshots (financial news) ~ "MARKETS - PVR Inox is the hero…but is there a villain?"](https://finshots.in/markets/pvr-inox-is-the-hero-but-is-there-a-villian/)
+- 💰📈 [Financial education ~ "How to apply for IPO through Whatsapp! #LLAShorts"](https://www.youtube.com/watch?v=ujHzY1H8CVo)
+</p></details>
 <details><summary><u>Day 479</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d469e1.jpg)
