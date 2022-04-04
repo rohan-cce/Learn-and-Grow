@@ -1,9 +1,26 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 481 Days (09/12/2020 to 03/04/2022)
+Learning Progress Till Now -> 482 Days (09/12/2020 to 04/04/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
 <details><summary><u>Day 481 - Day 490 ~ April 03, 2022 - April 12, 2022</u></summary><p>
+<details><summary><u>Day 482</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d472e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d472ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d472b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d472chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d472chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d472chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d472chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear"
+- 🤨[Case study ~ "India is betting big on this metal for self-reliance"](https://www.youtube.com/watch?v=jPSzT21w9N0)
+- 👂🏻 [Watched a Youtube video ~ "India goods trade crosses $1 trillion | Business News | WION"](https://www.youtube.com/watch?v=AIn2h-_02qU)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Netflix and fast cars are a money-making combo"](https://finshots.in/archive/netflix-and-fast-cars-are-a-money-making-combo/)
+- 💰📈 [Financial education ~ "How Indian government helped Nykaa? #LLAShort 214"](https://www.youtube.com/watch?v=mNVU16VyAqY)
+</p></details>
 <details><summary><u>Day 481</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d471e1.jpg)
