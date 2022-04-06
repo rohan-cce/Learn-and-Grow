@@ -16,14 +16,14 @@ Learning Progress Till Now -> 483 Days (09/12/2020 to 05/04/2022)
 </p></details>
 <details><summary><u>Day 482</u></summary><p>
 
-- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d472e1.jpg)
-- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d472ls1.jpg)
-- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d472b1.jpg)
+- ✔️ [Completed Daily Workout Problem in Elevate]()
+- ✔️ [Completed Daily Workout Problem in lumosity]()
+- ✔️ [Solved Daily Challenge in Brilliant.org]()
 - ✔️ Chess.com
-  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d472chs1.jpg)
-  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d472chs2.jpg)
-  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d472chs3.jpg)
-  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d472chs5.jpg)
+  - ✔️ [Solved Some Puzzles]()
+  - ✔️ [Played Puzzle Rush]()
+  - ✔️ [Solved Daily Puzzle]()
+  - ✔️ [Played puzzle battle with random person]()
 - 📖📈 Book reading
   - 📖 Read 5 pages in the book "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear"
 - 🤨[Case study ~ "India is betting big on this metal for self-reliance"](https://www.youtube.com/watch?v=jPSzT21w9N0)
