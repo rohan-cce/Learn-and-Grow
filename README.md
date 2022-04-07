@@ -1,9 +1,26 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 483 Days (09/12/2020 to 05/04/2022)
+Learning Progress Till Now -> 485 Days (09/12/2020 to 07/04/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
 <details><summary><u>Day 481 - Day 490 ~ April 03, 2022 - April 12, 2022</u></summary><p>
+<details><summary><u>Day 485</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d475e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d475ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d475b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d475chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d475chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d475chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d475chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear"
+- 🤨[Case study ~ "Gravitas: World powers compete for weapons that travel faster than sound"](https://www.youtube.com/watch?v=wv_T8Xdctxo)
+- 👂🏻 [Watched a Youtube video ~ "UN report says carbon removal important to fight Global Warming | WION"](https://www.youtube.com/watch?v=D85ZmiGgyfY)
+- 💰📈 [Finshots (financial news) ~ "Business - Will Axis Bank’s $1.6 billion bet on Citi change its fortunes?"](https://finshots.in/archive/will-axis-banks-1-6-billion-bet-on-citi-change-its-fortunes/)
+- 💰📈 [Financial education ~ "SGB is not tax free? #LLAShorts 101"](https://www.youtube.com/shorts/wQy-4sDN4JY)
+</p></details>
 <details><summary><u>Day 483</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d473e1.jpg)
