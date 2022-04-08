@@ -1,8 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 485 Days (09/12/2020 to 07/04/2022)
+Learning Progress Till Now -> 486 Days (09/12/2020 to 08/04/2022)
 
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
 <details><summary><u>Day 481 - Day 490 ~ April 03, 2022 - April 12, 2022</u></summary><p>
+<details><summary><u>Day 486</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d476e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d476ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d476b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d476chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d476chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d476chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d476chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear"
+- 🤨[Case study ~ "Panama Forest sees major bird declines, birds affected by climate change | WION"](https://www.youtube.com/watch?v=0LgiLb4f46g)
+- 👂🏻 [Watched a Youtube video ~ "Russian currency Rouble rebounds, no longer 'in rubble' | World News | WION"](https://www.youtube.com/watch?v=kz6RLpvF4jQ)
+- 💰📈 [Finshots (financial news) ~ "Economy - Russia has Europe under a gas chokehold"](https://finshots.in/archive/european-dependence-on-russian-gas/)
+- 💰📈 [Financial education ~ "Buy Property at a discount!"](https://www.youtube.com/watch?v=AQSzT6LIIwk)
+</p></details>
 <details><summary><u>Day 485</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d475e1.jpg)
