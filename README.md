@@ -1,9 +1,26 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 486 Days (09/12/2020 to 08/04/2022)
+Learning Progress Till Now -> 487 Days (09/12/2020 to 09/04/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
 <details><summary><u>Day 481 - Day 490 ~ April 03, 2022 - April 12, 2022</u></summary><p>
+<details><summary><u>Day 487</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d477e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d477ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d477b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d477chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d477chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d477chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d477chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear"
+- 🤨[Case study ~ "Why The U.S. Dollar May Be In Danger"](https://www.youtube.com/watch?v=6okaRfROlnY)
+- 👂🏻 [Watched a Youtube video ~ "Gravitas: U.S. to sell F-16 fighter jets to Turkey"](https://www.youtube.com/watch?v=Ek5y3Sm4rN0)
+- 💰📈 [Finshots (financial news) ~ "markets - The HDFC merger - Can the $60 billion elephant dance?"](https://finshots.in/markets/hdfc-merger-can-the-60-billion-elephant-dance/)
+- 💰📈 [Financial education ~ "PIN Code Decoded | How PIN codes are assigned?"](https://www.youtube.com/watch?v=a8mH8-YTC1g)
+</p></details>
 <details><summary><u>Day 486</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d476e1.jpg)
