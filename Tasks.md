@@ -1,8 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 487 Days (09/12/2020 to 09/04/2022)
+Learning Progress Till Now -> 488 Days (09/12/2020 to 10/04/2022)
 
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
 <details><summary><u>Day 481 - Day 490 ~ April 03, 2022 - April 12, 2022</u></summary><p>
+<details><summary><u>Day 488</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d478e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d478ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d478b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d478chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d478chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d478chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d478chs5.jpg)
+- 🤨[Case study ~ "TATA vs Reliance Business War: How TATA NEU App's BUSINESS MODEL will change the game for TATAS?"](https://www.youtube.com/watch?v=eLT1To94V-Q)
+- 👂🏻 [Watched a Youtube video ~ "Greece to burn the double amount of coal, move to limit gas dependence on Russia | WION Climate"](https://www.youtube.com/watch?v=Vv2B6QVQyik)
+- 💰📈 [Finshots (financial news) ~ "FINSHOTS MONEY - Finshots Money Resolution #8 - What’s your investing strategy?"](https://finshots.in/archive/finshots-money-resolution-8-whats-your-investing-strategy/)
+- 💰📈 [Financial education ~ "Do you go to restaurants? Watch this! #LLAShorts 221"](https://www.youtube.com/watch?v=xtQiqg2N8tM)
+</p></details>
+
 <details><summary><u>Day 487</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d477e1.jpg)
