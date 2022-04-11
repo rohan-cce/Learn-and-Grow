@@ -1,9 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 488 Days (09/12/2020 to 10/04/2022)
+Learning Progress Till Now -> 489 Days (09/12/2020 to 11/04/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
 <details><summary><u>Day 481 - Day 490 ~ April 03, 2022 - April 12, 2022</u></summary><p>
+<details><summary><u>Day 489</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d479e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d479ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d479b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d479chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d479chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d479chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d479chs5.jpg)
+- 🤨[Case study ~ "How DREAM 11's GENIUS STRATEGY made it a Money machine for investors? | Business Case Study"](https://www.youtube.com/watch?v=kXvwHAeWYqs)
+- 👂🏻 [Watched a Youtube video ~ "Gravitas Plus: Blood The dark side of Electric Vehicles"](https://www.youtube.com/watch?v=RFHvq-8np1o)
+- 💰📈 [Finshots (financial news) ~ "POLICY - World peace hits a nuclear speed bump"](https://finshots.in/archive/world-peace-hits-a-nuclear-speed-bump/)
+- 💰📈 [Financial education ~ "Russian war impact | Companies cutting ties with Russia"](https://www.youtube.com/watch?v=xcC4I2A8k0o)
+</p></details>
 <details><summary><u>Day 488</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d478e1.jpg)
