@@ -1,9 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 489 Days (09/12/2020 to 11/04/2022)
+Learning Progress Till Now -> 490 Days (09/12/2020 to 12/04/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
 <details><summary><u>Day 481 - Day 490 ~ April 03, 2022 - April 12, 2022</u></summary><p>
+<details><summary><u>Day 490</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d480e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20381/d480ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20381/d480b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d480chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d480chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d480chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d480chs5.jpg)
+- 🤨[Case study ~ "Will India’s box office earnings cross pre-pandemic level this year?"](https://www.youtube.com/watch?v=BS4L5YmE_b4)
+- 👂🏻 [Watched a Youtube video ~ "India's import of Russian oil remains point of contention between New Delhi and Washington"](https://www.youtube.com/watch?v=pQ-C5FJbBss)
+- 💰📈 [Finshots (financial news) ~ "POLICY - Did the RBI sneakily raise interest rates?"](https://finshots.in/archive/rbi-standing-deposit-facility/)
+- 💰📈 [Financial education ~ "Explained in 1 Minute - Selling NFO"](https://www.youtube.com/watch?v=nodm_M1qX_Y)
+</p></details>
 <details><summary><u>Day 489</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20381/d479e1.jpg)
