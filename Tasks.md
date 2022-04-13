@@ -1,7 +1,27 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 490 Days (09/12/2020 to 12/04/2022)
+Learning Progress Till Now -> 491 Days (09/12/2020 to 13/04/2022)
 
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
+<details><summary><u>Day 491 - Day 500 ~ April 13, 2022 - April 22, 2022</u></summary><p>
+<details><summary><u>Day 491</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d481e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d481ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20481/d481b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d481chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d481chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d481chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d481chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear"
+- 🤨[Case study ~ "How China SECRETLY Killed Sri Lanka ? : Understanding China's Master plan Ep 1/3 Case Study"](https://www.youtube.com/watch?v=H3Z7bFXfMAU)
+- 👂🏻 [Watched a Youtube video ~ "Australia consumer sentiment slips due to rising inflation | Economy | WION"](https://www.youtube.com/watch?v=UcPQZj_TqMU)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Why does Amazon hate unions?"](https://finshots.in/archive/why-does-amazon-hate-unions/)
+- 💰📈 [Financial education ~ "1 stock but multiple shares?"](https://www.youtube.com/watch?v=k7Uaih2sfH0)
+</p></details>
+</p></details>
+
 <details><summary><u>Day 481 - Day 490 ~ April 03, 2022 - April 12, 2022</u></summary><p>
 <details><summary><u>Day 490</u></summary><p>
 
