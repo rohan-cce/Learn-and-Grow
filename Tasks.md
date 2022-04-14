@@ -1,8 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 491 Days (09/12/2020 to 13/04/2022)
+Learning Progress Till Now -> 492 Days (09/12/2020 to 14/04/2022)
 
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
 <details><summary><u>Day 491 - Day 500 ~ April 13, 2022 - April 22, 2022</u></summary><p>
+<details><summary><u>Day 492</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d482e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d482ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20481/d482b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d482chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d482chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d482chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d482chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear"
+- 🤨[Case study ~ "Gravitas: India offers wheat to the world"](https://www.youtube.com/watch?v=kmRSyldScNk)
+- 👂🏻 [Watched a Youtube video ~ "India's software giant Infosys announces withdrawal from russia  | Business News | WION"](https://www.youtube.com/watch?v=2BTurrRNAog)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Understanding Data Localisation Rules"](https://finshots.in/archive/understanding-data-localisation-rules/)
+- 💰📈 [Financial education ~ "Explained in 1 Minute - Coffee Can Investing "](https://www.youtube.com/watch?v=Qza7hFSUt6k)
+</p></details>
 <details><summary><u>Day 491</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d481e1.jpg)
