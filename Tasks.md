@@ -1,8 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 492 Days (09/12/2020 to 14/04/2022)
+Learning Progress Till Now -> 493 Days (09/12/2020 to 15/04/2022)
 
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
 <details><summary><u>Day 491 - Day 500 ~ April 13, 2022 - April 22, 2022</u></summary><p>
+<details><summary><u>Day 493</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d483e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d483ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20481/d483b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d483chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d483chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d483chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d483chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear"
+- 🤨[Case study ~ "Did you know this country was once bankrupt? | WION Originals"](https://www.youtube.com/watch?v=XG1C0oZZcWY)
+- 👂🏻 [Watched a Youtube video ~ "Holograms, Augmented Reality: All You Need to Know About PMs Museum unveiled by PM Modi"](https://www.youtube.com/watch?v=4u23NetFV-A)
+- 💰📈 [Finshots (financial news) ~ "INFOGRAPHIC - Nestle India revenue breakdown"](https://finshots.in/infographic/breaking-down-the-revenue-streams-of-nestle-india/)
+- 💰📈 [Financial education ~ "What Elon Musk told Twitter Chairman as he made $41 billion takeover offer"](https://www.youtube.com/watch?v=ivR3hHt8WdU)
+</p></details>
 <details><summary><u>Day 492</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d482e1.jpg)
