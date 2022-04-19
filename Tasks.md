@@ -1,8 +1,26 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 496 Days (09/12/2020 to 18/04/2022)
+Learning Progress Till Now -> 497 Days (09/12/2020 to 19/04/2022)
 
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
 <details><summary><u>Day 491 - Day 500 ~ April 13, 2022 - April 22, 2022</u></summary><p>
+<details><summary><u>Day 497</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d487e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d487ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20481/d487b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d487chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d487chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d487chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d487chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear"
+- 🤨[Case study ~ "Impact of automation on jobs: Use of AI-based technology in hiring talent | Business News | WION"](https://www.youtube.com/watch?v=C5UbQMJ4ArA)
+- 👂🏻 [Watched a Youtube video ~ "US executives' pay soars 31% after a slight covid era decline | Business News | WION"](https://www.youtube.com/watch?v=k6G_fK2DP8o)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Why is Twitter swallowing a poison pill?"](https://finshots.in/archive/why-is-twitter-swallowing-a-poison-pill/)
+- 💰📈 [Financial education ~ "Mutual Fund Portfolio"](https://www.youtube.com/watch?v=Wr35FD-Qgj0)
+</p></details>
+
 <details><summary><u>Day 496</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d486e1.jpg)
