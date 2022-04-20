@@ -1,9 +1,27 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 497 Days (09/12/2020 to 19  /04/2022)
+Learning Progress Till Now -> 498 Days (09/12/2020 to 20/04/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
 <details><summary><u>Day 491 - Day 500 ~ April 13, 2022 - April 22, 2022</u></summary><p>
+<details><summary><u>Day 498</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d488e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d488ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20481/d488b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d488chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d488chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d488chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d488chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear"
+- 🤨[Case study ~ "How PAKISTAN committed SUICIDE with its ECONOMY ? : Pakistani Economic Crisis case study"](https://www.youtube.com/watch?v=SGpTBKbGcQ8)
+- 👂🏻 [Watched a Youtube video ~ "Elon Musk willing to invest $15 billion of his money to buy Twitter | Busines News | WION"](https://www.youtube.com/watch?v=JLPqgEEMhQ8)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Is Amway running a pyramid scheme?"](https://finshots.in/archive/is-amway-running-a-pyramid-scheme/)
+- 💰📈 [Financial education ~ "Twitter launched a poison pill #LLAShorts 231"](https://www.youtube.com/watch?v=XUzh_y7gt1Y)
+</p></details>
+
 <details><summary><u>Day 497</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d487e1.jpg)
