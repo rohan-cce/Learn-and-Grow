@@ -1,9 +1,27 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 498 Days (09/12/2020 to 20/04/2022)
+Learning Progress Till Now -> 499 Days (09/12/2020 to 21/04/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
 <details><summary><u>Day 491 - Day 500 ~ April 13, 2022 - April 22, 2022</u></summary><p>
+<details><summary><u>Day 499</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d489e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d489ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20481/d489b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d489chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d489chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d489chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d489chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear"
+- 🤨[Case study ~ "Gravitas: Over 200,000 subscribers leave Netflix"](https://www.youtube.com/watch?v=qrNkllSU_ds)
+- 👂🏻 [Watched a Youtube video ~ "Climate change is causing Glacial melt in Bolivia | WION Climate Tracker"](https://www.youtube.com/watch?v=7GOugySW6lw)
+- 💰📈 [Finshots (financial news) ~ "POLICY - Why does Bengaluru have so many power cuts?"](https://finshots.in/archive/why-does-bengaluru-have-so-many-power-cuts/)
+- 💰📈 [Financial education ~ "Explained in 1 Minute - Black to White | 5 crore ki painting?"](https://www.youtube.com/watch?v=4F1K_obnc5Q)
+</p></details>
+
 <details><summary><u>Day 498</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d488e1.jpg)
