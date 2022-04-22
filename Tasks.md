@@ -1,8 +1,26 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 499 Days (09/12/2020 to 21/04/2022)
+Learning Progress Till Now -> 500 Days (09/12/2020 to 22/04/2022)
 
 <details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
 <details><summary><u>Day 491 - Day 500 ~ April 13, 2022 - April 22, 2022</u></summary><p>
+<details><summary><u>Day 500</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d490e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d490ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20481/d490b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d490chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d490chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d490chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d490chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear"
+- 🤨[Case study ~ "Why Google sending low quality maps in India"](https://www.youtube.com/watch?v=im-0wpiiXME)
+- 👂🏻 [Watched a Youtube video ~ "West Asia uses Nuclear power to shift to cleaner energy | Gulf | WION Climate Tracker | English News"](https://www.youtube.com/watch?v=qlVEW9VmZIk)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Netflix isn't chilling anymore"](https://finshots.in/archive/netflix-isnt-chilling-anymore/)
+- 💰📈 [Financial education ~ "Elon Musk, Twitter & poison pill: What’s cooking?"](https://www.youtube.com/watch?v=Tv2D-GOu8qQ)
+</p></details>
+
 <details><summary><u>Day 499</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d489e1.jpg)
