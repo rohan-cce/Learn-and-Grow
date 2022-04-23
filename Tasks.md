@@ -1,7 +1,28 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 500 Days (09/12/2020 to 22/04/2022)
+Learning Progress Till Now -> 501 Days (09/12/2020 to 23/04/2022)
+<details><summary>Day 501 - 550 ~ April 23, 2022 - June 12, 2022</summary><p>
+<details><summary><u>Day 501 - Day 510 ~ April 23, 2022 - May 02, 2022</u></summary><p>
+<details><summary><u>Day 501</u></summary><p>
 
-<details><summary>Day 451 - 500 ~ March 04, 2022 - April 23, 2022</summary><p>
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d491e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d491ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20481/d491b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d491chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d491chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d491chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d491chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear"
+- 🤨[Case study ~ "Is the West trying to hide Russian oil imports"](https://www.youtube.com/watch?v=9tbgMKk0bEM)
+- 👂🏻 [Watched a Youtube video ~ "France sends heavy artillery to Ukraine to help boost their defence | WION"](https://www.youtube.com/watch?v=eykO6iFGv-8)
+- 💰📈 [Finshots (financial news) ~ "MARKETS - Is VA Tech Wabag ready to make a splash…again?"](https://finshots.in/markets/is-va-tech-wabag-ready-to-make-a-splash-again/)
+- 💰📈 [Financial education ~ "Why The U.S. Is Going After Yachts And Mansions Of Russian Billionaire Oligarchs"](https://www.youtube.com/watch?v=Sj4MnHQMzRQ)
+</p></details>
+</p></details>
+</p></details>
+
+<details><summary>Day 451 - 500 ~ March 04, 2022 - April 22, 2022</summary><p>
 <details><summary><u>Day 491 - Day 500 ~ April 13, 2022 - April 22, 2022</u></summary><p>
 <details><summary><u>Day 500</u></summary><p>
 
