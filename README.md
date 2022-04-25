@@ -1,8 +1,26 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 502 Days (09/12/2020 to 24/04/2022)
+Learning Progress Till Now -> 503 Days (09/12/2020 to 25/04/2022)
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 <details><summary>Day 501 - 550 ~ April 23, 2022 - June 12, 2022</summary><p>
 <details><summary><u>Day 501 - Day 510 ~ April 23, 2022 - May 02, 2022</u></summary><p>
+<details><summary><u>Day 503</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d493e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d493ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20481/d493b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d493chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d493chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d493chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d493chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear"
+- 🤨[Case study ~ "Why is Netflix Losing Subscribers?"](https://www.youtube.com/watch?v=iC64zlLkJJ8)
+- 👂🏻 [Watched a Youtube video ~ "The battle for French Presidency: Macron looking to secure a second consecutive term | English News"](https://www.youtube.com/watch?v=Rvfyie_v8-8)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Why are airlines betting on the Metaverse?"](https://finshots.in/archive/why-are-airlines-betting-on-the-metaverse/)
+- 💰📈 [Financial education ~ "4 unlikely sector where India shines "](https://www.youtube.com/watch?v=P0MTvybCxWo)
+</p></details>
+
 <details><summary><u>Day 502</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d492e1.jpg)
