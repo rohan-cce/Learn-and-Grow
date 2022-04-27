@@ -1,7 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 504 Days (09/12/2020 to 26/04/2022)
+Learning Progress Till Now -> 505 Days (09/12/2020 to 27/04/2022)
 <details><summary>Day 501 - 550 ~ April 23, 2022 - June 12, 2022</summary><p>
 <details><summary><u>Day 501 - Day 510 ~ April 23, 2022 - May 02, 2022</u></summary><p>
+<details><summary><u>Day 505</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d495e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d495ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20481/d495b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d495chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d495chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d495chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d495chs5.jpg)
+- 📖📈 Book reading
+  - 📖 Read 5 pages in the book "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear"
+- 🤨[Case study ~ "India's coal reserves fall. What does it mean? | WION Originals"](https://www.youtube.com/watch?v=mEdXvo9WLKU)
+- 👂🏻 [Watched a Youtube video ~ "Russia halts gas supplies to 2 nations, wants gas payments in roubles | World News | WION"](https://www.youtube.com/watch?v=Wo94dFBj1Zc)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - The UK wants India drunk on its scotch whiskey"](https://finshots.in/archive/the-uk-wants-india-drunk-on-its-scotch-whiskey/)
+- 💰📈 [Financial education ~ "How to save tax"](https://www.youtube.com/watch?v=ZHUfZlrT44A)
+</p></details>
+
 <details><summary><u>Day 504</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d494e1.jpg)
