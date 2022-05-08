@@ -1,8 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 515 Days (09/12/2020 to 07/05/2022)
+Learning Progress Till Now -> 516 Days (09/12/2020 to 08/05/2022)
   
 <details><summary>Day 501 - 550 ~ April 23, 2022 - June 12, 2022</summary><p>
 <details><summary><u>Day 511 - Day 520 ~ May 03, 2022 -  May 12, 2022</u></summary><p>
+<details><summary><u>Day 516</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d506e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d506ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20481/d506b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d506chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d506chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d506chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d506chs5.jpg)
+- 🤨[Case study ~ "How DUBAI's Secret STRATEGY made it SUPER RICH & SUPER POWERFUL? : Dubai Growth case study"](https://youtu.be/nEBVXO8xnFs)
+- 👂🏻 [Watched a Youtube video ~ "India forex reserves dip below $600 bn, Rupee hit an-all time low | World News | WION"](https://www.youtube.com/watch?v=MZ4XqE6dl7Q)
+- 💰📈 [Finshots (financial news) ~ "WEEKLY - Weekly Wrapup: Adani Wilmar has broken away from the FMCG pack"](https://finshots.in/archive/weekly-wrapup-adani-wilmar/)
+- 💰📈 [Financial education ~ "Are G-Secs better than EPF, PPF, SSY & Gilt funds? | RBI Retail direct scheme #LLA"](https://www.youtube.com/watch?v=owLUuFgcaLQ)
+
+</p></details>
+  
 <details><summary><u>Day 515</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d505e1.jpg)
