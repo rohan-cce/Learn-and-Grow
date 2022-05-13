@@ -1,8 +1,26 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 520 Days (09/12/2020 to 12/05/2022)
+Learning Progress Till Now -> 521 Days (09/12/2020 to 13/05/2022)
 
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 <details><summary>Day 501 - 550 ~ April 23, 2022 - June 12, 2022</summary><p>
+<details><summary><u>Day 521 - Day 540 ~ May 13, 2022 -  May 22, 2022</u></summary><p>
+<details><summary><u>Day 521</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d511e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d511ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20481/d511b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d511chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d511chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d511chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d511chs5.jpg)
+- 🤨[Case study ~ "How do American billionaires avoid paying taxes? | WION Originals"](https://www.youtube.com/watch?v=kfMW3iQym7A)
+- 👂🏻 [Watched a Youtube video ~ "Ukraine invasion: Moscow now warns Finland over NATO bid | Latest English News | WION"](https://www.youtube.com/watch?v=Aayytvqh8XA)
+- 💰📈 [Finshots (financial news) ~ "POLICY - The economic impact of India’s heatwaves"](https://finshots.in/archive/indias-crippling-heatwaves/)
+- 💰📈 [Financial education ~ "Largest Health Insurance, you don't know! #LLAShorts 250"](https://www.youtube.com/watch?v=J9IO0E6gbTw)
+
+</p></details>
+</p></details>
 <details><summary><u>Day 511 - Day 520 ~ May 03, 2022 -  May 12, 2022</u></summary><p>
 <details><summary><u>Day 520</u></summary><p>
 
