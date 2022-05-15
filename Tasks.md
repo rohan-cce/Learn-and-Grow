@@ -1,8 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 522 Days (09/12/2020 to 14/05/2022)
+Learning Progress Till Now -> 523 Days (09/12/2020 to 15/05/2022)
   
 <details><summary>Day 501 - 550 ~ April 23, 2022 - June 12, 2022</summary><p>
 <details><summary><u>Day 521 - Day 540 ~ May 13, 2022 -  May 22, 2022</u></summary><p>
+<details><summary><u>Day 523</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d513e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d513ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20481/d513b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d513chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d513chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d513chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d513chs5.jpg)
+- 🤨[Case study ~ "Gravitas Plus: Which countries could go the Sri Lanka way"](https://www.youtube.com/watch?v=CdrLp0lKjHc)
+- 👂🏻 [Watched a Youtube video ~ "India bans export of wheat to other nations to control rising prices | World News | WION"](https://www.youtube.com/watch?v=8leZ2ntMc4M)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Understanding the new VPN rules in India"](https://finshots.in/archive/understanding-new-vpn-rules/)
+- 💰📈 [Financial education ~ "FSSAI | What is fssai? | Food License | Food Safety and Standards Authority of India | Why is this on all food packets?"](https://www.youtube.com/watch?v=oUoBhBpkcas)
+
+</p></details>
 <details><summary><u>Day 522</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d512e1.jpg)
