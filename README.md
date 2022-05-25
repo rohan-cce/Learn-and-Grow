@@ -1,9 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 532 Days (09/12/2020 to 24/05/2022)
+Learning Progress Till Now -> 533 Days (09/12/2020 to 25/05/2022)
 
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 <details><summary>Day 501 - 550 ~ April 23, 2022 - June 12, 2022</summary><p>
 <details><summary><u>Day 531 - Day 540 ~ May 23, 2022 -  June 01, 2022</u></summary><p>
+<details><summary><u>Day 533</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d523e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d523ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20481/d523b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d523chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d523chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d523chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d523chs5.jpg)
+- 🤨[Case study ~ "How Adani got RICH after Palm Oil crisis ? : Edible Oil crisis Case study"](https://www.youtube.com/watch?v=h7xd2PqtglQ)
+- 👂🏻 [Watched a Youtube video ~ "'Want to accelerate economic ties with India,' says Australian envoy to India Barry O'Farrell | WION"](https://www.youtube.com/watch?v=Ebv2TbbaBnc)
+- 💰📈 [Finshots (financial news) ~ "POLICY - 3 things you should know about the National Family Health Survey"](https://finshots.in/archive/3-things-you-should-know-about-the-national-family-health-survey/)
+- 💰📈 [Financial education ~ "Best Share you can't buy! #LLAShort 254"](https://www.youtube.com/shorts/Dv1pOwkerKs)
+
+</p></details>
 <details><summary><u>Day 532</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d522e1.jpg)
