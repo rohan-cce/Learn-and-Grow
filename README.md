@@ -1,9 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 535 Days (09/12/2020 to 27/05/2022)
+Learning Progress Till Now -> 536 Days (09/12/2020 to 28/05/2022)
 
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 <details><summary>Day 501 - 550 ~ April 23, 2022 - June 12, 2022</summary><p>
 <details><summary><u>Day 531 - Day 540 ~ May 23, 2022 -  June 01, 2022</u></summary><p>
+<details><summary><u>Day 536</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d526e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d526ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20481/d526b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d526chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d526chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d526chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d526chs5.jpg)
+- 🤨[Case study ~ "How Bangladesh's Secret STRATEGY made it RICH? : Business Case Study"](https://www.youtube.com/watch?v=t_qNc56FwsU)
+- 👂🏻 [Watched a Youtube video ~ "2024 Olympic village using low-carbon construction technology | WION Climate Tracker"](https://www.youtube.com/watch?v=NrKwgwZk65w)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - An explainer on India's digital tax revenues"](https://finshots.in/archive/indias-digital-tax/)
+- 💰📈 [Financial education ~ "steelstocks"](https://www.youtube.com/watch?v=6EhwY1xf6fw)
+
+</p></details>
 <details><summary><u>Day 535</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d525e1.jpg)
