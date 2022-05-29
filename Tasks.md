@@ -1,8 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 536 Days (09/12/2020 to 28/05/2022)
+Learning Progress Till Now -> 537 Days (09/12/2020 to 29/05/2022)
   
 <details><summary>Day 501 - 550 ~ April 23, 2022 - June 12, 2022</summary><p>
 <details><summary><u>Day 531 - Day 540 ~ May 23, 2022 -  June 01, 2022</u></summary><p>
+<details><summary><u>Day 537</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d527e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d527ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20481/d527b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d527chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d527chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d527chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d527chs5.jpg)
+- 🤨[Case study ~ "How covid-19 changed lives of Mumbai's Dabbawalas | Ground Report | WION"](https://www.youtube.com/watch?v=JzvZuIFjtL4)
+- 👂🏻 [Watched a Youtube video ~ "Gravitas Plus: Gun terror in America"](https://www.youtube.com/watch?v=2B6E53Qk2GI)
+- 💰📈 [Finshots (financial news) ~ "POLICY - The economic cost of “aliens”](https://finshots.in/archive/the-economic-cost-of-aliens/)
+- 💰📈 [Financial education ~ "Dotcom Bubble | Market Crash"](https://www.youtube.com/watch?v=TYDAfq8po3I)
+
+</p></details>
 <details><summary><u>Day 536</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d526e1.jpg)
