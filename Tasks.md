@@ -1,8 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 539 Days (09/12/2020 to 31/05/2022)
+Learning Progress Till Now -> 540 Days (09/12/2020 to 01/06/2022)
   
 <details><summary>Day 501 - 550 ~ April 23, 2022 - June 12, 2022</summary><p>
 <details><summary><u>Day 531 - Day 540 ~ May 23, 2022 -  June 01, 2022</u></summary><p>
+<details><summary><u>Day 540</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d530e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d530ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20481/d530b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d530chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d530chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d530chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d530chs5.jpg)
+- 🤨[Case study ~ "How Andaman and Nicobar's Military STRATEGY is making India UNBEATABLE? : Geopolitics Case study"](https://www.youtube.com/watch?v=PZEQnCaGxgw)
+- 👂🏻 [Watched a Youtube video ~ "Moscow halts gas supplies to Netherlands, Germany, Denmark citing payment failure | World News"](https://www.youtube.com/watch?v=w9W6LRpX0qo)
+- 💰📈 [Finshots (financial news) ~ "POLICY - Decoding the Northern Ireland Protocol"](https://finshots.in/archive/decoding-the-northern-ireland-protocol/)
+- 💰📈 [Financial education ~ "This is why you are NOT getting HIGH-PAYING CLIENTS | Freelance Cold Email Guide"](https://www.youtube.com/watch?v=fvfX28rPYxA)
+
+</p></details>
 <details><summary><u>Day 539</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d529e1.jpg)
