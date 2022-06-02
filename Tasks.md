@@ -1,7 +1,26 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 540 Days (09/12/2020 to 01/06/2022)
+Learning Progress Till Now -> 541 Days (09/12/2020 to 02/06/2022)
   
-<details><summary>Day 501 - 550 ~ April 23, 2022 - June 12, 2022</summary><p>
+<details><summary>Day 501 - 550 ~ April 23, 2022 - June 11, 2022</summary><p>
+<details><summary><u>Day 541 - Day 550 ~ June 02, 2022 -  June 11, 2022</u></summary><p>
+<details><summary><u>Day 541</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d531e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d531ls1.jpg)
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/brilliant.org/From%20day%20481/d531b1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d531chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d531chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d531chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d531chs5.jpg)
+- 🤨[Case study ~ "Arctic aims for greener form of energy | Svalbard Archipelago looks at sustainable tourism | WION"](https://www.youtube.com/watch?v=XkdSnNglmXo)
+- 👂🏻 [Watched a Youtube video ~ "Gravitas: Supply crunch forces Malaysia to ban chicken export"](https://www.youtube.com/watch?v=84WCH_t-XyU)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Is the roaring startup party coming to an end?"](https://finshots.in/archive/is-the-startup-party-over/)
+- 💰📈 [Financial education ~ "How to save your portfolio? | Understand the difference between hard and soft assets"](https://www.youtube.com/watch?v=nb5Z5OgyQn0)
+
+</p></details>
+</p></details>
+
 <details><summary><u>Day 531 - Day 540 ~ May 23, 2022 -  June 01, 2022</u></summary><p>
 <details><summary><u>Day 540</u></summary><p>
 
