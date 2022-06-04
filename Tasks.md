@@ -1,8 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 542 Days (09/12/2020 to 03/06/2022)
+Learning Progress Till Now -> 543 Days (09/12/2020 to 04/06/2022)
   
 <details><summary>Day 501 - 550 ~ April 23, 2022 - June 11, 2022</summary><p>
-<details><summary><u>Day 541 - Day 550 ~ June 02, 2022 -  June 11, 2022</u></summary><p><details><summary><u>Day 542</u></summary><p>
+<details><summary><u>Day 543</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d533e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d533ls1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d533chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d533chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d533chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d533chs5.jpg)
+- 🤨[Case study ~ "EXPLAINED: How fall of a currency value affects a country? : Using Case study of China and Nigeria"](https://www.youtube.com/watch?v=FPj5gTT4j_A)
+- 👂🏻 [Watched a Youtube video ~ "Fossil fuel impact on the climate: LNG industry worsens climate emissions | World English News"](https://www.youtube.com/watch?v=PF9q-WxZDng)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Can you fix farming by going back 8000 years?"](https://finshots.in/archive/can-you-fix-farming-by-going-back-8000-years/)
+- 💰📈 [Financial education ~ "YOU can be their NEXT VICTIM | 12 Scams Exposed ft."](https://www.youtube.com/watch?v=CyGhy5kfwJw)
+
+</p></details>
+<details><summary><u>Day 541 - Day 550 ~ June 02, 2022 -  June 11, 2022</u></summary>
+<p><details><summary><u>Day 542</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d532e1.jpg)
 - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d532ls1.jpg)
