@@ -1,9 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 543 Days (09/12/2020 to 04/06/2022)
+Learning Progress Till Now -> 544 Days (09/12/2020 to 05/06/2022)
 
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 <details><summary>Day 501 - 550 ~ April 23, 2022 - June 11, 2022</summary><p>
 <details><summary><u>Day 541 - Day 550 ~ June 02, 2022 -  June 11, 2022</u></summary><p>
+<details><summary><u>Day 544</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d534e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d534ls1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d534chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d534chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d534chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d534chs5.jpg)
+- 🤨[Case study ~ "Why Sandalwood Is So Expensive | So Expensive"](https://www.youtube.com/watch?v=QPRpWg_wU0A)
+- 👂🏻 [Watched a Youtube video ~ "Monkeypox cases on the rise: What are the key symptoms of infection? | World News | WION"](https://www.youtube.com/watch?v=Bp50Hjer_A4)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - The menace of cyberattacks is plaguing Indian firms"](https://finshots.in/archive/cyberattacks-against-indian-firms/)
+- 💰📈 [Financial education ~ "Monopoly"](https://www.youtube.com/shorts/_nOvXR9-t-8)
+
+</p></details>
 <details><summary><u>Day 543</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d533e1.jpg)
