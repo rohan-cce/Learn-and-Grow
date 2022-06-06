@@ -1,8 +1,23 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 544 Days (09/12/2020 to 05/06/2022)
+Learning Progress Till Now -> 545 Days (09/12/2020 to 06/06/2022)
   
 <details><summary>Day 501 - 550 ~ April 23, 2022 - June 11, 2022</summary><p>
 <details><summary><u>Day 541 - Day 550 ~ June 02, 2022 -  June 11, 2022</u></summary>
+<details><summary><u>Day 545</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d535e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d535ls1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d535chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d535chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d535chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d535chs5.jpg)
+- 🤨[Case study ~ "Google loses defamation fight: Court says Google defamed John Barilaro by hosting videos on YouTube"](https://www.youtube.com/watch?v=iFLDFlKfzeA)
+- 👂🏻 [Watched a Youtube video ~ "Saudi Arabia raises the official selling price of oil | World Latest English News | Business News"](https://www.youtube.com/watch?v=py6CJgPiXmA)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - What happens at Davos, anyway?"](https://finshots.in/archive/davos-relevance/)
+- 💰📈 [Financial education ~ "forex reserve declining?"](https://www.youtube.com/shorts/mWzAAWoZMLk)
+
+</p></details>
 <details><summary><u>Day 544</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d534e1.jpg)
