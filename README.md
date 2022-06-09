@@ -1,9 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 547 Days (09/12/2020 to 08/06/2022)
+Learning Progress Till Now -> 548 Days (09/12/2020 to 09/06/2022)
 
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 <details><summary>Day 501 - 550 ~ April 23, 2022 - June 11, 2022</summary><p>
 <details><summary><u>Day 541 - Day 550 ~ June 02, 2022 -  June 11, 2022</u></summary><p>
+<details><summary><u>Day 548</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d538e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d538ls1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d538chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d538chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d538chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d538chs5.jpg)
+- 🤨[Case study ~ "Decoding the Pros & Cons of EU's 'Universal Charger' move | Business News | World News | WION"](https://www.youtube.com/watch?v=oZohMsMAl0w)
+- 👂🏻 [Watched a Youtube video ~ "Experimental drug cured cancer in US trial | 18 rectal cancer patients cured | WION"](https://www.youtube.com/watch?v=16PEvojVOgo)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - The Cotton Rollercoaster"](https://finshots.in/archive/the-cotton-rollercoaster/)
+- 💰📈 [Financial education ~ "Airbus deliveries fell 6% in May amid tight supply chain | World Busines Watch | WION"](https://www.youtube.com/watch?v=eU4UCTzPKv4)
+
+</p></details>
 <details><summary><u>Day 547</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d537e1.jpg)
