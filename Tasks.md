@@ -1,5 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 550 Days (09/12/2020 to 11/06/2022)
+Learning Progress Till Now -> 551 Days (09/12/2020 to 12/06/2022)
+
+<details><summary>Day 551 - 600 ~ June 12, 2022 -  August 01, 2022</summary><p>
+<details><summary><u>Day 551 - Day 560 ~ June 12, 2022 -  June 21, 2022</u></summary>
+<details><summary><u>Day 551</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d541e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d541ls1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d541chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d541chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d541chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d541chs5.jpg)
+- 🤨[Case study ~ "Explainer: How SUBSIDIES are Bankrupting India? | Case Study"](https://www.youtube.com/watch?v=6EPaakjCvAI)
+- 👂🏻 [Watched a Youtube video ~ "Wimbledon to give this whopping prize money to this year’s winner | WION Originals"](https://www.youtube.com/watch?v=5BkKfX2oSAg)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - The Gamechanger - What is credit on UPI?"](https://finshots.in/archive/credit-on-upi/)
+- 💰📈 [Financial education ~ "20,000 Cr ka Scam! "](https://www.youtube.com/shorts/Oo28bGCfhSY)
+
+</p></details>
+</p></details>
+</p></details>
   
 <details><summary>Day 501 - 550 ~ April 23, 2022 - June 11, 2022</summary><p>
 <details><summary><u>Day 541 - Day 550 ~ June 02, 2022 -  June 11, 2022</u></summary>
