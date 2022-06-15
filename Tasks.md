@@ -1,8 +1,23 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 553 Days (09/12/2020 to 14/06/2022)
+Learning Progress Till Now -> 554 Days (09/12/2020 to 15/06/2022)
 
 <details><summary>Day 551 - 600 ~ June 12, 2022 -  August 01, 2022</summary><p>
 <details><summary><u>Day 551 - Day 560 ~ June 12, 2022 -  June 21, 2022</u></summary>
+<details><summary><u>Day 554</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d544e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d544ls1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d544chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d544chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d544chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d544chs5.jpg)
+- 🤨[Case study ~ "How TATA VOLTAS' brilliant business STRATEGY made it the KING of Indian AC market? : Case study"](https://www.youtube.com/watch?v=kotO3sUv-xo)
+- 👂🏻 [Watched a Youtube video ~ "Russia now India's 2nd biggest oil supplier"](https://www.youtube.com/watch?v=oaBXKKdv_vI)
+- 💰📈 [Finshots (financial news) ~ "POLICY - Indian Fishermen vs the WTO"](https://finshots.in/archive/indian-fishermen-vs-the-wto/)
+- 💰📈 [Financial education ~ "Explainer: Why a RECESSION in 2022 A GOOD THING!"](https://www.youtube.com/watch?v=WznnmWum1oQ)
+
+</p></details>
 <details><summary><u>Day 553</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d543e1.jpg)
