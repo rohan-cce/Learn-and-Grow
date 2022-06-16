@@ -1,8 +1,23 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 554 Days (09/12/2020 to 15/06/2022)
+Learning Progress Till Now -> 555 Days (09/12/2020 to 16/06/2022)
 
 <details><summary>Day 551 - 600 ~ June 12, 2022 -  August 01, 2022</summary><p>
 <details><summary><u>Day 551 - Day 560 ~ June 12, 2022 -  June 21, 2022</u></summary>
+<details><summary><u>Day 555</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d545e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d545ls1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d545chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d545chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d545chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d545chs5.jpg)
+- 🤨[Case study ~ "Once-dominant browser lost its appeal overtime, Microsoft to shut down Internet Explorer | WION"](https://www.youtube.com/watch?v=Q3K8E2cUPy4)
+- 👂🏻 [Watched a Youtube video ~ "Sanctions of Russian oil & gas prompts burning of fossil fuel"](https://www.youtube.com/watch?v=wgPeWLW7Nx8)
+- 💰📈 [Finshots (financial news) ~ "POLICY - How to cool the earth without reducing emissions"](https://finshots.in/archive/how-to-cool-the-earth-without-reducing-emissions/)
+- 💰📈 [Financial education ~ "US stocks fall into bear market territory"](https://www.youtube.com/watch?v=FHCdw1gZ3tE)
+
+</p></details>
 <details><summary><u>Day 554</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d544e1.jpg)
