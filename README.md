@@ -1,10 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 555 Days (09/12/2020 to 16/06/2022)
+Learning Progress Till Now -> 556 Days (09/12/2020 to 17/06/2022)
 
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 551 - 600 ~ June 12, 2022 -  August 01, 2022</summary><p>
 <details><summary><u>Day 551 - Day 560 ~ June 12, 2022 -  June 21, 2022</u></summary>
+<details><summary><u>Day 556</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d546e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d546ls1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d546chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d546chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d546chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d546chs5.jpg)
+- 🤨[Case study ~ "Strong fears of recession | US Fed hikes interest rates | How it affects your budget"](https://www.youtube.com/watch?v=WathdU3_pfI)
+- 👂🏻 [Watched a Youtube video ~ "Global market meltdown: Series of hikes by central banks | Asian markets open in red | English News"](https://www.youtube.com/watch?v=piD2vrJ-W-g)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Understanding Private 5G Networks"](https://finshots.in/archive/understanding-private-5g-networks/)
+- 💰📈 [Financial education ~ "Why is the crypto market crashing"](https://www.youtube.com/watch?v=bxe570nqOCk)
+
+</p></details>
 <details><summary><u>Day 555</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d545e1.jpg)
