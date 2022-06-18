@@ -1,8 +1,23 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 556 Days (09/12/2020 to 17/06/2022)
+Learning Progress Till Now -> 557 Days (09/12/2020 to 18/06/2022)
 
 <details><summary>Day 551 - 600 ~ June 12, 2022 -  August 01, 2022</summary><p>
 <details><summary><u>Day 551 - Day 560 ~ June 12, 2022 -  June 21, 2022</u></summary>
+<details><summary><u>Day 557</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d547e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d547ls1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d547chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d547chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d547chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d547chs5.jpg)
+- 🤨[Case study ~ "How UPI's 2.0 STRATEGY will KILL VISA and MASTERCARD Duopoly in India? :UPI CREDIT LINKING EXPLAINED"](https://www.youtube.com/watch?v=sZmNdXZjKgs)
+- 👂🏻 [Watched a Youtube video ~ "Tribunal orders Ecuadorian oil company to shut flares by March 2023 | WION Climate Tracker"](https://www.youtube.com/watch?v=0fObf1-rDXU)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Understanding Private 5G Networks"](https://finshots.in/archive/understanding-private-5g-networks/)
+- 💰📈 [Financial education ~ "SEBI changed this"](https://www.youtube.com/shorts/bvXFxnEtUeo)
+
+</p></details>
 <details><summary><u>Day 556</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d546e1.jpg)
