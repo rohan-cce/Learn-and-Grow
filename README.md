@@ -1,9 +1,26 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 560 Days (09/12/2020 to 21/06/2022)
+Learning Progress Till Now -> 561 Days (09/12/2020 to 22/06/2022)
 
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 551 - 600 ~ June 12, 2022 -  August 01, 2022</summary><p>
+<details><summary><u>Day 561 - Day 570 ~ June 22, 2022 -  July 01, 2022</u></summary>
+<details><summary><u>Day 561</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d551e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d551ls1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d551chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d551chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d551chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d551chs5.jpg)
+- 🤨[Case study ~ "How USA uses the EVIL WAR strategy to Manipulate the World? : US War Business strategy exposed"](https://www.youtube.com/watch?v=BIn1AzZsQUU)
+- 👂🏻 [Watched a Youtube video ~ "Close to half a million people displaced as Rainstorms, floods batter Southern China | English News"](https://www.youtube.com/watch?v=Lm5oOTh8VBY)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - The Indian Toy Story"](https://finshots.in/archive/the-indian-toy-story/)
+- 💰📈 [Financial education ~ "Gravitas: Singapore announces $1.1 bn inflation relief package"](https://www.youtube.com/watch?v=uIu1Gkbn5zs)
+
+</p></details>
+</p></details>
 <details><summary><u>Day 551 - Day 560 ~ June 12, 2022 -  June 21, 2022</u></summary>
 <details><summary><u>Day 560</u></summary><p>
 
