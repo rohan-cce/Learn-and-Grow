@@ -1,8 +1,23 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 561 Days (09/12/2020 to 22/06/2022)
+Learning Progress Till Now -> 562 Days (09/12/2020 to 23/06/2022)
 
 <details><summary>Day 551 - 600 ~ June 12, 2022 -  August 01, 2022</summary><p>
 <details><summary><u>Day 561 - Day 570 ~ June 22, 2022 -  July 01, 2022</u></summary>
+<details><summary><u>Day 562</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d552e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d552ls1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d552chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d552chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d552chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d552chs5.jpg)
+- 🤨[Case study ~ "What Happens If You Fall Off A Cruise Ship?"](https://www.youtube.com/watch?v=skAKL-zM3-Y)
+- 👂🏻 [Watched a Youtube video ~ "South Korean won falls the most for first time in 13 years | World Business Watch | WION"](https://www.youtube.com/watch?v=1S9V7OwVl-4)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - RBI sets the cat among the BNPL pigeons"](https://finshots.in/archive/rbi-sets-the-cat-among-the-bnpl-pigeons/)
+- 💰📈 [Financial education ~ "what is Wedding Insurance"](https://www.youtube.com/watch?v=__xeOwvT6vI)
+
+</p></details>
 <details><summary><u>Day 561</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d551e1.jpg)
