@@ -1,8 +1,23 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 562 Days (09/12/2020 to 23/06/2022)
+Learning Progress Till Now -> 563 Days (09/12/2020 to 24/06/2022)
 
 <details><summary>Day 551 - 600 ~ June 12, 2022 -  August 01, 2022</summary><p>
 <details><summary><u>Day 561 - Day 570 ~ June 22, 2022 -  July 01, 2022</u></summary>
+<details><summary><u>Day 563</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d553e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d553ls1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d553chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d553chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d553chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d553chs5.jpg)
+- 🤨[Case study ~ "How AGNIPATH will Change the FORTUNES of Indian Armed Forces? : AGNIPATH SCHEME Explained"](https://youtu.be/LJGb2qCNyzM)
+- 👂🏻 [Watched a Youtube video ~ "Toyota recalls first mass-produced EVs less than two months after launch | International News | WION"](https://www.youtube.com/watch?v=yxGIJLRdzYw)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Is EY breaking up?"](https://finshots.in/archive/why-is-ey-breaking-up/)
+- 💰📈 [Financial education ~ "Gravitas: Russian Rouble surges as Asian currencies slide"](https://www.youtube.com/watch?v=2K5ouePNkzE)
+
+</p></details>
 <details><summary><u>Day 562</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d552e1.jpg)
