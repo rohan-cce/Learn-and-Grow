@@ -1,8 +1,23 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 563 Days (09/12/2020 to 24/06/2022)
+Learning Progress Till Now -> 564 Days (09/12/2020 to 25/06/2022)
 
 <details><summary>Day 551 - 600 ~ June 12, 2022 -  August 01, 2022</summary><p>
 <details><summary><u>Day 561 - Day 570 ~ June 22, 2022 -  July 01, 2022</u></summary>
+<details><summary><u>Day 564</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d554e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d554ls1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d554chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d554chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d554chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d554chs5.jpg)
+- 🤨[Case study ~ "Italy's longest river, the Po, is drying up as climate change is affecting Italy's major rivers"](https://www.youtube.com/watch?v=5NVJCAm5Iq8)
+- 👂🏻 [Watched a Youtube video ~ "'India's energy security...': Modi govt won't succumb to G7 pressure on Russian oil imports"](https://www.youtube.com/watch?v=HbSb69FOt1I)
+- 💰📈 [Finshots (financial news) ~ "MARKETS - Can Underwear and T-shirts predict a recession?"](https://finshots.in/markets/can-underwear-and-t-shirts-predict-a-recession/)
+- 💰📈 [Financial education ~ "Exploring Investment Opportunities in India in 2022"](https://www.youtube.com/watch?v=8aUE171gzIA)
+
+</p></details>
 <details><summary><u>Day 563</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d553e1.jpg)
