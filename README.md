@@ -5,6 +5,21 @@ Learning Progress Till Now -> 564 Days (09/12/2020 to 25/06/2022)
 
 <details><summary>Day 551 - 600 ~ June 12, 2022 -  August 01, 2022</summary><p>
 <details><summary><u>Day 561 - Day 570 ~ June 22, 2022 -  July 01, 2022</u></summary>
+<details><summary><u>Day 565</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d555e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d555ls1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d555chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d555chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d555chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d555chs5.jpg)
+- 🤨[Case study ~ "Gravitas Plus: Why are women being denied the Right to abortion?"](https://www.youtube.com/watch?v=5ojQL0La1ao)
+- 👂🏻 [Watched a Youtube video ~ "India: Jammu and Kashmir to host first International summit | World News | English News | WION"](https://www.youtube.com/watch?v=y_XW2ZC5GGw)
+- 💰📈 [Finshots (financial news) ~ "INFOGRAPHIC - L&T revenue breakdown"](https://finshots.in/infographic/l-t-revenue-breakdown/)
+- 💰📈 [Financial education ~ "The $4BN Upgrade of the World’s Weirdest Airport"](https://www.youtube.com/watch?v=oOYqnZ9xNvc)
+
+</p></details>
 <details><summary><u>Day 564</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d554e1.jpg)
