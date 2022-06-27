@@ -1,8 +1,23 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 565 Days (09/12/2020 to 26/06/2022)
+Learning Progress Till Now -> 566 Days (09/12/2020 to 27/06/2022)
 
 <details><summary>Day 551 - 600 ~ June 12, 2022 -  August 01, 2022</summary><p>
 <details><summary><u>Day 561 - Day 570 ~ June 22, 2022 -  July 01, 2022</u></summary>
+<details><summary><u>Day 566</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d556e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d556ls1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d556chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d556chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d556chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d556chs5.jpg)
+- 🤨[Case study ~ "Why is OLA's BUSINESS MODEL Failing MISERABLY in India? : Business case study"](https://www.youtube.com/watch?v=LYs4b3fTX7Y)
+- 👂🏻 [Watched a Youtube video ~ "Hundreds of protesters gather outside G7 venue to demand climate protection | World News | WION"](https://www.youtube.com/watch?v=rcGx2tIPzuM)
+- 💰📈 [Finshots (financial news) ~ "POLICY - An explainer on the twin deficit warning"](https://finshots.in/archive/an-explainer-on-the-twin-deficit-warning/)
+- 💰📈 [Financial education ~ "G7 unveils global infra project, aims to raise $600 billion to counter China's Belt and Road | WION"](https://www.youtube.com/watch?v=JRbYMG7cHRM)
+
+</p></details>
 <details><summary><u>Day 565</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d555e1.jpg)
