@@ -1,10 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 566 Days (09/12/2020 to 27/06/2022)
+Learning Progress Till Now -> 567 Days (09/12/2020 to 28/06/2022)
 
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 551 - 600 ~ June 12, 2022 -  August 01, 2022</summary><p>
 <details><summary><u>Day 561 - Day 570 ~ June 22, 2022 -  July 01, 2022</u></summary>
+<details><summary><u>Day 567</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d557e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d557ls1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d557chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d557chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d557chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d557chs5.jpg)
+- 🤨[Case study ~ "Why Moroccan Zellige Tiles Are So Expensive | So Expensive | Business Insider"](https://www.youtube.com/watch?v=R4D1hvNo_sY)
+- 👂🏻 [Watched a Youtube video ~ "Lufthansa A380 to make a comeback from summer 2030 | World Business Watch | English News"](https://www.youtube.com/watch?v=SfBRt9RNaBU)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Are Indian cars getting a safety makeover?"](https://finshots.in/archive/are-indian-cars-getting-a-safety-makeover/)
+- 💰📈 [Financial education ~ "European trade positive after a lift in Asia sentiment | Latest English News | World News | WION"](https://www.youtube.com/watch?v=fhsFHEAMNGc)
+
+</p></details>
 <details><summary><u>Day 566</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d556e1.jpg)
