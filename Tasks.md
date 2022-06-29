@@ -1,8 +1,23 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 567 Days (09/12/2020 to 28/06/2022)
+Learning Progress Till Now -> 568 Days (09/12/2020 to 29/06/2022)
 
 <details><summary>Day 551 - 600 ~ June 12, 2022 -  August 01, 2022</summary><p>
 <details><summary><u>Day 561 - Day 570 ~ June 22, 2022 -  July 01, 2022</u></summary>
+<details><summary><u>Day 568</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d558e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d558ls1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d558chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d558chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d558chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d558chs5.jpg)
+- 🤨[Case study ~ "How MARICO's Saffola beat ITC & Hindustan Unilever in EDIBLE OIL WAR in India?: Business Case study"](https://www.youtube.com/watch?v=S5x54ZlNHX0)
+- 👂🏻 [Watched a Youtube video ~ "Gravitas: NATO puts 300,000 troops on high alert"](https://www.youtube.com/watch?v=m9lDsszOSFE)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - The litmus test for GST"](https://finshots.in/archive/the-litmus-test-for-gst/)
+- 💰📈 [Financial education ~ "Exit of Coke from India #LLAShorts 299"](https://www.youtube.com/shorts/EZ-C6hsLxrE)
+
+</p></details>
 <details><summary><u>Day 567</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d557e1.jpg)
