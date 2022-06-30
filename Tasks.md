@@ -1,8 +1,23 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 568 Days (09/12/2020 to 29/06/2022)
+Learning Progress Till Now -> 569 Days (09/12/2020 to 30/06/2022)
 
 <details><summary>Day 551 - 600 ~ June 12, 2022 -  August 01, 2022</summary><p>
 <details><summary><u>Day 561 - Day 570 ~ June 22, 2022 -  July 01, 2022</u></summary>
+<details><summary><u>Day 569</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d559e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d559ls1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d559chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d559chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d559chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d559chs5.jpg)
+- 🤨[Case study ~ "The $37BN Road That's Changing a Country"](https://www.youtube.com/watch?v=MPK8N8PUwrM)
+- 👂🏻 [Watched a Youtube video ~ "Kenya's Mangrove cover recovers | Mikiko Pamoja Group plants seedlings to boost ecosystem | WION"](https://www.youtube.com/watch?v=2A4S35E-mg/U)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Tata Group’s attempt to capture CO2"](https://finshots.in/archive/tata-groups-attempt-to-capture-co2/)
+- 💰📈 [Financial education ~ "Indian food Jugaad"](https://www.youtube.com/shorts/0tRme4HR3Ic)
+
+</p></details>
 <details><summary><u>Day 568</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d558e1.jpg)
