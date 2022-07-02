@@ -1,7 +1,24 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 570 Days (09/12/2020 to 01/07/2022)
+Learning Progress Till Now -> 571 Days (09/12/2020 to 02/07/2022)
 
 <details><summary>Day 551 - 600 ~ June 12, 2022 -  August 01, 2022</summary><p>
+<details><summary><u>Day 571 - Day 580 ~ July 02, 2022 - July 11, 2022 </u></summary>
+<details><summary><u>Day 571</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d561e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d561ls1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d561chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d561chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d561chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d561chs5.jpg)
+- 🤨[Case study ~ "How JAPAN's SECRET STRATEGY made it SUPER RICH even after USA's Nuclear Attack? | Lessons for India"](https://www.youtube.com/watch?v=9SmS3qLe00k)
+- 👂🏻 [Watched a Youtube video ~ "WION Wideangle | Food: A weapon of war?"](https://www.youtube.com/watch?v=3587s3E19RY)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - The debate on bank privatization"](https://finshots.in/archive/the-debate-on-bank-privatisation/)
+- 💰📈 [Financial education ~ "bait and switch"](https://www.youtube.com/shorts/SnfnIzvKPms)
+
+</p></details>
+</p></details>
 <details><summary><u>Day 561 - Day 570 ~ June 22, 2022 -  July 01, 2022</u></summary>
 <details><summary><u>Day 570</u></summary><p>
 
