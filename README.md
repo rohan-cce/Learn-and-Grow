@@ -1,10 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 571 Days (09/12/2020 to 02/07/2022)
+Learning Progress Till Now -> 572 Days (09/12/2020 to 03/07/2022)
 
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 551 - 600 ~ June 12, 2022 -  August 01, 2022</summary><p>
 <details><summary><u>Day 571 - Day 580 ~ July 02, 2022 - July 11, 2022 </u></summary>
+<details><summary><u>Day 572</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d562e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d562ls1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d562chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d562chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d562chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d562chs5.jpg)
+- 🤨[Case study ~ "Why is Sachin Bansal Taking Navi Public?"](https://www.youtube.com/watch?v=oQl4gr1T6GY)
+- 👂🏻 [Watched a Youtube video ~ "WION Fineprint | Soil pollution causing heart ailments?"](https://www.youtube.com/watch?v=Rv2sHOrXZcc)
+- 💰📈 [Finshots (financial news) ~ "MARKETS - The curious case of Brightcom Group"](https://finshots.in/markets/the-curious-case-of-brightcom-group/)
+- 💰📈 [Financial education ~ "WION Fineprint | Crash in stock markets: Worst half year for billionaires"](https://www.youtube.com/watch?v=CrvRv9qMdfo)
+
+</p></details>
 <details><summary><u>Day 571</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d561e1.jpg)
