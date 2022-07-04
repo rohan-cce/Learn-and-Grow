@@ -1,10 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 572 Days (09/12/2020 to 03/07/2022)
+Learning Progress Till Now -> 573 Days (09/12/2020 to 04/07/2022)
 
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 551 - 600 ~ June 12, 2022 -  August 01, 2022</summary><p>
 <details><summary><u>Day 571 - Day 580 ~ July 02, 2022 - July 11, 2022 </u></summary>
+<details><summary><u>Day 573</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d563e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d563ls1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d563chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d563chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d563chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d563chs5.jpg)
+- 🤨[Case study ~ "Gravitas Plus: How inflation can change our world"](https://www.youtube.com/watch?v=9Hy4YQKK-4s)
+- 👂🏻 [Watched a Youtube video ~ "Unilever sells Ben & Jerry’s ice cream business in Israel | Move to defuse a diplomatic row | WION"](https://www.youtube.com/watch?v=T6P_e_Tigl4)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Google’s love affair with Airtel and Jio"](https://finshots.in/archive/googles-love-affair-with-airtel-and-jio/)
+- 💰📈 [Financial education ~ "Explainer: ZERO taxes in India? [Why an i-Phone costs MORE here...]"](https://www.youtube.com/watch?v=D_XV8HVrVbc)
+
+</p></details>
 <details><summary><u>Day 572</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d562e1.jpg)
