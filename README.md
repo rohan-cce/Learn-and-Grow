@@ -1,10 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 573 Days (09/12/2020 to 04/07/2022)
+Learning Progress Till Now -> 574 Days (09/12/2020 to 05/07/2022)
 
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 551 - 600 ~ June 12, 2022 -  August 01, 2022</summary><p>
 <details><summary><u>Day 571 - Day 580 ~ July 02, 2022 - July 11, 2022 </u></summary>
+<details><summary><u>Day 574</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d564e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d564ls1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d564chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d564chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d564chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d564chs5.jpg)
+- 🤨[Case study ~ "Astronauts lose bone while in space, new study reveals | WION Originals | World News"](https://www.youtube.com/watch?v=tXW4n2OdfwM)
+- 👂🏻 [Watched a Youtube video ~ "Restaurants face staff shortage across Europe | Hotels hire people without resumes"](https://www.youtube.com/watch?v=JNljmFURA5k)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Taxing the influencer economy"](https://finshots.in/archive/taxing-the-influencer-economy/)
+- 💰📈 [Financial education ~ "Coffee Can Investing EXPLAINED!"](https://www.youtube.com/watch?v=jKsTAEqpgGA)
+
+</p></details>
 <details><summary><u>Day 573</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d563e1.jpg)
