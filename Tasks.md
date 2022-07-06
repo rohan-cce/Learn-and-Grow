@@ -1,8 +1,23 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 575 Days (09/12/2020 to 06/07/2022)
+Learning Progress Till Now -> 576 Days (09/12/2020 to 07/07/2022)
 
 <details><summary>Day 551 - 600 ~ June 12, 2022 -  August 01, 2022</summary><p>
 <details><summary><u>Day 571 - Day 580 ~ July 02, 2022 - July 11, 2022 </u></summary>
+<details><summary><u>Day 576</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d566e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d566ls1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d566chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d566chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d566chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d566chs5.jpg)
+- 🤨[Case study ~ "WION Climate Tracker | Global warming causing more lightning strikes | WION"](https://www.youtube.com/watch?v=r_BCH3tkYDc)
+- 👂🏻 [Watched a Youtube video ~ "Russia's invasion displace millions"](https://www.youtube.com/watch?v=i3F4sP2AOnY)
+- 💰📈 [Finshots (financial news) ~ "ECONOMY - The third gender and the economy"](https://finshots.in/archive/the-third-gender-and-the-economy/)
+- 💰📈 [Financial education ~ "Global recession fears loom large, major economies heading into recession? | World News | WION"](https://www.youtube.com/watch?v=6N9_0TKfO7o)
+
+</p></details>
 <details><summary><u>Day 575</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d565e1.jpg)
