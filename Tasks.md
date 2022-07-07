@@ -1,5 +1,5 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 577 Days (09/12/2020 to 08/07/2022)
+Learning Progress Till Now -> 578 Days (09/12/2020 to 09/07/2022)
 
 <details><summary>Day 551 - 600 ~ June 12, 2022 -  August 01, 2022</summary><p>
 <details><summary><u>Day 571 - Day 580 ~ July 02, 2022 - July 11, 2022 </u></summary>
