@@ -1,8 +1,23 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 576 Days (09/12/2020 to 07/07/2022)
+Learning Progress Till Now -> 577 Days (09/12/2020 to 08/07/2022)
 
 <details><summary>Day 551 - 600 ~ June 12, 2022 -  August 01, 2022</summary><p>
 <details><summary><u>Day 571 - Day 580 ~ July 02, 2022 - July 11, 2022 </u></summary>
+<details><summary><u>Day 577</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d567e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d567ls1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d567chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d567chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d567chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d567chs5.jpg)
+- 🤨[Case study ~ "Gyrocompass: How Ships Navigate Using The Earth's Rotation"](https://www.youtube.com/watch?v=xfnn4HXCy8I)
+- 👂🏻 [Watched a Youtube video ~ "CERN scientists discover 3 new exotic sub-atomic particles. Why is this significant? | Tech in Trend"](https://www.youtube.com/watch?v=bVH8yCYAvMQ)
+- 💰📈 [Finshots (financial news) ~ "BUSINESS - Why is India trying to decarbonize steel?"](https://finshots.in/archive/why-is-india-trying-to-decarbonize-steel/)
+- 💰📈 [Financial education ~ "Fundamental Analysis of IEX - Indian Energy Exchange"](https://www.youtube.com/watch?v=-NUx6FkXu8Q)
+
+</p></details>
 <details><summary><u>Day 576</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d566e1.jpg)
