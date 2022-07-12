@@ -1,7 +1,25 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 580 Days (09/12/2020 to 11/07/2022)
+Learning Progress Till Now -> 581 Days (09/12/2020 to 12/07/2022)
 
 <details><summary>Day 551 - 600 ~ June 12, 2022 -  August 01, 2022</summary><p>
+<details><summary><u>Day 581 - Day 590 ~ July 12, 2022 - July 21, 2022 </u></summary>
+<details><summary><u>Day 581</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d571e1.jpg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/lumosity/From%20day%20481/d571ls1.jpg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d571chs1.jpg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d571chs2.jpg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d571chs3.jpg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d571chs5.jpg)
+- 🤨[Case study ~ "Dark side of clean energy: Solar panels leaving behind toxic trash"](https://www.youtube.com/watch?v=v2gzTI9rkgc)
+- 👂🏻 [Watched a Youtube video ~ "Leaked Uber documents reveal 'illegal tactics' to flout rules, dominate market"](https://www.youtube.com/watch?v=BvRUu5eOf98)
+- 💰📈 [Finshots (financial news) ~ "POLICY - An explainer on the Payment Aggregator business"](https://finshots.in/archive/an-explainer-on-the-payment-aggregator-business/)
+- 💰📈 [Financial education ~ "Learn Diversification"](https://www.youtube.com/shorts/2CDDRlVg1H8)
+
+</p></details>
+</p></details>
+
 <details><summary><u>Day 571 - Day 580 ~ July 02, 2022 - July 11, 2022 </u></summary>
 <details><summary><u>Day 580</u></summary><p>
 
