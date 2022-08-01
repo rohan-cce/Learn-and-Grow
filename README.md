@@ -1,5 +1,5 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 601 Days (09/12/2020 to 01/08/2022)
+Learning Progress Till Now -> 602 Days (09/12/2020 to 02/08/2022)
 
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
