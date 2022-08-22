@@ -1,5 +1,5 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 621 Days (09/12/2020 to 21/08/2022)
+Learning Progress Till Now -> 622 Days (09/12/2020 to 22/08/2022)
 
 <details><summary>Day 601 - 650 ~  August 01, 2022 - September 20, 2022</summary><p>
 <details><summary><u>Day 621 - Day 630 ~ August 21, 2022 - August 30, 2022 </u></summary>
