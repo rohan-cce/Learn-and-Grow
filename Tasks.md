@@ -1,8 +1,19 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 629 Days (09/12/2020 to 29/08/2022)
+Learning Progress Till Now -> 630 Days (09/12/2020 to 30/08/2022)
 
 <details><summary>Day 601 - 650 ~  August 01, 2022 - September 20, 2022</summary><p>
 <details><summary><u>Day 621 - Day 630 ~ August 21, 2022 - August 30, 2022 </u></summary>
+<details><summary><u>Day 630</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d620e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials1images/lumosity/From%20day%20481/d620ls1.jpeg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d620chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d620chs2.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d620chs3.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d620chs5.jpeg)
+
+</p></details>
 <details><summary><u>Day 629</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d619e1.jpg)
