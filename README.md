@@ -1,10 +1,21 @@
 # Learn-and-Grow
-Learning Progress Till Now -> 638 Days (09/12/2020 to 07/09/2022)
+Learning Progress Till Now -> 639 Days (09/12/2020 to 08/09/2022)
 
 ## [Click Here to View Full Task Progress](https://github.com/rohan-cce/Learn-and-Grow/blob/main/Tasks.md) 
 
 <details><summary>Day 601 - 650 ~  August 01, 202Ì2 - September 20, 2022</summary><p>
 <details><summary><u>Day 631 - Day 640 ~ August 31, 2022 - September 09, 2022 </u></summary>
+<details><summary><u>Day 639</u></summary><p>
+
+- ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d629e1.jpeg)
+- ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials1images/lumosity/From%20day%20481/d629ls1.jpeg)
+- ✔️ Chess.com
+  - ✔️ [Solved Some Puzzles](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d629chs1.jpeg)
+  - ✔️ [Played Puzzle Rush](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d629chs2.jpeg)
+  - ✔️ [Solved Daily Puzzle](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d629chs3.jpeg)
+  - ✔️ [Played puzzle battle with random person](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d629chs5.jpeg)
+
+</p></details>
 <details><summary><u>Day 638</u></summary><p>
 
 - ✔️ [Completed Daily Workout Problem in Elevate](https://github.com/rohan-cce/Learn-and-Grow/blob/main/materials/images/chess.com/From%20day%20481/d628e1.jpeg)
